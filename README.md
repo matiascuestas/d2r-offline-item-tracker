@@ -6,6 +6,12 @@ It reads your local save files and shows, across all your characters and shared 
 
 > Single player / offline only. Nothing is uploaded anywhere — everything runs on your own machine and reads your own saves.
 
+## About this project
+
+Full disclosure: this was "vibecoded" in a few hours, for myself, to keep track of the items on my own single-player characters. It's not a polished product and it probably has rough edges.
+
+That said — if it's useful to you, great, use it freely! And if you'd like to improve it, fix something, or add features, **you're very welcome to contribute**. See [Contributing](#contributing) below.
+
 ## Features
 
 - Browsable catalog of **uniques, sets, bases, runewords, charms and jewels**.
@@ -83,6 +89,16 @@ This writes both a readable `*.json` and a `*.js` payload (so the page can be op
 - Item data: [`@blizzhackers/d2data`](https://www.npmjs.com/package/@blizzhackers/d2data) (MIT).
 - Save file parsing: [`@d2runewizard/d2s`](https://www.npmjs.com/package/@d2runewizard/d2s) (ISC).
 - External image fallback: [diablo2.io](https://diablo2.io/).
+
+## Contributing
+
+Contributions are welcome and appreciated. Since this started as a quick personal tool, there's plenty of room to improve it. Feel free to:
+
+- Open an **issue** to report a bug or suggest a feature.
+- Open a **pull request** with a fix or improvement.
+- Fork it and adapt it to your own needs.
+
+No strict process — keep it simple, describe what you changed, and that's it. Thanks for taking a look!
 
 ## License
 
