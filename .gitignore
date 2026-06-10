@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Local item sprites (extracted from the game — do NOT redistribute Blizzard assets)
+assets/items/*
+!assets/items/.gitkeep
+
+# Diablo II save files (personal data)
+*.d2s
+*.d2i
+
+# Environment / local config
+.env
+.env.local
+
+# OS / editor junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.log
+.vscode/
+.idea/

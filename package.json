@@ -1,0 +1,18 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Catalogo web local de items de Diablo II Resurrected",
+  "main": "scripts/generate-uniques.js",
+  "scripts": {
+    "generate": "node scripts/generate-uniques.js && node scripts/generate-sets.js && node scripts/generate-bases.js && node scripts/generate-runewords.js",
+    "import-images": "node scripts/import-images.js",
+    "start": "node scripts/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blizzhackers/d2data": "^3.2.92777",
+    "@d2runewizard/d2s": "^2.0.132"
+  }
+}

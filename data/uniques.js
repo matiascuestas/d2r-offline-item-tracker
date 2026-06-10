@@ -1,0 +1,34521 @@
+window.D2_UNIQUES = {
+  "generatedAt": "2026-06-09T23:51:39.037Z",
+  "source": "@blizzhackers/d2data 3.2.92777",
+  "section": "Unicos",
+  "count": 422,
+  "items": [
+    {
+      "id": 123,
+      "name": "Amulet of the Viper",
+      "baseName": "Amulet of the Viper",
+      "code": "vip",
+      "level": 0,
+      "requiredLevel": 0,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invvip.png",
+      "invfile": "invvip",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Mana"
+        },
+        {
+          "code": "res-pois",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +25%"
+        },
+        {
+          "code": "hp",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Life"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "amulet of the viper amulet vip amuletos +10 to mana poison resist +25% +10 to life"
+    },
+    {
+      "id": 346,
+      "name": "Darkfear",
+      "baseName": "Armet",
+      "code": "ulm",
+      "level": null,
+      "requiredLevel": null,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhlmu.png",
+      "invfile": "invhlmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "105-149",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 109,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [],
+      "hasVariableStats": false,
+      "search": "darkfear armet ulm cascos "
+    },
+    {
+      "id": 126,
+      "name": "Hell Forge Hammer",
+      "baseName": "Hellforge Hammer",
+      "code": "hfh",
+      "level": 0,
+      "requiredLevel": 0,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invhfh.png",
+      "invfile": "invhfh",
+      "baseStats": {
+        "oneHandDamage": "6-15",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "fire-min",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Maximum Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +40%"
+        },
+        {
+          "code": "ac",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "hell forge hammer hammer hfh mazas y martillos +5 to minimum fire damage +20 to maximum fire damage fire resist +40% +35 defense"
+    },
+    {
+      "id": 125,
+      "name": "Horadric Staff",
+      "baseName": "Horadric Staff",
+      "code": "hst",
+      "level": 0,
+      "requiredLevel": 0,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invhst.png",
+      "invfile": "invhst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "12-20",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 30,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Mana"
+        },
+        {
+          "code": "res-pois",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +25%"
+        },
+        {
+          "code": "hp",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Life"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "swing3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "horadric staff staff hst bastones +10 to mana poison resist +25% +10 to life all resistances +10 +50% increased attack speed"
+    },
+    {
+      "id": 127,
+      "name": "KhalimFlail",
+      "baseName": "Khalim's Flail",
+      "code": "qf1",
+      "level": 0,
+      "requiredLevel": 0,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Especial",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invqf1.png",
+      "invfile": "invqf1",
+      "baseStats": {
+        "oneHandDamage": "1-15",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 41,
+        "requiredDexterity": 35,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "ltng-max",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Maximum Lightning Damage"
+        },
+        {
+          "code": "swing3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "att",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Attack Rating"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "khalimflail flail qf1 mazas y martillos +1 to minimum lightning damage +20 to maximum lightning damage +50% increased attack speed +40 to attack rating"
+    },
+    {
+      "id": 124,
+      "name": "Staff of Kings",
+      "baseName": "Staff of Kings",
+      "code": "msf",
+      "level": 0,
+      "requiredLevel": 0,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invmsf.png",
+      "invfile": "invmsf",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-15",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 45,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "swing3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "staff of kings staff msf bastones all resistances +10 +50% increased attack speed"
+    },
+    {
+      "id": 128,
+      "name": "SuperKhalimFlail",
+      "baseName": "Khalim's Will",
+      "code": "qf2",
+      "level": 0,
+      "requiredLevel": 0,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Especial",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invqf2.png",
+      "invfile": "invqf2",
+      "baseStats": {
+        "oneHandDamage": "1-15",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "ltng-max",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Maximum Lightning Damage"
+        },
+        {
+          "code": "swing3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "att",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Attack Rating"
+        },
+        {
+          "code": "manasteal",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "6% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "6% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "superkhalimflail flail qf2 mazas y martillos +1 to minimum lightning damage +40 to maximum lightning damage +50% increased attack speed +40 to attack rating 6% mana stolen per hit 6% life stolen per hit"
+    },
+    {
+      "id": 94,
+      "name": "Pelta Lunata",
+      "baseName": "Buckler",
+      "code": "buc",
+      "level": 3,
+      "requiredLevel": 2,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbucu.png",
+      "invfile": "invbucu",
+      "baseStats": {
+        "oneHandDamage": "1-3",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "4-6",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 12,
+        "requiredDexterity": 0,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Vitality"
+        },
+        {
+          "code": "str",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Strength"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+30-40% Enhanced Defense"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        },
+        {
+          "code": "block2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Faster Block Rate"
+        },
+        {
+          "code": "dur",
+          "min": 8,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "Durability: 8-12 of 8-12"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "pelta lunata buckler buc escudos +30 defense +10 to vitality +2 to strength +10 to energy +30-40% enhanced defense 20% increased chance of blocking +40% faster block rate durability: 8-12 of 8-12"
+    },
+    {
+      "id": 25,
+      "name": "Rixots Keen",
+      "baseName": "Short Sword",
+      "code": "ssd",
+      "level": 3,
+      "requiredLevel": 2,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invssd.png",
+      "invfile": "invssd",
+      "baseStats": {
+        "oneHandDamage": "2-7",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg-min",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Minimum Damage"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Bonus to Attack Rating"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Defense"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "rixots keen short sword ssd espadas +5 to minimum damage 20% bonus to attack rating +2 to light radius 25% chance of crushing blow +25 defense +100% enhanced damage"
+    },
+    {
+      "id": 14,
+      "name": "Felloak",
+      "baseName": "Club",
+      "code": "clb",
+      "level": 4,
+      "requiredLevel": 3,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invclbu.png",
+      "invfile": "invclbu",
+      "baseStats": {
+        "oneHandDamage": "1-6",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": -10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "res-ltng",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +60%"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +20%"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "fire-min",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "+6 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Maximum Fire Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "felloak club clb mazas y martillos lightning resist +60% fire resist +20% knockback +6 to minimum fire damage +8 to maximum fire damage +70-80% enhanced damage"
+    },
+    {
+      "id": 71,
+      "name": "War Bonnet",
+      "baseName": "Cap",
+      "code": "cap",
+      "level": 4,
+      "requiredLevel": 3,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invcapu.png",
+      "invfile": "invcapu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "3-5",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "hp",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Life"
+        },
+        {
+          "code": "att",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Enhanced Damage"
+        },
+        {
+          "code": "mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Mana"
+        },
+        {
+          "code": "ac",
+          "min": 14,
+          "max": 14,
+          "param": null,
+          "variable": false,
+          "text": "+14 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "war bonnet cap cap cascos +15 to life +30 to attack rating +30% enhanced damage +15 to mana +14 defense"
+    },
+    {
+      "id": 39,
+      "name": "Gull",
+      "baseName": "Dagger",
+      "code": "dgr",
+      "level": 6,
+      "requiredLevel": 4,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invdgr.png",
+      "invfile": "invdgr",
+      "baseStats": {
+        "oneHandDamage": "1-4",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 16,
+        "speed": -20,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "dmg-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Damage"
+        },
+        {
+          "code": "dmg-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Maximum Damage"
+        },
+        {
+          "code": "mag%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "mana",
+          "min": -5,
+          "max": -5,
+          "param": null,
+          "variable": false,
+          "text": "+-5 to Mana"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "gull dagger dgr dagas +1 to minimum damage +15 to maximum damage 100% better chance of getting magic items +-5 to mana"
+    },
+    {
+      "id": 54,
+      "name": "Bane Ash",
+      "baseName": "Short Staff",
+      "code": "sst",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "1-5",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": -10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "fire-min",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "+6 to Maximum Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +50%"
+        },
+        {
+          "code": "mana",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Mana"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 5,
+          "max": 5,
+          "param": 36,
+          "variable": false,
+          "text": "+5 to [Skill] ([Class] only) (36)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 37,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (37)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bane ash short staff sst bastones +4 to minimum fire damage +6 to maximum fire damage fire resist +50% +30 to mana +20% increased attack speed +50-60% enhanced damage +5 to [skill] ([class] only) (36) +2 to [skill] ([class] only) (37)"
+    },
+    {
+      "id": 107,
+      "name": "Hotspur",
+      "baseName": "Boots",
+      "code": "lbt",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invlbt.png",
+      "invfile": "invlbt",
+      "baseStats": {
+        "oneHandDamage": "3-8",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "2-3",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "res-fire-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Fire Resist"
+        },
+        {
+          "code": "hp",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Life"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "Adds 3-6-3-6 Fire Damage"
+        },
+        {
+          "code": "ac",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "+6 Defense"
+        },
+        {
+          "code": "res-fire",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +45%"
+        },
+        {
+          "code": "ac%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hotspur leather boots lbt botas +15% to maximum fire resist +15 to life adds 3-6-3-6 fire damage +6 defense fire resist +45% +10-20% enhanced defense"
+    },
+    {
+      "id": 10,
+      "name": "Iros Torch",
+      "baseName": "Wand",
+      "code": "wnd",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invwndu.png",
+      "invfile": "invwndu",
+      "baseStats": {
+        "oneHandDamage": "2-4",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "nec",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Necromancer Skill Levels"
+        },
+        {
+          "code": "lifesteal",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "6% Life stolen per hit"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "Adds 5-9-5-9 Fire Damage"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "regen-mana",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 5%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "iros torch wand wnd varitas +1 to necromancer skill levels 6% life stolen per hit adds 5-9-5-9 fire damage +3 to light radius +10 to energy regenerate mana 5%"
+    },
+    {
+      "id": 15,
+      "name": "Knell Striker",
+      "baseName": "Scepter",
+      "code": "scp",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscp.png",
+      "invfile": "invscp",
+      "baseStats": {
+        "oneHandDamage": "6-11",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +20%"
+        },
+        {
+          "code": "res-pois",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +20%"
+        },
+        {
+          "code": "mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Mana"
+        },
+        {
+          "code": "att",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "knell striker scepter scp cetros 25% chance of crushing blow fire resist +20% poison resist +20% +15 to mana +35 to attack rating +70-80% enhanced damage"
+    },
+    {
+      "id": 18,
+      "name": "Stoutnail",
+      "baseName": "Spiked Club",
+      "code": "spc",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invspcu.png",
+      "invfile": "invspcu",
+      "baseStats": {
+        "oneHandDamage": "5-8",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 36,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "thorns",
+          "min": 3,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "Attacker Takes Damage of 3-10"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "vit",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "+7 to Vitality"
+        },
+        {
+          "code": "red-mag",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 2"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stoutnail spiked club spc mazas y martillos attacker takes damage of 3-10 +100% enhanced damage +7 to vitality magic damage reduced by 2"
+    },
+    {
+      "id": 0,
+      "name": "The Gnasher",
+      "baseName": "Hand Axe",
+      "code": "hax",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invhaxu.png",
+      "invfile": "invhaxu",
+      "baseStats": {
+        "oneHandDamage": "3-6",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Strength"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        },
+        {
+          "code": "crush",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Chance of Crushing Blow"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "+60-70% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the gnasher hand axe hax hachas +8 to strength 50% chance of open wounds 20% chance of crushing blow +60-70% enhanced damage"
+    },
+    {
+      "id": 102,
+      "name": "The Hand of Broc",
+      "baseName": "Leather Gloves",
+      "code": "lgl",
+      "level": 7,
+      "requiredLevel": 5,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invlgl.png",
+      "invfile": "invlgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "2-3",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "3% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "3% Life stolen per hit"
+        },
+        {
+          "code": "res-pois",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +10%"
+        },
+        {
+          "code": "mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Mana"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the hand of broc gloves lgl guantes 3% mana stolen per hit 3% life stolen per hit poison resist +10% +20 to mana +10 defense +10-20% enhanced defense"
+    },
+    {
+      "id": 26,
+      "name": "Blood Crescent",
+      "baseName": "Scimitar",
+      "code": "scm",
+      "level": 10,
+      "requiredLevel": 7,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscmu.png",
+      "invfile": "invscmu",
+      "baseStats": {
+        "oneHandDamage": "2-6",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 22,
+        "speed": -20,
+        "requiredStrength": null,
+        "requiredDexterity": 21,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +15"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+60-80% Enhanced Damage"
+        },
+        {
+          "code": "hp",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Life"
+        },
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "openwounds",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Open Wounds"
+        },
+        {
+          "code": "swing2",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Increased Attack Speed"
+        },
+        {
+          "code": "lifesteal",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blood crescent scimitar scm espadas all resistances +15 +60-80% enhanced damage +15 to life +4 to light radius 33% chance of open wounds +15% increased attack speed 15% life stolen per hit"
+    },
+    {
+      "id": 79,
+      "name": "Greyform",
+      "baseName": "Quilted Armor",
+      "code": "qui",
+      "level": 10,
+      "requiredLevel": 7,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invqlt.png",
+      "invfile": "invqlt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "8-11",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 12,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "red-mag",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 3"
+        },
+        {
+          "code": "res-cold",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +20%"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +20%"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "ac",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "greyform quilted armor qui armaduras corporales magic damage reduced by 3 cold resist +20% fire resist +20% +10 to dexterity 5% life stolen per hit +20 defense"
+    },
+    {
+      "id": 112,
+      "name": "Lenyms Cord",
+      "baseName": "Sash",
+      "code": "lbl",
+      "level": 10,
+      "requiredLevel": 7,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invlbl.png",
+      "invfile": "invlbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "2",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Mana"
+        },
+        {
+          "code": "regen-mana",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 30%"
+        },
+        {
+          "code": "res-all",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +5"
+        },
+        {
+          "code": "light",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Light Radius"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "lenyms cord sash lbl cintos +15 to mana regenerate mana 30% all resistances +5 +1 to light radius"
+    },
+    {
+      "id": 120,
+      "name": "Nagelring",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 10,
+      "requiredLevel": 7,
+      "rarity": 15,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "red-mag",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 3"
+        },
+        {
+          "code": "thorns",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 3"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "+50-75 to Attack Rating"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "15-30% Better Chance of Getting Magic Items"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nagelring ring rin anillos magic damage reduced by 3 attacker takes damage of 3 +50-75 to attack rating 15-30% better chance of getting magic items"
+    },
+    {
+      "id": 59,
+      "name": "Pluckeye",
+      "baseName": "Short Bow",
+      "code": "sbw",
+      "level": 10,
+      "requiredLevel": 7,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invsbw.png",
+      "invfile": "invsbw",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "1-4",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": 5,
+        "requiredStrength": null,
+        "requiredDexterity": 15,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "att",
+          "min": 28,
+          "max": 28,
+          "param": null,
+          "variable": false,
+          "text": "+28 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "hp",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Life"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "manasteal",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "3% Mana stolen per hit"
+        },
+        {
+          "code": "mana-kill",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Mana after each Kill"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "pluckeye short bow sbw arcos +28 to attack rating +100% enhanced damage +10 to life +2 to light radius 3% mana stolen per hit +2 to mana after each kill"
+    },
+    {
+      "id": 48,
+      "name": "Dimoaks Hew",
+      "baseName": "Bardiche",
+      "code": "bar",
+      "level": 11,
+      "requiredLevel": 8,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invbar.png",
+      "invfile": "invbar",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "1-27",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 40,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "ac",
+          "min": -8,
+          "max": -8,
+          "param": null,
+          "variable": false,
+          "text": "+-8 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "dimoaks hew bardiche bar armas de asta +15 to dexterity +100% enhanced damage +20% increased attack speed +-8 defense"
+    },
+    {
+      "id": 5,
+      "name": "Fechmars Axe",
+      "baseName": "Large Axe",
+      "code": "lax",
+      "level": 11,
+      "requiredLevel": 8,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlax.png",
+      "invfile": "invlax",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-13",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 35,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 90,
+          "param": null,
+          "variable": true,
+          "text": "+70-90% Enhanced Damage"
+        },
+        {
+          "code": "freeze",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +3"
+        },
+        {
+          "code": "res-cold",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +50%"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "fechmars axe large axe lax hachas +70-90% enhanced damage freezes target +3 cold resist +50% +2 to light radius"
+    },
+    {
+      "id": 43,
+      "name": "The Dragon Chang",
+      "baseName": "Spear",
+      "code": "spr",
+      "level": 11,
+      "requiredLevel": 8,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invspr.png",
+      "invfile": "invspr",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "3-15",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": null,
+        "requiredDexterity": 20,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "att",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 to Attack Rating"
+        },
+        {
+          "code": "dmg-min",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Minimum Damage"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Damage to Undead"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "Adds 3-6-3-6 Fire Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the dragon chang spear spr lanzas +35 to attack rating +10 to minimum damage +2 to light radius +100% damage to undead adds 3-6-3-6 fire damage"
+    },
+    {
+      "id": 103,
+      "name": "Bloodfist",
+      "baseName": "Heavy Gloves",
+      "code": "vgl",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invvgl.png",
+      "invfile": "invvgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "5-6",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-min",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Minimum Damage"
+        },
+        {
+          "code": "hp",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Life"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Enhanced Defense"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodfist heavy gloves vgl guantes +5 to minimum damage +40 to life +30% faster hit recovery +10 defense +10-20% enhanced defense +10% increased attack speed"
+    },
+    {
+      "id": 19,
+      "name": "Crushflange",
+      "baseName": "Mace",
+      "code": "mac",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invmac.png",
+      "invfile": "invmac",
+      "baseStats": {
+        "oneHandDamage": "3-10",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": null,
+        "requiredStrength": 27,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "res-fire",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +50%"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Damage"
+        },
+        {
+          "code": "crush",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Crushing Blow"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crushflange mace mac mazas y martillos +15 to strength knockback +2 to light radius fire resist +50% +50-60% enhanced damage 33% chance of crushing blow"
+    },
+    {
+      "id": 1,
+      "name": "Deathspade",
+      "baseName": "Axe",
+      "code": "axe",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invaxeu.png",
+      "invfile": "invaxeu",
+      "baseStats": {
+        "oneHandDamage": "4-11",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": 10,
+        "requiredStrength": 32,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "dmg-min",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Minimum Damage"
+        },
+        {
+          "code": "att%",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Bonus to Attack Rating"
+        },
+        {
+          "code": "mana-kill",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Mana after each Kill"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "+60-70% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "deathspade axe axe hachas hit blinds target +1 +8 to minimum damage 15% bonus to attack rating +4 to mana after each kill +60-70% enhanced damage"
+    },
+    {
+      "id": 108,
+      "name": "Gorefoot",
+      "baseName": "Heavy Boots",
+      "code": "vbt",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invvbt.png",
+      "invfile": "invvbt",
+      "baseStats": {
+        "oneHandDamage": "4-10",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "5-6",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 18,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "bloody",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "Bloody: 3-5"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "manasteal",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "2% Mana stolen per hit"
+        },
+        {
+          "code": "thorns",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 2"
+        },
+        {
+          "code": "ac",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30% Enhanced Defense"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 132,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (132)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gorefoot heavy boots vbt botas bloody: 3-5 +20% faster run/walk 2% mana stolen per hit attacker takes damage of 2 +12 defense +20-30% enhanced defense +2 to [skill] ([class] only) (132)"
+    },
+    {
+      "id": 67,
+      "name": "Leadcrow",
+      "baseName": "Light Crossbow",
+      "code": "lxb",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlxbu.png",
+      "invfile": "invlxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-9",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 21,
+        "requiredDexterity": 27,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "hp",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Life"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 70,
+          "param": null,
+          "variable": false,
+          "text": "+70% Enhanced Damage"
+        },
+        {
+          "code": "res-pois",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +30%"
+        },
+        {
+          "code": "deadly",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Deadly Strike"
+        },
+        {
+          "code": "att",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Attack Rating"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "leadcrow light crossbow lxb ballestas +10 to dexterity +10 to life +70% enhanced damage poison resist +30% 25% deadly strike +40 to attack rating"
+    },
+    {
+      "id": 55,
+      "name": "Serpent Lord",
+      "baseName": "Long Staff",
+      "code": "lst",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invlst.png",
+      "invfile": "invlst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "2-8",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 40,
+          "max": 40,
+          "param": 75,
+          "variable": false,
+          "text": "Adds 40-40 Poison Damage Over 40 Seconds (75)"
+        },
+        {
+          "code": "res-pois",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +50%"
+        },
+        {
+          "code": "light",
+          "min": -1,
+          "max": -1,
+          "param": null,
+          "variable": false,
+          "text": "+-1 to Light Radius"
+        },
+        {
+          "code": "mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Mana"
+        },
+        {
+          "code": "dmg%",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+30-40% Enhanced Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Mana stolen per hit"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "-50% Target Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "serpent lord long staff lst bastones adds 40-40 poison damage over 40 seconds (75) poison resist +50% +-1 to light radius +10 to mana +30-40% enhanced damage 100% mana stolen per hit -50% target defense"
+    },
+    {
+      "id": 95,
+      "name": "Umbral Disk",
+      "baseName": "Small Shield",
+      "code": "sml",
+      "level": 12,
+      "requiredLevel": 9,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invsmlu.png",
+      "invfile": "invsmlu",
+      "baseStats": {
+        "oneHandDamage": "2-3",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "8-10",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 22,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "hp",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Life"
+        },
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+40-50% Enhanced Defense"
+        },
+        {
+          "code": "block",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Increased Chance of Blocking"
+        },
+        {
+          "code": "dur",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Durability: 10-15 of 10-15"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "umbral disk small shield sml escudos hit blinds target +1 +10 to dexterity +30 defense +20 to life +-2 to light radius +40-50% enhanced defense 30% increased chance of blocking durability: 10-15 of 10-15"
+    },
+    {
+      "id": 27,
+      "name": "Krintizs Skewer",
+      "baseName": "Saber",
+      "code": "sbr",
+      "level": 14,
+      "requiredLevel": 10,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/inv9sbu.png",
+      "invfile": "inv9sbu",
+      "baseStats": {
+        "oneHandDamage": "3-8",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": 25,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "manasteal",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "7% Mana stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Enhanced Damage"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 3,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "Adds 3-7-3-7 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "krintizs skewer saber sbr espadas ignore target's defense +10 to strength +10 to dexterity 7% mana stolen per hit +50% enhanced damage adds 3-7-3-7 damage"
+    },
+    {
+      "id": 117,
+      "name": "Nokozan Relic",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 14,
+      "requiredLevel": 10,
+      "rarity": 20,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "Adds 3-6-3-6 Fire Damage"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Fire Resist"
+        },
+        {
+          "code": "res-fire",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +50%"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nokozan relic amulet amu amuletos adds 3-6-3-6 fire damage +10% to maximum fire resist fire resist +50% +3 to light radius +20% faster hit recovery"
+    },
+    {
+      "id": 40,
+      "name": "The Diggler",
+      "baseName": "Dirk",
+      "code": "dir",
+      "level": 15,
+      "requiredLevel": 11,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invdir.png",
+      "invfile": "invdir",
+      "baseStats": {
+        "oneHandDamage": "3-9",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": 25,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Enhanced Damage"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "res-cold",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +25%"
+        },
+        {
+          "code": "res-fire",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +25%"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the diggler dirk dir dagas +10 to dexterity +50% enhanced damage +30% increased attack speed cold resist +25% fire resist +25% ignore target's defense"
+    },
+    {
+      "id": 80,
+      "name": "Blinkbats Form",
+      "baseName": "Leather Armor",
+      "code": "lea",
+      "level": 16,
+      "requiredLevel": 12,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlea.png",
+      "invfile": "invlea",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "14-17",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 15,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac-miss",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense vs. Missile"
+        },
+        {
+          "code": "move2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Run/Walk"
+        },
+        {
+          "code": "ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Defense"
+        },
+        {
+          "code": "fire-min",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "+6 to Maximum Fire Damage"
+        },
+        {
+          "code": "balance2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Faster Hit Recovery"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "blinkbats form leather armor lea armaduras corporales +50 defense vs. missile +10% faster run/walk +25 defense +3 to minimum fire damage +6 to maximum fire damage +40% faster hit recovery"
+    },
+    {
+      "id": 44,
+      "name": "Razortine",
+      "baseName": "Trident",
+      "code": "tri",
+      "level": 16,
+      "requiredLevel": 12,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invtriu.png",
+      "invfile": "invtriu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "9-15",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": null,
+        "requiredStrength": 38,
+        "requiredDexterity": 24,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "slow",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 25%"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "-50% Target Defense"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Dexterity"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+30-50% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "razortine trident tri lanzas slows target by 25% -50% target defense +15 to strength +8 to dexterity +30% increased attack speed +30-50% enhanced damage"
+    },
+    {
+      "id": 33,
+      "name": "Shadowfang",
+      "baseName": "Two-Handed Sword",
+      "code": "2hs",
+      "level": 16,
+      "requiredLevel": 12,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/inv2hsu.png",
+      "invfile": "inv2hsu",
+      "baseStats": {
+        "oneHandDamage": "2-9",
+        "twoHandDamage": "8-17",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": null,
+        "requiredStrength": 35,
+        "requiredDexterity": 27,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 9,
+          "max": 9,
+          "param": null,
+          "variable": false,
+          "text": "9% Mana stolen per hit"
+        },
+        {
+          "code": "res-cold",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +20%"
+        },
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 10,
+          "max": 30,
+          "param": 150,
+          "variable": true,
+          "text": "Adds 10-30-10-30 Cold Damage (150)"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "lifesteal",
+          "min": 9,
+          "max": 9,
+          "param": null,
+          "variable": false,
+          "text": "9% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "shadowfang 2-handed sword 2hs espadas 9% mana stolen per hit cold resist +20% +-2 to light radius adds 10-30-10-30 cold damage (150) +100% enhanced damage 9% life stolen per hit"
+    },
+    {
+      "id": 113,
+      "name": "Snakecord",
+      "baseName": "Light Belt",
+      "code": "vbl",
+      "level": 16,
+      "requiredLevel": 12,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invvbl.png",
+      "invfile": "invvbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "3",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 40,
+          "max": 40,
+          "param": 75,
+          "variable": false,
+          "text": "Adds 40-40 Poison Damage Over 40 Seconds (75)"
+        },
+        {
+          "code": "res-pois",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +25%"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30% Enhanced Defense"
+        },
+        {
+          "code": "regen",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +5"
+        },
+        {
+          "code": "res-pois-len",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Length Reduced by 50%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "snakecord light belt vbl cintos adds 40-40 poison damage over 40 seconds (75) poison resist +25% +10 defense +20-30% enhanced defense replenish life +5 poison length reduced by 50%"
+    },
+    {
+      "id": 28,
+      "name": "Gleamscythe",
+      "baseName": "Falchion",
+      "code": "flc",
+      "level": 18,
+      "requiredLevel": 13,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invflcu.png",
+      "invfile": "invflcu",
+      "baseStats": {
+        "oneHandDamage": "9-17",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": 20,
+        "requiredStrength": 33,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "mana",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Mana"
+        },
+        {
+          "code": "ac",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 Defense"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+60-100% Enhanced Damage"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 3,
+          "max": 5,
+          "param": 50,
+          "variable": true,
+          "text": "Adds 3-5-3-5 Cold Damage (50)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gleamscythe falchion flc espadas +3 to light radius +30 to mana +20 defense +20% increased attack speed +60-100% enhanced damage adds 3-5-3-5 cold damage (50)"
+    },
+    {
+      "id": 96,
+      "name": "Stormguild",
+      "baseName": "Large Shield",
+      "code": "lrg",
+      "level": 18,
+      "requiredLevel": 13,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlrgu.png",
+      "invfile": "invlrgu",
+      "baseStats": {
+        "oneHandDamage": "2-4",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "12-14",
+        "durability": 24,
+        "speed": 5,
+        "requiredStrength": 34,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "red-mag",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 1"
+        },
+        {
+          "code": "res-ltng",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +25%"
+        },
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-6-1-6 Lightning Damage"
+        },
+        {
+          "code": "ac%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Defense"
+        },
+        {
+          "code": "block",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Increased Chance of Blocking"
+        },
+        {
+          "code": "light-thorns",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 3"
+        },
+        {
+          "code": "dur",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Durability: 10-15 of 10-15"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormguild large shield lrg escudos magic damage reduced by 1 lightning resist +25% +30 defense adds 1-6-1-6 lightning damage +50-60% enhanced defense 30% increased chance of blocking attacker takes lightning damage of 3 durability: 10-15 of 10-15"
+    },
+    {
+      "id": 60,
+      "name": "Witherstring",
+      "baseName": "Hunter's Bow",
+      "code": "hbw",
+      "level": 18,
+      "requiredLevel": 13,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invhbw.png",
+      "invfile": "invhbw",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "2-6",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": -10,
+        "requiredStrength": null,
+        "requiredDexterity": 28,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Damage"
+        },
+        {
+          "code": "dmg-max",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Maximum Damage"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Attack Rating"
+        },
+        {
+          "code": "magicarrow",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Fires Magic Arrows"
+        },
+        {
+          "code": "dmg%",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+40-50% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "witherstring hunter\\92s bow hbw arcos +30% increased attack speed +1 to minimum damage +3 to maximum damage +50 to attack rating fires magic arrows +40-50% enhanced damage"
+    },
+    {
+      "id": 73,
+      "name": "Coif of Glory",
+      "baseName": "Helm",
+      "code": "hlm",
+      "level": 19,
+      "requiredLevel": 14,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhlmu.png",
+      "invfile": "invhlmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "15-18",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 26,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "light-thorns",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 7"
+        },
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "res-ltng",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +15%"
+        },
+        {
+          "code": "ac-miss",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 Defense vs. Missile"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "coif of glory helm hlm cascos attacker takes lightning damage of 7 hit blinds target +1 lightning resist +15% +100 defense vs. missile +10 defense"
+    },
+    {
+      "id": 83,
+      "name": "Darkglow",
+      "baseName": "Ring Mail",
+      "code": "rng",
+      "level": 19,
+      "requiredLevel": 14,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invrng.png",
+      "invfile": "invrng",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "45-48",
+        "durability": 26,
+        "speed": 5,
+        "requiredStrength": 36,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "att",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Attack Rating"
+        },
+        {
+          "code": "res-all-max",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Resist All Max: 5"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "ac-hth",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense vs. Melee"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "ac%",
+          "min": 70,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+70-100% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "darkglow ring mail rng armaduras corporales +20 to attack rating resist all max: 5 +3 to light radius +50 defense vs. melee all resistances +10 +70-100% enhanced defense"
+    },
+    {
+      "id": 6,
+      "name": "Goreshovel",
+      "baseName": "Broad Axe",
+      "code": "bax",
+      "level": 19,
+      "requiredLevel": 14,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbrx.png",
+      "invfile": "invbrx",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-18",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": null,
+        "requiredStrength": 48,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "str",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Strength"
+        },
+        {
+          "code": "openwounds",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "60% Chance of Open Wounds"
+        },
+        {
+          "code": "dmg%",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+40-50% Enhanced Damage"
+        },
+        {
+          "code": "dmg-max",
+          "min": 9,
+          "max": 9,
+          "param": null,
+          "variable": false,
+          "text": "+9 to Maximum Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "goreshovel broad axe bax hachas +30% increased attack speed +25 to strength 60% chance of open wounds +40-50% enhanced damage +9 to maximum damage"
+    },
+    {
+      "id": 11,
+      "name": "Maelstromwrath",
+      "baseName": "Yew Wand",
+      "code": "ywn",
+      "level": 19,
+      "requiredLevel": 14,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invywn.png",
+      "invfile": "invywn",
+      "baseStats": {
+        "oneHandDamage": "2-8",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": 10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "ltng-max",
+          "min": 9,
+          "max": 9,
+          "param": null,
+          "variable": false,
+          "text": "+9 to Maximum Lightning Damage"
+        },
+        {
+          "code": "res-ltng",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +40%"
+        },
+        {
+          "code": "mana",
+          "min": 13,
+          "max": 13,
+          "param": null,
+          "variable": false,
+          "text": "+13 to Mana"
+        },
+        {
+          "code": "cast2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": 74,
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (74)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": 77,
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (77)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": 66,
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (66)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": 76,
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (76)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "maelstromwrath yew wand ywn varitas +1 to minimum lightning damage +9 to maximum lightning damage lightning resist +40% +13 to mana +30% faster cast rate +1-3 to [skill] ([class] only) (74) +1-3 to [skill] ([class] only) (77) +1-3 to [skill] ([class] only) (66) +1-3 to [skill] ([class] only) (76)"
+    },
+    {
+      "id": 49,
+      "name": "Steelgoad",
+      "baseName": "Voulge",
+      "code": "vou",
+      "level": 19,
+      "requiredLevel": 14,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invvou.png",
+      "invfile": "invvou",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-21",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 50,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "howl",
+          "min": 96,
+          "max": 96,
+          "param": null,
+          "variable": false,
+          "text": "Hit Causes Monster to Flee 96%"
+        },
+        {
+          "code": "deadly",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Deadly Strike"
+        },
+        {
+          "code": "att",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Attack Rating"
+        },
+        {
+          "code": "res-all",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +5"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+60-80% Enhanced Damage"
+        },
+        {
+          "code": "dur",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Durability: 20-40 of 20-40"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steelgoad voulge vou armas de asta hit causes monster to flee 96% 30% deadly strike +30 to attack rating all resistances +5 +60-80% enhanced damage durability: 20-40 of 20-40"
+    },
+    {
+      "id": 81,
+      "name": "The Centurion",
+      "baseName": "Hard Leather Armor",
+      "code": "hla",
+      "level": 19,
+      "requiredLevel": 14,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invhla.png",
+      "invfile": "invhla",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "21-24",
+        "durability": 28,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Attack Rating"
+        },
+        {
+          "code": "red-dmg",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 2"
+        },
+        {
+          "code": "hp",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Life"
+        },
+        {
+          "code": "mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Mana"
+        },
+        {
+          "code": "stam",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Maximum Stamina"
+        },
+        {
+          "code": "regen",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +5"
+        },
+        {
+          "code": "stamdrain",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Slower Stamina Drain"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the centurion hard leather hla armaduras corporales +30 defense +50 to attack rating damage reduced by 2 +15 to life +15 to mana +15 maximum stamina replenish life +5 25% slower stamina drain"
+    },
+    {
+      "id": 2,
+      "name": "Bladebone",
+      "baseName": "Double Axe",
+      "code": "2ax",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv2ax.png",
+      "invfile": "inv2ax",
+      "baseStats": {
+        "oneHandDamage": "5-13",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": 10,
+        "requiredStrength": 43,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg-undead",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Damage to Undead"
+        },
+        {
+          "code": "att-undead",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Attack Rating against Undead"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "ac",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 Defense"
+        },
+        {
+          "code": "fire-min",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Maximum Fire Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+30-50% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bladebone double axe 2ax hachas +100% damage to undead +40 to attack rating against undead +20% increased attack speed +20 defense +8 to minimum fire damage +12 to maximum fire damage +30-50% enhanced damage"
+    },
+    {
+      "id": 20,
+      "name": "Bloodrise",
+      "baseName": "Morning Star",
+      "code": "mst",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invmstu.png",
+      "invfile": "invmstu",
+      "baseStats": {
+        "oneHandDamage": "7-16",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 72,
+        "speed": 10,
+        "requiredStrength": 36,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 120,
+          "max": 120,
+          "param": null,
+          "variable": false,
+          "text": "+120% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Bonus to Attack Rating"
+        },
+        {
+          "code": "openwounds",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Open Wounds"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "swing1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 96,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (96)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "bloodrise morning star mst mazas y martillos +120% enhanced damage 50% bonus to attack rating 25% chance of open wounds +2 to light radius +10% increased attack speed +3 to [skill] ([class] only) (96) 5% life stolen per hit"
+    },
+    {
+      "id": 104,
+      "name": "Chance Guards",
+      "baseName": "Chain Gloves",
+      "code": "mgl",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmgl.png",
+      "invfile": "invmgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "8-9",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 25,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "gold%",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "200% Extra Gold from Monsters"
+        },
+        {
+          "code": "mag%",
+          "min": 25,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "25-40% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "att",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Attack Rating"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Defense"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "chance guards bracers mgl guantes 200% extra gold from monsters 25-40% better chance of getting magic items +25 to attack rating +15 defense +2 to light radius +20-30% enhanced defense"
+    },
+    {
+      "id": 84,
+      "name": "Hawkmail",
+      "baseName": "Scale Mail",
+      "code": "scl",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invscl.png",
+      "invfile": "invscl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "57-60",
+        "durability": 36,
+        "speed": 10,
+        "requiredStrength": 44,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+80-100% Enhanced Defense"
+        },
+        {
+          "code": "res-cold-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Cold Resist"
+        },
+        {
+          "code": "res-cold",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +15%"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "move2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Run/Walk"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hawkmail scale mail scl armaduras corporales +80-100% enhanced defense +15% to maximum cold resist cold resist +15% cannot be frozen +10% faster run/walk"
+    },
+    {
+      "id": 121,
+      "name": "Manald Heal",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 15,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 4,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "4-7% Mana stolen per hit"
+        },
+        {
+          "code": "regen",
+          "min": 5,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "Replenish Life +5-8"
+        },
+        {
+          "code": "hp",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Life"
+        },
+        {
+          "code": "regen-mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 20%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "manald heal ring rin anillos 4-7% mana stolen per hit replenish life +5-8 +20 to life regenerate mana 20%"
+    },
+    {
+      "id": 61,
+      "name": "Rimeraven",
+      "baseName": "Long Bow",
+      "code": "lbw",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlbw.png",
+      "invfile": "invlbw",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "3-10",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 22,
+        "requiredDexterity": 19,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "att%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Bonus to Attack Rating"
+        },
+        {
+          "code": "dex",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Dexterity"
+        },
+        {
+          "code": "explosivearrow",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Fires Explosive Arrows or Bolts"
+        },
+        {
+          "code": "str",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Strength"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "+60-70% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rimeraven long bow lbw arcos 50% bonus to attack rating +3 to dexterity fires explosive arrows or bolts +3 to strength +60-70% enhanced damage"
+    },
+    {
+      "id": 98,
+      "name": "Swordback Hold",
+      "baseName": "Spiked Shield",
+      "code": "spk",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invspku.png",
+      "invfile": "invspku",
+      "baseStats": {
+        "oneHandDamage": "5-9",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "15-25",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 30,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "thorns",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 5"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        },
+        {
+          "code": "bloody",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "Bloody: 3-5"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+30-60% Enhanced Defense"
+        },
+        {
+          "code": "thorns",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 5"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "swordback hold spiked shield spk escudos attacker takes damage of 5 20% increased chance of blocking 50% chance of open wounds bloody: 3-5 +30-60% enhanced defense attacker takes damage of 5 +10 defense"
+    },
+    {
+      "id": 72,
+      "name": "Tarnhelm",
+      "baseName": "Skull Cap",
+      "code": "skp",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invskp.png",
+      "invfile": "invskp",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "8-11",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 15,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "gold%",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "75% Extra Gold from Monsters"
+        },
+        {
+          "code": "mag%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "tarnhelm skull cap skp cascos 75% extra gold from monsters 25-50% better chance of getting magic items +1 to all skills"
+    },
+    {
+      "id": 118,
+      "name": "The Eye of Etlich",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "ac-miss",
+          "min": 10,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+10-40 Defense vs. Missile"
+        },
+        {
+          "code": "light",
+          "min": 1,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+1-5 to Light Radius"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "lifesteal",
+          "min": 3,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "3-7% Life stolen per hit"
+        },
+        {
+          "code": "cold-min",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "+1-2 to Minimum Cold Damage"
+        },
+        {
+          "code": "cold-max",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5 to Maximum Cold Damage"
+        },
+        {
+          "code": "cold-len",
+          "min": 50,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "Cold Len: 50-250"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the eye of etlich amulet amu amuletos +10-40 defense vs. missile +1-5 to light radius +1 to all skills 3-7% life stolen per hit +1-2 to minimum cold damage +3-5 to maximum cold damage cold len: 50-250"
+    },
+    {
+      "id": 109,
+      "name": "Treads of Cthon",
+      "baseName": "Chain Boots",
+      "code": "mbt",
+      "level": 20,
+      "requiredLevel": 15,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmbt.png",
+      "invfile": "invmbt",
+      "baseStats": {
+        "oneHandDamage": "6-12",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "8-9",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 30,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "move2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        },
+        {
+          "code": "ac-miss",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense vs. Missile"
+        },
+        {
+          "code": "stamdrain",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Slower Stamina Drain"
+        },
+        {
+          "code": "hp",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Life"
+        },
+        {
+          "code": "ac",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+30-40% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "treads of cthon chain boots mbt botas +30% faster run/walk +50 defense vs. missile 50% slower stamina drain +10 to life +12 defense +30-40% enhanced defense"
+    },
+    {
+      "id": 82,
+      "name": "Twitchthroe",
+      "baseName": "Studded Leather",
+      "code": "stu",
+      "level": 22,
+      "requiredLevel": 16,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invstu.png",
+      "invfile": "invstu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "32-35",
+        "durability": 32,
+        "speed": 0,
+        "requiredStrength": 27,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "block",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Increased Chance of Blocking"
+        },
+        {
+          "code": "ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Defense"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "twitchthroe studded leather stu armaduras corporales +20% increased attack speed +10 to dexterity 25% increased chance of blocking +25 defense +10 to strength +20% faster hit recovery"
+    },
+    {
+      "id": 45,
+      "name": "Bloodthief",
+      "baseName": "Brandistock",
+      "code": "brn",
+      "level": 23,
+      "requiredLevel": 17,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invbrn.png",
+      "invfile": "invbrn",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "7-17",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": -20,
+        "requiredStrength": 40,
+        "requiredDexterity": 50,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "openwounds",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "35% Chance of Open Wounds"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "lifesteal",
+          "min": 8,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "8-12% Life stolen per hit"
+        },
+        {
+          "code": "hp",
+          "min": 26,
+          "max": 26,
+          "param": null,
+          "variable": false,
+          "text": "+26 to Life"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "+50-70% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodthief brandistock brn lanzas 35% chance of open wounds +10 to strength 8-12% life stolen per hit +26 to life +50-70% enhanced damage"
+    },
+    {
+      "id": 74,
+      "name": "Duskdeep",
+      "baseName": "Full Helm",
+      "code": "fhl",
+      "level": 23,
+      "requiredLevel": 17,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invfhlu.png",
+      "invfile": "invfhlu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "23-26",
+        "durability": 30,
+        "speed": 0,
+        "requiredStrength": 41,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "res-all",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +15"
+        },
+        {
+          "code": "red-dmg",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 7"
+        },
+        {
+          "code": "dmg-max",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Maximum Damage"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+30-50% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "duskdeep full helm fhl cascos +-2 to light radius all resistances +15 damage reduced by 7 +8 to maximum damage +10-20 defense +30-50% enhanced defense"
+    },
+    {
+      "id": 30,
+      "name": "Griswolds Edge",
+      "baseName": "Broad Sword",
+      "code": "bsd",
+      "level": 23,
+      "requiredLevel": 17,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbsdu.png",
+      "invfile": "invbsdu",
+      "baseStats": {
+        "oneHandDamage": "7-14",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": null,
+        "requiredStrength": 48,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "fire-min",
+          "min": 10,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "+10-12 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25 to Maximum Fire Damage"
+        },
+        {
+          "code": "att",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 to Attack Rating"
+        },
+        {
+          "code": "swing1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "dmg%",
+          "min": 80,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+80-120% Enhanced Damage"
+        },
+        {
+          "code": "str",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Strength"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "griswolds edge broad sword bsd espadas +10-12 to minimum fire damage +15-25 to maximum fire damage +100 to attack rating +10% increased attack speed knockback +80-120% enhanced damage +12 to strength"
+    },
+    {
+      "id": 16,
+      "name": "Rusthandle",
+      "baseName": "Grand Scepter",
+      "code": "gsc",
+      "level": 23,
+      "requiredLevel": 17,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invgsc.png",
+      "invfile": "invgsc",
+      "baseStats": {
+        "oneHandDamage": "8-18",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 37,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "pal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Paladin Skill Levels"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 3,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "Adds 3-7-3-7 Damage"
+        },
+        {
+          "code": "red-mag",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 1"
+        },
+        {
+          "code": "lifesteal",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "8% Life stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Damage"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Damage to Undead"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": 111,
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (111)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 103,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (103)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rusthandle grand scepter gsc cetros +1 to paladin skill levels adds 3-7-3-7 damage magic damage reduced by 1 8% life stolen per hit +50-60% enhanced damage +50-60% damage to undead +1-3 to [skill] ([class] only) (111) +3 to [skill] ([class] only) (103)"
+    },
+    {
+      "id": 85,
+      "name": "Sparking Mail",
+      "baseName": "Chain Mail",
+      "code": "chn",
+      "level": 23,
+      "requiredLevel": 17,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invchn.png",
+      "invfile": "invchn",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "72-75",
+        "durability": 45,
+        "speed": 5,
+        "requiredStrength": 48,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 75,
+          "max": 85,
+          "param": null,
+          "variable": true,
+          "text": "+75-85% Enhanced Defense"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-20-1-20 Lightning Damage"
+        },
+        {
+          "code": "light-thorns",
+          "min": 10,
+          "max": 14,
+          "param": null,
+          "variable": true,
+          "text": "Attacker Takes Lightning Damage of 10-14"
+        },
+        {
+          "code": "res-ltng",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +30%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "sparking mail chain mail chn armaduras corporales +75-85% enhanced defense adds 1-20-1-20 lightning damage attacker takes lightning damage of 10-14 lightning resist +30%"
+    },
+    {
+      "id": 99,
+      "name": "Steelclash",
+      "baseName": "Kite Shield",
+      "code": "kit",
+      "level": 23,
+      "requiredLevel": 17,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invkitu.png",
+      "invfile": "invkitu",
+      "baseStats": {
+        "oneHandDamage": "2-5",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "16-18",
+        "durability": 30,
+        "speed": 0,
+        "requiredStrength": 47,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "block",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Increased Chance of Blocking"
+        },
+        {
+          "code": "pal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Paladin Skill Levels"
+        },
+        {
+          "code": "red-dmg",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 3"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 60,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+60-100% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Block Rate"
+        },
+        {
+          "code": "res-all",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +15"
+        },
+        {
+          "code": "ac",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 Defense"
+        },
+        {
+          "code": "dur",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Durability: 15-20 of 15-20"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steelclash kite shield kit escudos 25% increased chance of blocking +1 to paladin skill levels damage reduced by 3 +3 to light radius +60-100% enhanced defense +20% faster block rate all resistances +15 +20 defense durability: 15-20 of 15-20"
+    },
+    {
+      "id": 68,
+      "name": "Ichorsting",
+      "baseName": "Crossbow",
+      "code": "mxb",
+      "level": 24,
+      "requiredLevel": 18,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invmxbu.png",
+      "invfile": "invmxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "9-16",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": null,
+        "requiredStrength": 40,
+        "requiredDexterity": 33,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 102,
+          "max": 102,
+          "param": 75,
+          "variable": false,
+          "text": "Adds 102-102 Poison Damage Over 102 Seconds (75)"
+        },
+        {
+          "code": "dex",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Dexterity"
+        },
+        {
+          "code": "pierce",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "ichorsting crossbow mxb ballestas adds 102-102 poison damage over 102 seconds (75) +20 to dexterity piercing attack +50 to attack rating +50% enhanced damage +20% increased attack speed"
+    },
+    {
+      "id": 56,
+      "name": "Lazarus Spire",
+      "baseName": "Gnarled Staff",
+      "code": "cst",
+      "level": 24,
+      "requiredLevel": 18,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invcstu.png",
+      "invfile": "invcstu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "4-12",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": 10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "res-ltng",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +75%"
+        },
+        {
+          "code": "red-dmg",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 5"
+        },
+        {
+          "code": "enr",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Energy"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 53,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (53)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 49,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (49)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 42,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (42)"
+        },
+        {
+          "code": "regen-mana",
+          "min": 43,
+          "max": 43,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 43%"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 28,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-28-1-28 Lightning Damage"
+        },
+        {
+          "code": "sor",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Sorceress Skill Levels"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lazarus spire gnarled staff cst bastones lightning resist +75% damage reduced by 5 +15 to energy +1 to [skill] ([class] only) (53) +2 to [skill] ([class] only) (49) +3 to [skill] ([class] only) (42) regenerate mana 43% adds 1-28-1-28 lightning damage +1 to sorceress skill levels"
+    },
+    {
+      "id": 100,
+      "name": "Bverrit Keep",
+      "baseName": "Tower Shield",
+      "code": "tow",
+      "level": 26,
+      "requiredLevel": 19,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invtowu.png",
+      "invfile": "invtowu",
+      "baseStats": {
+        "oneHandDamage": "1-5",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "22-25",
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 75,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "res-fire",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +75%"
+        },
+        {
+          "code": "str",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Strength"
+        },
+        {
+          "code": "red-mag",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 5"
+        },
+        {
+          "code": "ac%",
+          "min": 80,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+80-120% Enhanced Defense"
+        },
+        {
+          "code": "block",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Increased Chance of Blocking"
+        },
+        {
+          "code": "dur",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "Durability: 80-100 of 80-100"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bverrit keep tower shield tow escudos +30 defense fire resist +75% +5 to strength magic damage reduced by 5 +80-120% enhanced defense 10% increased chance of blocking durability: 80-100 of 80-100"
+    },
+    {
+      "id": 50,
+      "name": "Soul Harvest",
+      "baseName": "Scythe",
+      "code": "scy",
+      "level": 26,
+      "requiredLevel": 19,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invscyu.png",
+      "invfile": "invscyu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "8-20",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": -10,
+        "requiredStrength": 41,
+        "requiredDexterity": 41,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "openwounds",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Chance of Open Wounds"
+        },
+        {
+          "code": "att",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "+45 to Attack Rating"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +20"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 90,
+          "param": null,
+          "variable": true,
+          "text": "+50-90% Enhanced Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Mana stolen per hit"
+        },
+        {
+          "code": "enr",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Energy"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "soul harvest scythe scy armas de asta 30% chance of open wounds +45 to attack rating all resistances +20 +50-90% enhanced damage 10% mana stolen per hit +5 to energy"
+    },
+    {
+      "id": 34,
+      "name": "Soulflay",
+      "baseName": "Claymore",
+      "code": "clm",
+      "level": 26,
+      "requiredLevel": 19,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invclm.png",
+      "invfile": "invclm",
+      "baseStats": {
+        "oneHandDamage": "5-12",
+        "twoHandDamage": "13-30",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 47,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 4,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "4-10% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "4% Life stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+70-100% Enhanced Damage"
+        },
+        {
+          "code": "res-all",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +5"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "soulflay claymore clm espadas 4-10% mana stolen per hit 4% life stolen per hit +70-100% enhanced damage all resistances +5 +10% increased attack speed"
+    },
+    {
+      "id": 7,
+      "name": "The Chieftan",
+      "baseName": "Battle Axe",
+      "code": "btx",
+      "level": 26,
+      "requiredLevel": 19,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbtxu.png",
+      "invfile": "invbtxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "12-32",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": 10,
+        "requiredStrength": 54,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +10-20"
+        },
+        {
+          "code": "mana-kill",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "+6 to Mana after each Kill"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-40-1-40 Lightning Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the chieftan battle axe btx hachas +100% enhanced damage all resistances +10-20 +6 to mana after each kill +20% increased attack speed adds 1-40-1-40 lightning damage"
+    },
+    {
+      "id": 41,
+      "name": "The Jade Tan Do",
+      "baseName": "Kriss",
+      "code": "kri",
+      "level": 26,
+      "requiredLevel": 19,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invkrsu.png",
+      "invfile": "invkrsu",
+      "baseStats": {
+        "oneHandDamage": "2-11",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": -20,
+        "requiredStrength": null,
+        "requiredDexterity": 45,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "att",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150 to Attack Rating"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 460,
+          "max": 460,
+          "param": 100,
+          "variable": false,
+          "text": "Adds 460-460 Poison Damage Over 460 Seconds (100)"
+        },
+        {
+          "code": "res-pois",
+          "min": 95,
+          "max": 95,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +95%"
+        },
+        {
+          "code": "res-pois-max",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% to Maximum Poison Resist"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the jade tan do kris kri dagas +100-150 to attack rating cannot be frozen adds 460-460 poison damage over 460 seconds (100) poison resist +95% +20% to maximum poison resist"
+    },
+    {
+      "id": 12,
+      "name": "Gravenspine",
+      "baseName": "Bone Wand",
+      "code": "bwn",
+      "level": 27,
+      "requiredLevel": 20,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invbwnu.png",
+      "invfile": "invbwnu",
+      "baseStats": {
+        "oneHandDamage": "3-7",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": -20,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "cold-min",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Minimum Cold Damage"
+        },
+        {
+          "code": "cold-max",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Maximum Cold Damage"
+        },
+        {
+          "code": "cold-len",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Cold Len: 75"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Necromancer Skill Levels"
+        },
+        {
+          "code": "mana",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+25-50 to Mana"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gravenspine bone wand bwn varitas +10 to strength +10 to dexterity +4 to minimum cold damage +8 to maximum cold damage cold len: 75 5% mana stolen per hit +2 to necromancer skill levels +25-50 to mana"
+    },
+    {
+      "id": 114,
+      "name": "Nightsmoke",
+      "baseName": "Belt",
+      "code": "mbl",
+      "level": 27,
+      "requiredLevel": 20,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invmbl.png",
+      "invfile": "invmbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "5",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 25,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Damage Taken Goes To Mana"
+        },
+        {
+          "code": "mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Mana"
+        },
+        {
+          "code": "red-dmg",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 2"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+30-50% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nightsmoke belt mbl cintos all resistances +10 50% damage taken goes to mana +20 to mana damage reduced by 2 +15 defense +30-50% enhanced defense"
+    },
+    {
+      "id": 62,
+      "name": "Piercerib",
+      "baseName": "Composite Bow",
+      "code": "cbw",
+      "level": 27,
+      "requiredLevel": 20,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invcbwu.png",
+      "invfile": "invcbwu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "4-8",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 36,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": 35,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "deadly",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Deadly Strike"
+        },
+        {
+          "code": "att",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60 to Attack Rating"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Damage to Undead"
+        },
+        {
+          "code": "dmg%",
+          "min": 40,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+40-60% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "piercerib composite bow cbw arcos all resistances +10 30% deadly strike +60 to attack rating +100% damage to undead +40-60% enhanced damage +50% increased attack speed"
+    },
+    {
+      "id": 78,
+      "name": "The Face of Horror",
+      "baseName": "Mask",
+      "code": "msk",
+      "level": 27,
+      "requiredLevel": 20,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmsk.png",
+      "invfile": "invmsk",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "9-27",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 23,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "howl",
+          "min": 64,
+          "max": 64,
+          "param": null,
+          "variable": false,
+          "text": "Hit Causes Monster to Flee 64%"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Damage to Undead"
+        },
+        {
+          "code": "ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the face of horror mask msk cascos hit causes monster to flee 64% +20 to strength all resistances +10 +50% damage to undead +25 defense"
+    },
+    {
+      "id": 86,
+      "name": "Venomsward",
+      "baseName": "Breast Plate",
+      "code": "brs",
+      "level": 27,
+      "requiredLevel": 20,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbrs.png",
+      "invfile": "invbrs",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "65-68",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 30,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "res-pois-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Poison Resist"
+        },
+        {
+          "code": "res-pois-len",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Length Reduced by 50%"
+        },
+        {
+          "code": "res-pois",
+          "min": 90,
+          "max": 90,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +90%"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 60,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+60-100% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "venomsward breast plate brs armaduras corporales +15% to maximum poison resist poison length reduced by 50% poison resist +90% +2 to light radius +60-100% enhanced defense"
+    },
+    {
+      "id": 97,
+      "name": "Wall of the Eyeless",
+      "baseName": "Bone Shield",
+      "code": "bsh",
+      "level": 27,
+      "requiredLevel": 20,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbshu.png",
+      "invfile": "invbshu",
+      "baseStats": {
+        "oneHandDamage": "3-6",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "10-30",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 25,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "mana-kill",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Mana after each Kill"
+        },
+        {
+          "code": "manasteal",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "3% Mana stolen per hit"
+        },
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "res-pois",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +20%"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+30-40% Enhanced Defense"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wall of the eyeless bone shield bsh escudos +5 to mana after each kill 3% mana stolen per hit +20% faster cast rate poison resist +20% +30-40% enhanced defense +10 defense"
+    },
+    {
+      "id": 3,
+      "name": "Mindrend",
+      "baseName": "Military Pick",
+      "code": "mpi",
+      "level": 28,
+      "requiredLevel": 21,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invmpiu.png",
+      "invfile": "invmpiu",
+      "baseStats": {
+        "oneHandDamage": "7-11",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": -10,
+        "requiredStrength": 49,
+        "requiredDexterity": 33,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "stupidity",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +2"
+        },
+        {
+          "code": "regen-mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 20%"
+        },
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "ltng-max",
+          "min": 12,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+12-15 to Maximum Lightning Damage"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+50-100 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+60-100% Enhanced Damage"
+        },
+        {
+          "code": "openwounds",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Chance of Open Wounds"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "mindrend military pick mpi hachas hit blinds target +2 regenerate mana 20% +1 to minimum lightning damage +12-15 to maximum lightning damage +50-100 to attack rating +60-100% enhanced damage 15% chance of open wounds"
+    },
+    {
+      "id": 21,
+      "name": "The Generals Tan Do Li Ga",
+      "baseName": "Flail",
+      "code": "fla",
+      "level": 28,
+      "requiredLevel": 21,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfla.png",
+      "invfile": "invfla",
+      "baseStats": {
+        "oneHandDamage": "1-24",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 41,
+        "requiredDexterity": 35,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Damage"
+        },
+        {
+          "code": "dmg-max",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Maximum Damage"
+        },
+        {
+          "code": "slow",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 50%"
+        },
+        {
+          "code": "ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Defense"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the generals tan do li ga flail fla mazas y martillos +1 to minimum damage +20 to maximum damage slows target by 50% +25 defense 5% mana stolen per hit +50-60% enhanced damage +20% increased attack speed"
+    },
+    {
+      "id": 57,
+      "name": "The Salamander",
+      "baseName": "Battle Staff",
+      "code": "bst",
+      "level": 28,
+      "requiredLevel": 21,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invbst.png",
+      "invfile": "invbst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-13",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 15,
+          "max": 32,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-32-15-32 Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +30%"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 51,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (51)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 47,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (47)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 37,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (37)"
+        },
+        {
+          "code": "fireskill",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Fire Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the salamander battle staff bst bastones adds 15-32-15-32 fire damage fire resist +30% +1 to [skill] ([class] only) (51) +2 to [skill] ([class] only) (47) +3 to [skill] ([class] only) (37) +2 to fire skills"
+    },
+    {
+      "id": 75,
+      "name": "Wormskull",
+      "baseName": "Bone Helm",
+      "code": "bhm",
+      "level": 28,
+      "requiredLevel": 21,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbhmu.png",
+      "invfile": "invbhmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "33-36",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 25,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "nec",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Necromancer Skill Levels"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Mana"
+        },
+        {
+          "code": "res-pois",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +25%"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 102,
+          "max": 102,
+          "param": 200,
+          "variable": false,
+          "text": "Adds 102-102 Poison Damage Over 102 Seconds (200)"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "wormskull bone helm bhm cascos +1 to necromancer skill levels 5% life stolen per hit +10 to mana poison resist +25% adds 102-102 poison damage over 102 seconds (200)"
+    },
+    {
+      "id": 110,
+      "name": "Goblin Toe",
+      "baseName": "Light Plated Boots",
+      "code": "tbt",
+      "level": 30,
+      "requiredLevel": 22,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invtbt.png",
+      "invfile": "invtbt",
+      "baseStats": {
+        "oneHandDamage": "8-16",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "9-11",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 50,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "red-dmg",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 1"
+        },
+        {
+          "code": "red-mag",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 1"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Defense"
+        },
+        {
+          "code": "light",
+          "min": -1,
+          "max": -1,
+          "param": null,
+          "variable": false,
+          "text": "+-1 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "goblin toe light plate boots tbt botas 25% chance of crushing blow damage reduced by 1 magic damage reduced by 1 +15 defense +-1 to light radius +50-60% enhanced defense"
+    },
+    {
+      "id": 31,
+      "name": "Hellplague",
+      "baseName": "Long Sword",
+      "code": "lsd",
+      "level": 30,
+      "requiredLevel": 22,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlsdu.png",
+      "invfile": "invlsdu",
+      "baseStats": {
+        "oneHandDamage": "3-19",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": -10,
+        "requiredStrength": 55,
+        "requiredDexterity": 39,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "pois-min",
+          "min": 48,
+          "max": 48,
+          "param": null,
+          "variable": false,
+          "text": "+48 to Minimum Poison Damage"
+        },
+        {
+          "code": "pois-max",
+          "min": 96,
+          "max": 96,
+          "param": null,
+          "variable": false,
+          "text": "+96 to Maximum Poison Damage"
+        },
+        {
+          "code": "pois-len",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "Pois Len: 150"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 25,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "Adds 25-75-25-75 Fire Damage"
+        },
+        {
+          "code": "fireskill",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Fire Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellplague long sword lsd espadas 5% mana stolen per hit 5% life stolen per hit +48 to minimum poison damage +96 to maximum poison damage pois len: 150 +70-80% enhanced damage adds 25-75-25-75 fire damage +2 to fire skills"
+    },
+    {
+      "id": 87,
+      "name": "Iceblink",
+      "baseName": "Splint Mail",
+      "code": "spl",
+      "level": 30,
+      "requiredLevel": 22,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invspl.png",
+      "invfile": "invspl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "90-95",
+        "durability": 30,
+        "speed": 5,
+        "requiredStrength": 51,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +1"
+        },
+        {
+          "code": "res-cold",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +30%"
+        },
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "red-mag",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 1"
+        },
+        {
+          "code": "ac%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "iceblink splint mail spl armaduras corporales freezes target +1 cold resist +30% +4 to light radius magic damage reduced by 1 +70-80% enhanced defense"
+    },
+    {
+      "id": 46,
+      "name": "Lance of Yaggai",
+      "baseName": "Spetum",
+      "code": "spt",
+      "level": 30,
+      "requiredLevel": 22,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invspt.png",
+      "invfile": "invspt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "15-23",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 54,
+        "requiredDexterity": 35,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "thorns",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 8"
+        },
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "ltng-max",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60 to Maximum Lightning Damage"
+        },
+        {
+          "code": "res-all",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +15"
+        },
+        {
+          "code": "swing2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "lance of yaggai spetum spt lanzas attacker takes damage of 8 +1 to minimum lightning damage +60 to maximum lightning damage all resistances +15 +40% increased attack speed"
+    },
+    {
+      "id": 35,
+      "name": "Kinemils Awl",
+      "baseName": "Giant Sword",
+      "code": "gis",
+      "level": 31,
+      "requiredLevel": 23,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invgisu.png",
+      "invfile": "invgisu",
+      "baseStats": {
+        "oneHandDamage": "3-16",
+        "twoHandDamage": "9-28",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 56,
+        "requiredDexterity": 34,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "att",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150 to Attack Rating"
+        },
+        {
+          "code": "mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Mana"
+        },
+        {
+          "code": "fire-min",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "+6 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+20-40 to Maximum Fire Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+80-100% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 6,
+          "max": 6,
+          "param": 102,
+          "variable": false,
+          "text": "+6 to [Skill] ([Class] only) (102)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "kinemils awl giant sword gis espadas +100-150 to attack rating +20 to mana +6 to minimum fire damage +20-40 to maximum fire damage +80-100% enhanced damage +6 to [skill] ([class] only) (102)"
+    },
+    {
+      "id": 105,
+      "name": "Magefist",
+      "baseName": "Light Gauntlets",
+      "code": "tgl",
+      "level": 31,
+      "requiredLevel": 23,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invtgl.png",
+      "invfile": "invtgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "9-11",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 45,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "cast3",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "regen-mana",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 25%"
+        },
+        {
+          "code": "fireskill",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Fire Skills"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 1,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-6-1-6 Fire Damage"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "magefist light gauntlets tgl guantes +20% faster cast rate regenerate mana 25% +1 to fire skills adds 1-6-1-6 fire damage +10 defense +20-30% enhanced defense"
+    },
+    {
+      "id": 17,
+      "name": "Stormeye",
+      "baseName": "War Scepter",
+      "code": "wsp",
+      "level": 31,
+      "requiredLevel": 23,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwsp.png",
+      "invfile": "invwsp",
+      "baseStats": {
+        "oneHandDamage": "10-17",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 70,
+        "speed": -10,
+        "requiredStrength": 55,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-6-1-6 Lightning Damage"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 3,
+          "max": 5,
+          "param": 75,
+          "variable": true,
+          "text": "Adds 3-5-3-5 Cold Damage (75)"
+        },
+        {
+          "code": "regen",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +10"
+        },
+        {
+          "code": "dmg%",
+          "min": 80,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+80-120% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 5,
+          "param": 110,
+          "variable": true,
+          "text": "+3-5 to [Skill] ([Class] only) (110)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 118,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (118)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 121,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (121)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormeye war scepter wsp cetros adds 1-6-1-6 lightning damage adds 3-5-3-5 cold damage (75) replenish life +10 +80-120% enhanced damage +3-5 to [skill] ([class] only) (110) +3 to [skill] ([class] only) (118) +1 to [skill] ([class] only) (121)"
+    },
+    {
+      "id": 23,
+      "name": "Bonesob",
+      "baseName": "Maul",
+      "code": "mau",
+      "level": 32,
+      "requiredLevel": 24,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invmauu.png",
+      "invfile": "invmauu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "30-43",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 69,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+200-300% Enhanced Damage"
+        },
+        {
+          "code": "crush",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Chance of Crushing Blow"
+        },
+        {
+          "code": "res-fire",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +30%"
+        },
+        {
+          "code": "res-cold",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +30%"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Damage to Undead"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bonesob maul mau mazas y martillos +200-300% enhanced damage 40% chance of crushing blow fire resist +30% cold resist +30% +50% damage to undead"
+    },
+    {
+      "id": 8,
+      "name": "Brainhew",
+      "baseName": "Great Axe",
+      "code": "gax",
+      "level": 34,
+      "requiredLevel": 25,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgaxu.png",
+      "invfile": "invgaxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "9-30",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": -10,
+        "requiredStrength": 63,
+        "requiredDexterity": 39,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg-min",
+          "min": 14,
+          "max": 14,
+          "param": null,
+          "variable": false,
+          "text": "+14 to Minimum Damage"
+        },
+        {
+          "code": "mana",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Mana"
+        },
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "manasteal",
+          "min": 10,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "10-13% Mana stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+50-80% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-35-15-35 Fire Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "brainhew great axe gax hachas +14 to minimum damage +25 to mana +4 to light radius 10-13% mana stolen per hit +50-80% enhanced damage adds 15-35-15-35 fire damage"
+    },
+    {
+      "id": 76,
+      "name": "Howltusk",
+      "baseName": "Great Helm",
+      "code": "ghm",
+      "level": 34,
+      "requiredLevel": 25,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invghm.png",
+      "invfile": "invghm",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "30-35",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 63,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "red-mag",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 2"
+        },
+        {
+          "code": "thorns",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 3"
+        },
+        {
+          "code": "ac%",
+          "min": 80,
+          "max": 80,
+          "param": null,
+          "variable": false,
+          "text": "+80% Enhanced Defense"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "35% Damage Taken Goes To Mana"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "howl",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "Hit Causes Monster to Flee 33%"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "howltusk great helm ghm cascos magic damage reduced by 2 attacker takes damage of 3 +80% enhanced defense 35% damage taken goes to mana knockback hit causes monster to flee 33%"
+    },
+    {
+      "id": 42,
+      "name": "Irices Shard",
+      "baseName": "Blade",
+      "code": "bld",
+      "level": 34,
+      "requiredLevel": 25,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invbld.png",
+      "invfile": "invbld",
+      "baseStats": {
+        "oneHandDamage": "4-15",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": -10,
+        "requiredStrength": 35,
+        "requiredDexterity": 51,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "cast3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Faster Cast Rate"
+        },
+        {
+          "code": "mana",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Mana"
+        },
+        {
+          "code": "att",
+          "min": 55,
+          "max": 55,
+          "param": null,
+          "variable": false,
+          "text": "+55 to Attack Rating"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "irices shard blade bld dagas +50% faster cast rate +50 to mana +55 to attack rating all resistances +10"
+    },
+    {
+      "id": 63,
+      "name": "Pullspite",
+      "baseName": "Short Battle Bow",
+      "code": "sbb",
+      "level": 34,
+      "requiredLevel": 25,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invsbbu.png",
+      "invfile": "invsbbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "5-11",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": null,
+        "requiredStrength": 30,
+        "requiredDexterity": 40,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-30-1-30 Lightning Damage"
+        },
+        {
+          "code": "str",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Strength"
+        },
+        {
+          "code": "att",
+          "min": 28,
+          "max": 28,
+          "param": null,
+          "variable": false,
+          "text": "+28 to Attack Rating"
+        },
+        {
+          "code": "pierce",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "res-ltng",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +25%"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 90,
+          "param": null,
+          "variable": true,
+          "text": "+70-90% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "pullspite short battle bow sbb arcos adds 1-30-1-30 lightning damage +8 to strength +28 to attack rating piercing attack lightning resist +25% +70-90% enhanced damage"
+    },
+    {
+      "id": 51,
+      "name": "The Battlebranch",
+      "baseName": "Poleaxe",
+      "code": "pax",
+      "level": 34,
+      "requiredLevel": 25,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpax.png",
+      "invfile": "invpax",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "18-39",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": 10,
+        "requiredStrength": 62,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "+50-70% Enhanced Damage"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+50-100 to Attack Rating"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "7% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the battlebranch poleaxe pax armas de asta +30% increased attack speed +10 to dexterity +50-70% enhanced damage +50-100 to attack rating 7% life stolen per hit"
+    },
+    {
+      "id": 119,
+      "name": "The Mahim-Oak Curio",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 34,
+      "requiredLevel": 25,
+      "rarity": 10,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Vitality"
+        },
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 Defense"
+        },
+        {
+          "code": "att%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Bonus to Attack Rating"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "ac%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the mahim-oak curio amulet amu amuletos +10 to dexterity +10 to strength +10 to energy +10 to vitality +10 defense 10% bonus to attack rating all resistances +10 +10% enhanced defense"
+    },
+    {
+      "id": 36,
+      "name": "Blacktongue",
+      "baseName": "Bastard Sword",
+      "code": "bsw",
+      "level": 35,
+      "requiredLevel": 26,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invbswu.png",
+      "invfile": "invbswu",
+      "baseStats": {
+        "oneHandDamage": "7-19",
+        "twoHandDamage": "20-28",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": 10,
+        "requiredStrength": 62,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 192,
+          "max": 192,
+          "param": 150,
+          "variable": false,
+          "text": "Adds 192-192 Poison Damage Over 192 Seconds (150)"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Attack Rating"
+        },
+        {
+          "code": "res-pois",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +50%"
+        },
+        {
+          "code": "dmg%",
+          "min": 50,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+50-60% Enhanced Damage"
+        },
+        {
+          "code": "*hp",
+          "min": -10,
+          "max": -10,
+          "param": null,
+          "variable": false,
+          "text": "*Hp: -10"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blacktongue bastard sword bsw espadas adds 192-192 poison damage over 192 seconds (150) prevent monster heal +50 to attack rating poison resist +50% +50-60% enhanced damage *hp: -10"
+    },
+    {
+      "id": 88,
+      "name": "Boneflesh",
+      "baseName": "Plate Mail",
+      "code": "plt",
+      "level": 35,
+      "requiredLevel": 26,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invplt.png",
+      "invfile": "invplt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "108-116",
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 65,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+100-120% Enhanced Defense"
+        },
+        {
+          "code": "att",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 to Attack Rating"
+        },
+        {
+          "code": "openwounds",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Open Wounds"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "boneflesh plate mail plt armaduras corporales 5% life stolen per hit +100-120% enhanced defense +35 to attack rating 25% chance of open wounds"
+    },
+    {
+      "id": 37,
+      "name": "Ripsaw",
+      "baseName": "Flamberge",
+      "code": "flb",
+      "level": 35,
+      "requiredLevel": 26,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invflb.png",
+      "invfile": "invflb",
+      "baseStats": {
+        "oneHandDamage": "9-15",
+        "twoHandDamage": "13-26",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": -10,
+        "requiredStrength": 70,
+        "requiredDexterity": 49,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "openwounds",
+          "min": 80,
+          "max": 80,
+          "param": null,
+          "variable": false,
+          "text": "80% Chance of Open Wounds"
+        },
+        {
+          "code": "dmg-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Maximum Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "6% Mana stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+80-100% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ripsaw flamberge flb espadas 80% chance of open wounds +15 to maximum damage 6% mana stolen per hit +80-100% enhanced damage"
+    },
+    {
+      "id": 101,
+      "name": "The Ward",
+      "baseName": "Gothic Shield",
+      "code": "gts",
+      "level": 35,
+      "requiredLevel": 26,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgtsu.png",
+      "invfile": "invgtsu",
+      "baseStats": {
+        "oneHandDamage": "2-6",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "30-35",
+        "durability": 40,
+        "speed": 5,
+        "requiredStrength": 60,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 Defense"
+        },
+        {
+          "code": "red-mag",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 2"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "block",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Increased Chance of Blocking"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +30-50"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the ward gothic shield gts escudos +40 defense magic damage reduced by 2 +10 to strength 10% increased chance of blocking +100% enhanced defense all resistances +30-50"
+    },
+    {
+      "id": 64,
+      "name": "Wizendraw",
+      "baseName": "Long Battle Bow",
+      "code": "lbb",
+      "level": 35,
+      "requiredLevel": 26,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlbb.png",
+      "invfile": "invlbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "3-18",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": 10,
+        "requiredStrength": 40,
+        "requiredDexterity": 50,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "magicarrow",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Fires Magic Arrows"
+        },
+        {
+          "code": "mana",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Mana"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "res-cold",
+          "min": 26,
+          "max": 26,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +26%"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+50-100 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Damage"
+        },
+        {
+          "code": "enr",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Energy"
+        },
+        {
+          "code": "pierce-cold",
+          "min": 20,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "-20-35% to Enemy Cold Resistance"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wizendraw long battle bow lbb arcos fires magic arrows +30 to mana +20% increased attack speed cold resist +26% +50-100 to attack rating +70-80% enhanced damage +15 to energy -20-35% to enemy cold resistance"
+    },
+    {
+      "id": 115,
+      "name": "Goldwrap",
+      "baseName": "Heavy Belt",
+      "code": "tbl",
+      "level": 36,
+      "requiredLevel": 27,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invtbl.png",
+      "invfile": "invtbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "6",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 45,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "mag%",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Defense"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "ac%",
+          "min": 40,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+40-60% Enhanced Defense"
+        },
+        {
+          "code": "gold%",
+          "min": 50,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "50-80% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "goldwrap heavy belt tbl cintos 30% better chance of getting magic items +2 to light radius +25 defense +10% increased attack speed +40-60% enhanced defense 50-80% extra gold from monsters"
+    },
+    {
+      "id": 69,
+      "name": "Hellcast",
+      "baseName": "Heavy Crossbow",
+      "code": "hxb",
+      "level": 36,
+      "requiredLevel": 27,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invhxbu.png",
+      "invfile": "invhxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-26",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 60,
+        "requiredDexterity": 40,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "explosivearrow",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Fires Explosive Arrows or Bolts"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Fire Resist"
+        },
+        {
+          "code": "res-fire",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +15%"
+        },
+        {
+          "code": "att",
+          "min": 70,
+          "max": 70,
+          "param": null,
+          "variable": false,
+          "text": "+70 to Attack Rating"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-35-15-35 Fire Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellcast heavy crossbow hxb ballestas fires explosive arrows or bolts +15% to maximum fire resist fire resist +15% +70 to attack rating +20% increased attack speed +70-80% enhanced damage adds 15-35-15-35 fire damage"
+    },
+    {
+      "id": 65,
+      "name": "Hellclap",
+      "baseName": "Short War Bow",
+      "code": "swb",
+      "level": 36,
+      "requiredLevel": 27,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invswbu.png",
+      "invfile": "invswbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-14",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 48,
+        "speed": null,
+        "requiredStrength": 35,
+        "requiredDexterity": 55,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "swing1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "fire-min",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+30-50 to Maximum Fire Damage"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "+50-75 to Attack Rating"
+        },
+        {
+          "code": "res-fire",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +40%"
+        },
+        {
+          "code": "dex",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Dexterity"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 90,
+          "param": null,
+          "variable": true,
+          "text": "+70-90% Enhanced Damage"
+        },
+        {
+          "code": "fireskill",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Fire Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellclap short war bow swb arcos +10% increased attack speed +15 to minimum fire damage +30-50 to maximum fire damage +50-75 to attack rating fire resist +40% +12 to dexterity +70-90% enhanced damage +1 to fire skills"
+    },
+    {
+      "id": 22,
+      "name": "Ironstone",
+      "baseName": "War Hammer",
+      "code": "whm",
+      "level": 36,
+      "requiredLevel": 27,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwhm.png",
+      "invfile": "invwhm",
+      "baseStats": {
+        "oneHandDamage": "19-29",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": 20,
+        "requiredStrength": 53,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "att",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150% Enhanced Damage"
+        },
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "ltng-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Maximum Lightning Damage"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "*enr",
+          "min": -5,
+          "max": -5,
+          "param": null,
+          "variable": false,
+          "text": "*Enr: -5"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ironstone war hammer whm mazas y martillos +100-150 to attack rating +100-150% enhanced damage +1 to minimum lightning damage +10 to maximum lightning damage +10 to strength *enr: -5"
+    },
+    {
+      "id": 4,
+      "name": "Rakescar",
+      "baseName": "War Axe",
+      "code": "wax",
+      "level": 36,
+      "requiredLevel": 27,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwax.png",
+      "invfile": "invwax",
+      "baseStats": {
+        "oneHandDamage": "10-18",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": null,
+        "requiredStrength": 67,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "pois-min",
+          "min": 128,
+          "max": 128,
+          "param": null,
+          "variable": false,
+          "text": "+128 to Minimum Poison Damage"
+        },
+        {
+          "code": "pois-max",
+          "min": 128,
+          "max": 128,
+          "param": null,
+          "variable": false,
+          "text": "+128 to Maximum Poison Damage"
+        },
+        {
+          "code": "pois-len",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Pois Len: 75"
+        },
+        {
+          "code": "att",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Attack Rating"
+        },
+        {
+          "code": "res-pois",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +50%"
+        },
+        {
+          "code": "dmg%",
+          "min": 75,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+75-150% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rakescar war axe wax hachas +128 to minimum poison damage +128 to maximum poison damage pois len: 75 +50 to attack rating poison resist +50% +75-150% enhanced damage +30% increased attack speed"
+    },
+    {
+      "id": 47,
+      "name": "The Tannr Gorerod",
+      "baseName": "Pike",
+      "code": "pik",
+      "level": 36,
+      "requiredLevel": 27,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpik.png",
+      "invfile": "invpik",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-63",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 25,
+        "speed": 20,
+        "requiredStrength": 60,
+        "requiredDexterity": 45,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "fire-min",
+          "min": 23,
+          "max": 23,
+          "param": null,
+          "variable": false,
+          "text": "+23 to Minimum Fire Damage"
+        },
+        {
+          "code": "fire-max",
+          "min": 54,
+          "max": 54,
+          "param": null,
+          "variable": false,
+          "text": "+54 to Maximum Fire Damage"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Fire Resist"
+        },
+        {
+          "code": "hp",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Life"
+        },
+        {
+          "code": "att",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60 to Attack Rating"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "res-fire",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +15%"
+        },
+        {
+          "code": "dmg%",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+80-100% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the tannr gorerod pike pik lanzas +23 to minimum fire damage +54 to maximum fire damage +15% to maximum fire resist +30 to life +60 to attack rating +3 to light radius fire resist +15% +80-100% enhanced damage"
+    },
+    {
+      "id": 201,
+      "name": "Peasent Crown",
+      "baseName": "War Hat",
+      "code": "xap",
+      "level": 36,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invcap.png",
+      "invfile": "invcap",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "45-53",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Energy"
+        },
+        {
+          "code": "vit",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Vitality"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "move2",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Faster Run/Walk"
+        },
+        {
+          "code": "regen",
+          "min": 6,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "Replenish Life +6-12"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "peasent crown war hat xap cascos +20 to energy +20 to vitality +1 to all skills +15% faster run/walk replenish life +6-12 +100% enhanced defense"
+    },
+    {
+      "id": 183,
+      "name": "Razorswitch",
+      "baseName": "Jo Staff",
+      "code": "8ss",
+      "level": 36,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-21",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "cast3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "thorns",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 15"
+        },
+        {
+          "code": "mana",
+          "min": 175,
+          "max": 175,
+          "param": null,
+          "variable": false,
+          "text": "+175 to Mana"
+        },
+        {
+          "code": "hp",
+          "min": 80,
+          "max": 80,
+          "param": null,
+          "variable": false,
+          "text": "+80 to Life"
+        },
+        {
+          "code": "red-mag",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 15"
+        },
+        {
+          "code": "res-all",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +50"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "razorswitch jo stalf 8ss bastones +30% faster cast rate attacker takes damage of 15 +175 to mana +80 to life magic damage reduced by 15 all resistances +50 +1 to all skills"
+    },
+    {
+      "id": 188,
+      "name": "Skystrike",
+      "baseName": "Edge Bow",
+      "code": "8sb",
+      "level": 36,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invsbw.png",
+      "invfile": "invsbw",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-19",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": 5,
+        "requiredStrength": 25,
+        "requiredDexterity": 43,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-250-1-250 Lightning Damage"
+        },
+        {
+          "code": "att",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 to Attack Rating"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "hit-skill",
+          "min": 2,
+          "max": 6,
+          "param": 56,
+          "variable": true,
+          "text": "2-6% Chance to cast level 2-6 [Skill] on striking (56)"
+        },
+        {
+          "code": "ama",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Amazon Skill Levels"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "skystrike edge bow 8sb arcos adds 1-250-1-250 lightning damage +100 to attack rating +10 to energy +30% increased attack speed +150-200% enhanced damage 2-6% chance to cast level 2-6 [skill] on striking (56) +1 to amazon skill levels"
+    },
+    {
+      "id": 209,
+      "name": "The Spirit Shroud",
+      "baseName": "Ghost Armor",
+      "code": "xui",
+      "level": 36,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invqlt.png",
+      "invfile": "invqlt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "102-117",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 38,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "red-mag",
+          "min": 7,
+          "max": 11,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 7-11"
+        },
+        {
+          "code": "regen",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +10"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "+150% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the spirit shroud ghost armor xui armaduras corporales cannot be frozen +1 to all skills magic damage reduced by 7-11 replenish life +10 +150% enhanced defense"
+    },
+    {
+      "id": 224,
+      "name": "Visceratuant",
+      "baseName": "Defender",
+      "code": "xuc",
+      "level": 36,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbucu.png",
+      "invfile": "invbucu",
+      "baseStats": {
+        "oneHandDamage": "8-12",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "41-49",
+        "durability": 68,
+        "speed": 0,
+        "requiredStrength": 38,
+        "requiredDexterity": 0,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "sor",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Sorceress Skill Levels"
+        },
+        {
+          "code": "block2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Block Rate"
+        },
+        {
+          "code": "block",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Increased Chance of Blocking"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150% Enhanced Defense"
+        },
+        {
+          "code": "light-thorns",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 10"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "visceratuant defender xuc escudos +1 to sorceress skill levels +30% faster block rate 30% increased chance of blocking +100-150% enhanced defense attacker takes lightning damage of 10"
+    },
+    {
+      "id": 66,
+      "name": "Blastbark",
+      "baseName": "Long War Bow",
+      "code": "lwb",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlwb.png",
+      "invfile": "invlwb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "3-23",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": 10,
+        "requiredStrength": 50,
+        "requiredDexterity": 65,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 130,
+          "param": null,
+          "variable": true,
+          "text": "+70-130% Enhanced Damage"
+        },
+        {
+          "code": "str",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Strength"
+        },
+        {
+          "code": "ama",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Amazon Skill Levels"
+        },
+        {
+          "code": "manasteal",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "3% Mana stolen per hit"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 16,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (16)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blastbark long war bow lwb arcos +70-130% enhanced damage +5 to strength +1 to amazon skill levels 3% mana stolen per hit +2 to [skill] ([class] only) (16)"
+    },
+    {
+      "id": 70,
+      "name": "Doomspittle",
+      "baseName": "Repeating Crossbow",
+      "code": "rxb",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invrxbu.png",
+      "invfile": "invrxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-12",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": -40,
+        "requiredStrength": 40,
+        "requiredDexterity": 50,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "ama",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Amazon Skill Levels"
+        },
+        {
+          "code": "pierce",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "hp",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Life"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+60-100% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "doomspittle repeating crossbow rxb ballestas +1 to amazon skill levels piercing attack +30% increased attack speed +15 to life +60-100% enhanced damage"
+    },
+    {
+      "id": 91,
+      "name": "Goldskin",
+      "baseName": "Full Plate Mail",
+      "code": "ful",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfulu.png",
+      "invfile": "invfulu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "150-161",
+        "durability": 70,
+        "speed": 10,
+        "requiredStrength": 80,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +35"
+        },
+        {
+          "code": "thorns",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 10"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "gold%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "goldskin full plate mail ful armaduras corporales +120-150% enhanced defense all resistances +35 attacker takes damage of 10 +2 to light radius 100% extra gold from monsters"
+    },
+    {
+      "id": 89,
+      "name": "Rockfleece",
+      "baseName": "Field Plate",
+      "code": "fld",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfld.png",
+      "invfile": "invfld",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "101-105",
+        "durability": 48,
+        "speed": 5,
+        "requiredStrength": 55,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -10,
+          "max": -10,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --10%"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 130,
+          "param": null,
+          "variable": true,
+          "text": "+100-130% Enhanced Defense"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 10%"
+        },
+        {
+          "code": "red-dmg",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 5"
+        },
+        {
+          "code": "str",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Strength"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rockfleece field plate fld armaduras corporales requirements --10% +100-130% enhanced defense damage reduced by 10% damage reduced by 5 +5 to strength"
+    },
+    {
+      "id": 58,
+      "name": "The Iron Jang Bong",
+      "baseName": "War Staff",
+      "code": "wst",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invwst.png",
+      "invfile": "invwst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "12-28",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 20,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "cast3",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Bonus to Attack Rating"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 48,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (48)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 46,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (46)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 44,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (44)"
+        },
+        {
+          "code": "sor",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Sorceress Skill Levels"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the iron jang bong war staff wst bastones +30 defense +20% faster cast rate +100% enhanced damage 50% bonus to attack rating +2 to [skill] ([class] only) (48) +2 to [skill] ([class] only) (46) +3 to [skill] ([class] only) (44) +2 to sorceress skill levels"
+    },
+    {
+      "id": 13,
+      "name": "Umes Lament",
+      "baseName": "Grim Wand",
+      "code": "gwn",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invgwn.png",
+      "invfile": "invgwn",
+      "baseStats": {
+        "oneHandDamage": "5-11",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": null,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Necromancer Skill Levels"
+        },
+        {
+          "code": "mana",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Mana"
+        },
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "howl",
+          "min": 64,
+          "max": 64,
+          "param": null,
+          "variable": false,
+          "text": "Hit Causes Monster to Flee 64%"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 77,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (77)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 87,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (87)"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "umes lament grim wand gwn varitas +2 to necromancer skill levels +40 to mana +20% faster cast rate hit causes monster to flee 64% +3 to [skill] ([class] only) (77) +2 to [skill] ([class] only) (87)"
+    },
+    {
+      "id": 92,
+      "name": "Victors Silk",
+      "baseName": "Ancient Armor",
+      "code": "aar",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invaaru.png",
+      "invfile": "invaaru",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "218-233",
+        "durability": 60,
+        "speed": 5,
+        "requiredStrength": 100,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+100-120% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "victors silk ancientarmor aar armaduras corporales 5% mana stolen per hit +1 to all skills +2 to light radius +100-120% enhanced defense"
+    },
+    {
+      "id": 52,
+      "name": "Woestave",
+      "baseName": "Halberd",
+      "code": "hal",
+      "level": 38,
+      "requiredLevel": 28,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invhal.png",
+      "invfile": "invhal",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "12-45",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": null,
+        "requiredStrength": 75,
+        "requiredDexterity": 47,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "slow",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 50%"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        },
+        {
+          "code": "stupidity",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +3"
+        },
+        {
+          "code": "dmg-ac",
+          "min": -50,
+          "max": -50,
+          "param": null,
+          "variable": false,
+          "text": "--50 to Monster Defense Per Hit"
+        },
+        {
+          "code": "freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +1"
+        },
+        {
+          "code": "light",
+          "min": -3,
+          "max": -3,
+          "param": null,
+          "variable": false,
+          "text": "+-3 to Light Radius"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "dmg%",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+20-40% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "woestave halberd hal armas de asta slows target by 50% 50% chance of open wounds hit blinds target +3 --50 to monster defense per hit freezes target +1 +-3 to light radius prevent monster heal +20-40% enhanced damage"
+    },
+    {
+      "id": 237,
+      "name": "Infernostride",
+      "baseName": "Demonhide Boots",
+      "code": "xlb",
+      "level": 37,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invlbt.png",
+      "invfile": "invlbt",
+      "baseStats": {
+        "oneHandDamage": "26-46",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "28-35",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 12,
+          "max": 33,
+          "param": null,
+          "variable": true,
+          "text": "Adds 12-33-12-33 Fire Damage"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Fire Resist"
+        },
+        {
+          "code": "res-fire",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +30%"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "gold%",
+          "min": 40,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "40-70% Extra Gold from Monsters"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Defense"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 8,
+          "param": 46,
+          "variable": true,
+          "text": "5-8% Chance to cast level 5-8 [Skill] when struck (46)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "infernostride demonhide boots xlb botas adds 12-33-12-33 fire damage +20% faster run/walk +10% to maximum fire resist fire resist +30% +2 to light radius +120-150% enhanced defense 40-70% extra gold from monsters +15 defense 5-8% chance to cast level 5-8 [skill] when struck (46)"
+    },
+    {
+      "id": 210,
+      "name": "Skin of the Vipermagi",
+      "baseName": "Serpentskin Armor",
+      "code": "xea",
+      "level": 37,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlea.png",
+      "invfile": "invlea",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "111-126",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 43,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 120,
+          "param": null,
+          "variable": false,
+          "text": "+120% Enhanced Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-35"
+        },
+        {
+          "code": "cast3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "red-mag",
+          "min": 9,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 9-13"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "skin of the vipermagi serpentskin armor xea armaduras corporales +120% enhanced defense all resistances +20-35 +30% faster cast rate magic damage reduced by 9-13 +1 to all skills"
+    },
+    {
+      "id": 242,
+      "name": "String of Ears",
+      "baseName": "Demonhide Sash",
+      "code": "zlb",
+      "level": 37,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invlbl.png",
+      "invfile": "invlbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "29-34",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "red-mag",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 10-15"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 10-15%"
+        },
+        {
+          "code": "lifesteal",
+          "min": 6,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "6-8% Life stolen per hit"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Defense"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Defense"
+        },
+        {
+          "code": "dur",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 10 of 10"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "string of ears demonhide sash zlb cintos magic damage reduced by 10-15 damage reduced by 10-15% 6-8% life stolen per hit +150-180% enhanced defense +15 defense durability: 10 of 10"
+    },
+    {
+      "id": 232,
+      "name": "Venom Grip",
+      "baseName": "Demonhide Gloves",
+      "code": "xlg",
+      "level": 37,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invlgl.png",
+      "invfile": "invlgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "28-35",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "res-pois",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +30%"
+        },
+        {
+          "code": "res-pois-max",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5% to Maximum Poison Resist"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 153,
+          "max": 153,
+          "param": 100,
+          "variable": false,
+          "text": "Adds 153-153 Poison Damage Over 153 Seconds (100)"
+        },
+        {
+          "code": "crush",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Chance of Crushing Blow"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 130,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+130-160% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "venom grip demonhide gloves xlg guantes poison resist +30% +5% to maximum poison resist adds 153-153 poison damage over 153 seconds (100) 5% chance of crushing blow 5% life stolen per hit +15-25 defense +130-160% enhanced defense"
+    },
+    {
+      "id": 116,
+      "name": "Bladebuckle",
+      "baseName": "Plated Belt",
+      "code": "hbl",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invhbl.png",
+      "invfile": "invhbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "8-11",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 60,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "thorns",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 8"
+        },
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "red-dmg",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 3"
+        },
+        {
+          "code": "str",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "ac%",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+80-100% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bladebuckle girdle hbl cintos attacker takes damage of 8 +30 defense damage reduced by 3 +5 to strength +10 to dexterity +80-100% enhanced defense +30% faster hit recovery"
+    },
+    {
+      "id": 32,
+      "name": "Culwens Point",
+      "baseName": "War Sword",
+      "code": "wsd",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invwsd.png",
+      "invfile": "invwsd",
+      "baseStats": {
+        "oneHandDamage": "8-20",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": null,
+        "requiredStrength": 71,
+        "requiredDexterity": 45,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "res-pois-len",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Length Reduced by 50%"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "att",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60 to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+70-80% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "culwens point war sword wsd espadas +1 to all skills poison length reduced by 50% +20% faster hit recovery +20% increased attack speed +60 to attack rating +70-80% enhanced damage"
+    },
+    {
+      "id": 106,
+      "name": "Frostburn",
+      "baseName": "Gauntlets",
+      "code": "hgl",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhgl.png",
+      "invfile": "invhgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "12-15",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 60,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "dmg%",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5% Enhanced Damage"
+        },
+        {
+          "code": "mana%",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 40%"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 1,
+          "max": 6,
+          "param": 50,
+          "variable": true,
+          "text": "Adds 1-6-1-6 Cold Damage (50)"
+        },
+        {
+          "code": "ac%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "frostburn gauntlets hgl guantes +30 defense +5% enhanced damage increase maximum mana 40% adds 1-6-1-6 cold damage (50) +10-20% enhanced defense"
+    },
+    {
+      "id": 93,
+      "name": "Heavenly Garb",
+      "baseName": "Light Plate",
+      "code": "ltp",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invltp.png",
+      "invfile": "invltp",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "90-107",
+        "durability": 60,
+        "speed": 0,
+        "requiredStrength": 41,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "regen-mana",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 25%"
+        },
+        {
+          "code": "enr",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Energy"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Damage to Undead"
+        },
+        {
+          "code": "att-undead",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 to Attack Rating against Undead"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "heavenly garb light plate ltp armaduras corporales +100% enhanced defense all resistances +10 regenerate mana 25% +15 to energy +50% damage to undead +100 to attack rating against undead"
+    },
+    {
+      "id": 90,
+      "name": "Rattlecage",
+      "baseName": "Gothic Plate",
+      "code": "gth",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgth.png",
+      "invfile": "invgth",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "128-135",
+        "durability": 55,
+        "speed": 5,
+        "requiredStrength": 70,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "howl",
+          "min": 52,
+          "max": 52,
+          "param": null,
+          "variable": false,
+          "text": "Hit Causes Monster to Flee 52%"
+        },
+        {
+          "code": "att",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "+45 to Attack Rating"
+        },
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "ac",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "rattlecage gothic plate gth armaduras corporales hit causes monster to flee 52% +45 to attack rating 25% chance of crushing blow +200 defense"
+    },
+    {
+      "id": 24,
+      "name": "Steeldriver",
+      "baseName": "Great Maul",
+      "code": "gma",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgma.png",
+      "invfile": "invgma",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "38-58",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 20,
+        "requiredStrength": 99,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -50,
+          "max": -50,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --50%"
+        },
+        {
+          "code": "swing3",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Increased Attack Speed"
+        },
+        {
+          "code": "regen-stam",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Heal Stamina Plus 25%"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steeldriver great maul gma mazas y martillos requirements --50% +40% increased attack speed heal stamina plus 25% +150-250% enhanced damage"
+    },
+    {
+      "id": 111,
+      "name": "Tearhaunch",
+      "baseName": "Greaves",
+      "code": "hbt",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhbt.png",
+      "invfile": "invhbt",
+      "baseStats": {
+        "oneHandDamage": "10-20",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "12-15",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 70,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 Defense"
+        },
+        {
+          "code": "str",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Dexterity"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "ac%",
+          "min": 60,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+60-80% Enhanced Defense"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 115,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (115)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "tearhaunch plate boots hbt botas +35 defense +5 to strength +5 to dexterity +20% faster run/walk all resistances +10 +60-80% enhanced defense +2 to [skill] ([class] only) (115)"
+    },
+    {
+      "id": 53,
+      "name": "The Grim Reaper",
+      "baseName": "War Scythe",
+      "code": "wsc",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invwsc.png",
+      "invfile": "invwsc",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "15-36",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": -10,
+        "requiredStrength": 80,
+        "requiredDexterity": 80,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "deadly",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Deadly Strike"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Enhanced Damage"
+        },
+        {
+          "code": "dmg-min",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Minimum Damage"
+        },
+        {
+          "code": "*hp",
+          "min": -20,
+          "max": -20,
+          "param": null,
+          "variable": false,
+          "text": "*Hp: -20"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the grim reaper war scythe wsc armas de asta 100% deadly strike prevent monster heal 5% mana stolen per hit +20% enhanced damage +15 to minimum damage *hp: -20"
+    },
+    {
+      "id": 9,
+      "name": "The Humongous",
+      "baseName": "Giant Axe",
+      "code": "gix",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgix.png",
+      "invfile": "invgix",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "22-45",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 70,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 to Strength"
+        },
+        {
+          "code": "dmg-min",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Minimum Damage"
+        },
+        {
+          "code": "dmg-max",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25 to Maximum Damage"
+        },
+        {
+          "code": "crush",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Crushing Blow"
+        },
+        {
+          "code": "ease",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Requirements -20%"
+        },
+        {
+          "code": "dmg%",
+          "min": 80,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+80-120% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the humongous giant axe gix hachas +20-30 to strength +8 to minimum damage +15-25 to maximum damage 33% chance of crushing blow requirements -20% +80-120% enhanced damage"
+    },
+    {
+      "id": 38,
+      "name": "The Patriarch",
+      "baseName": "Great Sword",
+      "code": "gsd",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Normal",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgsdu.png",
+      "invfile": "invgsdu",
+      "baseStats": {
+        "oneHandDamage": "12-20",
+        "twoHandDamage": "25-42",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 100,
+        "requiredDexterity": 60,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "red-dmg",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 3"
+        },
+        {
+          "code": "red-mag",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 3"
+        },
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "gold%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Extra Gold from Monsters"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+100-120% Enhanced Damage"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the patriarch great sword gsd espadas damage reduced by 3 magic damage reduced by 3 hit blinds target +1 100% extra gold from monsters +100-120% enhanced damage +10 to strength"
+    },
+    {
+      "id": 122,
+      "name": "The Stone of Jordan",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Mana"
+        },
+        {
+          "code": "mana%",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 25%"
+        },
+        {
+          "code": "ltng-min",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Minimum Lightning Damage"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "ltng-max",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Maximum Lightning Damage"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the stone of jordan ring rin anillos +20 to mana increase maximum mana 25% +1 to minimum lightning damage +1 to all skills +12 to maximum lightning damage"
+    },
+    {
+      "id": 77,
+      "name": "Undead Crown",
+      "baseName": "Crown",
+      "code": "crn",
+      "level": 39,
+      "requiredLevel": 29,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Normal",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invcrn.png",
+      "invfile": "invcrn",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "25-45",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 55,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "ac",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 Defense"
+        },
+        {
+          "code": "res-pois",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +50%"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "ac%",
+          "min": 30,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+30-60% Enhanced Defense"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Damage to Undead"
+        },
+        {
+          "code": "att-undead",
+          "min": 50,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+50-100 to Attack Rating against Undead"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 69,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (69)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "undead crown crown crn cascos 5% life stolen per hit +40 defense poison resist +50% half freeze duration +30-60% enhanced defense +50% damage to undead +50-100 to attack rating against undead +3 to [skill] ([class] only) (69)"
+    },
+    {
+      "id": 154,
+      "name": "Bloodletter",
+      "baseName": "Gladius",
+      "code": "9ss",
+      "level": 38,
+      "requiredLevel": 30,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invssd.png",
+      "invfile": "invssd",
+      "baseStats": {
+        "oneHandDamage": "8-22",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg-norm",
+          "min": 12,
+          "max": 45,
+          "param": null,
+          "variable": true,
+          "text": "Adds 12-45-12-45 Damage"
+        },
+        {
+          "code": "att",
+          "min": 90,
+          "max": 90,
+          "param": null,
+          "variable": false,
+          "text": "+90 to Attack Rating"
+        },
+        {
+          "code": "lifesteal",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "8% Life stolen per hit"
+        },
+        {
+          "code": "stamdrain",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Slower Stamina Drain"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 140,
+          "param": null,
+          "variable": false,
+          "text": "+140% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 4,
+          "param": 127,
+          "variable": true,
+          "text": "+2-4 to [Skill] ([Class] only) (127)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": 151,
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (151)"
+        },
+        {
+          "code": "dur",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 30 of 30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodletter gladius 9ss espadas adds 12-45-12-45 damage +90 to attack rating 8% life stolen per hit 10% slower stamina drain +20% increased attack speed +140% enhanced damage +2-4 to [skill] ([class] only) (127) +1-3 to [skill] ([class] only) (151) durability: 30 of 30"
+    },
+    {
+      "id": 155,
+      "name": "Coldsteel Eye",
+      "baseName": "Cutlass",
+      "code": "9sm",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscmu.png",
+      "invfile": "invscmu",
+      "baseStats": {
+        "oneHandDamage": "8-21",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 22,
+        "speed": -30,
+        "requiredStrength": 25,
+        "requiredDexterity": 52,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "slow",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 30%"
+        },
+        {
+          "code": "deadly",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Deadly Strike"
+        },
+        {
+          "code": "dur",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 50 of 50"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "manasteal",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "6% Mana stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "coldsteel eye cutlass 9sm espadas hit blinds target +1 slows target by 30% 50% deadly strike durability: 50 of 50 +200-250% enhanced damage +20% increased attack speed 6% mana stolen per hit"
+    },
+    {
+      "id": 225,
+      "name": "Mosers Blessed Circle",
+      "baseName": "Round Shield",
+      "code": "xml",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invxmlu.png",
+      "invfile": "invxmlu",
+      "baseStats": {
+        "oneHandDamage": "7-14",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "47-55",
+        "durability": 64,
+        "speed": 0,
+        "requiredStrength": 53,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +25"
+        },
+        {
+          "code": "block",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Increased Chance of Blocking"
+        },
+        {
+          "code": "sock",
+          "min": null,
+          "max": null,
+          "param": 2,
+          "variable": false,
+          "text": "Socketed (#) (2)"
+        },
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Block Rate"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "mosers blessed circle round shield xml escudos all resistances +25 25% increased chance of blocking socketed (#) (2) +180-220% enhanced defense +30% faster block rate"
+    },
+    {
+      "id": 184,
+      "name": "Ribcracker",
+      "baseName": "Quarterstaff",
+      "code": "8ls",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invlst.png",
+      "invfile": "invlst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "8-26",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-norm",
+          "min": 30,
+          "max": 65,
+          "param": null,
+          "variable": true,
+          "text": "Adds 30-65-30-65 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+200-300% Enhanced Damage"
+        },
+        {
+          "code": "crush",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Crushing Blow"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "ac",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Faster Hit Recovery"
+        },
+        {
+          "code": "swing2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "dur",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 100 of 100"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ribcracker quarterstaff 8ls bastones adds 30-65-30-65 damage +200-300% enhanced damage 50% chance of crushing blow +15 to dexterity +100 defense +100% enhanced defense +50% faster hit recovery +50% increased attack speed durability: 100 of 100"
+    },
+    {
+      "id": 189,
+      "name": "Riphook",
+      "baseName": "Razor Bow",
+      "code": "8hb",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invhbw.png",
+      "invfile": "invhbw",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "8-22",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": 62,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "openwounds",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Chance of Open Wounds"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Damage"
+        },
+        {
+          "code": "slow",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 30%"
+        },
+        {
+          "code": "mana",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 to Mana"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "7-10% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "riphook razor bow 8hb arcos 30% chance of open wounds +180-220% enhanced damage slows target by 30% +35 to mana +30% increased attack speed 7-10% life stolen per hit"
+    },
+    {
+      "id": 202,
+      "name": "Rockstopper",
+      "baseName": "Sallet",
+      "code": "xkp",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invxkpu.png",
+      "invfile": "invxkpu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "52-62",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 43,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "res-ltng",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Resist +20-40%"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 10%"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+160-220% Enhanced Defense"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +20-50%"
+        },
+        {
+          "code": "res-cold",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Cold Resist +20-40%"
+        },
+        {
+          "code": "vit",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Vitality"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rockstopper sallet xkp cascos lightning resist +20-40% damage reduced by 10% +30% faster hit recovery +160-220% enhanced defense fire resist +20-50% cold resist +20-40% +15 to vitality"
+    },
+    {
+      "id": 211,
+      "name": "Skin of the Flayerd One",
+      "baseName": "Demonhide Armor",
+      "code": "xla",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invhla.png",
+      "invfile": "invhla",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "122-136",
+        "durability": 28,
+        "speed": 0,
+        "requiredStrength": 50,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (10)"
+        },
+        {
+          "code": "regen",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "Replenish Life +15-25"
+        },
+        {
+          "code": "dur",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 30 of 30"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "5-7% Life stolen per hit"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Defense"
+        },
+        {
+          "code": "thorns",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 15"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "skin of the flayerd one demonhide armor xla armaduras corporales repairs 1 durability in # seconds (10) replenish life +15-25 durability: 30 of 30 5-7% life stolen per hit +150-190% enhanced defense attacker takes damage of 15"
+    },
+    {
+      "id": 172,
+      "name": "The Impaler",
+      "baseName": "War Spear",
+      "code": "9sr",
+      "level": 39,
+      "requiredLevel": 31,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invspr.png",
+      "invfile": "invspr",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-37",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": 25,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "att",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "+150 to Attack Rating"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "openwounds",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Chance of Open Wounds"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+140-170% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 5,
+          "max": 5,
+          "param": 19,
+          "variable": false,
+          "text": "+5 to [Skill] ([Class] only) (19)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 14,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (14)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the impaler war spear 9sr lanzas ignore target's defense +150 to attack rating +20% increased attack speed 40% chance of open wounds prevent monster heal +140-170% enhanced damage +5 to [skill] ([class] only) (19) +3 to [skill] ([class] only) (14)"
+    },
+    {
+      "id": 233,
+      "name": "Gravepalm",
+      "baseName": "Sharkskin Gloves",
+      "code": "xvg",
+      "level": 39,
+      "requiredLevel": 32,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invvgl.png",
+      "invfile": "invvgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "33-39",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 100,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+100-200% Damage to Undead"
+        },
+        {
+          "code": "att-undead",
+          "min": 100,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+100-200 to Attack Rating against Undead"
+        },
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+140-180% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gravepalm sharkskin gloves xvg guantes +10 to energy +10 to strength +100-200% damage to undead +100-200 to attack rating against undead +140-180% enhanced defense"
+    },
+    {
+      "id": 243,
+      "name": "Razortail",
+      "baseName": "Sharkskin Belt",
+      "code": "zvb",
+      "level": 39,
+      "requiredLevel": 32,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invvbl.png",
+      "invfile": "invvbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "31-36",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 20,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "thorns/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "Attacker Takes Damage of # (Based on Character Level) (8)"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "pierce",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "ac",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "dmg-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Maximum Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "razortail sharkskin belt zvb cintos attacker takes damage of # (based on character level) (8) +15 to dexterity piercing attack +15 defense +120-150% enhanced defense +10 to maximum damage"
+    },
+    {
+      "id": 196,
+      "name": "Langer Briser",
+      "baseName": "Arbalest",
+      "code": "8lx",
+      "level": 40,
+      "requiredLevel": 32,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv8lxu.png",
+      "invfile": "inv8lxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-27",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 52,
+        "requiredDexterity": 61,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "dmg%",
+          "min": 170,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+170-200% Enhanced Damage"
+        },
+        {
+          "code": "mag%",
+          "min": 30,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "30-60% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "hp",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Life"
+        },
+        {
+          "code": "dmg-max",
+          "min": 10,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+10-30 to Maximum Damage"
+        },
+        {
+          "code": "openwounds",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Open Wounds"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 212,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-212-1-212 Lightning Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "langer briser arbalest 8lx ballestas knockback +170-200% enhanced damage 30-60% better chance of getting magic items +30 to life +10-30 to maximum damage 33% chance of open wounds adds 1-212-1-212 lightning damage"
+    },
+    {
+      "id": 168,
+      "name": "Spineripper",
+      "baseName": "Poignard",
+      "code": "9dg",
+      "level": 40,
+      "requiredLevel": 32,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invdgr.png",
+      "invfile": "invdgr",
+      "baseStats": {
+        "oneHandDamage": "6-18",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 16,
+        "speed": -20,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "lifesteal",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "8% Life stolen per hit"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "swing3",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Increased Attack Speed"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+200-240% Enhanced Damage"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 15,
+          "max": 27,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-27-15-27 Damage"
+        },
+        {
+          "code": "nec",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Necromancer Skill Levels"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spineripper poignard 9dg dagas ignore target's defense 8% life stolen per hit prevent monster heal +15% increased attack speed +10 to dexterity +200-240% enhanced damage adds 15-27-15-27 damage +1 to necromancer skill levels"
+    },
+    {
+      "id": 238,
+      "name": "Waterwalk",
+      "baseName": "Sharkskin Boots",
+      "code": "xvb",
+      "level": 40,
+      "requiredLevel": 32,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invvbt.png",
+      "invfile": "invvbt",
+      "baseStats": {
+        "oneHandDamage": "28-50",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "33-39",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 47,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac-miss",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 Defense vs. Missile"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 210,
+          "param": null,
+          "variable": true,
+          "text": "+180-210% Enhanced Defense"
+        },
+        {
+          "code": "hp",
+          "min": 45,
+          "max": 65,
+          "param": null,
+          "variable": true,
+          "text": "+45-65 to Life"
+        },
+        {
+          "code": "stam",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 Maximum Stamina"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5% to Maximum Fire Resist"
+        },
+        {
+          "code": "regen-stam",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Heal Stamina Plus 50%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "waterwalk sharkskin boots xvb botas +100 defense vs. missile +20% faster run/walk +15 to dexterity +180-210% enhanced defense +45-65 to life +40 maximum stamina +5% to maximum fire resist heal stamina plus 50%"
+    },
+    {
+      "id": 156,
+      "name": "Hexfire",
+      "baseName": "Shamshir",
+      "code": "9sb",
+      "level": 41,
+      "requiredLevel": 33,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsbru.png",
+      "invfile": "invsbru",
+      "baseStats": {
+        "oneHandDamage": "10-24",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": -10,
+        "requiredStrength": 58,
+        "requiredDexterity": 58,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "charged",
+          "min": 36,
+          "max": 6,
+          "param": 62,
+          "variable": true,
+          "text": "Level 36-6 [Skill] (36-6/36-6 Charges) (62)"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "res-fire",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +25%"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Fire Resist"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 35,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Adds 35-40-35-40 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+140-160% Enhanced Damage"
+        },
+        {
+          "code": "fireskill",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Fire Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hexfire shamshir 9sb espadas level 36-6 [skill] (36-6/36-6 charges) (62) ignore target's defense fire resist +25% +10% to maximum fire resist adds 35-40-35-40 damage +140-160% enhanced damage +3 to fire skills"
+    },
+    {
+      "id": 212,
+      "name": "Ironpelt",
+      "baseName": "Trellised Armor",
+      "code": "xtu",
+      "level": 41,
+      "requiredLevel": 33,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invxtuu.png",
+      "invfile": "invxtuu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "138-153",
+        "durability": 32,
+        "speed": 0,
+        "requiredStrength": 61,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dur",
+          "min": 125,
+          "max": 125,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 125 of 125"
+        },
+        {
+          "code": "hp",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Life"
+        },
+        {
+          "code": "red-mag",
+          "min": 10,
+          "max": 16,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 10-16"
+        },
+        {
+          "code": "red-dmg",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 15-20"
+        },
+        {
+          "code": "ac/lvl",
+          "min": null,
+          "max": null,
+          "param": 24,
+          "variable": false,
+          "text": "+# Defense (Based on Character Level) (24)"
+        },
+        {
+          "code": "ac%",
+          "min": 50,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+50-100% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ironpelt tresllised armor xtu armaduras corporales durability: 125 of 125 +25 to life magic damage reduced by 10-16 damage reduced by 15-20 +# defense (based on character level) (24) +50-100% enhanced defense"
+    },
+    {
+      "id": 173,
+      "name": "Kelpie Snare",
+      "baseName": "Fuscina",
+      "code": "9tr",
+      "level": 41,
+      "requiredLevel": 33,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invtriu.png",
+      "invfile": "invtriu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "19-37",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": null,
+        "requiredStrength": 77,
+        "requiredDexterity": 25,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "slow",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 75%"
+        },
+        {
+          "code": "res-fire",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +50%"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (10)"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 30-50-30-50 Damage"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+140-180% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "kelpie snare fuscina 9tr lanzas slows target by 75% fire resist +50% +# to life (based on character level) (10) adds 30-50-30-50 damage +10 to strength +140-180% enhanced damage"
+    },
+    {
+      "id": 190,
+      "name": "Kuko Shakaku",
+      "baseName": "Cedar Bow",
+      "code": "8lb",
+      "level": 41,
+      "requiredLevel": 33,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/inv8lbu.png",
+      "invfile": "inv8lbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-29",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 53,
+        "requiredDexterity": 49,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 27,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (27)"
+        },
+        {
+          "code": "explosivearrow",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "Fires Explosive Arrows or Bolts"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Damage"
+        },
+        {
+          "code": "pierce",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 40,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "Adds 40-180-40-180 Fire Damage"
+        },
+        {
+          "code": "skilltab",
+          "min": 3,
+          "max": 3,
+          "param": 0,
+          "variable": false,
+          "text": "+3 to [Class Skill Tab] Skills (0)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "kuko shakaku cedarbow 8lb arcos +3 to [skill] ([class] only) (27) fires explosive arrows or bolts +150-180% enhanced damage piercing attack adds 40-180-40-180 fire damage +3 to [class skill tab] skills (0)"
+    },
+    {
+      "id": 139,
+      "name": "Suicide Branch",
+      "baseName": "Burnt Wand",
+      "code": "9wn",
+      "level": 41,
+      "requiredLevel": 33,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invwnd.png",
+      "invfile": "invwnd",
+      "baseStats": {
+        "oneHandDamage": "8-18",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "thorns",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 25"
+        },
+        {
+          "code": "cast2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Faster Cast Rate"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "mana%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 10%"
+        },
+        {
+          "code": "hp",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Life"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "suicide branch burnt wand 9wn varitas attacker takes damage of 25 +50% faster cast rate all resistances +10 increase maximum mana 10% +40 to life +1 to all skills"
+    },
+    {
+      "id": 143,
+      "name": "Dark Clan Crusher",
+      "baseName": "Cudgel",
+      "code": "9cl",
+      "level": 42,
+      "requiredLevel": 34,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invclbu.png",
+      "invfile": "invclbu",
+      "baseStats": {
+        "oneHandDamage": "6-21",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dru",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Druid Skill Levels"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200% Damage to Demons"
+        },
+        {
+          "code": "att-demon",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200 to Attack Rating against Demons"
+        },
+        {
+          "code": "dmg%",
+          "min": 195,
+          "max": 195,
+          "param": null,
+          "variable": false,
+          "text": "+195% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "20-25% Bonus to Attack Rating"
+        },
+        {
+          "code": "demon-heal",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Life after each Demon Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "dark clan crusher cudgel 9cl mazas y martillos +2 to druid skill levels +200% damage to demons +200 to attack rating against demons +195% enhanced damage 20-25% bonus to attack rating +15 life after each demon kill"
+    },
+    {
+      "id": 157,
+      "name": "Blade of Ali Baba",
+      "baseName": "Tulwar",
+      "code": "9fc",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invflc.png",
+      "invfile": "invflc",
+      "baseStats": {
+        "oneHandDamage": "16-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": 20,
+        "requiredStrength": 70,
+        "requiredDexterity": 42,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "sock",
+          "min": null,
+          "max": null,
+          "param": 3,
+          "variable": false,
+          "text": "Socketed (#) (3)"
+        },
+        {
+          "code": "gold%/lvl",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "#% Extra Gold from Monsters (Based on Character Level) (20)"
+        },
+        {
+          "code": "mag%/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "#% Better Chance of Getting Magic Items (Based on Character Level) (8)"
+        },
+        {
+          "code": "mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Mana"
+        },
+        {
+          "code": "dmg%",
+          "min": 60,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+60-120% Enhanced Damage"
+        },
+        {
+          "code": "dex",
+          "min": 5,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+5-15 to Dexterity"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blade of ali baba tulwar 9fc espadas socketed (#) (3) #% extra gold from monsters (based on character level) (20) #% better chance of getting magic items (based on character level) (8) +15 to mana +60-120% enhanced damage +5-15 to dexterity"
+    },
+    {
+      "id": 140,
+      "name": "Carin Shard",
+      "baseName": "Petrified Wand",
+      "code": "9yw",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invywn.png",
+      "invfile": "invywn",
+      "baseStats": {
+        "oneHandDamage": "8-24",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": 10,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (10)"
+        },
+        {
+          "code": "cast2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Cast Rate"
+        },
+        {
+          "code": "mana/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Mana (Based on Character Level) (10)"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "regen",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +5"
+        },
+        {
+          "code": "nec",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Necromancer Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 8,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (8)"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "carin shard petrified wand 9yw varitas +# to life (based on character level) (10) +10% faster cast rate +# to mana (based on character level) (10) +30% faster hit recovery replenish life +5 +1 to necromancer skill levels +2 to [class skill tab] skills (8)"
+    },
+    {
+      "id": 185,
+      "name": "Chromatic Ire",
+      "baseName": "Cedar Staff",
+      "code": "8cs",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invcstu.png",
+      "invfile": "invcstu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "11-32",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": 10,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "sor",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Sorceress Skill Levels"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-40"
+        },
+        {
+          "code": "cast1",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "light-thorns",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 20"
+        },
+        {
+          "code": "hp%",
+          "min": 20,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "Increase Maximum Life 20-25%"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 61,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (61)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 63,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (63)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 65,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (65)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "chromatic ire cedar staff 8cs bastones +3 to sorceress skill levels all resistances +20-40 +20% faster cast rate attacker takes lightning damage of 20 increase maximum life 20-25% +1 to [skill] ([class] only) (61) +1 to [skill] ([class] only) (63) +1 to [skill] ([class] only) (65)"
+    },
+    {
+      "id": 231,
+      "name": "Lance Guard",
+      "baseName": "Barbed Shield",
+      "code": "xpk",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invxpku.png",
+      "invfile": "invxpku",
+      "baseStats": {
+        "oneHandDamage": "18-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "58-78",
+        "durability": 55,
+        "speed": 0,
+        "requiredStrength": 65,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "hp",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Life"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Damage Taken Goes To Mana"
+        },
+        {
+          "code": "thorns",
+          "min": 47,
+          "max": 47,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 47"
+        },
+        {
+          "code": "ac%",
+          "min": 70,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+70-120% Enhanced Defense"
+        },
+        {
+          "code": "deadly",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Deadly Strike"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lance guard barbed shield xpk escudos +50 to life +30% faster hit recovery 15% damage taken goes to mana attacker takes damage of 47 +70-120% enhanced defense 20% deadly strike"
+    },
+    {
+      "id": 174,
+      "name": "Soulfeast Tine",
+      "baseName": "War Fork",
+      "code": "9br",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/inv9bru.png",
+      "invfile": "inv9bru",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "16-40",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": -20,
+        "requiredStrength": 80,
+        "requiredDexterity": 95,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -20,
+          "max": -20,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --20%"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "7% Life stolen per hit"
+        },
+        {
+          "code": "manasteal",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "7% Mana stolen per hit"
+        },
+        {
+          "code": "stamdrain",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Slower Stamina Drain"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Damage"
+        },
+        {
+          "code": "att",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250 to Attack Rating"
+        },
+        {
+          "code": "dur",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 15 of 15"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "soulfeast tine war fork 9br lanzas requirements --20% 7% life stolen per hit 7% mana stolen per hit 20% slower stamina drain +150-190% enhanced damage +150-250 to attack rating durability: 15 of 15"
+    },
+    {
+      "id": 213,
+      "name": "Spiritforge",
+      "baseName": "Linked Mail",
+      "code": "xng",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invrng.png",
+      "invfile": "invrng",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "158-172",
+        "durability": 26,
+        "speed": 5,
+        "requiredStrength": 74,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (10)"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 20,
+          "max": 65,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-65-20-65 Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +5%"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+120-160% Enhanced Defense"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "sock",
+          "min": null,
+          "max": null,
+          "param": 2,
+          "variable": false,
+          "text": "Socketed (#) (2)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spiritforge linked mail xng armaduras corporales +4 to light radius +# to life (based on character level) (10) adds 20-65-20-65 fire damage fire resist +5% +120-160% enhanced defense +15 to strength socketed (#) (2)"
+    },
+    {
+      "id": 203,
+      "name": "Stealskull",
+      "baseName": "Casque",
+      "code": "xlm",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhlmu.png",
+      "invfile": "invhlmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "63-72",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 59,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Life stolen per hit"
+        },
+        {
+          "code": "balance2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Hit Recovery"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "ac%",
+          "min": 200,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+200-240% Enhanced Defense"
+        },
+        {
+          "code": "mag%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "30-50% Better Chance of Getting Magic Items"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stealskull casque xlm cascos 5% mana stolen per hit 5% life stolen per hit +10% faster hit recovery +10% increased attack speed +200-240% enhanced defense 30-50% better chance of getting magic items"
+    },
+    {
+      "id": 226,
+      "name": "Stormchaser",
+      "baseName": "Scutum",
+      "code": "xrg",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invxrgu.png",
+      "invfile": "invxrgu",
+      "baseStats": {
+        "oneHandDamage": "11-15",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "53-61",
+        "durability": 62,
+        "speed": 5,
+        "requiredStrength": 71,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-60-1-60 Lightning Damage"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "res-ltng",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +50%"
+        },
+        {
+          "code": "att",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "+150 to Attack Rating"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+160-220% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Block Rate"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 4,
+          "max": 6,
+          "param": 59,
+          "variable": true,
+          "text": "4-6% Chance to cast level 4-6 [Skill] when struck (59)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 4,
+          "max": 5,
+          "param": 245,
+          "variable": true,
+          "text": "4-5% Chance to cast level 4-5 [Skill] when struck (245)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormchaser scutum xrg escudos adds 1-60-1-60 lightning damage 20% increased chance of blocking half freeze duration lightning resist +50% +150 to attack rating +160-220% enhanced defense +10% faster block rate 4-6% chance to cast level 4-6 [skill] when struck (59) 4-5% chance to cast level 4-5 [skill] when struck (245)"
+    },
+    {
+      "id": 134,
+      "name": "Warlord's Trust",
+      "baseName": "Military Axe",
+      "code": "9la",
+      "level": 43,
+      "requiredLevel": 35,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlax.png",
+      "invfile": "invlax",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-34",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 73,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "+75 Defense"
+        },
+        {
+          "code": "regen",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +20"
+        },
+        {
+          "code": "vit/lvl",
+          "min": null,
+          "max": null,
+          "param": 4,
+          "variable": false,
+          "text": "+# to Vitality (Based on Character Level) (4)"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +10"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 25,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (25)"
+        },
+        {
+          "code": "dmg%",
+          "min": 175,
+          "max": 175,
+          "param": null,
+          "variable": false,
+          "text": "+175% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "warlord's trust military axe 9la hachas +75 defense replenish life +20 +# to vitality (based on character level) (4) all resistances +10 repairs 1 durability in # seconds (25) +175% enhanced damage"
+    },
+    {
+      "id": 141,
+      "name": "Arm of King Leoric",
+      "baseName": "Tomb Wand",
+      "code": "9bw",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invbwnu.png",
+      "invfile": "invbwnu",
+      "baseStats": {
+        "oneHandDamage": "10-22",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": -20,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 8,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (8)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 10,
+          "param": 93,
+          "variable": true,
+          "text": "5-10% Chance to cast level 5-10 [Skill] when struck (93)"
+        },
+        {
+          "code": "mana/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Mana (Based on Character Level) (10)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 10,
+          "max": 2,
+          "param": 88,
+          "variable": true,
+          "text": "10-2% Chance to cast level 10-2 [Skill] when struck (88)"
+        },
+        {
+          "code": "cast1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Cast Rate"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 7,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (7)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 77,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (77)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 80,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (80)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 69,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (69)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 70,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (70)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "arm of king leoric tomb wand 9bw varitas +2 to [class skill tab] skills (8) 5-10% chance to cast level 5-10 [skill] when struck (93) +# to mana (based on character level) (10) 10-2% chance to cast level 10-2 [skill] when struck (88) +10% faster cast rate +2 to [class skill tab] skills (7) +2 to [skill] ([class] only) (77) +2 to [skill] ([class] only) (80) +3 to [skill] ([class] only) (69) +3 to [skill] ([class] only) (70)"
+    },
+    {
+      "id": 129,
+      "name": "Coldkill",
+      "baseName": "Hatchet",
+      "code": "9ha",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invhaxu.png",
+      "invfile": "invhaxu",
+      "baseStats": {
+        "oneHandDamage": "10-21",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": 25,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg-cold",
+          "min": 40,
+          "max": 40,
+          "param": 50,
+          "variable": false,
+          "text": "Adds 40-40 Cold Damage (50)"
+        },
+        {
+          "code": "res-cold",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +15%"
+        },
+        {
+          "code": "res-cold-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Cold Resist"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "hit-skill",
+          "min": 10,
+          "max": 10,
+          "param": 45,
+          "variable": false,
+          "text": "10% Chance to cast level 10 [Skill] on striking (45)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 10,
+          "max": 5,
+          "param": 44,
+          "variable": true,
+          "text": "10-5% Chance to cast level 10-5 [Skill] when struck (44)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "coldkill hatchet 9ha hachas adds 40-40 cold damage (50) cold resist +15% +15% to maximum cold resist +30% increased attack speed 10% chance to cast level 10 [skill] on striking (45) 10-5% chance to cast level 10-5 [skill] when struck (44) +150-190% enhanced damage"
+    },
+    {
+      "id": 191,
+      "name": "Endlesshail",
+      "baseName": "Double Bow",
+      "code": "8cb",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invcbwu.png",
+      "invfile": "invcbwu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "11-26",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 36,
+        "speed": -10,
+        "requiredStrength": 58,
+        "requiredDexterity": 73,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "res-cold",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +35%"
+        },
+        {
+          "code": "mana",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Mana"
+        },
+        {
+          "code": "ac-miss",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense vs. Missile"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 5,
+          "param": 26,
+          "variable": true,
+          "text": "+3-5 to [Skill] ([Class] only) (26)"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Damage"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 15,
+          "max": 30,
+          "param": 75,
+          "variable": true,
+          "text": "Adds 15-30-15-30 Cold Damage (75)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "endlesshail double bow 8cb arcos cold resist +35% +40 to mana +50 defense vs. missile +3-5 to [skill] ([class] only) (26) +180-220% enhanced damage adds 15-30-15-30 cold damage (75)"
+    },
+    {
+      "id": 234,
+      "name": "Ghoulhide",
+      "baseName": "Heavy Bracers",
+      "code": "xmg",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmgl.png",
+      "invfile": "invmgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "37-44",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 58,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "att-und/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+# to Attack Rating against Undead (Based on Character Level) (16)"
+        },
+        {
+          "code": "dmg-und/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+#% Damage to Undead (Based on Character Level) (16)"
+        },
+        {
+          "code": "manasteal",
+          "min": 4,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "4-5% Mana stolen per hit"
+        },
+        {
+          "code": "hp",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Life"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ghoulhide heavy bracers xmg guantes +# to attack rating against undead (based on character level) (16) +#% damage to undead (based on character level) (16) 4-5% mana stolen per hit +20 to life +150-190% enhanced defense"
+    },
+    {
+      "id": 169,
+      "name": "Heart Carver",
+      "baseName": "Rondel",
+      "code": "9di",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invdir.png",
+      "invfile": "invdir",
+      "baseStats": {
+        "oneHandDamage": "10-26",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": 58,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "deadly",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "35% Deadly Strike"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-35-15-35 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+190-240% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 4,
+          "param": 131,
+          "variable": false,
+          "text": "+4 to [Skill] ([Class] only) (131)"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 4,
+          "param": 142,
+          "variable": false,
+          "text": "+4 to [Skill] ([Class] only) (142)"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 4,
+          "param": 150,
+          "variable": false,
+          "text": "+4 to [Skill] ([Class] only) (150)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "heart carver rondel 9di dagas 35% deadly strike ignore target's defense adds 15-35-15-35 damage +190-240% enhanced damage +4 to [skill] ([class] only) (131) +4 to [skill] ([class] only) (142) +4 to [skill] ([class] only) (150)"
+    },
+    {
+      "id": 197,
+      "name": "Pus Spiter",
+      "baseName": "Siege Crossbow",
+      "code": "8mx",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv8mxu.png",
+      "invfile": "inv8mxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "20-42",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": null,
+        "requiredStrength": 80,
+        "requiredDexterity": 70,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 192,
+          "max": 192,
+          "param": 200,
+          "variable": false,
+          "text": "Adds 192-192 Poison Damage Over 192 Seconds (200)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 4,
+          "max": 1,
+          "param": 91,
+          "variable": true,
+          "text": "4-1% Chance to cast level 4-1 [Skill] on striking (91)"
+        },
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Necromancer Skill Levels"
+        },
+        {
+          "code": "ease",
+          "min": -60,
+          "max": -60,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --60%"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 9,
+          "max": 6,
+          "param": 92,
+          "variable": true,
+          "text": "9-6% Chance to cast level 9-6 [Skill] when struck (92)"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+150-220% Enhanced Damage"
+        },
+        {
+          "code": "att/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Attack Rating (Based on Character Level) (10)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "pus spiter siege crossbow 8mx ballestas adds 192-192 poison damage over 192 seconds (200) 4-1% chance to cast level 4-1 [skill] on striking (91) +2 to necromancer skill levels requirements --60% 9-6% chance to cast level 9-6 [skill] when struck (92) +10% increased attack speed +150-220% enhanced damage +# to attack rating (based on character level) (10)"
+    },
+    {
+      "id": 239,
+      "name": "Silkweave",
+      "baseName": "Mesh Boots",
+      "code": "xmb",
+      "level": 44,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmbt.png",
+      "invfile": "invmbt",
+      "baseStats": {
+        "oneHandDamage": "23-52",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "37-44",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 65,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Defense"
+        },
+        {
+          "code": "mana-kill",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Mana after each Kill"
+        },
+        {
+          "code": "ac-miss",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200 Defense vs. Missile"
+        },
+        {
+          "code": "mana%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 10%"
+        },
+        {
+          "code": "move2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "silkweave mesh boots xmb botas +150-190% enhanced defense +5 to mana after each kill +200 defense vs. missile increase maximum mana 10% +30% faster run/walk"
+    },
+    {
+      "id": 244,
+      "name": "Gloomstrap",
+      "baseName": "Mesh Belt",
+      "code": "zmb",
+      "level": 45,
+      "requiredLevel": 36,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invmbl.png",
+      "invfile": "invmbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "35-40",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 58,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": -3,
+          "max": -3,
+          "param": null,
+          "variable": false,
+          "text": "+-3 to Light Radius"
+        },
+        {
+          "code": "mana%",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 15%"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "vit",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Vitality"
+        },
+        {
+          "code": "regen-mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 15%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gloomstrap mesh belt zmb cintos +-3 to light radius increase maximum mana 15% 5% mana stolen per hit +120-150% enhanced defense +15 to vitality regenerate mana 15%"
+    },
+    {
+      "id": 214,
+      "name": "Crow Caw",
+      "baseName": "Tigulated Mail",
+      "code": "xcl",
+      "level": 45,
+      "requiredLevel": 37,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invscl.png",
+      "invfile": "invscl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "176-190",
+        "durability": 36,
+        "speed": 10,
+        "requiredStrength": 86,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "openwounds",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "35% Chance of Open Wounds"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Defense"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "balance2",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Faster Hit Recovery"
+        },
+        {
+          "code": "swing2",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Increased Attack Speed"
+        },
+        {
+          "code": "*charged",
+          "min": 3,
+          "max": 5,
+          "param": 221,
+          "variable": true,
+          "text": "*Charged: 3-5 (221)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crow caw tigulated mail xcl armaduras corporales 35% chance of open wounds +150-180% enhanced defense +15 to dexterity +15% faster hit recovery +15% increased attack speed *charged: 3-5 (221)"
+    },
+    {
+      "id": 158,
+      "name": "Ginther's Rift",
+      "baseName": "Dimensional Blade",
+      "code": "9cr",
+      "level": 45,
+      "requiredLevel": 37,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv9cru.png",
+      "invfile": "inv9cru",
+      "baseStats": {
+        "oneHandDamage": "13-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 20,
+        "speed": null,
+        "requiredStrength": 85,
+        "requiredDexterity": 60,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "red-mag",
+          "min": 7,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 7-12"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (20)"
+        },
+        {
+          "code": "dur",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 40 of 40"
+        },
+        {
+          "code": "dmg-mag",
+          "min": 50,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "Adds 50-120-50-120 Magic Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ginther's rift dimensional blade 9cr espadas magic damage reduced by 7-12 +30% increased attack speed repairs 1 durability in # seconds (20) durability: 40 of 40 adds 50-120-50-120 magic damage +100-150% enhanced damage"
+    },
+    {
+      "id": 175,
+      "name": "Hone Sundan",
+      "baseName": "Yari",
+      "code": "9st",
+      "level": 45,
+      "requiredLevel": 37,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invspt.png",
+      "invfile": "invspt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "29-59",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 101,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "sock",
+          "min": null,
+          "max": null,
+          "param": 3,
+          "variable": false,
+          "text": "Socketed (#) (3)"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-40-20-40 Damage"
+        },
+        {
+          "code": "crush",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "45% Chance of Crushing Blow"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (10)"
+        },
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hone sundan yari 9st lanzas socketed (#) (3) adds 20-40-20-40 damage 45% chance of crushing blow repairs 1 durability in # seconds (10) +160-200% enhanced damage"
+    },
+    {
+      "id": 144,
+      "name": "Zakarum's Hand",
+      "baseName": "Rune Scepter",
+      "code": "9sc",
+      "level": 45,
+      "requiredLevel": 37,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscp.png",
+      "invfile": "invscp",
+      "baseStats": {
+        "oneHandDamage": "13-24",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 58,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "8% Mana stolen per hit"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "regen-mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 10%"
+        },
+        {
+          "code": "regen-stam",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Heal Stamina Plus 15%"
+        },
+        {
+          "code": "hit-skill",
+          "min": 6,
+          "max": 5,
+          "param": 59,
+          "variable": true,
+          "text": "6-5% Chance to cast level 6-5 [Skill] on striking (59)"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 114,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (114)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 118,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (118)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "zakarum's hand rune scepter 9sc cetros 8% mana stolen per hit ignore target's defense regenerate mana 10% heal stamina plus 15% 6-5% chance to cast level 6-5 [skill] on striking (59) +180-220% enhanced damage +30% increased attack speed +2 to [skill] ([class] only) (114) +2 to [skill] ([class] only) (118)"
+    },
+    {
+      "id": 170,
+      "name": "Blackbog's Sharp",
+      "baseName": "Cinquedeas",
+      "code": "9kr",
+      "level": 46,
+      "requiredLevel": 38,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invkrsu.png",
+      "invfile": "invkrsu",
+      "baseStats": {
+        "oneHandDamage": "15-31",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": -20,
+        "requiredStrength": 25,
+        "requiredDexterity": 88,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "slow",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 50%"
+        },
+        {
+          "code": "ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 15,
+          "max": 45,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-45-15-45 Damage"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 500,
+          "max": 500,
+          "param": 250,
+          "variable": false,
+          "text": "Adds 500-500 Poison Damage Over 500 Seconds (250)"
+        },
+        {
+          "code": "skill",
+          "min": 5,
+          "max": 5,
+          "param": 73,
+          "variable": false,
+          "text": "+5 to [Skill] ([Class] only) (73)"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 4,
+          "param": 83,
+          "variable": false,
+          "text": "+4 to [Skill] ([Class] only) (83)"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 4,
+          "param": 92,
+          "variable": false,
+          "text": "+4 to [Skill] ([Class] only) (92)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blackbog's sharp cinquedeas 9kr dagas slows target by 50% +50 defense adds 15-45-15-45 damage +30% increased attack speed adds 500-500 poison damage over 500 seconds (250) +5 to [skill] ([class] only) (73) +4 to [skill] ([class] only) (83) +4 to [skill] ([class] only) (92)"
+    },
+    {
+      "id": 204,
+      "name": "Darksight Helm",
+      "baseName": "Basinet",
+      "code": "xhl",
+      "level": 46,
+      "requiredLevel": 38,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invfhlu.png",
+      "invfile": "invfhlu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "75-84",
+        "durability": 30,
+        "speed": 0,
+        "requiredStrength": 82,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": -4,
+          "max": -4,
+          "param": null,
+          "variable": false,
+          "text": "+-4 to Light Radius"
+        },
+        {
+          "code": "ac/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+# Defense (Based on Character Level) (16)"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "5% Mana stolen per hit"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 6,
+          "max": 3,
+          "param": 71,
+          "variable": true,
+          "text": "6-3% Chance to cast level 6-3 [Skill] when struck (71)"
+        },
+        {
+          "code": "charged",
+          "min": 30,
+          "max": 5,
+          "param": 264,
+          "variable": true,
+          "text": "Level 30-5 [Skill] (30-5/30-5 Charges) (264)"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +20-40%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "darksight helm basinet xhl cascos +-4 to light radius +# defense (based on character level) (16) cannot be frozen 5% mana stolen per hit 6-3% chance to cast level 6-3 [skill] when struck (71) level 30-5 [skill] (30-5/30-5 charges) (264) fire resist +20-40%"
+    },
+    {
+      "id": 147,
+      "name": "Fleshrender",
+      "baseName": "Barbed Club",
+      "code": "9sp",
+      "level": 46,
+      "requiredLevel": 38,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invspcu.png",
+      "invfile": "invspcu",
+      "baseStats": {
+        "oneHandDamage": "13-25",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 36,
+        "speed": null,
+        "requiredStrength": 30,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "openwounds",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Open Wounds"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "crush",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Chance of Crushing Blow"
+        },
+        {
+          "code": "deadly",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Deadly Strike"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 35,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 35-50-35-50 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 130,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+130-200% Enhanced Damage"
+        },
+        {
+          "code": "dru",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Druid Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 16,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (16)"
+        },
+        {
+          "code": "dur",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 20 of 20"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "fleshrender barbed club 9sp mazas y martillos 25% chance of open wounds prevent monster heal 20% chance of crushing blow 20% deadly strike adds 35-50-35-50 damage +130-200% enhanced damage +1 to druid skill levels +2 to [class skill tab] skills (16) durability: 20 of 20"
+    },
+    {
+      "id": 215,
+      "name": "Shaftstop",
+      "baseName": "Mesh Armor",
+      "code": "xhn",
+      "level": 46,
+      "requiredLevel": 38,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invchn.png",
+      "invfile": "invchn",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "198-213",
+        "durability": 45,
+        "speed": 5,
+        "requiredStrength": 92,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac-miss",
+          "min": 250,
+          "max": 250,
+          "param": null,
+          "variable": false,
+          "text": "+250 Defense vs. Missile"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 30%"
+        },
+        {
+          "code": "hp",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60 to Life"
+        },
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "shaftstop mesh armor xhn armaduras corporales +250 defense vs. missile damage reduced by 30% +60 to life +180-220% enhanced defense"
+    },
+    {
+      "id": 145,
+      "name": "The Fetid Sprinkler",
+      "baseName": "Holy Water Sprinkler",
+      "code": "9qs",
+      "level": 46,
+      "requiredLevel": 38,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invgsc.png",
+      "invfile": "invgsc",
+      "baseStats": {
+        "oneHandDamage": "14-36",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 76,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "pal",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Paladin Skill Levels"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 1,
+          "param": 87,
+          "variable": true,
+          "text": "5-1% Chance to cast level 5-1 [Skill] on striking (87)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 10,
+          "max": 1,
+          "param": 81,
+          "variable": true,
+          "text": "10-1% Chance to cast level 10-1 [Skill] on striking (81)"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 409,
+          "max": 409,
+          "param": 100,
+          "variable": false,
+          "text": "Adds 409-409 Poison Damage Over 409 Seconds (100)"
+        },
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+160-190% Enhanced Damage"
+        },
+        {
+          "code": "att",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200 to Attack Rating"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-25-15-25 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the fetid sprinkler holy water sprinkler 9qs cetros +2 to paladin skill levels 5-1% chance to cast level 5-1 [skill] on striking (87) 10-1% chance to cast level 10-1 [skill] on striking (81) adds 409-409 poison damage over 409 seconds (100) +160-190% enhanced damage +150-200 to attack rating adds 15-25-15-25 damage"
+    },
+    {
+      "id": 227,
+      "name": "Tiamat's Rebuke",
+      "baseName": "Dragon Shield",
+      "code": "xit",
+      "level": 46,
+      "requiredLevel": 38,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invkitu.png",
+      "invfile": "invkitu",
+      "baseStats": {
+        "oneHandDamage": "15-24",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "59-67",
+        "durability": 76,
+        "speed": 0,
+        "requiredStrength": 91,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-cold",
+          "min": 27,
+          "max": 53,
+          "param": 150,
+          "variable": true,
+          "text": "Adds 27-53-27-53 Cold Damage (150)"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 35,
+          "max": 95,
+          "param": null,
+          "variable": true,
+          "text": "Adds 35-95-35-95 Fire Damage"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-120-1-120 Lightning Damage"
+        },
+        {
+          "code": "res-all",
+          "min": 25,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +25-35"
+        },
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+140-200% Enhanced Defense"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 9,
+          "param": 44,
+          "variable": true,
+          "text": "5-9% Chance to cast level 5-9 [Skill] when struck (44)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 7,
+          "param": 48,
+          "variable": true,
+          "text": "5-7% Chance to cast level 5-7 [Skill] when struck (48)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 3,
+          "max": 6,
+          "param": 62,
+          "variable": true,
+          "text": "3-6% Chance to cast level 3-6 [Skill] when struck (62)"
+        },
+        {
+          "code": "dur",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 40 of 40"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "tiamat's rebuke dragon shield xit escudos adds 27-53-27-53 cold damage (150) adds 35-95-35-95 fire damage adds 1-120-1-120 lightning damage all resistances +25-35 +140-200% enhanced defense 5-9% chance to cast level 5-9 [skill] when struck (44) 5-7% chance to cast level 5-7 [skill] when struck (48) 3-6% chance to cast level 3-6 [skill] when struck (62) durability: 40 of 40"
+    },
+    {
+      "id": 130,
+      "name": "Butcher's Pupil",
+      "baseName": "Cleaver",
+      "code": "9ax",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invaxeu.png",
+      "invfile": "invaxeu",
+      "baseStats": {
+        "oneHandDamage": "10-33",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": 10,
+        "requiredStrength": 68,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "deadly",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "35% Deadly Strike"
+        },
+        {
+          "code": "openwounds",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Open Wounds"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 30-50-30-50 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "butcher's pupil cleaver 9ax hachas 35% deadly strike 25% chance of open wounds +150-200% enhanced damage indestructible +30% increased attack speed adds 30-50-30-50 damage"
+    },
+    {
+      "id": 159,
+      "name": "Headstriker",
+      "baseName": "Battle Sword",
+      "code": "9bs",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbsd.png",
+      "invfile": "invbsd",
+      "baseStats": {
+        "oneHandDamage": "16-34",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": null,
+        "requiredStrength": 92,
+        "requiredDexterity": 43,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "deadly/lvl",
+          "min": null,
+          "max": null,
+          "param": 12,
+          "variable": false,
+          "text": "#% Deadly Strike (Based on Character Level) (12)"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (8)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "+150% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "headstriker battle sword 9bs espadas prevent monster heal +15 to strength #% deadly strike (based on character level) (12) +# to maximum damage (based on character level) (8) +150% enhanced damage"
+    },
+    {
+      "id": 135,
+      "name": "Spellsteel",
+      "baseName": "Bearded Axe",
+      "code": "9ba",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbrx.png",
+      "invfile": "invbrx",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "21-49",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": null,
+        "requiredStrength": 92,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -60,
+          "max": -60,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --60%"
+        },
+        {
+          "code": "mana",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 to Mana"
+        },
+        {
+          "code": "red-mag",
+          "min": 12,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 12-15"
+        },
+        {
+          "code": "cast1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Cast Rate"
+        },
+        {
+          "code": "dmg%",
+          "min": 165,
+          "max": 165,
+          "param": null,
+          "variable": false,
+          "text": "+165% Enhanced Damage"
+        },
+        {
+          "code": "regen-mana",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 25%"
+        },
+        {
+          "code": "charged",
+          "min": 20,
+          "max": 1,
+          "param": 54,
+          "variable": true,
+          "text": "Level 20-1 [Skill] (20-1/20-1 Charges) (54)"
+        },
+        {
+          "code": "charged",
+          "min": 30,
+          "max": 3,
+          "param": 87,
+          "variable": true,
+          "text": "Level 30-3 [Skill] (30-3/30-3 Charges) (87)"
+        },
+        {
+          "code": "charged",
+          "min": 100,
+          "max": 10,
+          "param": 101,
+          "variable": true,
+          "text": "Level 100-10 [Skill] (100-10/100-10 Charges) (101)"
+        },
+        {
+          "code": "charged",
+          "min": 60,
+          "max": 12,
+          "param": 225,
+          "variable": true,
+          "text": "Level 60-12 [Skill] (60-12/60-12 Charges) (225)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spellsteel bearded axe 9ba hachas requirements --60% +100 to mana magic damage reduced by 12-15 +10% faster cast rate +165% enhanced damage regenerate mana 25% level 20-1 [skill] (20-1/20-1 charges) (54) level 30-3 [skill] (30-3/30-3 charges) (87) level 100-10 [skill] (100-10/100-10 charges) (101) level 60-12 [skill] (60-12/60-12 charges) (225)"
+    },
+    {
+      "id": 176,
+      "name": "Spire of Honor",
+      "baseName": "Lance",
+      "code": "9p9",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpik.png",
+      "invfile": "invpik",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "27-114",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 25,
+        "speed": 20,
+        "requiredStrength": 110,
+        "requiredDexterity": 88,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "att%",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Bonus to Attack Rating"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "regen",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +20"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-40-20-40 Damage"
+        },
+        {
+          "code": "dmg-dem/lvl",
+          "min": null,
+          "max": null,
+          "param": 12,
+          "variable": false,
+          "text": "+#% Damage to Demons (Based on Character Level) (12)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "skilltab",
+          "min": 3,
+          "max": 3,
+          "param": 9,
+          "variable": false,
+          "text": "+3 to [Class Skill Tab] Skills (9)"
+        },
+        {
+          "code": "ac%",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spire of honor lance 9p9 lanzas 25% bonus to attack rating +3 to light radius replenish life +20 +20% faster hit recovery adds 20-40-20-40 damage +#% damage to demons (based on character level) (12) +150-200% enhanced damage +3 to [class skill tab] skills (9) +25% enhanced defense"
+    },
+    {
+      "id": 148,
+      "name": "Sureshrill Frost",
+      "baseName": "Flanged Mace",
+      "code": "9ma",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invmac.png",
+      "invfile": "invmac",
+      "baseStats": {
+        "oneHandDamage": "15-23",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": null,
+        "requiredStrength": 61,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg-cold",
+          "min": 63,
+          "max": 112,
+          "param": 125,
+          "variable": true,
+          "text": "Adds 63-112-63-112 Cold Damage (125)"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Damage"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "Adds 5-10-5-10 Damage"
+        },
+        {
+          "code": "freeze",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +3"
+        },
+        {
+          "code": "charged",
+          "min": 50,
+          "max": 9,
+          "param": 64,
+          "variable": true,
+          "text": "Level 50-9 [Skill] (50-9/50-9 Charges) (64)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "sureshrill frost flanged mace 9ma mazas y martillos adds 63-112-63-112 cold damage (125) cannot be frozen +150-180% enhanced damage adds 5-10-5-10 damage freezes target +3 level 50-9 [skill] (50-9/50-9 charges) (64)"
+    },
+    {
+      "id": 186,
+      "name": "Warpspear",
+      "baseName": "Gothic Staff",
+      "code": "8bs",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invbst.png",
+      "invfile": "invbst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-34",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "sor",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Sorceress Skill Levels"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 54,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (54)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 43,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (43)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 58,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (58)"
+        },
+        {
+          "code": "ac-miss",
+          "min": 250,
+          "max": 250,
+          "param": null,
+          "variable": false,
+          "text": "+250 Defense vs. Missile"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "warpspear gothic staff 8bs bastones +3 to sorceress skill levels ignore target's defense +3 to [skill] ([class] only) (54) +3 to [skill] ([class] only) (43) +3 to [skill] ([class] only) (58) +250 defense vs. missile"
+    },
+    {
+      "id": 192,
+      "name": "Whichwild String",
+      "baseName": "Short Siege Bow",
+      "code": "8s8",
+      "level": 47,
+      "requiredLevel": 39,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv8s8u.png",
+      "invfile": "inv8s8u",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "13-30",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": null,
+        "requiredStrength": 65,
+        "requiredDexterity": 80,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 2,
+          "max": 5,
+          "param": 66,
+          "variable": true,
+          "text": "2-5% Chance to cast level 2-5 [Skill] on striking (66)"
+        },
+        {
+          "code": "res-all",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +40"
+        },
+        {
+          "code": "deadly/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "#% Deadly Strike (Based on Character Level) (8)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+150-170% Enhanced Damage"
+        },
+        {
+          "code": "magicarrow",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Fires Magic Arrows"
+        },
+        {
+          "code": "sock",
+          "min": null,
+          "max": null,
+          "param": 2,
+          "variable": false,
+          "text": "Socketed (#) (2)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "whichwild string short siege bow 8s8 arcos 2-5% chance to cast level 2-5 [skill] on striking (66) all resistances +40 #% deadly strike (based on character level) (8) +150-170% enhanced damage fires magic arrows socketed (#) (2)"
+    },
+    {
+      "id": 142,
+      "name": "Blackhand Key",
+      "baseName": "Grave Wand",
+      "code": "9gw",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/inv9gwu.png",
+      "invfile": "inv9gwu",
+      "baseStats": {
+        "oneHandDamage": "13-29",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 15,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 1,
+          "param": 6,
+          "variable": false,
+          "text": "+1 to [Class Skill Tab] Skills (6)"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Damage Taken Goes To Mana"
+        },
+        {
+          "code": "hp",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Life"
+        },
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "cast3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "res-fire",
+          "min": 37,
+          "max": 37,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +37%"
+        },
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Necromancer Skill Levels"
+        },
+        {
+          "code": "charged",
+          "min": 30,
+          "max": 13,
+          "param": 150,
+          "variable": true,
+          "text": "Level 30-13 [Skill] (30-13/30-13 Charges) (150)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blackhand key grave wand 9gw varitas +1 to [class skill tab] skills (6) 20% damage taken goes to mana +50 to life +-2 to light radius +30% faster cast rate fire resist +37% +2 to necromancer skill levels level 30-13 [skill] (30-13/30-13 charges) (150)"
+    },
+    {
+      "id": 207,
+      "name": "Blackhorn's Face",
+      "baseName": "Death Mask",
+      "code": "xsk",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmsk.png",
+      "invfile": "invmsk",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "54-86",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 55,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "light-thorns",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 25"
+        },
+        {
+          "code": "slow",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 20%"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "abs-ltng",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Absorb 20%"
+        },
+        {
+          "code": "res-ltng",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +15%"
+        },
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Defense"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blackhorn's face death mask xsk cascos attacker takes lightning damage of 25 slows target by 20% prevent monster heal lightning absorb 20% lightning resist +15% +180-220% enhanced defense"
+    },
+    {
+      "id": 193,
+      "name": "Cliffkiller",
+      "baseName": "Long Siege Bow",
+      "code": "8l8",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlbb.png",
+      "invfile": "invlbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-42",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": 10,
+        "requiredStrength": 80,
+        "requiredDexterity": 95,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "ama",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Amazon Skill Levels"
+        },
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+190-230% Enhanced Damage"
+        },
+        {
+          "code": "ac-miss",
+          "min": 80,
+          "max": 80,
+          "param": null,
+          "variable": false,
+          "text": "+80 Defense vs. Missile"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "hp",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Life"
+        },
+        {
+          "code": "dmg-min",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 to Minimum Damage"
+        },
+        {
+          "code": "dmg-max",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 to Maximum Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "cliffkiller long siege bow 8l8 arcos +2 to amazon skill levels +190-230% enhanced damage +80 defense vs. missile knockback +50 to life +5-10 to minimum damage +20-30 to maximum damage"
+    },
+    {
+      "id": 216,
+      "name": "Duriel's Shell",
+      "baseName": "Cuirass",
+      "code": "xrs",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbrs.png",
+      "invfile": "invbrs",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "188-202",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 65,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "ac/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# Defense (Based on Character Level) (10)"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (8)"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +20%"
+        },
+        {
+          "code": "res-ltng",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +20%"
+        },
+        {
+          "code": "res-pois",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +20%"
+        },
+        {
+          "code": "res-cold",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +50%"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "dur",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 100 of 100"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "duriel's shell cuirass xrs armaduras corporales +15 to strength +# defense (based on character level) (10) +# to life (based on character level) (8) +160-200% enhanced defense fire resist +20% lightning resist +20% poison resist +20% cold resist +50% cannot be frozen durability: 100 of 100"
+    },
+    {
+      "id": 230,
+      "name": "Lidless Wall",
+      "baseName": "Grim Shield",
+      "code": "xsh",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invxshu.png",
+      "invfile": "invxshu",
+      "baseStats": {
+        "oneHandDamage": "14-20",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "50-150",
+        "durability": 70,
+        "speed": 0,
+        "requiredStrength": 58,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Light Radius"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "mana-kill",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5 to Mana after each Kill"
+        },
+        {
+          "code": "ac%",
+          "min": 80,
+          "max": 130,
+          "param": null,
+          "variable": true,
+          "text": "+80-130% Enhanced Defense"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "mana%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 10%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lidless wall grim shield xsh escudos +1 to light radius +1 to all skills +20% faster cast rate +3-5 to mana after each kill +80-130% enhanced defense +10 to energy increase maximum mana 10%"
+    },
+    {
+      "id": 160,
+      "name": "Plague Bearer",
+      "baseName": "Rune Sword",
+      "code": "9ls",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv9lsu.png",
+      "invfile": "inv9lsu",
+      "baseStats": {
+        "oneHandDamage": "10-42",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": -10,
+        "requiredStrength": 103,
+        "requiredDexterity": 79,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 4,
+          "param": 92,
+          "variable": true,
+          "text": "5-4% Chance to cast level 5-4 [Skill] on striking (92)"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 384,
+          "max": 384,
+          "param": 200,
+          "variable": false,
+          "text": "Adds 384-384 Poison Damage Over 384 Seconds (200)"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 10,
+          "max": 45,
+          "param": null,
+          "variable": true,
+          "text": "Adds 10-45-10-45 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "+150% Enhanced Damage"
+        },
+        {
+          "code": "res-pois",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +45%"
+        },
+        {
+          "code": "skill",
+          "min": 5,
+          "max": 5,
+          "param": 238,
+          "variable": false,
+          "text": "+5 to [Skill] ([Class] only) (238)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "plague bearer rune sword 9ls espadas 5-4% chance to cast level 5-4 [skill] on striking (92) adds 384-384 poison damage over 384 seconds (200) adds 10-45-10-45 damage +150% enhanced damage poison resist +45% +5 to [skill] ([class] only) (238)"
+    },
+    {
+      "id": 187,
+      "name": "Skullcollector",
+      "baseName": "Rune Staff",
+      "code": "8ws",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/inv8wsu.png",
+      "invfile": "inv8wsu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "24-58",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 20,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "mana%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 20%"
+        },
+        {
+          "code": "mana-kill",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Mana after each Kill"
+        },
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "mag%/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "#% Better Chance of Getting Magic Items (Based on Character Level) (8)"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "skullcollector rune staff 8ws bastones increase maximum mana 20% +20 to mana after each kill +2 to all skills #% better chance of getting magic items (based on character level) (8)"
+    },
+    {
+      "id": 136,
+      "name": "Stormrider",
+      "baseName": "Tabar",
+      "code": "9bt",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv9btu.png",
+      "invfile": "inv9btu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "24-77",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": 10,
+        "requiredStrength": 101,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 10,
+          "param": 53,
+          "variable": true,
+          "text": "5-10% Chance to cast level 5-10 [Skill] on striking (53)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 10,
+          "max": 0,
+          "param": 38,
+          "variable": true,
+          "text": "10-0% Chance to cast level 10-0 [Skill] on striking (38)"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-200-1-200 Lightning Damage"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 35,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "Adds 35-75-35-75 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "dur",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 50 of 50"
+        },
+        {
+          "code": "light-thorns",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 15"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 15,
+          "max": 5,
+          "param": 38,
+          "variable": true,
+          "text": "15-5% Chance to cast level 15-5 [Skill] when struck (38)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormrider tabar 9bt hachas 5-10% chance to cast level 5-10 [skill] on striking (53) 10-0% chance to cast level 10-0 [skill] on striking (38) adds 1-200-1-200 lightning damage adds 35-75-35-75 damage +100% enhanced damage durability: 50 of 50 attacker takes lightning damage of 15 15-5% chance to cast level 15-5 [skill] when struck (38)"
+    },
+    {
+      "id": 171,
+      "name": "Stormspike",
+      "baseName": "Stilleto",
+      "code": "9bl",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/inv9blu.png",
+      "invfile": "inv9blu",
+      "baseStats": {
+        "oneHandDamage": "19-36",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": -10,
+        "requiredStrength": 47,
+        "requiredDexterity": 97,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-120-1-120 Lightning Damage"
+        },
+        {
+          "code": "light-thorns",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 20"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 25,
+          "max": 3,
+          "param": 38,
+          "variable": true,
+          "text": "25-3% Chance to cast level 25-3 [Skill] when struck (38)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 150,
+          "param": null,
+          "variable": false,
+          "text": "+150% Enhanced Damage"
+        },
+        {
+          "code": "res-ltng/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "Lightning Resist +#% (Based on Character Level) (8)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormspike stilleto 9bl dagas adds 1-120-1-120 lightning damage attacker takes lightning damage of 20 25-3% chance to cast level 25-3 [skill] when struck (38) +150% enhanced damage lightning resist +#% (based on character level) (8)"
+    },
+    {
+      "id": 177,
+      "name": "The Meat Scraper",
+      "baseName": "Lochaber Axe",
+      "code": "9b7",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invbar.png",
+      "invfile": "invbar",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "6-58",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 80,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "lifesteal",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Life stolen per hit"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        },
+        {
+          "code": "mag%",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "skilltab",
+          "min": 3,
+          "max": 3,
+          "param": 13,
+          "variable": false,
+          "text": "+3 to [Class Skill Tab] Skills (13)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the meat scraper lochaber axe 9b7 armas de asta +150-200% enhanced damage +30% increased attack speed 10% life stolen per hit 50% chance of open wounds 25% better chance of getting magic items +3 to [class skill tab] skills (13)"
+    },
+    {
+      "id": 208,
+      "name": "Vampiregaze",
+      "baseName": "Grim Helm",
+      "code": "xh9",
+      "level": 49,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbhmu.png",
+      "invfile": "invbhmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "60-125",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 58,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 6,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "6-8% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 6,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "6-8% Life stolen per hit"
+        },
+        {
+          "code": "stamdrain",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Slower Stamina Drain"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 15-20%"
+        },
+        {
+          "code": "red-mag",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 10-15"
+        },
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Defense"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 6,
+          "max": 22,
+          "param": 100,
+          "variable": true,
+          "text": "Adds 6-22-6-22 Cold Damage (100)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "vampiregaze grim helm xh9 cascos 6-8% mana stolen per hit 6-8% life stolen per hit 15% slower stamina drain damage reduced by 15-20% magic damage reduced by 10-15 +100% enhanced defense adds 6-22-6-22 cold damage (100)"
+    },
+    {
+      "id": 198,
+      "name": "Buriza-Do Kyanon",
+      "baseName": "Ballista",
+      "code": "8hx",
+      "level": 59,
+      "requiredLevel": 41,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invhxbu.png",
+      "invfile": "invhxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "33-55",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 110,
+        "requiredDexterity": 80,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "pierce",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "dex",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 to Dexterity"
+        },
+        {
+          "code": "ac",
+          "min": 75,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+75-150 Defense"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (20)"
+        },
+        {
+          "code": "swing2",
+          "min": 80,
+          "max": 80,
+          "param": null,
+          "variable": false,
+          "text": "+80% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "freeze",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +3"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 32,
+          "max": 196,
+          "param": 200,
+          "variable": true,
+          "text": "Adds 32-196-32-196 Cold Damage (200)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "buriza-do kyanon balista 8hx ballestas piercing attack +35 to dexterity +75-150 defense +# to maximum damage (based on character level) (20) +80% increased attack speed +150-200% enhanced damage freezes target +3 adds 32-196-32-196 cold damage (200)"
+    },
+    {
+      "id": 245,
+      "name": "Snowclash",
+      "baseName": "Battle Belt",
+      "code": "ztb",
+      "level": 49,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invtbl.png",
+      "invfile": "invtbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "37-42",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 88,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 0,
+          "param": 59,
+          "variable": true,
+          "text": "5-0% Chance to cast level 5-0 [Skill] when struck (59)"
+        },
+        {
+          "code": "abs-cold",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Cold Absorb 15%"
+        },
+        {
+          "code": "res-cold-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Maximum Cold Resist"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 13,
+          "max": 21,
+          "param": 75,
+          "variable": true,
+          "text": "Adds 13-21-13-21 Cold Damage (75)"
+        },
+        {
+          "code": "ac%",
+          "min": 130,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+130-170% Enhanced Defense"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 59,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (59)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 55,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (55)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 60,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (60)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "snowclash battle belt ztb cintos 5-0% chance to cast level 5-0 [skill] when struck (59) cold absorb 15% +15% to maximum cold resist adds 13-21-13-21 cold damage (75) +130-170% enhanced defense +2 to [skill] ([class] only) (59) +3 to [skill] ([class] only) (55) +2 to [skill] ([class] only) (60)"
+    },
+    {
+      "id": 279,
+      "name": "Arreat's Face",
+      "baseName": "Slayer Guard",
+      "code": "baa",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos de barbaro",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invba5.png",
+      "invfile": "invba5",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "93-120",
+        "durability": 55,
+        "speed": 0,
+        "requiredStrength": 118,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "bar",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Barbarian Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 12,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (12)"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Bonus to Attack Rating"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Dexterity"
+        },
+        {
+          "code": "lifesteal",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "3-6% Life stolen per hit"
+        },
+        {
+          "code": "res-all",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "arreat's face slayer guard baa cascos de barbaro +2 to barbarian skill levels +2 to [class skill tab] skills (12) +150-200% enhanced defense +30% faster hit recovery 20% bonus to attack rating +20 to strength +20 to dexterity 3-6% life stolen per hit all resistances +30"
+    },
+    {
+      "id": 179,
+      "name": "Athena's Wrath",
+      "baseName": "Battle Scythe",
+      "code": "9s8",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/inv9s8u.png",
+      "invfile": "inv9s8u",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "18-45",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": -10,
+        "requiredStrength": 82,
+        "requiredDexterity": 82,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dru",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "+1-3 to Druid Skill Levels"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (8)"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (8)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "athena's wrath battle scythe 9s8 armas de asta +1-3 to druid skill levels +15 to dexterity +30% increased attack speed +# to life (based on character level) (8) +# to maximum damage (based on character level) (8) +150-180% enhanced damage"
+    },
+    {
+      "id": 178,
+      "name": "Blackleach Blade",
+      "baseName": "Bill",
+      "code": "9vo",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invvou.png",
+      "invfile": "invvou",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-53",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 95,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -25,
+          "max": -25,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --25%"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 5,
+          "param": 72,
+          "variable": false,
+          "text": "5% Chance to cast level 5 [Skill] on striking (72)"
+        },
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "lifesteal",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "8% Life stolen per hit"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (10)"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 140,
+          "param": null,
+          "variable": true,
+          "text": "+100-140% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blackleach blade bill 9vo armas de asta requirements --25% 5% chance to cast level 5 [skill] on striking (72) +-2 to light radius 8% life stolen per hit +# to maximum damage (based on character level) (10) +100-140% enhanced damage"
+    },
+    {
+      "id": 137,
+      "name": "Boneslayer Blade",
+      "baseName": "Gothic Axe",
+      "code": "9ga",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgaxu.png",
+      "invfile": "invgaxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "18-70",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": -10,
+        "requiredStrength": 115,
+        "requiredDexterity": 79,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "att-und/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Attack Rating against Undead (Based on Character Level) (10)"
+        },
+        {
+          "code": "dmg-und/lvl",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "+#% Damage to Undead (Based on Character Level) (20)"
+        },
+        {
+          "code": "str",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Strength"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "att%",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "35% Bonus to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Damage"
+        },
+        {
+          "code": "charged",
+          "min": 200,
+          "max": 20,
+          "param": 101,
+          "variable": true,
+          "text": "Level 200-20 [Skill] (200-20/200-20 Charges) (101)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 50,
+          "max": 0,
+          "param": 101,
+          "variable": true,
+          "text": "50-0% Chance to cast level 50-0 [Skill] when struck (101)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "boneslayer blade gothic axe 9ga hachas +# to attack rating against undead (based on character level) (10) +#% damage to undead (based on character level) (20) +8 to strength +20% increased attack speed 35% bonus to attack rating +180-220% enhanced damage level 200-20 [skill] (200-20/200-20 charges) (101) 50-0% chance to cast level 50-0 [skill] when struck (101)"
+    },
+    {
+      "id": 162,
+      "name": "Crainte Vomir",
+      "baseName": "Espandon",
+      "code": "92h",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/inv2hsu.png",
+      "invfile": "inv2hsu",
+      "baseStats": {
+        "oneHandDamage": "8-26",
+        "twoHandDamage": "18-40",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": null,
+        "requiredStrength": 73,
+        "requiredDexterity": 61,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "slow",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 35%"
+        },
+        {
+          "code": "dmg-ac",
+          "min": -70,
+          "max": -70,
+          "param": null,
+          "variable": false,
+          "text": "--70 to Monster Defense Per Hit"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 10%"
+        },
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Damage"
+        },
+        {
+          "code": "swing3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crainte vomir espadon 92h espadas slows target by 35% --70 to monster defense per hit +20% faster run/walk damage reduced by 10% +160-200% enhanced damage +50% increased attack speed"
+    },
+    {
+      "id": 286,
+      "name": "Cutthroat1",
+      "baseName": "Greater Talons",
+      "code": "9tw",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Garras de asesina",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invclw.png",
+      "invfile": "invclw",
+      "baseStats": {
+        "oneHandDamage": "21-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 69,
+        "speed": -30,
+        "requiredStrength": 79,
+        "requiredDexterity": 79,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ass",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Assassin Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 1,
+          "param": 20,
+          "variable": false,
+          "text": "+1 to [Class Skill Tab] Skills (20)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Bonus to Attack Rating"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Dexterity"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "5-9% Life stolen per hit"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 25-50-25-50 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "cutthroat1 runic talons 9tw garras de asesina +2 to assassin skill levels +1 to [class skill tab] skills (20) +150-200% enhanced damage +30% faster hit recovery 20% bonus to attack rating +20 to strength +20 to dexterity 5-9% life stolen per hit adds 25-50-25-50 damage"
+    },
+    {
+      "id": 146,
+      "name": "Hand of Blessed Light",
+      "baseName": "Divine Scepter",
+      "code": "9ws",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwsp.png",
+      "invfile": "invwsp",
+      "baseStats": {
+        "oneHandDamage": "16-38",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 70,
+        "speed": -10,
+        "requiredStrength": 103,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "pal",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Paladin Skill Levels"
+        },
+        {
+          "code": "dmg%",
+          "min": 130,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+130-160% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Bonus to Attack Rating"
+        },
+        {
+          "code": "ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense"
+        },
+        {
+          "code": "regen-mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 15%"
+        },
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 20,
+          "max": 45,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-45-20-45 Damage"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 4,
+          "param": 101,
+          "variable": false,
+          "text": "+4 to [Skill] ([Class] only) (101)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 2,
+          "param": 121,
+          "variable": false,
+          "text": "+2 to [Skill] ([Class] only) (121)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 4,
+          "param": 121,
+          "variable": true,
+          "text": "5-4% Chance to cast level 5-4 [Skill] on striking (121)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hand of blessed light divine scepter 9ws cetros +2 to paladin skill levels +130-160% enhanced damage 100% bonus to attack rating +50 defense regenerate mana 15% +4 to light radius adds 20-45-20-45 damage +4 to [skill] ([class] only) (101) +2 to [skill] ([class] only) (121) 5-4% chance to cast level 5-4 [skill] on striking (121)"
+    },
+    {
+      "id": 285,
+      "name": "Herald of Zakarum",
+      "baseName": "Gilded Shield",
+      "code": "pa9",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos de paladin",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpa4.png",
+      "invfile": "invpa4",
+      "baseStats": {
+        "oneHandDamage": "20-28",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "144-168",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 89,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "pal",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Paladin Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 9,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (9)"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Block Rate"
+        },
+        {
+          "code": "block",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Increased Chance of Blocking"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Vitality"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Bonus to Attack Rating"
+        },
+        {
+          "code": "res-all",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +50"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "herald of zakarum aerin shield pa9 escudos de paladin +2 to paladin skill levels +2 to [class skill tab] skills (9) +150-200% enhanced defense +30% faster block rate 30% increased chance of blocking +20 to strength +20 to vitality 20% bonus to attack rating all resistances +50"
+    },
+    {
+      "id": 280,
+      "name": "Homunculus",
+      "baseName": "Heirophant Trophy",
+      "code": "nea",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cabezas de necromante",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invne5.png",
+      "invfile": "invne5",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "58-70",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 58,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Necromancer Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 6,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (6)"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Block Rate"
+        },
+        {
+          "code": "block",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Increased Chance of Blocking"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Energy"
+        },
+        {
+          "code": "regen-mana",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 33%"
+        },
+        {
+          "code": "mana-kill",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Mana after each Kill"
+        },
+        {
+          "code": "res-all",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +40"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "homunculus heirophant trophy nea cabezas de necromante +2 to necromancer skill levels +2 to [class skill tab] skills (6) +150-200% enhanced defense +30% faster block rate 40% increased chance of blocking +20 to energy regenerate mana 33% +5 to mana after each kill all resistances +40"
+    },
+    {
+      "id": 287,
+      "name": "Jalal's Mane",
+      "baseName": "Totemic Mask",
+      "code": "dra",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Pelts de druida",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invdr5.png",
+      "invfile": "invdr5",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "73-98",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 65,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dru",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Druid Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 16,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (16)"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Bonus to Attack Rating"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Energy"
+        },
+        {
+          "code": "mana-kill",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Mana after each Kill"
+        },
+        {
+          "code": "res-all",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "jalal's mane dream spirit dra pelts de druida +2 to druid skill levels +2 to [class skill tab] skills (16) +150-200% enhanced defense +30% faster hit recovery 20% bonus to attack rating +20 to strength +20 to energy +5 to mana after each kill all resistances +30"
+    },
+    {
+      "id": 235,
+      "name": "Lavagout",
+      "baseName": "Battle Gauntlets",
+      "code": "xtg",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invtgl.png",
+      "invfile": "invtgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "39-47",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 88,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "res-fire",
+          "min": 24,
+          "max": 24,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +24%"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "hit-skill",
+          "min": 2,
+          "max": 10,
+          "param": 52,
+          "variable": true,
+          "text": "2-10% Chance to cast level 2-10 [Skill] on striking (52)"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 13,
+          "max": 46,
+          "param": null,
+          "variable": true,
+          "text": "Adds 13-46-13-46 Fire Damage"
+        },
+        {
+          "code": "dur",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 20 of 20"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lavagout battle guantlets xtg guantes fire resist +24% half freeze duration 2-10% chance to cast level 2-10 [skill] on striking (52) +20% increased attack speed +150-200% enhanced defense adds 13-46-13-46 fire damage durability: 20 of 20"
+    },
+    {
+      "id": 282,
+      "name": "Lycander's Aim",
+      "baseName": "Ceremonial Bow",
+      "code": "am7",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de amazona",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invam2.png",
+      "invfile": "invam2",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "19-41",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": 10,
+        "requiredStrength": 73,
+        "requiredDexterity": 110,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "ama",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Amazon Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 0,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (0)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Enhanced Defense"
+        },
+        {
+          "code": "dex",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Dexterity"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Energy"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "5-8% Mana stolen per hit"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 25-50-25-50 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lycander's aim ceremonial bow am7 armas de amazona +2 to amazon skill levels +2 to [class skill tab] skills (0) +150-200% enhanced damage +20% increased attack speed +20% enhanced defense +20 to dexterity +20 to energy 5-8% mana stolen per hit adds 25-50-25-50 damage"
+    },
+    {
+      "id": 283,
+      "name": "Lycander's Flank",
+      "baseName": "Ceremonial Pike",
+      "code": "am9",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de amazona",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invam4.png",
+      "invfile": "invam4",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "42-101",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 25,
+        "speed": 20,
+        "requiredStrength": 115,
+        "requiredDexterity": 98,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "ama",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Amazon Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 2,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Enhanced Defense"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Vitality"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "5-9% Life stolen per hit"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 25-50-25-50 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lycander's flank ceremonial pike am9 armas de amazona +2 to amazon skill levels +2 to [class skill tab] skills +150-200% enhanced damage +30% increased attack speed +20% enhanced defense +20 to strength +20 to vitality 5-9% life stolen per hit adds 25-50-25-50 damage"
+    },
+    {
+      "id": 149,
+      "name": "Moonfall",
+      "baseName": "Jagged Star",
+      "code": "9mt",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invmstu.png",
+      "invfile": "invmstu",
+      "baseStats": {
+        "oneHandDamage": "20-31",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 72,
+        "speed": 10,
+        "requiredStrength": 74,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 6,
+          "param": 56,
+          "variable": true,
+          "text": "5-6% Chance to cast level 5-6 [Skill] on striking (56)"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 55,
+          "max": 115,
+          "param": null,
+          "variable": true,
+          "text": "Adds 55-115-55-115 Fire Damage"
+        },
+        {
+          "code": "red-mag",
+          "min": 9,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 9-12"
+        },
+        {
+          "code": "dmg%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Damage"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "charged",
+          "min": 60,
+          "max": 11,
+          "param": 56,
+          "variable": true,
+          "text": "Level 60-11 [Skill] (60-11/60-11 Charges) (56)"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Adds 10-15-10-15 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "moonfall jagged star 9mt mazas y martillos 5-6% chance to cast level 5-6 [skill] on striking (56) adds 55-115-55-115 fire damage magic damage reduced by 9-12 +120-150% enhanced damage +2 to light radius level 60-11 [skill] (60-11/60-11 charges) (56) adds 10-15-10-15 damage"
+    },
+    {
+      "id": 217,
+      "name": "Skullder's Ire",
+      "baseName": "Russet Armor",
+      "code": "xpl",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invspl.png",
+      "invfile": "invspl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "225-243",
+        "durability": 30,
+        "speed": 5,
+        "requiredStrength": 97,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "mag%/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "#% Better Chance of Getting Magic Items (Based on Character Level) (10)"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "dur",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 60 of 60"
+        },
+        {
+          "code": "red-mag",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 10"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (20)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "skullder's ire russet armor xpl armaduras corporales +1 to all skills #% better chance of getting magic items (based on character level) (10) +160-200% enhanced defense durability: 60 of 60 magic damage reduced by 10 repairs 1 durability in # seconds (20)"
+    },
+    {
+      "id": 161,
+      "name": "The Atlantian",
+      "baseName": "Ancient Sword",
+      "code": "9wd",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invwsd.png",
+      "invfile": "invwsd",
+      "baseStats": {
+        "oneHandDamage": "18-43",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": null,
+        "requiredStrength": 127,
+        "requiredDexterity": 88,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dur",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 100 of 100"
+        },
+        {
+          "code": "ac",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "+75 Defense"
+        },
+        {
+          "code": "str",
+          "min": 16,
+          "max": 16,
+          "param": null,
+          "variable": false,
+          "text": "+16 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Vitality"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250% Enhanced Damage"
+        },
+        {
+          "code": "pal",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Paladin Skill Levels"
+        },
+        {
+          "code": "att%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Bonus to Attack Rating"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the atlantian ancient sword 9wd espadas durability: 100 of 100 +75 defense +16 to strength +12 to dexterity +8 to vitality +200-250% enhanced damage +2 to paladin skill levels 50% bonus to attack rating"
+    },
+    {
+      "id": 284,
+      "name": "The Oculus",
+      "baseName": "Swirling Crystal",
+      "code": "oba",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Orbes de hechicera",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invob5.png",
+      "invfile": "invob5",
+      "baseStats": {
+        "oneHandDamage": "18-42",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "sor",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Sorceress Skill Levels"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 25,
+          "max": 1,
+          "param": 54,
+          "variable": true,
+          "text": "25-1% Chance to cast level 25-1 [Skill] when struck (54)"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +20"
+        },
+        {
+          "code": "cast2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Enhanced Defense"
+        },
+        {
+          "code": "vit",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Vitality"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Energy"
+        },
+        {
+          "code": "mana-kill",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Mana after each Kill"
+        },
+        {
+          "code": "mag%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Better Chance of Getting Magic Items"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the oculus swirling crystal oba orbes de hechicera +3 to sorceress skill levels 25-1% chance to cast level 25-1 [skill] when struck (54) all resistances +20 +30% faster cast rate +20% enhanced defense +20 to vitality +20 to energy +5 to mana after each kill 50% better chance of getting magic items"
+    },
+    {
+      "id": 281,
+      "name": "Titan's Revenge",
+      "baseName": "Ceremonial Javelin",
+      "code": "ama",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de amazona",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invam5.png",
+      "invfile": "invam5",
+      "baseStats": {
+        "oneHandDamage": "18-35",
+        "twoHandDamage": null,
+        "throwDamage": "18-54",
+        "defense": null,
+        "durability": 6,
+        "speed": -10,
+        "requiredStrength": 25,
+        "requiredDexterity": 109,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ama",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Amazon Skill Levels"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 2,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "move2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 30,
+          "variable": false,
+          "text": "Replenishes quantity (30)"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Dexterity"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "5-9% Life stolen per hit"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 25-50-25-50 Damage"
+        },
+        {
+          "code": "stack",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "Increased Stack Size"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "titan's revenge ceremonial javelin ama armas de amazona +2 to amazon skill levels +2 to [class skill tab] skills +150-200% enhanced damage +30% faster run/walk replenishes quantity (30) +20 to strength +20 to dexterity 5-9% life stolen per hit adds 25-50-25-50 damage increased stack size"
+    },
+    {
+      "id": 240,
+      "name": "Wartraveler",
+      "baseName": "Battle Boots",
+      "code": "xtb",
+      "level": 50,
+      "requiredLevel": 42,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invtbt.png",
+      "invfile": "invtbt",
+      "baseStats": {
+        "oneHandDamage": "37-64",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "39-47",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 95,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Vitality"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "mag%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "30-50% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "dur",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 30 of 30"
+        },
+        {
+          "code": "move2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Faster Run/Walk"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Defense"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-25-15-25 Damage"
+        },
+        {
+          "code": "thorns",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "Attacker Takes Damage of 5-10"
+        },
+        {
+          "code": "stamdrain",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Slower Stamina Drain"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wartraveler battle boots xtb botas +10 to vitality +10 to strength 30-50% better chance of getting magic items durability: 30 of 30 +25% faster run/walk +150-190% enhanced defense adds 15-25-15-25 damage attacker takes damage of 5-10 40% slower stamina drain"
+    },
+    {
+      "id": 163,
+      "name": "Bing Sz Wang",
+      "baseName": "Dacian Falx",
+      "code": "9cm",
+      "level": 51,
+      "requiredLevel": 43,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invclm.png",
+      "invfile": "invclm",
+      "baseStats": {
+        "oneHandDamage": "13-30",
+        "twoHandDamage": "26-61",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 91,
+        "requiredDexterity": 20,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -30,
+          "max": -30,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --30%"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 50,
+          "max": 140,
+          "param": 75,
+          "variable": true,
+          "text": "Adds 50-140-50-140 Cold Damage (75)"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "freeze",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +2"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 3,
+          "param": 64,
+          "variable": true,
+          "text": "5-3% Chance to cast level 5-3 [Skill] on striking (64)"
+        },
+        {
+          "code": "dmg%",
+          "min": 130,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+130-160% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bing sz wang dacian falx 9cm espadas requirements --30% adds 50-140-50-140 cold damage (75) +20 to strength freezes target +2 5-3% chance to cast level 5-3 [skill] on striking (64) +130-160% enhanced damage"
+    },
+    {
+      "id": 151,
+      "name": "Earthshaker",
+      "baseName": "Battle Hammer",
+      "code": "9wh",
+      "level": 51,
+      "requiredLevel": 43,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwhm.png",
+      "invfile": "invwhm",
+      "baseStats": {
+        "oneHandDamage": "35-58",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": 20,
+        "requiredStrength": 100,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 7,
+          "param": 234,
+          "variable": true,
+          "text": "5-7% Chance to cast level 5-7 [Skill] on striking (234)"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "swing3",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 180,
+          "param": null,
+          "variable": false,
+          "text": "+180% Enhanced Damage"
+        },
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "skilltab",
+          "min": 3,
+          "max": 3,
+          "param": 17,
+          "variable": false,
+          "text": "+3 to [Class Skill Tab] Skills (17)"
+        },
+        {
+          "code": "dur",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 50 of 50"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "earthshaker battle hammer 9wh mazas y martillos 5-7% chance to cast level 5-7 [skill] on striking (234) knockback +30% increased attack speed +180% enhanced damage hit blinds target +1 +3 to [class skill tab] skills (17) durability: 50 of 50"
+    },
+    {
+      "id": 131,
+      "name": "Islestrike",
+      "baseName": "Twin Axe",
+      "code": "92a",
+      "level": 51,
+      "requiredLevel": 43,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv2ax.png",
+      "invfile": "inv2ax",
+      "baseStats": {
+        "oneHandDamage": "13-38",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": 10,
+        "requiredStrength": 85,
+        "requiredDexterity": null,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dru",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Druid Skill Levels"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Vitality"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Energy"
+        },
+        {
+          "code": "ac-miss",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense vs. Missile"
+        },
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "dmg%",
+          "min": 170,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+170-190% Enhanced Damage"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 233,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (233)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 1,
+          "param": 248,
+          "variable": false,
+          "text": "+1 to [Skill] ([Class] only) (248)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "islestrike twin axe 92a hachas +2 to druid skill levels +10 to strength +10 to dexterity +10 to vitality +10 to energy +50 defense vs. missile 25% chance of crushing blow +170-190% enhanced damage +1 to [skill] ([class] only) (233) +1 to [skill] ([class] only) (248)"
+    },
+    {
+      "id": 194,
+      "name": "Magewrath",
+      "baseName": "Rune Bow",
+      "code": "8sw",
+      "level": 51,
+      "requiredLevel": 43,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invswbu.png",
+      "invfile": "invswbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-35",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 48,
+        "speed": null,
+        "requiredStrength": 73,
+        "requiredDexterity": 103,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Mana stolen per hit"
+        },
+        {
+          "code": "red-mag",
+          "min": 9,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 9-13"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 22,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (22)"
+        },
+        {
+          "code": "att",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250 to Attack Rating"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Dexterity"
+        },
+        {
+          "code": "stupidity",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +1"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 25-50-25-50 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Damage"
+        },
+        {
+          "code": "ama",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Amazon Skill Levels"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "magewrath rune bow 8sw arcos 15% mana stolen per hit magic damage reduced by 9-13 +3 to [skill] ([class] only) (22) +200-250 to attack rating +10 to dexterity hit blinds target +1 adds 25-50-25-50 damage +120-150% enhanced damage +1 to amazon skill levels"
+    },
+    {
+      "id": 180,
+      "name": "Pierre Tombale Couant",
+      "baseName": "Partizan",
+      "code": "9pa",
+      "level": 51,
+      "requiredLevel": 43,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpax.png",
+      "invfile": "invpax",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "34-75",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": 10,
+        "requiredStrength": 113,
+        "requiredDexterity": 67,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "deadly",
+          "min": 55,
+          "max": 55,
+          "param": null,
+          "variable": false,
+          "text": "55% Deadly Strike"
+        },
+        {
+          "code": "bar",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Barbarian Skill Levels"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "manasteal",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "6% Mana stolen per hit"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 12,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Adds 12-20-12-20 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+160-220% Enhanced Damage"
+        },
+        {
+          "code": "att",
+          "min": 100,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+100-200 to Attack Rating"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "pierre tombale couant partizan 9pa armas de asta 55% deadly strike +3 to barbarian skill levels +30% faster hit recovery 6% mana stolen per hit adds 12-20-12-20 damage +160-220% enhanced damage +100-200 to attack rating"
+    },
+    {
+      "id": 291,
+      "name": "Deathbit",
+      "baseName": "Battle Dart",
+      "code": "9tk",
+      "level": 52,
+      "requiredLevel": 44,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arrojadizas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invtkn.png",
+      "invfile": "invtkn",
+      "baseStats": {
+        "oneHandDamage": "8-16",
+        "twoHandDamage": null,
+        "throwDamage": "11-24",
+        "defense": null,
+        "durability": 6,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": 52,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "deadly",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Deadly Strike"
+        },
+        {
+          "code": "dmg%",
+          "min": 130,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+130-180% Enhanced Damage"
+        },
+        {
+          "code": "att",
+          "min": 200,
+          "max": 450,
+          "param": null,
+          "variable": true,
+          "text": "+200-450 to Attack Rating"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "7-9% Life stolen per hit"
+        },
+        {
+          "code": "manasteal",
+          "min": 4,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "4-6% Mana stolen per hit"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 25,
+          "variable": false,
+          "text": "Replenishes quantity (25)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "deathbit battle dart 9tk arrojadizas 40% deadly strike +130-180% enhanced damage +200-450 to attack rating 7-9% life stolen per hit 4-6% mana stolen per hit replenishes quantity (25)"
+    },
+    {
+      "id": 181,
+      "name": "Husoldal Evo",
+      "baseName": "Bec-de-Corbin",
+      "code": "9h9",
+      "level": 52,
+      "requiredLevel": 44,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invhal.png",
+      "invfile": "invhal",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "13-85",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": null,
+        "requiredStrength": 133,
+        "requiredDexterity": 91,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "regen",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +20"
+        },
+        {
+          "code": "att",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250 to Attack Rating"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 20,
+          "max": 32,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-32-20-32 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "husoldal evo bec-de-corbin 9h9 armas de asta replenish life +20 +200-250 to attack rating prevent monster heal adds 20-32-20-32 damage +160-200% enhanced damage +20% increased attack speed"
+    },
+    {
+      "id": 228,
+      "name": "Kerke's Sanctuary",
+      "baseName": "Pavise",
+      "code": "xow",
+      "level": 52,
+      "requiredLevel": 44,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invtowu.png",
+      "invfile": "invtowu",
+      "baseStats": {
+        "oneHandDamage": "10-17",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "68-78",
+        "durability": 72,
+        "speed": 10,
+        "requiredStrength": 133,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "red-dmg",
+          "min": 11,
+          "max": 16,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 11-16"
+        },
+        {
+          "code": "red-mag",
+          "min": 14,
+          "max": 18,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 14-18"
+        },
+        {
+          "code": "regen",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +15"
+        },
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+180-240% Enhanced Defense"
+        },
+        {
+          "code": "dur",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 100 of 100"
+        },
+        {
+          "code": "block",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Increased Chance of Blocking"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "kerke's sanctuary pavise xow escudos damage reduced by 11-16 magic damage reduced by 14-18 replenish life +15 +180-240% enhanced defense durability: 100 of 100 30% increased chance of blocking all resistances +20-30"
+    },
+    {
+      "id": 164,
+      "name": "The Vile Husk",
+      "baseName": "Tusk Sword",
+      "code": "9gs",
+      "level": 52,
+      "requiredLevel": 44,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invgisu.png",
+      "invfile": "invgisu",
+      "baseStats": {
+        "oneHandDamage": "10-37",
+        "twoHandDamage": "19-58",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 104,
+        "requiredDexterity": 71,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 6,
+          "max": 1,
+          "param": 66,
+          "variable": true,
+          "text": "6-1% Chance to cast level 6-1 [Skill] on striking (66)"
+        },
+        {
+          "code": "dmg-und/lvl",
+          "min": null,
+          "max": null,
+          "param": 60,
+          "variable": false,
+          "text": "+#% Damage to Undead (Based on Character Level) (60)"
+        },
+        {
+          "code": "res-pois",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +50%"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 426,
+          "max": 426,
+          "param": 150,
+          "variable": false,
+          "text": "Adds 426-426 Poison Damage Over 426 Seconds (150)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "att-und/lvl",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "+# to Attack Rating against Undead (Based on Character Level) (20)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the vile husk tusk sword 9gs espadas 6-1% chance to cast level 6-1 [skill] on striking (66) +#% damage to undead (based on character level) (60) poison resist +50% adds 426-426 poison damage over 426 seconds (150) +150-200% enhanced damage +# to attack rating against undead (based on character level) (20)"
+    },
+    {
+      "id": 205,
+      "name": "Valkiry Wing",
+      "baseName": "Winged Helm",
+      "code": "xhm",
+      "level": 52,
+      "requiredLevel": 44,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invghm.png",
+      "invfile": "invghm",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "85-98",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 115,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "ama",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "+1-2 to Amazon Skill Levels"
+        },
+        {
+          "code": "mana-kill",
+          "min": 2,
+          "max": 4,
+          "param": null,
+          "variable": true,
+          "text": "+2-4 to Mana after each Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "valkiry wing winged helm xhm cascos +150-200% enhanced defense +20% faster run/walk +20% faster hit recovery +1-2 to amazon skill levels +2-4 to mana after each kill"
+    },
+    {
+      "id": 182,
+      "name": "Grim's Burning Dead",
+      "baseName": "Grim Scythe",
+      "code": "9wc",
+      "level": 52,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invwsc.png",
+      "invfile": "invwsc",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "30-70",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": -10,
+        "requiredStrength": 140,
+        "requiredDexterity": 140,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 131,
+          "max": 232,
+          "param": null,
+          "variable": true,
+          "text": "Adds 131-232-131-232 Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +45%"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+140-180% Enhanced Damage"
+        },
+        {
+          "code": "thorns",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 8"
+        },
+        {
+          "code": "ease",
+          "min": -50,
+          "max": -50,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --50%"
+        },
+        {
+          "code": "nec",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Necromancer Skill Levels"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "-50% Target Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Enhanced Defense"
+        },
+        {
+          "code": "att",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250 to Attack Rating"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "grim's burning dead grim scythe 9wc armas de asta adds 131-232-131-232 fire damage fire resist +45% +140-180% enhanced damage attacker takes damage of 8 requirements --50% +3 to necromancer skill levels -50% target defense +20% enhanced defense +200-250 to attack rating"
+    },
+    {
+      "id": 150,
+      "name": "Baezil's Vortex",
+      "baseName": "Knout",
+      "code": "9fl",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfla.png",
+      "invfile": "invfla",
+      "baseStats": {
+        "oneHandDamage": "13-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 82,
+        "requiredDexterity": 73,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 8,
+          "param": 48,
+          "variable": true,
+          "text": "5-8% Chance to cast level 5-8 [Skill] on striking (48)"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-150-1-150 Lightning Damage"
+        },
+        {
+          "code": "mana",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 to Mana"
+        },
+        {
+          "code": "res-ltng",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +25%"
+        },
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "charged",
+          "min": 80,
+          "max": 15,
+          "param": 48,
+          "variable": true,
+          "text": "Level 80-15 [Skill] (80-15/80-15 Charges) (48)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "baezil's vortex knout 9fl mazas y martillos 5-8% chance to cast level 5-8 [skill] on striking (48) adds 1-150-1-150 lightning damage +100 to mana lightning resist +25% +160-200% enhanced damage +20% increased attack speed level 80-15 [skill] (80-15/80-15 charges) (48)"
+    },
+    {
+      "id": 165,
+      "name": "Cloudcrack",
+      "baseName": "Gothic Sword",
+      "code": "9b9",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invbswu.png",
+      "invfile": "invbswu",
+      "baseStats": {
+        "oneHandDamage": "14-40",
+        "twoHandDamage": "39-60",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": 10,
+        "requiredStrength": 113,
+        "requiredDexterity": 20,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 6,
+          "max": 7,
+          "param": 121,
+          "variable": true,
+          "text": "6-7% Chance to cast level 6-7 [Skill] on striking (121)"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-240-1-240 Lightning Damage"
+        },
+        {
+          "code": "ac",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 Defense"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        },
+        {
+          "code": "res-ltng-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Lightning Resist"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "light-thorns",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 15"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 10,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (10)"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 11,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (11)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "cloudcrack gothic sword 9b9 espadas 6-7% chance to cast level 6-7 [skill] on striking (121) adds 1-240-1-240 lightning damage +30 defense +2 to light radius +10% to maximum lightning resist +150-200% enhanced damage attacker takes lightning damage of 15 +2 to [class skill tab] skills (10) +2 to [class skill tab] skills (11)"
+    },
+    {
+      "id": 274,
+      "name": "Dwarf Star",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 10,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "gold%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Extra Gold from Monsters"
+        },
+        {
+          "code": "stam",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 Maximum Stamina"
+        },
+        {
+          "code": "regen-stam",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Heal Stamina Plus 15%"
+        },
+        {
+          "code": "hp",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Life"
+        },
+        {
+          "code": "red-mag",
+          "min": 12,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 12-15"
+        },
+        {
+          "code": "abs-fire%",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 Fire Absorb"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "dwarf star ring rin anillos 100% extra gold from monsters +40 maximum stamina heal stamina plus 15% +40 to life magic damage reduced by 12-15 +15 fire absorb"
+    },
+    {
+      "id": 218,
+      "name": "Guardian Angel",
+      "baseName": "Templar Coat",
+      "code": "xlt",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invplt.png",
+      "invfile": "invplt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "252-274",
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 118,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "pal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Paladin Skill Levels"
+        },
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+180-200% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Block Rate"
+        },
+        {
+          "code": "res-all-max",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Resist All Max: 15"
+        },
+        {
+          "code": "att-dem/lvl",
+          "min": null,
+          "max": null,
+          "param": 5,
+          "variable": false,
+          "text": "+# to Attack Rating against Demons (Based on Character Level) (5)"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "guardian angel templar coat xlt armaduras corporales +4 to light radius +1 to paladin skill levels +180-200% enhanced defense +30% faster block rate resist all max: 15 +# to attack rating against demons (based on character level) (5) 20% increased chance of blocking"
+    },
+    {
+      "id": 132,
+      "name": "Pompe's Wrath",
+      "baseName": "Crowbill",
+      "code": "9mp",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invmpiu.png",
+      "invfile": "invmpiu",
+      "baseStats": {
+        "oneHandDamage": "14-34",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": -10,
+        "requiredStrength": 94,
+        "requiredDexterity": 70,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 4,
+          "max": 8,
+          "param": 244,
+          "variable": true,
+          "text": "4-8% Chance to cast level 4-8 [Skill] on striking (244)"
+        },
+        {
+          "code": "slow",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 50%"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 35,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "Adds 35-150-35-150 Fire Damage"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+140-170% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "pompe's wrath crowbill 9mp hachas 4-8% chance to cast level 4-8 [skill] on striking (244) slows target by 50% adds 35-150-35-150 fire damage knockback +140-170% enhanced damage"
+    },
+    {
+      "id": 275,
+      "name": "Raven Frost",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 10,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 15,
+          "max": 45,
+          "param": 100,
+          "variable": true,
+          "text": "Adds 15-45-15-45 Cold Damage (100)"
+        },
+        {
+          "code": "abs-cold%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 Cold Absorb"
+        },
+        {
+          "code": "mana",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40 to Mana"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+15-20 to Dexterity"
+        },
+        {
+          "code": "att",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250 to Attack Rating"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "raven frost ring rin anillos cannot be frozen adds 15-45-15-45 cold damage (100) +20 cold absorb +40 to mana +15-20 to dexterity +150-250 to attack rating"
+    },
+    {
+      "id": 153,
+      "name": "The Gavel of Pain",
+      "baseName": "Martel de Fer",
+      "code": "9gm",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv9gmu.png",
+      "invfile": "inv9gmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "61-99",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 20,
+        "requiredStrength": 169,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 1,
+          "param": 66,
+          "variable": true,
+          "text": "5-1% Chance to cast level 5-1 [Skill] on striking (66)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 1,
+          "param": 76,
+          "variable": true,
+          "text": "5-1% Chance to cast level 5-1 [Skill] when struck (76)"
+        },
+        {
+          "code": "thorns",
+          "min": 26,
+          "max": 26,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 26"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 12,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Adds 12-30-12-30 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 130,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+130-160% Enhanced Damage"
+        },
+        {
+          "code": "charged",
+          "min": 3,
+          "max": 8,
+          "param": 66,
+          "variable": true,
+          "text": "Level 3-8 [Skill] (3-8/3-8 Charges) (66)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the gavel of pain martel de fer 9gm mazas y martillos 5-1% chance to cast level 5-1 [skill] on striking (66) 5-1% chance to cast level 5-1 [skill] when struck (76) attacker takes damage of 26 indestructible adds 12-30-12-30 damage +130-160% enhanced damage level 3-8 [skill] (3-8/3-8 charges) (66)"
+    },
+    {
+      "id": 138,
+      "name": "The Minataur",
+      "baseName": "Ancient Axe",
+      "code": "9gi",
+      "level": 53,
+      "requiredLevel": 45,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv9giu.png",
+      "invfile": "inv9giu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "43-85",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 125,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "stupidity",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Hit Blinds Target +2"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+15-20 to Strength"
+        },
+        {
+          "code": "slow",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 50%"
+        },
+        {
+          "code": "crush",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Chance of Crushing Blow"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-30-20-30 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 140,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+140-200% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the minataur ancient axe 9gi hachas hit blinds target +2 half freeze duration +15-20 to strength slows target by 50% 30% chance of crushing blow adds 20-30-20-30 damage +140-200% enhanced damage"
+    },
+    {
+      "id": 195,
+      "name": "Godstrike Arch",
+      "baseName": "Gothic Bow",
+      "code": "8lw",
+      "level": 54,
+      "requiredLevel": 46,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlwb.png",
+      "invfile": "invlwb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-50",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": 10,
+        "requiredStrength": 95,
+        "requiredDexterity": 118,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "100-150% Bonus to Attack Rating"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 100,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+100-200% Damage to Undead"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 100,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+100-200% Damage to Demons"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 7,
+          "param": 121,
+          "variable": true,
+          "text": "5-7% Chance to cast level 5-7 [Skill] on striking (121)"
+        },
+        {
+          "code": "swing2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "regen",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +12"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "godstrike arch gothic bow 8lw arcos +200-250% enhanced damage 100-150% bonus to attack rating +100-200% damage to undead +100-200% damage to demons 5-7% chance to cast level 5-7 [skill] on striking (121) +50% increased attack speed replenish life +12"
+    },
+    {
+      "id": 166,
+      "name": "Todesfaelle Flamme",
+      "baseName": "Zweihander",
+      "code": "9fb",
+      "level": 54,
+      "requiredLevel": 46,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/inv9fbu.png",
+      "invfile": "inv9fbu",
+      "baseStats": {
+        "oneHandDamage": "19-35",
+        "twoHandDamage": "29-54",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": -10,
+        "requiredStrength": 125,
+        "requiredDexterity": 94,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 50,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 50-200-50-200 Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +40%"
+        },
+        {
+          "code": "abs-fire",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Fire Absorb 10%"
+        },
+        {
+          "code": "att-skill",
+          "min": 10,
+          "max": 6,
+          "param": 47,
+          "variable": true,
+          "text": "10-6% Chance to cast level 10-6 [Skill] on attack (47)"
+        },
+        {
+          "code": "dmg%",
+          "min": 120,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+120-160% Enhanced Damage"
+        },
+        {
+          "code": "charged",
+          "min": 45,
+          "max": 10,
+          "param": 52,
+          "variable": true,
+          "text": "Level 45-10 [Skill] (45-10/45-10 Charges) (52)"
+        },
+        {
+          "code": "charged",
+          "min": 20,
+          "max": 10,
+          "param": 51,
+          "variable": true,
+          "text": "Level 20-10 [Skill] (20-10/20-10 Charges) (51)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "todesfaelle flamme zweihander 9fb espadas adds 50-200-50-200 fire damage fire resist +40% fire absorb 10% 10-6% chance to cast level 10-6 [skill] on attack (47) +120-160% enhanced damage level 45-10 [skill] (45-10/45-10 charges) (52) level 20-10 [skill] (20-10/20-10 charges) (51)"
+    },
+    {
+      "id": 241,
+      "name": "Gorerider",
+      "baseName": "War Boots",
+      "code": "xhb",
+      "level": 55,
+      "requiredLevel": 47,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhbt.png",
+      "invfile": "invhbt",
+      "baseStats": {
+        "oneHandDamage": "39-80",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "43-53",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 125,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -25,
+          "max": -25,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --25%"
+        },
+        {
+          "code": "deadly",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Deadly Strike"
+        },
+        {
+          "code": "move2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        },
+        {
+          "code": "crush",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "15% Chance of Crushing Blow"
+        },
+        {
+          "code": "openwounds",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Chance of Open Wounds"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "dur",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 10 of 10"
+        },
+        {
+          "code": "stam",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 Maximum Stamina"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gorerider war boots xhb botas requirements --25% 15% deadly strike +30% faster run/walk 15% chance of crushing blow 10% chance of open wounds +160-200% enhanced defense durability: 10 of 10 +20 maximum stamina"
+    },
+    {
+      "id": 236,
+      "name": "Hellmouth",
+      "baseName": "War Gauntlets",
+      "code": "xhg",
+      "level": 55,
+      "requiredLevel": 47,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhgl.png",
+      "invfile": "invhgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "43-53",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 110,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 15,
+          "max": 72,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-72-15-72 Fire Damage"
+        },
+        {
+          "code": "abs-fire",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Fire Absorb 15%"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "dur",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 15 of 15"
+        },
+        {
+          "code": "hit-skill",
+          "min": 2,
+          "max": 4,
+          "param": 56,
+          "variable": true,
+          "text": "2-4% Chance to cast level 2-4 [Skill] on striking (56)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 4,
+          "max": 12,
+          "param": 225,
+          "variable": true,
+          "text": "4-12% Chance to cast level 4-12 [Skill] on striking (225)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellmouth war gauntlets xhg guantes adds 15-72-15-72 fire damage fire absorb 15% +150-200% enhanced defense durability: 15 of 15 2-4% chance to cast level 2-4 [skill] on striking (56) 4-12% chance to cast level 4-12 [skill] on striking (225)"
+    },
+    {
+      "id": 277,
+      "name": "Saracen's Chance",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 55,
+      "requiredLevel": 47,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +15-25"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 10,
+          "max": 2,
+          "param": 76,
+          "variable": true,
+          "text": "10-2% Chance to cast level 10-2 [Skill] when struck (76)"
+        },
+        {
+          "code": "str",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Dexterity"
+        },
+        {
+          "code": "enr",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Energy"
+        },
+        {
+          "code": "vit",
+          "min": 12,
+          "max": 12,
+          "param": null,
+          "variable": false,
+          "text": "+12 to Vitality"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "saracen's chance amulet amu amuletos all resistances +15-25 10-2% chance to cast level 10-2 [skill] when struck (76) +12 to strength +12 to dexterity +12 to energy +12 to vitality"
+    },
+    {
+      "id": 246,
+      "name": "Thudergod's Vigor",
+      "baseName": "War Belt",
+      "code": "zhb",
+      "level": 55,
+      "requiredLevel": 47,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invhbl.png",
+      "invfile": "invhbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "41-52",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 110,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 7,
+          "param": 121,
+          "variable": true,
+          "text": "5-7% Chance to cast level 5-7 [Skill] when struck (121)"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-50-1-50 Lightning Damage"
+        },
+        {
+          "code": "res-ltng-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Lightning Resist"
+        },
+        {
+          "code": "abs-ltng",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Absorb 20%"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "vit",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Vitality"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 34,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (34)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 35,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (35)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "thudergod's vigor war belt zhb cintos 5-7% chance to cast level 5-7 [skill] when struck (121) adds 1-50-1-50 lightning damage +10% to maximum lightning resist lightning absorb 20% +160-200% enhanced defense +20 to vitality +20 to strength +3 to [skill] ([class] only) (34) +3 to [skill] ([class] only) (35)"
+    },
+    {
+      "id": 167,
+      "name": "Swordguard",
+      "baseName": "Executioner Sword",
+      "code": "9gd",
+      "level": 55,
+      "requiredLevel": 48,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgsdu.png",
+      "invfile": "invgsdu",
+      "baseStats": {
+        "oneHandDamage": "24-40",
+        "twoHandDamage": "47-80",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 170,
+        "requiredDexterity": 110,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -50,
+          "max": -50,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --50%"
+        },
+        {
+          "code": "ac/lvl",
+          "min": null,
+          "max": null,
+          "param": 40,
+          "variable": false,
+          "text": "+# Defense (Based on Character Level) (40)"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +10-20"
+        },
+        {
+          "code": "ac-miss",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 Defense vs. Missile"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "30% Damage Taken Goes To Mana"
+        },
+        {
+          "code": "dmg%",
+          "min": 170,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+170-180% Enhanced Damage"
+        },
+        {
+          "code": "ac-hth",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200 Defense vs. Melee"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "swordguard executioner sword 9gd espadas requirements --50% +# defense (based on character level) (40) all resistances +10-20 +100 defense vs. missile 30% damage taken goes to mana +170-180% enhanced damage +200 defense vs. melee +20% faster hit recovery 20% increased chance of blocking"
+    },
+    {
+      "id": 152,
+      "name": "Bloodtree Stump",
+      "baseName": "War Club",
+      "code": "9m9",
+      "level": 56,
+      "requiredLevel": 48,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invmau.png",
+      "invfile": "invmau",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "53-78",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 124,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "crush",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Crushing Blow"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+180-220% Enhanced Damage"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +20"
+        },
+        {
+          "code": "str",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Strength"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 13,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (13)"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": 129,
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (129)"
+        },
+        {
+          "code": "dur",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 40 of 40"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodtree stump war club 9m9 mazas y martillos 50% chance of crushing blow +180-220% enhanced damage all resistances +20 +25 to strength +2 to [class skill tab] skills (13) +3 to [skill] ([class] only) (129) durability: 40 of 40"
+    },
+    {
+      "id": 133,
+      "name": "Guardian Naga",
+      "baseName": "Naga",
+      "code": "9wa",
+      "level": 56,
+      "requiredLevel": 48,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwax.png",
+      "invfile": "invwax",
+      "baseStats": {
+        "oneHandDamage": "16-45",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": null,
+        "requiredStrength": 121,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 8,
+          "param": 92,
+          "variable": true,
+          "text": "5-8% Chance to cast level 5-8 [Skill] on striking (92)"
+        },
+        {
+          "code": "thorns",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 15"
+        },
+        {
+          "code": "res-pois",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +30%"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Damage"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 256,
+          "max": 256,
+          "param": 250,
+          "variable": false,
+          "text": "Adds 256-256 Poison Damage Over 256 Seconds (250)"
+        },
+        {
+          "code": "dmg-max",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Maximum Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "guardian naga naga 9wa hachas 5-8% chance to cast level 5-8 [skill] on striking (92) attacker takes damage of 15 poison resist +30% +150-180% enhanced damage adds 256-256 poison damage over 256 seconds (250) +20 to maximum damage"
+    },
+    {
+      "id": 219,
+      "name": "Toothrow",
+      "baseName": "Sharktooth Armor",
+      "code": "xld",
+      "level": 56,
+      "requiredLevel": 48,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfld.png",
+      "invfile": "invfld",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "242-258",
+        "durability": 48,
+        "speed": 5,
+        "requiredStrength": 103,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "thorns",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Attacker Takes Damage of 20-40"
+        },
+        {
+          "code": "ac",
+          "min": 40,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+40-60 Defense"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "openwounds",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Chance of Open Wounds"
+        },
+        {
+          "code": "res-fire",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +15%"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+160-220% Enhanced Defense"
+        },
+        {
+          "code": "dur",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 15 of 15"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "toothrow sharktooth armor xld armaduras corporales attacker takes damage of 20-40 +40-60 defense +10 to strength 40% chance of open wounds fire resist +15% +160-220% enhanced defense durability: 15 of 15"
+    },
+    {
+      "id": 206,
+      "name": "Crown of Thieves",
+      "baseName": "Grand Crown",
+      "code": "xrn",
+      "level": 57,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invxrnu.png",
+      "invfile": "invxrnu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "78-113",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 103,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Dexterity"
+        },
+        {
+          "code": "lifesteal",
+          "min": 9,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "9-12% Life stolen per hit"
+        },
+        {
+          "code": "hp",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Life"
+        },
+        {
+          "code": "mana",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35 to Mana"
+        },
+        {
+          "code": "res-fire",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +33%"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "gold%",
+          "min": 80,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "80-100% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crown of thieves grand crown xrn cascos +25 to dexterity 9-12% life stolen per hit +50 to life +35 to mana fire resist +33% +160-200% enhanced defense 80-100% extra gold from monsters"
+    },
+    {
+      "id": 199,
+      "name": "Demon Machine",
+      "baseName": "Chu-Ko-Nu",
+      "code": "8rx",
+      "level": 57,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invrxbu.png",
+      "invfile": "invrxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "14-32",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": -60,
+        "requiredStrength": 80,
+        "requiredDexterity": 95,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 321,
+          "max": 321,
+          "param": null,
+          "variable": false,
+          "text": "+321 Defense"
+        },
+        {
+          "code": "mana",
+          "min": 36,
+          "max": 36,
+          "param": null,
+          "variable": false,
+          "text": "+36 to Mana"
+        },
+        {
+          "code": "pierce",
+          "min": 66,
+          "max": 66,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "explosivearrow",
+          "min": 6,
+          "max": 6,
+          "param": null,
+          "variable": false,
+          "text": "Fires Explosive Arrows or Bolts"
+        },
+        {
+          "code": "dmg-max",
+          "min": 66,
+          "max": 66,
+          "param": null,
+          "variable": false,
+          "text": "+66 to Maximum Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 123,
+          "max": 123,
+          "param": null,
+          "variable": false,
+          "text": "+123% Enhanced Damage"
+        },
+        {
+          "code": "att",
+          "min": 632,
+          "max": 632,
+          "param": null,
+          "variable": false,
+          "text": "+632 to Attack Rating"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "demon machine chu-ko-nu 8rx ballestas +321 defense +36 to mana piercing attack fires explosive arrows or bolts +66 to maximum damage +123% enhanced damage +632 to attack rating"
+    },
+    {
+      "id": 392,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 74,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-74-1-74 Lightning Damage"
+        },
+        {
+          "code": "pierce-ltng",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Lightning Resistance"
+        },
+        {
+          "code": "extra-ltng",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Lightning Skill Damage"
+        },
+        {
+          "code": "death-skill",
+          "min": 100,
+          "max": 47,
+          "param": "Chain Lightning",
+          "variable": true,
+          "text": "100-47% Chance to cast level 100-47 [Skill] when you Die (Chain Lightning)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 1-74-1-74 lightning damage -3-5% to enemy lightning resistance +3-5% to lightning skill damage 100-47% chance to cast level 100-47 [skill] when you die (chain lightning)"
+    },
+    {
+      "id": 393,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-cold",
+          "min": 24,
+          "max": 38,
+          "param": 3,
+          "variable": true,
+          "text": "Adds 24-38-24-38 Cold Damage"
+        },
+        {
+          "code": "pierce-cold",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Cold Resistance"
+        },
+        {
+          "code": "extra-cold",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Cold Skill Damage"
+        },
+        {
+          "code": "death-skill",
+          "min": 100,
+          "max": 37,
+          "param": "Blizzard",
+          "variable": true,
+          "text": "100-37% Chance to cast level 100-37 [Skill] when you Die (Blizzard)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 24-38-24-38 cold damage -3-5% to enemy cold resistance +3-5% to cold skill damage 100-37% chance to cast level 100-37 [skill] when you die (blizzard)"
+    },
+    {
+      "id": 394,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 17,
+          "max": 45,
+          "param": null,
+          "variable": true,
+          "text": "Adds 17-45-17-45 Fire Damage"
+        },
+        {
+          "code": "pierce-fire",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Fire Resistance"
+        },
+        {
+          "code": "extra-fire",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Fire Skill Damage"
+        },
+        {
+          "code": "death-skill",
+          "min": 100,
+          "max": 31,
+          "param": "Meteor",
+          "variable": true,
+          "text": "100-31% Chance to cast level 100-31 [Skill] when you Die (Meteor)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 17-45-17-45 fire damage -3-5% to enemy fire resistance +3-5% to fire skill damage 100-31% chance to cast level 100-31 [skill] when you die (meteor)"
+    },
+    {
+      "id": 395,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 187,
+          "max": 187,
+          "param": 50,
+          "variable": false,
+          "text": "Adds 187-187 Poison Damage Over 187 Seconds (50)"
+        },
+        {
+          "code": "pierce-pois",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Poison Resistance"
+        },
+        {
+          "code": "extra-pois",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Poison Skill Damage"
+        },
+        {
+          "code": "death-skill",
+          "min": 100,
+          "max": 51,
+          "param": "Poison Nova",
+          "variable": true,
+          "text": "100-51% Chance to cast level 100-51 [Skill] when you Die (Poison Nova)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 187-187 poison damage over 187 seconds (50) -3-5% to enemy poison resistance +3-5% to poison skill damage 100-51% chance to cast level 100-51 [skill] when you die (poison nova)"
+    },
+    {
+      "id": 396,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 74,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-74-1-74 Lightning Damage"
+        },
+        {
+          "code": "pierce-ltng",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Lightning Resistance"
+        },
+        {
+          "code": "extra-ltng",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Lightning Skill Damage"
+        },
+        {
+          "code": "levelup-skill",
+          "min": 100,
+          "max": 41,
+          "param": "Nova",
+          "variable": true,
+          "text": "100-41% Chance to cast level 100-41 [Skill] when you Level-Up (Nova)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 1-74-1-74 lightning damage -3-5% to enemy lightning resistance +3-5% to lightning skill damage 100-41% chance to cast level 100-41 [skill] when you level-up (nova)"
+    },
+    {
+      "id": 397,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-cold",
+          "min": 24,
+          "max": 38,
+          "param": 3,
+          "variable": true,
+          "text": "Adds 24-38-24-38 Cold Damage"
+        },
+        {
+          "code": "pierce-cold",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Cold Resistance"
+        },
+        {
+          "code": "extra-cold",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Cold Skill Damage"
+        },
+        {
+          "code": "levelup-skill",
+          "min": 100,
+          "max": 43,
+          "param": "Frost Nova",
+          "variable": true,
+          "text": "100-43% Chance to cast level 100-43 [Skill] when you Level-Up (Frost Nova)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 24-38-24-38 cold damage -3-5% to enemy cold resistance +3-5% to cold skill damage 100-43% chance to cast level 100-43 [skill] when you level-up (frost nova)"
+    },
+    {
+      "id": 398,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-fire",
+          "min": 17,
+          "max": 45,
+          "param": null,
+          "variable": true,
+          "text": "Adds 17-45-17-45 Fire Damage"
+        },
+        {
+          "code": "pierce-fire",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Fire Resistance"
+        },
+        {
+          "code": "extra-fire",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Fire Skill Damage"
+        },
+        {
+          "code": "levelup-skill",
+          "min": 100,
+          "max": 29,
+          "param": "Blaze",
+          "variable": true,
+          "text": "100-29% Chance to cast level 100-29 [Skill] when you Level-Up (Blaze)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 17-45-17-45 fire damage -3-5% to enemy fire resistance +3-5% to fire skill damage 100-29% chance to cast level 100-29 [skill] when you level-up (blaze)"
+    },
+    {
+      "id": 399,
+      "name": "Rainbow Facet",
+      "baseName": "Jewel",
+      "code": "jew",
+      "level": 85,
+      "requiredLevel": 49,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 187,
+          "max": 187,
+          "param": 50,
+          "variable": false,
+          "text": "Adds 187-187 Poison Damage Over 187 Seconds (50)"
+        },
+        {
+          "code": "pierce-pois",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Poison Resistance"
+        },
+        {
+          "code": "extra-pois",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Poison Skill Damage"
+        },
+        {
+          "code": "levelup-skill",
+          "min": 100,
+          "max": 23,
+          "param": "Venom",
+          "variable": true,
+          "text": "100-23% Chance to cast level 100-23 [Skill] when you Level-Up (Venom)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rainbow facet jewel jew joyas adds 187-187 poison damage over 187 seconds (50) -3-5% to enemy poison resistance +3-5% to poison skill damage 100-23% chance to cast level 100-23 [skill] when you level-up (venom)"
+    },
+    {
+      "id": 419,
+      "name": "Unique Warlock Helm",
+      "baseName": "Death Mask",
+      "code": "xsk",
+      "level": 55,
+      "requiredLevel": 50,
+      "rarity": 2,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmsk.png",
+      "invfile": "invmsk",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "54-86",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 55,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "pierce-fire",
+          "min": 5,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "-5-8% to Enemy Fire Resistance"
+        },
+        {
+          "code": "pierce-mag",
+          "min": 5,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "-5-8% to Enemy Fire Resistance"
+        },
+        {
+          "code": "cast1",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 215,
+          "param": null,
+          "variable": true,
+          "text": "+150-215% Enhanced Defense"
+        },
+        {
+          "code": "mana-kill",
+          "min": 4,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "+4-6 to Mana after each Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "unique warlock helm death mask xsk cascos +1 to all skills -5-8% to enemy fire resistance -5-8% to enemy fire resistance +20% faster cast rate +20% increased attack speed +150-215% enhanced defense +4-6 to mana after each kill"
+    },
+    {
+      "id": 271,
+      "name": "Crescent Moon",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 58,
+      "requiredLevel": 50,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "manasteal",
+          "min": 11,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "11-15% Mana stolen per hit"
+        },
+        {
+          "code": "red-mag",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Magic Damage Reduced by 10"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Damage Taken Goes To Mana"
+        },
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "mana",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "+45 to Mana"
+        },
+        {
+          "code": "lifesteal",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "3-6% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crescent moon amulet amu amuletos 11-15% mana stolen per hit magic damage reduced by 10 10% damage taken goes to mana +-2 to light radius +45 to mana 3-6% life stolen per hit"
+    },
+    {
+      "id": 416,
+      "name": "Opalvein",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 58,
+      "requiredLevel": 50,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "att-skill",
+          "min": 2,
+          "max": 15,
+          "param": "Flame Wave",
+          "variable": true,
+          "text": "2-15% Chance to cast level 2-15 [Skill] on attack (Flame Wave)"
+        },
+        {
+          "code": "magdam-rand",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magdam Rand: 1"
+        },
+        {
+          "code": "cast1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Cast Rate"
+        },
+        {
+          "code": "res-all",
+          "min": 6,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +6-8"
+        },
+        {
+          "code": "heal-kill",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "+1-3 Life after each Kill"
+        },
+        {
+          "code": "mana-kill",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "+1-3 to Mana after each Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "opalvein ring rin anillos 2-15% chance to cast level 2-15 [skill] on attack (flame wave) magdam rand: 1 +10% faster cast rate all resistances +6-8 +1-3 life after each kill +1-3 to mana after each kill"
+    },
+    {
+      "id": 229,
+      "name": "Radimant's Sphere",
+      "baseName": "Ancient Shield",
+      "code": "xts",
+      "level": 58,
+      "requiredLevel": 50,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgtsu.png",
+      "invfile": "invgtsu",
+      "baseStats": {
+        "oneHandDamage": "12-16",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "80-93",
+        "durability": 80,
+        "speed": 5,
+        "requiredStrength": 110,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 204,
+          "max": 204,
+          "param": 100,
+          "variable": false,
+          "text": "Adds 204-204 Poison Damage Over 204 Seconds (100)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 5,
+          "param": 92,
+          "variable": false,
+          "text": "5% Chance to cast level 5 [Skill] when struck (92)"
+        },
+        {
+          "code": "res-pois",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +75%"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        },
+        {
+          "code": "block2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Block Rate"
+        },
+        {
+          "code": "charged",
+          "min": 40,
+          "max": 6,
+          "param": 83,
+          "variable": true,
+          "text": "Level 40-6 [Skill] (40-6/40-6 Charges) (83)"
+        },
+        {
+          "code": "dur",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 20 of 20"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "radimant's sphere ancient shield xts escudos adds 204-204 poison damage over 204 seconds (100) 5% chance to cast level 5 [skill] when struck (92) poison resist +75% +160-200% enhanced defense 20% increased chance of blocking +20% faster block rate level 40-6 [skill] (40-6/40-6 charges) (83) durability: 20 of 20"
+    },
+    {
+      "id": 415,
+      "name": "Sling",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 58,
+      "requiredLevel": 50,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "oskill",
+          "min": 1,
+          "max": 1,
+          "param": "Townportal O Skill",
+          "variable": false,
+          "text": "+1 to [Skill] (Townportal O Skill)"
+        },
+        {
+          "code": "cast1",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Cast Rate"
+        },
+        {
+          "code": "pierce-mag",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "-3-5% to Enemy Fire Resistance"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Energy"
+        },
+        {
+          "code": "slow",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 15%"
+        },
+        {
+          "code": "mag%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "10-20% Better Chance of Getting Magic Items"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "sling ring rin anillos +1 to [skill] (townportal o skill) +10% faster cast rate -3-5% to enemy fire resistance +10-15 to energy slows target by 15% 10-20% better chance of getting magic items"
+    },
+    {
+      "id": 269,
+      "name": "The Cat's Eye",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 58,
+      "requiredLevel": 50,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "move2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "ac",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 Defense"
+        },
+        {
+          "code": "ac-miss",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100 Defense vs. Missile"
+        },
+        {
+          "code": "dex",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Dexterity"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "the cat's eye amulet amu amuletos +30% faster run/walk +20% increased attack speed +100 defense +100 defense vs. missile +25 to dexterity"
+    },
+    {
+      "id": 220,
+      "name": "Atma's Wail",
+      "baseName": "Embossed Plate",
+      "code": "xth",
+      "level": 59,
+      "requiredLevel": 51,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgth.png",
+      "invfile": "invgth",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "282-303",
+        "durability": 55,
+        "speed": 5,
+        "requiredStrength": 125,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "regen",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +10"
+        },
+        {
+          "code": "mana%",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 15%"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "ac/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+# Defense (Based on Character Level) (16)"
+        },
+        {
+          "code": "dur",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 50 of 50"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+120-160% Enhanced Defense"
+        },
+        {
+          "code": "mag%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Better Chance of Getting Magic Items"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "atma's wail embossed plate xth armaduras corporales +15 to dexterity replenish life +10 increase maximum mana 15% +30% faster hit recovery +# defense (based on character level) (16) durability: 50 of 50 +120-160% enhanced defense 20% better chance of getting magic items"
+    },
+    {
+      "id": 223,
+      "name": "Que-Hegan's Wisdon",
+      "baseName": "Mage Plate",
+      "code": "xtp",
+      "level": 59,
+      "requiredLevel": 51,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invltp.png",
+      "invfile": "invltp",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "225-261",
+        "durability": 60,
+        "speed": 0,
+        "requiredStrength": 55,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "mana-kill",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Mana after each Kill"
+        },
+        {
+          "code": "red-mag",
+          "min": 6,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 6-10"
+        },
+        {
+          "code": "enr",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Energy"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+140-160% Enhanced Defense"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "que-hegan's wisdon mage plate xtp armaduras corporales +20% faster cast rate +3 to mana after each kill magic damage reduced by 6-10 +15 to energy +20% faster hit recovery +140-160% enhanced defense +1 to all skills"
+    },
+    {
+      "id": 374,
+      "name": "Nosferatu's Coil",
+      "baseName": "Vampirefang Belt",
+      "code": "uvc",
+      "level": 68,
+      "requiredLevel": 51,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invvbl.png",
+      "invfile": "invvbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "56-63",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 50,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "mana-kill",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Mana after each Kill"
+        },
+        {
+          "code": "slow",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 10%"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "5-7% Life stolen per hit"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "light",
+          "min": -3,
+          "max": -3,
+          "param": null,
+          "variable": false,
+          "text": "+-3 to Light Radius"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nosferatu's coil vampirefang belt uvc cintos +15 to strength +2 to mana after each kill slows target by 10% 5-7% life stolen per hit +10% increased attack speed +-3 to light radius"
+    },
+    {
+      "id": 411,
+      "name": "Measured Wrath",
+      "baseName": "Burnt Text",
+      "code": "wa6",
+      "level": 58,
+      "requiredLevel": 52,
+      "rarity": 3,
+      "family": "Armaduras",
+      "subtype": "Grimorios",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbbb.png",
+      "invfile": "invbbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "38-48",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 38,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "war",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Warlock Skill Levels"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 25,
+          "param": "Ring of Fire",
+          "variable": true,
+          "text": "5-25% Chance to cast level 5-25 [Skill] when struck (Ring of Fire)"
+        },
+        {
+          "code": "cast1",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Faster Cast Rate"
+        },
+        {
+          "code": "ac%",
+          "min": 130,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+130-180% Enhanced Defense"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": "Summon Tainted",
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (Summon Tainted)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": "Ring of Fire",
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (Ring of Fire)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": "Flame Wave",
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (Flame Wave)"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 to Vitality"
+        },
+        {
+          "code": "heal-kill",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5 Life after each Kill"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "measured wrath burnt text wa6 grimorios +1 to warlock skill levels 5-25% chance to cast level 5-25 [skill] when struck (ring of fire) +25% faster cast rate +130-180% enhanced defense +1-3 to [skill] ([class] only) (summon tainted) +1-3 to [skill] ([class] only) (ring of fire) +1-3 to [skill] ([class] only) (flame wave) +10-20 to vitality +3-5 life after each kill all resistances +20-30"
+    },
+    {
+      "id": 221,
+      "name": "Black Hades",
+      "baseName": "Chaos Armor",
+      "code": "xul",
+      "level": 61,
+      "requiredLevel": 53,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invful.png",
+      "invfile": "invful",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "315-342",
+        "durability": 70,
+        "speed": 10,
+        "requiredStrength": 140,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": -2,
+          "max": -2,
+          "param": null,
+          "variable": false,
+          "text": "+-2 to Light Radius"
+        },
+        {
+          "code": "att-demon",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250 to Attack Rating against Demons"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "sock",
+          "min": null,
+          "max": null,
+          "param": 3,
+          "variable": false,
+          "text": "Socketed (#) (3)"
+        },
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+140-200% Enhanced Defense"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 30,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+30-60% Damage to Demons"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "black hades chaos armor xul armaduras corporales +-2 to light radius +200-250 to attack rating against demons half freeze duration socketed (#) (3) +140-200% enhanced defense +30-60% damage to demons"
+    },
+    {
+      "id": 417,
+      "name": "Entropy Locket",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 60,
+      "requiredLevel": 54,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 4,
+          "max": 19,
+          "param": "Miasma Chains",
+          "variable": true,
+          "text": "4-19% Chance to cast level 4-19 [Skill] on striking (Miasma Chains)"
+        },
+        {
+          "code": "extra-mag",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Magic Skill Damage"
+        },
+        {
+          "code": "cast1",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% Faster Cast Rate"
+        },
+        {
+          "code": "res-ltng",
+          "min": 25,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Resist +25-40%"
+        },
+        {
+          "code": "mana%",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Increase Maximum Mana 10-15%"
+        },
+        {
+          "code": "red-mag",
+          "min": 8,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 8-12"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "entropy locket amulet amu amuletos 4-19% chance to cast level 4-19 [skill] on striking (miasma chains) +5-10% to magic skill damage +5-10% faster cast rate lightning resist +25-40% increase maximum mana 10-15% magic damage reduced by 8-12"
+    },
+    {
+      "id": 222,
+      "name": "Corpsemourn",
+      "baseName": "Ornate Armor",
+      "code": "xar",
+      "level": 63,
+      "requiredLevel": 55,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invxaru.png",
+      "invfile": "invxaru",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "417-450",
+        "durability": 60,
+        "speed": 5,
+        "requiredStrength": 170,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Vitality"
+        },
+        {
+          "code": "res-cold",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +35%"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 6,
+          "max": 2,
+          "param": 76,
+          "variable": true,
+          "text": "6-2% Chance to cast level 6-2 [Skill] when struck (76)"
+        },
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Defense"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 12,
+          "max": 36,
+          "param": null,
+          "variable": true,
+          "text": "Adds 12-36-12-36 Fire Damage"
+        },
+        {
+          "code": "charged",
+          "min": 40,
+          "max": 5,
+          "param": 74,
+          "variable": true,
+          "text": "Level 40-5 [Skill] (40-5/40-5 Charges) (74)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "corpsemourn ornate armor xar armaduras corporales +8 to strength +10 to vitality cold resist +35% 6-2% chance to cast level 6-2 [skill] when struck (76) +150-180% enhanced defense adds 12-36-12-36 fire damage level 40-5 [skill] (40-5/40-5 charges) (74)"
+    },
+    {
+      "id": 288,
+      "name": "The Scalper",
+      "baseName": "Francisca",
+      "code": "9ta",
+      "level": 65,
+      "requiredLevel": 57,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arrojadizas",
+      "tier": "Excepcional",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invtax.png",
+      "invfile": "invtax",
+      "baseStats": {
+        "oneHandDamage": "11-22",
+        "twoHandDamage": null,
+        "throwDamage": "18-33",
+        "defense": null,
+        "durability": 15,
+        "speed": 10,
+        "requiredStrength": 25,
+        "requiredDexterity": 80,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 30,
+          "variable": false,
+          "text": "Replenishes quantity (30)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Bonus to Attack Rating"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "openwounds",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Open Wounds"
+        },
+        {
+          "code": "lifesteal",
+          "min": 4,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "4-6% Life stolen per hit"
+        },
+        {
+          "code": "mana-kill",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Mana after each Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the scalper francisca 9ta arrojadizas replenishes quantity (30) +150-200% enhanced damage 25% bonus to attack rating +20% increased attack speed 33% chance of open wounds 4-6% life stolen per hit +4 to mana after each kill"
+    },
+    {
+      "id": 268,
+      "name": "Bul Katho's Wedding Band",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 66,
+      "requiredLevel": 58,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 4,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (4)"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "lifesteal",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "3-5% Life stolen per hit"
+        },
+        {
+          "code": "stam",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Maximum Stamina"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bul katho's wedding band ring rin anillos +# to life (based on character level) (4) +1 to all skills 3-5% life stolen per hit +50 maximum stamina"
+    },
+    {
+      "id": 259,
+      "name": "Lightsabre",
+      "baseName": "Phase Blade",
+      "code": "7cr",
+      "level": 66,
+      "requiredLevel": 58,
+      "rarity": 5,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invcrsu.png",
+      "invfile": "invcrsu",
+      "baseStats": {
+        "oneHandDamage": "31-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 0,
+        "speed": -30,
+        "requiredStrength": 25,
+        "requiredDexterity": 136,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "light",
+          "min": 7,
+          "max": 7,
+          "param": null,
+          "variable": false,
+          "text": "+7 to Light Radius"
+        },
+        {
+          "code": "att-skill",
+          "min": 5,
+          "max": 0,
+          "param": 53,
+          "variable": true,
+          "text": "5-0% Chance to cast level 5-0 [Skill] on attack (53)"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": 1,
+          "variable": false,
+          "text": "Ignore Target's Defense (1)"
+        },
+        {
+          "code": "abs-ltng%",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 Lightning Absorb"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-mag",
+          "min": 60,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "Adds 60-120-60-120 Magic Damage"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-200-1-200 Lightning Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 5,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "5-7% Mana stolen per hit"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 10,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Adds 10-30-10-30 Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lightsabre phase blade 7cr espadas +7 to light radius 5-0% chance to cast level 5-0 [skill] on attack (53) ignore target's defense (1) +25 lightning absorb +20% increased attack speed adds 60-120-60-120 magic damage adds 1-200-1-200 lightning damage 5-7% mana stolen per hit +150-200% enhanced damage adds 10-30-10-30 damage"
+    },
+    {
+      "id": 273,
+      "name": "Atma's Scarab",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 60,
+      "requiredLevel": 60,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "dmg-pois",
+          "min": 102,
+          "max": 102,
+          "param": 100,
+          "variable": false,
+          "text": "Adds 102-102 Poison Damage Over 102 Seconds (100)"
+        },
+        {
+          "code": "res-pois",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +75%"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "thorns",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 5"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 2,
+          "param": 66,
+          "variable": true,
+          "text": "5-2% Chance to cast level 5-2 [Skill] on striking (66)"
+        },
+        {
+          "code": "att%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Bonus to Attack Rating"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "atma's scarab amulet amu amuletos adds 102-102 poison damage over 102 seconds (100) poison resist +75% +3 to light radius attacker takes damage of 5 5-2% chance to cast level 5-2 [skill] on striking (66) 20% bonus to attack rating"
+    },
+    {
+      "id": 378,
+      "name": "Carrion Wind",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 68,
+      "requiredLevel": 60,
+      "rarity": 3,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "ac-miss",
+          "min": 100,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+100-160 Defense vs. Missile"
+        },
+        {
+          "code": "lifesteal",
+          "min": 6,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "6-9% Life stolen per hit"
+        },
+        {
+          "code": "res-pois",
+          "min": 55,
+          "max": 55,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +55%"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 10,
+          "max": 10,
+          "param": "Poison Nova",
+          "variable": false,
+          "text": "10% Chance to cast level 10 [Skill] when struck (Poison Nova)"
+        },
+        {
+          "code": "charged",
+          "min": 15,
+          "max": 21,
+          "param": "Plague Poppy",
+          "variable": true,
+          "text": "Level 15-21 [Skill] (15-21/15-21 Charges) (Plague Poppy)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 8,
+          "max": 13,
+          "param": "Twister",
+          "variable": true,
+          "text": "8-13% Chance to cast level 8-13 [Skill] on striking (Twister)"
+        },
+        {
+          "code": "dmg-to-mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Damage Taken Goes To Mana"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "carrion wind ring rin anillos +100-160 defense vs. missile 6-9% life stolen per hit poison resist +55% 10% chance to cast level 10 [skill] when struck (poison nova) level 15-21 [skill] (15-21/15-21 charges) (plague poppy) 8-13% chance to cast level 8-13 [skill] on striking (twister) 10% damage taken goes to mana"
+    },
+    {
+      "id": 380,
+      "name": "Ironward",
+      "baseName": "Caduceus",
+      "code": "7ws",
+      "level": 68,
+      "requiredLevel": 60,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwsp.png",
+      "invfile": "invwsp",
+      "baseStats": {
+        "oneHandDamage": "37-43",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 70,
+        "speed": -10,
+        "requiredStrength": 97,
+        "requiredDexterity": 70,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 240,
+          "max": 290,
+          "param": null,
+          "variable": true,
+          "text": "+240-290% Enhanced Damage"
+        },
+        {
+          "code": "slow",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 25%"
+        },
+        {
+          "code": "att%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "150-200% Bonus to Attack Rating"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-mag",
+          "min": 80,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "Adds 80-240-80-240 Magic Damage"
+        },
+        {
+          "code": "red-dmg",
+          "min": 4,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 4-7"
+        },
+        {
+          "code": "dmg",
+          "min": 40,
+          "max": 85,
+          "param": null,
+          "variable": true,
+          "text": "Damage +40-85"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 4,
+          "param": 9,
+          "variable": true,
+          "text": "+2-4 to [Class Skill Tab] Skills (9)"
+        },
+        {
+          "code": "crush",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Crushing Blow"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ironward caduceus 7ws cetros +240-290% enhanced damage slows target by 25% 150-200% bonus to attack rating +10% increased attack speed adds 80-240-80-240 magic damage damage reduced by 4-7 damage +40-85 +2-4 to [class skill tab] skills (9) 33% chance of crushing blow"
+    },
+    {
+      "id": 252,
+      "name": "Blackoak Shield",
+      "baseName": "Luna",
+      "code": "uml",
+      "level": 67,
+      "requiredLevel": 61,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invsmlu.png",
+      "invfile": "invsmlu",
+      "baseStats": {
+        "oneHandDamage": "17-29",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "108-123",
+        "durability": 84,
+        "speed": 0,
+        "requiredStrength": 100,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dex/lvl",
+          "min": null,
+          "max": null,
+          "param": 4,
+          "variable": false,
+          "text": "+# to Dexterity (Based on Character Level) (4)"
+        },
+        {
+          "code": "ac%",
+          "min": 160,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+160-200% Enhanced Defense"
+        },
+        {
+          "code": "abs-cold/lvl",
+          "min": null,
+          "max": null,
+          "param": 5,
+          "variable": false,
+          "text": "Absorbs Cold Damage (Based on Character Level) (5)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 4,
+          "max": 5,
+          "param": 72,
+          "variable": true,
+          "text": "4-5% Chance to cast level 4-5 [Skill] when struck (72)"
+        },
+        {
+          "code": "dur",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 45 of 45"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 10,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (10)"
+        },
+        {
+          "code": "block2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Faster Block Rate"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "blackoak shield luna uml escudos +# to dexterity (based on character level) (4) +160-200% enhanced defense absorbs cold damage (based on character level) (5) 4-5% chance to cast level 4-5 [skill] when struck (72) durability: 45 of 45 +# to life (based on character level) (10) +50% faster block rate half freeze duration"
+    },
+    {
+      "id": 289,
+      "name": "Bloodmoon",
+      "baseName": "Elegant Blade",
+      "code": "7sb",
+      "level": 69,
+      "requiredLevel": 61,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsbru.png",
+      "invfile": "invsbru",
+      "baseStats": {
+        "oneHandDamage": "33-45",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 32,
+        "speed": -10,
+        "requiredStrength": 109,
+        "requiredDexterity": 122,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 210,
+          "max": 260,
+          "param": null,
+          "variable": true,
+          "text": "+210-260% Enhanced Damage"
+        },
+        {
+          "code": "lifesteal",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "10-15% Life stolen per hit"
+        },
+        {
+          "code": "charged",
+          "min": 9,
+          "max": 15,
+          "param": "BloodGolem",
+          "variable": true,
+          "text": "Level 9-15 [Skill] (9-15/9-15 Charges) (BloodGolem)"
+        },
+        {
+          "code": "heal-kill",
+          "min": 7,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "+7-13 Life after each Kill"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodmoon elegant blade 7sb espadas +210-260% enhanced damage 10-15% life stolen per hit level 9-15 [skill] (9-15/9-15 charges) (bloodgolem) +7-13 life after each kill 50% chance of open wounds"
+    },
+    {
+      "id": 325,
+      "name": "Demonhorn's Edge",
+      "baseName": "Destroyer Helm",
+      "code": "bad",
+      "level": 69,
+      "requiredLevel": 61,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos de barbaro",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invba3.png",
+      "invfile": "invba3",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "111-156",
+        "durability": 45,
+        "speed": 0,
+        "requiredStrength": 151,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "+120-160% Enhanced Defense"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "lifesteal",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "3-6% Life stolen per hit"
+        },
+        {
+          "code": "thorns",
+          "min": 55,
+          "max": 77,
+          "param": null,
+          "variable": true,
+          "text": "Attacker Takes Damage of 55-77"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 12,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (12)"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 13,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (13)"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 14,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (14)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "demonhorn's edge destroyer helm bad cascos de barbaro +120-160% enhanced defense +10% increased attack speed 3-6% life stolen per hit attacker takes damage of 55-77 +1-3 to [class skill tab] skills (12) +1-3 to [class skill tab] skills (13) +1-3 to [class skill tab] skills (14)"
+    },
+    {
+      "id": 412,
+      "name": "Dreadfang",
+      "baseName": "Legend Sword",
+      "code": "72h",
+      "level": 69,
+      "requiredLevel": 61,
+      "rarity": 2,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/inv2hsu.png",
+      "invfile": "inv2hsu",
+      "baseStats": {
+        "oneHandDamage": "22-56",
+        "twoHandDamage": "50-94",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": -15,
+        "requiredStrength": 175,
+        "requiredDexterity": 100,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 33,
+          "max": 3,
+          "param": "Amplify Damage",
+          "variable": true,
+          "text": "33-3% Chance to cast level 33-3 [Skill] on striking (Amplify Damage)"
+        },
+        {
+          "code": "swing1",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "+33% Increased Attack Speed"
+        },
+        {
+          "code": "dmg%",
+          "min": 133,
+          "max": 166,
+          "param": null,
+          "variable": true,
+          "text": "+133-166% Enhanced Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "3-6% Mana stolen per hit"
+        },
+        {
+          "code": "deadly",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Deadly Strike"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": "Mirrored Blades",
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (Mirrored Blades)"
+        },
+        {
+          "code": "att%",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Bonus to Attack Rating"
+        },
+        {
+          "code": "ease",
+          "min": -33,
+          "max": -33,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --33%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "dreadfang legend sword 72h espadas 33-3% chance to cast level 33-3 [skill] on striking (amplify damage) +33% increased attack speed +133-166% enhanced damage 3-6% mana stolen per hit 33% deadly strike +3 to [skill] ([class] only) (mirrored blades) 33% bonus to attack rating requirements --33%"
+    },
+    {
+      "id": 371,
+      "name": "Heaven's Light",
+      "baseName": "Mighty Scepter",
+      "code": "7sc",
+      "level": 69,
+      "requiredLevel": 61,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscp.png",
+      "invfile": "invscp",
+      "baseStats": {
+        "oneHandDamage": "40-52",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 125,
+        "requiredDexterity": 65,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 250,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+250-300% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "-33% Target Defense"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "demon-heal",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+15-20 Life after each Demon Kill"
+        },
+        {
+          "code": "crush",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Crushing Blow"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (1-3)"
+        },
+        {
+          "code": "pal",
+          "min": 2,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "+2-3 to Paladin Skill Levels"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "heaven's light mighty scepter 7sc cetros +250-300% enhanced damage +20% increased attack speed -33% target defense +3 to light radius +15-20 life after each demon kill 33% chance of crushing blow socketed (1-3) +2-3 to paladin skill levels"
+    },
+    {
+      "id": 262,
+      "name": "Wizardspike",
+      "baseName": "Bone Knife",
+      "code": "7dg",
+      "level": 69,
+      "requiredLevel": 61,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invdgr.png",
+      "invfile": "invdgr",
+      "baseStats": {
+        "oneHandDamage": "23-49",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": -20,
+        "requiredStrength": 38,
+        "requiredDexterity": 75,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "mana/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+# to Mana (Based on Character Level) (16)"
+        },
+        {
+          "code": "regen-mana",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 15%"
+        },
+        {
+          "code": "mana%",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 15%"
+        },
+        {
+          "code": "res-all",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +75"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "cast3",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Faster Cast Rate"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "wizardspike bone knife 7dg dagas +# to mana (based on character level) (16) regenerate mana 15% increase maximum mana 15% all resistances +75 indestructible +50% faster cast rate"
+    },
+    {
+      "id": 248,
+      "name": "Harlequin Crest",
+      "baseName": "Shako",
+      "code": "uap",
+      "level": 69,
+      "requiredLevel": 62,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invcap.png",
+      "invfile": "invcap",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "98-141",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 50,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 12,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (12)"
+        },
+        {
+          "code": "mana/lvl",
+          "min": null,
+          "max": null,
+          "param": 12,
+          "variable": false,
+          "text": "+# to Mana (Based on Character Level) (12)"
+        },
+        {
+          "code": "mag%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 10%"
+        },
+        {
+          "code": "str",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Vitality"
+        },
+        {
+          "code": "enr",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Energy"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "harlequin crest shako uap cascos +2 to all skills +# to life (based on character level) (12) +# to mana (based on character level) (12) 50% better chance of getting magic items damage reduced by 10% +2 to strength +2 to dexterity +2 to vitality +2 to energy"
+    },
+    {
+      "id": 359,
+      "name": "Gheed's Fortune",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 70,
+      "requiredLevel": 62,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "mag%",
+          "min": 20,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "20-40% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 80,
+          "max": 160,
+          "param": null,
+          "variable": true,
+          "text": "80-160% Extra Gold from Monsters"
+        },
+        {
+          "code": "cheap",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Reduces all Vendor Prices 10-15%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gheed's fortune charm cm3 charms 20-40% better chance of getting magic items 80-160% extra gold from monsters reduces all vendor prices 10-15%"
+    },
+    {
+      "id": 333,
+      "name": "Ghostflame",
+      "baseName": "Legend Spike",
+      "code": "7bl",
+      "level": 70,
+      "requiredLevel": 62,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invbld.png",
+      "invfile": "invbld",
+      "baseStats": {
+        "oneHandDamage": "31-47",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 47,
+        "speed": -10,
+        "requiredStrength": 65,
+        "requiredDexterity": 67,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+190-240% Enhanced Damage"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "dmg-mag",
+          "min": 108,
+          "max": 108,
+          "param": null,
+          "variable": false,
+          "text": "Adds 108-108 Magic Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "10-15% Mana stolen per hit"
+        },
+        {
+          "code": "ethereal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ethereal"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ghostflame legend spike 7bl dagas +190-240% enhanced damage ignore target's defense adds 108-108 magic damage 10-15% mana stolen per hit ethereal indestructible +2 to light radius"
+    },
+    {
+      "id": 297,
+      "name": "Steelshade",
+      "baseName": "Armet",
+      "code": "ulm",
+      "level": 70,
+      "requiredLevel": 62,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhlmu.png",
+      "invfile": "invhlmu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "105-149",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 109,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 130,
+          "param": null,
+          "variable": true,
+          "text": "+100-130% Enhanced Defense"
+        },
+        {
+          "code": "abs-fire",
+          "min": 5,
+          "max": 11,
+          "param": null,
+          "variable": true,
+          "text": "Fire Absorb 5-11%"
+        },
+        {
+          "code": "manasteal",
+          "min": 4,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "4-8% Mana stolen per hit"
+        },
+        {
+          "code": "regen",
+          "min": 10,
+          "max": 18,
+          "param": null,
+          "variable": true,
+          "text": "Replenish Life +10-18"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steelshade armet ulm cascos +100-130% enhanced defense fire absorb 5-11% 4-8% mana stolen per hit replenish life +10-18"
+    },
+    {
+      "id": 310,
+      "name": "Cerebus",
+      "baseName": "Blood Spirit",
+      "code": "drb",
+      "level": 71,
+      "requiredLevel": 63,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Pelts de druida",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invdr1.png",
+      "invfile": "invdr1",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "101-145",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 86,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 130,
+          "max": 140,
+          "param": null,
+          "variable": true,
+          "text": "+130-140% Enhanced Defense"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 4,
+          "param": 16,
+          "variable": true,
+          "text": "+2-4 to [Class Skill Tab] Skills (16)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "7-10% Life stolen per hit"
+        },
+        {
+          "code": "att%",
+          "min": 60,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "60-120% Bonus to Attack Rating"
+        },
+        {
+          "code": "openwounds",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Open Wounds"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "feral rage",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (feral rage)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "cerebus blood spirit drb pelts de druida +130-140% enhanced defense +2-4 to [class skill tab] skills (16) 7-10% life stolen per hit 60-120% bonus to attack rating 33% chance of open wounds +1-2 to [skill] ([class] only) (feral rage)"
+    },
+    {
+      "id": 383,
+      "name": "Cranebeak",
+      "baseName": "War Spike",
+      "code": "7mp",
+      "level": 71,
+      "requiredLevel": 63,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invmpiu.png",
+      "invfile": "invmpiu",
+      "baseStats": {
+        "oneHandDamage": "30-48",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": -10,
+        "requiredStrength": 133,
+        "requiredDexterity": 54,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 240,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+240-300% Enhanced Damage"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 305,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-305-1-305 Lightning Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Increased Attack Speed"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "-25% Target Defense"
+        },
+        {
+          "code": "mag%",
+          "min": 20,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "20-50% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "charged",
+          "min": 15,
+          "max": 8,
+          "param": "Raven",
+          "variable": true,
+          "text": "Level 15-8 [Skill] (15-8/15-8 Charges) (Raven)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "cranebeak war spike 7mp hachas +240-300% enhanced damage adds 1-305-1-305 lightning damage +40% increased attack speed -25% target defense 20-50% better chance of getting magic items level 15-8 [skill] (15-8/15-8 charges) (raven)"
+    },
+    {
+      "id": 296,
+      "name": "Demonlimb",
+      "baseName": "Tyrant Club",
+      "code": "7sp",
+      "level": 71,
+      "requiredLevel": 63,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invspcu.png",
+      "invfile": "invspcu",
+      "baseStats": {
+        "oneHandDamage": "32-58",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": null,
+        "requiredStrength": 133,
+        "requiredDexterity": null,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 222,
+          "max": 333,
+          "param": null,
+          "variable": true,
+          "text": "Adds 222-333-222-333 Fire Damage"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "7-13% Life stolen per hit"
+        },
+        {
+          "code": "charged",
+          "min": 20,
+          "max": 23,
+          "param": "Enchant",
+          "variable": true,
+          "text": "Level 20-23 [Skill] (20-23/20-23 Charges) (Enchant)"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 5,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (5)"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 123,
+          "max": 123,
+          "param": null,
+          "variable": false,
+          "text": "+123% Damage to Demons"
+        },
+        {
+          "code": "res-fire",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +15-20%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "demonlimb tyrant club 7sp mazas y martillos +180-230% enhanced damage adds 222-333-222-333 fire damage 7-13% life stolen per hit level 20-23 [skill] (20-23/20-23 charges) (enchant) repairs 1 durability in # seconds (5) +123% damage to demons fire resist +15-20%"
+    },
+    {
+      "id": 376,
+      "name": "Verdugo's Hearty Cord",
+      "baseName": "Mithril Coil",
+      "code": "umc",
+      "level": 71,
+      "requiredLevel": 63,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invmbl.png",
+      "invfile": "invmbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "58-65",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 106,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 90,
+          "max": 140,
+          "param": null,
+          "variable": true,
+          "text": "+90-140% Enhanced Defense"
+        },
+        {
+          "code": "vit",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "+30-40 to Vitality"
+        },
+        {
+          "code": "stam",
+          "min": 100,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+100-120 Maximum Stamina"
+        },
+        {
+          "code": "balance2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Hit Recovery"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 10-15%"
+        },
+        {
+          "code": "regen",
+          "min": 10,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "Replenish Life +10-13"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "verdugo's hearty cord mithril coil umc cintos +90-140% enhanced defense +30-40 to vitality +100-120 maximum stamina +10% faster hit recovery damage reduced by 10-15% replenish life +10-13"
+    },
+    {
+      "id": 387,
+      "name": "Bonehew",
+      "baseName": "Ogre Axe",
+      "code": "7o7",
+      "level": 72,
+      "requiredLevel": 64,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invbar.png",
+      "invfile": "invbar",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "28-145",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 195,
+        "requiredDexterity": 75,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 270,
+          "max": 320,
+          "param": null,
+          "variable": true,
+          "text": "+270-320% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "charged",
+          "min": 30,
+          "max": 14,
+          "param": "Corpse Explosion",
+          "variable": true,
+          "text": "Level 30-14 [Skill] (30-14/30-14 Charges) (Corpse Explosion)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 50,
+          "max": 16,
+          "param": "Bone Spear",
+          "variable": true,
+          "text": "50-16% Chance to cast level 50-16 [Skill] on striking (Bone Spear)"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "sock",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Socketed (2)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bonehew ogre axe 7o7 armas de asta +270-320% enhanced damage +30% increased attack speed level 30-14 [skill] (30-14/30-14 charges) (corpse explosion) 50-16% chance to cast level 50-16 [skill] on striking (bone spear) prevent monster heal socketed (2)"
+    },
+    {
+      "id": 330,
+      "name": "Darkforge Spawn",
+      "baseName": "Bloodlord Skull",
+      "code": "nef",
+      "level": 72,
+      "requiredLevel": 64,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cabezas de necromante",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invne5.png",
+      "invfile": "invne5",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "103-148",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 106,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+140-180% Enhanced Defense"
+        },
+        {
+          "code": "cast2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "mana%",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 10%"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 6,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (6)"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 7,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (7)"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 8,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (8)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "darkforge spawn bloodlord skull nef cabezas de necromante +140-180% enhanced defense +30% faster cast rate increase maximum mana 10% +1-3 to [class skill tab] skills (6) +1-3 to [class skill tab] skills (7) +1-3 to [class skill tab] skills (8)"
+    },
+    {
+      "id": 306,
+      "name": "Horizon's Tornado",
+      "baseName": "Scourge",
+      "code": "7fl",
+      "level": 72,
+      "requiredLevel": 64,
+      "rarity": 5,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfla.png",
+      "invfile": "invfla",
+      "baseStats": {
+        "oneHandDamage": "3-80",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": -10,
+        "requiredStrength": 125,
+        "requiredDexterity": 77,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 230,
+          "max": 280,
+          "param": null,
+          "variable": true,
+          "text": "+230-280% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "slow",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 20%"
+        },
+        {
+          "code": "hit-skill",
+          "min": 20,
+          "max": 15,
+          "param": "Tornado",
+          "variable": true,
+          "text": "20-15% Chance to cast level 20-15 [Skill] on striking (Tornado)"
+        },
+        {
+          "code": "ease",
+          "min": -20,
+          "max": -20,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --20%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "horizon's tornado scourge 7fl mazas y martillos +230-280% enhanced damage +50% increased attack speed slows target by 20% 20-15% chance to cast level 20-15 [skill] on striking (tornado) requirements --20%"
+    },
+    {
+      "id": 369,
+      "name": "Sandstorm Trek",
+      "baseName": "Scarabshell Boots",
+      "code": "uvb",
+      "level": 72,
+      "requiredLevel": 64,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invvbt.png",
+      "invfile": "invvbt",
+      "baseStats": {
+        "oneHandDamage": "60-110",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "56-65",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 91,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+140-170% Enhanced Defense"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "stam/lvl",
+          "min": null,
+          "max": null,
+          "param": 8,
+          "variable": false,
+          "text": "+# Maximum Stamina (Based on Character Level) (8)"
+        },
+        {
+          "code": "stamdrain",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Slower Stamina Drain"
+        },
+        {
+          "code": "res-pois",
+          "min": 40,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "Poison Resist +40-70%"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 5,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (5)"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Vitality"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "sandstorm trek scarabshell boots uvb botas +140-170% enhanced defense +20% faster run/walk +20% faster hit recovery +# maximum stamina (based on character level) (8) 50% slower stamina drain poison resist +40-70% repairs 1 durability in # seconds (5) +10-15 to strength +10-15 to vitality"
+    },
+    {
+      "id": 316,
+      "name": "Stoneraven",
+      "baseName": "Matriarchal Spear",
+      "code": "amd",
+      "level": 72,
+      "requiredLevel": 64,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de amazona",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invam3.png",
+      "invfile": "invam3",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "65-95",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 114,
+        "requiredDexterity": 142,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 230,
+          "max": 280,
+          "param": null,
+          "variable": true,
+          "text": "+230-280% Enhanced Damage"
+        },
+        {
+          "code": "dmg-mag",
+          "min": 101,
+          "max": 187,
+          "param": null,
+          "variable": true,
+          "text": "Adds 101-187-101-187 Magic Damage"
+        },
+        {
+          "code": "res-all",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +30-50"
+        },
+        {
+          "code": "ac",
+          "min": 400,
+          "max": 600,
+          "param": null,
+          "variable": true,
+          "text": "+400-600 Defense"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 2,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (2)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stoneraven matriarchal spear amd armas de amazona +230-280% enhanced damage adds 101-187-101-187 magic damage all resistances +30-50 +400-600 defense +1-3 to [class skill tab] skills (2)"
+    },
+    {
+      "id": 256,
+      "name": "Baranar's Star",
+      "baseName": "Devil Star",
+      "code": "7mt",
+      "level": 70,
+      "requiredLevel": 65,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invmstu.png",
+      "invfile": "invmstu",
+      "baseStats": {
+        "oneHandDamage": "43-53",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 72,
+        "speed": 10,
+        "requiredStrength": 153,
+        "requiredDexterity": 44,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "att%",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "200% Bonus to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200% Enhanced Damage"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "swing2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "dur",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 100 of 100"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-200-1-200 Lightning Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 1,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-200-1-200 Fire Damage"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 1,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-200-1-200 Cold Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "baranar's star devil star 7mt mazas y martillos 200% bonus to attack rating +200% enhanced damage +15 to dexterity +15 to strength +50% increased attack speed durability: 100 of 100 adds 1-200-1-200 lightning damage adds 1-200-1-200 fire damage adds 1-200-1-200 cold damage"
+    },
+    {
+      "id": 290,
+      "name": "Djinnslayer",
+      "baseName": "Ataghan",
+      "code": "7sm",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscmu.png",
+      "invfile": "invscmu",
+      "baseStats": {
+        "oneHandDamage": "26-46",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 22,
+        "speed": -20,
+        "requiredStrength": 138,
+        "requiredDexterity": 95,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+190-240% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 250,
+          "max": 500,
+          "param": null,
+          "variable": true,
+          "text": "Adds 250-500-250-500 Fire Damage"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150% Damage to Demons"
+        },
+        {
+          "code": "att-demon",
+          "min": 200,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+200-300 to Attack Rating against Demons"
+        },
+        {
+          "code": "abs-ltng",
+          "min": 3,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Absorb 3-7%"
+        },
+        {
+          "code": "manasteal",
+          "min": 3,
+          "max": 6,
+          "param": null,
+          "variable": true,
+          "text": "3-6% Mana stolen per hit"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (1-2)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "djinnslayer ataghan 7sm espadas +190-240% enhanced damage adds 250-500-250-500 fire damage +100-150% damage to demons +200-300 to attack rating against demons lightning absorb 3-7% 3-6% mana stolen per hit socketed (1-2)"
+    },
+    {
+      "id": 379,
+      "name": "Giantskull",
+      "baseName": "Bone Visage",
+      "code": "uh9",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbhm.png",
+      "invfile": "invbhm",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "100-157",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 106,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 250,
+          "max": 320,
+          "param": null,
+          "variable": true,
+          "text": "+250-320 Defense"
+        },
+        {
+          "code": "str",
+          "min": 25,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "+25-35 to Strength"
+        },
+        {
+          "code": "crush",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Chance of Crushing Blow"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (1-2)"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "giantskull bone visage uh9 cascos +250-320 defense +25-35 to strength 10% chance of crushing blow socketed (1-2) knockback"
+    },
+    {
+      "id": 276,
+      "name": "Highlord's Wrath",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "res-ltng",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +35%"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-30-1-30 Lightning Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "deadly/lvl",
+          "min": null,
+          "max": null,
+          "param": 3,
+          "variable": false,
+          "text": "#% Deadly Strike (Based on Character Level) (3)"
+        },
+        {
+          "code": "light-thorns",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 15"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "highlord's wrath amulet amu amuletos lightning resist +35% adds 1-30-1-30 lightning damage +20% increased attack speed +1 to all skills #% deadly strike (based on character level) (3) attacker takes lightning damage of 15"
+    },
+    {
+      "id": 317,
+      "name": "Leviathan",
+      "baseName": "Kraken Shell",
+      "code": "uld",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfld.png",
+      "invfile": "invfld",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "417-523",
+        "durability": 48,
+        "speed": 5,
+        "requiredStrength": 174,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 170,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+170-200% Enhanced Defense"
+        },
+        {
+          "code": "ac",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150 Defense"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 15-25%"
+        },
+        {
+          "code": "str",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+40-50 to Strength"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "leviathan kraken shell uld armaduras corporales +170-200% enhanced defense +100-150 defense damage reduced by 15-25% +40-50 to strength indestructible"
+    },
+    {
+      "id": 302,
+      "name": "Seraph's Hymn",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 3,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu2.png",
+      "invfile": "invamu2",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 2,
+          "param": 11,
+          "variable": true,
+          "text": "+1-2 to [Class Skill Tab] Skills (11)"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+25-50% Damage to Demons"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+25-50% Damage to Undead"
+        },
+        {
+          "code": "att-demon",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250 to Attack Rating against Demons"
+        },
+        {
+          "code": "att-undead",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250 to Attack Rating against Undead"
+        },
+        {
+          "code": "light",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Light Radius"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "seraph's hymn amulet amu amuletos +2 to all skills +1-2 to [class skill tab] skills (11) +25-50% damage to demons +25-50% damage to undead +150-250 to attack rating against demons +150-250 to attack rating against undead +2 to light radius"
+    },
+    {
+      "id": 270,
+      "name": "The Rising Sun",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "abs-fire/lvl",
+          "min": null,
+          "max": null,
+          "param": 6,
+          "variable": false,
+          "text": "Absorbs Fire Damage (Based on Character Level) (6)"
+        },
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 2,
+          "max": 0,
+          "param": 56,
+          "variable": true,
+          "text": "2-0% Chance to cast level 2-0 [Skill] when struck (56)"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 24,
+          "max": 48,
+          "param": null,
+          "variable": true,
+          "text": "Adds 24-48-24-48 Fire Damage"
+        },
+        {
+          "code": "fireskill",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Fire Skills"
+        },
+        {
+          "code": "regen",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Replenish Life +10"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the rising sun amulet amu amuletos absorbs fire damage (based on character level) (6) +4 to light radius 2-0% chance to cast level 2-0 [skill] when struck (56) adds 24-48-24-48 fire damage +2 to fire skills replenish life +10"
+    },
+    {
+      "id": 331,
+      "name": "Widowmaker",
+      "baseName": "Ward Bow",
+      "code": "6sw",
+      "level": 73,
+      "requiredLevel": 65,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invswbu.png",
+      "invfile": "invswbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "20-53",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 48,
+        "speed": null,
+        "requiredStrength": 72,
+        "requiredDexterity": 146,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "deadly",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Deadly Strike"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "magicarrow",
+          "min": 11,
+          "max": 11,
+          "param": null,
+          "variable": false,
+          "text": "Fires Magic Arrows"
+        },
+        {
+          "code": "oskill",
+          "min": 3,
+          "max": 5,
+          "param": "Guided Arrow",
+          "variable": true,
+          "text": "+3-5 to [Skill] (Guided Arrow)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "widowmaker ward bow 6sw arcos +150-200% enhanced damage 33% deadly strike ignore target's defense fires magic arrows +3-5 to [skill] (guided arrow)"
+    },
+    {
+      "id": 254,
+      "name": "Hellslayer",
+      "baseName": "Decapitator",
+      "code": "7bt",
+      "level": 71,
+      "requiredLevel": 66,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbtxu.png",
+      "invfile": "invbtxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "49-137",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": 10,
+        "requiredStrength": 189,
+        "requiredDexterity": 33,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "str/lvl",
+          "min": null,
+          "max": null,
+          "param": 4,
+          "variable": false,
+          "text": "+# to Strength (Based on Character Level) (4)"
+        },
+        {
+          "code": "vit/lvl",
+          "min": null,
+          "max": null,
+          "param": 4,
+          "variable": false,
+          "text": "+# to Vitality (Based on Character Level) (4)"
+        },
+        {
+          "code": "dmg%/lvl",
+          "min": null,
+          "max": null,
+          "param": 24,
+          "variable": false,
+          "text": "+#% Enhanced Maximum Damage (Based on Character Level) (24)"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "Adds 150-250-150-250 Fire Damage"
+        },
+        {
+          "code": "hp",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Life"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "+100% Enhanced Damage"
+        },
+        {
+          "code": "att-skill",
+          "min": 10,
+          "max": 0,
+          "param": 47,
+          "variable": true,
+          "text": "10-0% Chance to cast level 10-0 [Skill] on attack (47)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellslayer decapitator 7bt hachas +# to strength (based on character level) (4) +# to vitality (based on character level) (4) +#% enhanced maximum damage (based on character level) (24) adds 150-250-150-250 fire damage +25 to life +100% enhanced damage 10-0% chance to cast level 10-0 [skill] on attack (47)"
+    },
+    {
+      "id": 299,
+      "name": "Deaths's Web",
+      "baseName": "Unearthed Wand",
+      "code": "7gw",
+      "level": 74,
+      "requiredLevel": 66,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invgwn.png",
+      "invfile": "invgwn",
+      "baseStats": {
+        "oneHandDamage": "22-28",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 18,
+        "speed": null,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "pierce-pois",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "-40-50% to Enemy Poison Resistance"
+        },
+        {
+          "code": "heal-kill",
+          "min": 7,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "+7-12 Life after each Kill"
+        },
+        {
+          "code": "mana-kill",
+          "min": 7,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "+7-12 to Mana after each Kill"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 2,
+          "param": 7,
+          "variable": true,
+          "text": "+1-2 to [Class Skill Tab] Skills (7)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "deaths's web unearthed wand 7gw varitas +2 to all skills -40-50% to enemy poison resistance +7-12 life after each kill +7-12 to mana after each kill +1-2 to [class skill tab] skills (7)"
+    },
+    {
+      "id": 308,
+      "name": "Jadetalon",
+      "baseName": "Wrist Sword",
+      "code": "7wb",
+      "level": 74,
+      "requiredLevel": 66,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Garras de asesina",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invktr.png",
+      "invfile": "invktr",
+      "baseStats": {
+        "oneHandDamage": "34-45",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 56,
+        "speed": -10,
+        "requiredStrength": 105,
+        "requiredDexterity": 105,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+190-240% Enhanced Damage"
+        },
+        {
+          "code": "manasteal",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "10-15% Mana stolen per hit"
+        },
+        {
+          "code": "res-all",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +40-50"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 2,
+          "param": 19,
+          "variable": true,
+          "text": "+1-2 to [Class Skill Tab] Skills (19)"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 2,
+          "param": 20,
+          "variable": true,
+          "text": "+1-2 to [Class Skill Tab] Skills (20)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "jadetalon wrist sword 7wb garras de asesina +190-240% enhanced damage 10-15% mana stolen per hit all resistances +40-50 +30% faster hit recovery +1-2 to [class skill tab] skills (19) +1-2 to [class skill tab] skills (20)"
+    },
+    {
+      "id": 370,
+      "name": "Marrowwalk",
+      "baseName": "Boneweave Boots",
+      "code": "umb",
+      "level": 74,
+      "requiredLevel": 66,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmbt.png",
+      "invfile": "invmbt",
+      "baseStats": {
+        "oneHandDamage": "69-118",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "59-67",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 118,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 170,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+170-200% Enhanced Defense"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "charged",
+          "min": 13,
+          "max": 33,
+          "param": "Bone Prison",
+          "variable": true,
+          "text": "Level 13-33 [Skill] (13-33/13-33 Charges) (Bone Prison)"
+        },
+        {
+          "code": "charged",
+          "min": 10,
+          "max": 12,
+          "param": "Life Tap",
+          "variable": true,
+          "text": "Level 10-12 [Skill] (10-12/10-12 Charges) (Life Tap)"
+        },
+        {
+          "code": "regen-stam",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Heal Stamina Plus 10%"
+        },
+        {
+          "code": "regen-mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 10%"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 17,
+          "max": 17,
+          "param": null,
+          "variable": false,
+          "text": "+17 to Dexterity"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "Skeleton Mastery",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (Skeleton Mastery)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "marrowwalk boneweave boots umb botas +170-200% enhanced defense +20% faster run/walk level 13-33 [skill] (13-33/13-33 charges) (bone prison) level 10-12 [skill] (10-12/10-12 charges) (life tap) heal stamina plus 10% regenerate mana 10% half freeze duration +10-20 to strength +17 to dexterity +1-2 to [skill] ([class] only) (skeleton mastery)"
+    },
+    {
+      "id": 388,
+      "name": "Ondal's Wisdom",
+      "baseName": "Elder Staff",
+      "code": "6cs",
+      "level": 74,
+      "requiredLevel": 66,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Elite",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invcstu.png",
+      "invfile": "invcstu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "80-93",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": null,
+        "requiredStrength": 44,
+        "requiredDexterity": 37,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "cast2",
+          "min": 45,
+          "max": 45,
+          "param": null,
+          "variable": false,
+          "text": "+45% Faster Cast Rate"
+        },
+        {
+          "code": "enr",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+40-50 to Energy"
+        },
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 4,
+          "param": null,
+          "variable": true,
+          "text": "+2-4 to All Skills"
+        },
+        {
+          "code": "ac",
+          "min": 450,
+          "max": 550,
+          "param": null,
+          "variable": true,
+          "text": "+450-550 Defense"
+        },
+        {
+          "code": "addxp",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5% to Experience Gained"
+        },
+        {
+          "code": "red-mag",
+          "min": 5,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 5-8"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ondal's wisdom elder staff 6cs bastones +45% faster cast rate +40-50 to energy +2-4 to all skills +450-550 defense +5% to experience gained magic damage reduced by 5-8"
+    },
+    {
+      "id": 348,
+      "name": "Steel Carapice",
+      "baseName": "Shadow Plate",
+      "code": "uul",
+      "level": 74,
+      "requiredLevel": 66,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invful.png",
+      "invfile": "invful",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "446-557",
+        "durability": 70,
+        "speed": 10,
+        "requiredStrength": 230,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 190,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+190-220% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "red-dmg",
+          "min": 9,
+          "max": 14,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 9-14"
+        },
+        {
+          "code": "res-cold",
+          "min": 40,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "Cold Resist +40-60%"
+        },
+        {
+          "code": "regen-mana",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Regenerate Mana 10-15%"
+        },
+        {
+          "code": "rep-dur",
+          "min": null,
+          "max": null,
+          "param": 5,
+          "variable": false,
+          "text": "Repairs 1 durability in # seconds (5)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 8,
+          "max": 6,
+          "param": "Iron Maiden",
+          "variable": true,
+          "text": "8-6% Chance to cast level 8-6 [Skill] when struck (Iron Maiden)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steel carapice shadow plate uul armaduras corporales +190-220% enhanced defense +20% faster hit recovery damage reduced by 9-14 cold resist +40-60% regenerate mana 10-15% repairs 1 durability in # seconds (5) 8-6% chance to cast level 8-6 [skill] when struck (iron maiden)"
+    },
+    {
+      "id": 414,
+      "name": "Bloodpact Shard",
+      "baseName": "Mithral Point",
+      "code": "7di",
+      "level": 73,
+      "requiredLevel": 67,
+      "rarity": 2,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invdir.png",
+      "invfile": "invdir",
+      "baseStats": {
+        "oneHandDamage": "37-53",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": null,
+        "requiredStrength": 55,
+        "requiredDexterity": 98,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "cast1",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        },
+        {
+          "code": "hp%",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Increase Maximum Life 10-15%"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Blood Oath",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Blood Oath)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Blood Boil",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Blood Boil)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 3,
+          "param": "Bind Demon",
+          "variable": true,
+          "text": "+1-3 to [Skill] ([Class] only) (Bind Demon)"
+        },
+        {
+          "code": "mag%",
+          "min": 20,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "20-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "slow",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 25%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodpact shard mithril point 7di dagas +1 to all skills +30% faster cast rate increase maximum life 10-15% +2-3 to [skill] ([class] only) (blood oath) +2-3 to [skill] ([class] only) (blood boil) +1-3 to [skill] ([class] only) (bind demon) 20-35% better chance of getting magic items slows target by 25%"
+    },
+    {
+      "id": 413,
+      "name": "Wraithstep",
+      "baseName": "Mirrored Boots",
+      "code": "utb",
+      "level": 73,
+      "requiredLevel": 67,
+      "rarity": 2,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invtbt.png",
+      "invfile": "invtbt",
+      "baseStats": {
+        "oneHandDamage": "50-145",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "59-68",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 163,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "skilltab-war",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Skilltab War: 1"
+        },
+        {
+          "code": "move1",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        },
+        {
+          "code": "balance1",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "ac",
+          "min": 40,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+40-60 Defense"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Dexterity"
+        },
+        {
+          "code": "enr",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Energy"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wraithstep mirrored boots utb botas skilltab war: 1 +30% faster run/walk +20% faster hit recovery +40-60 defense +10-15 to dexterity +10-15 to energy"
+    },
+    {
+      "id": 368,
+      "name": "Firelizard's Talons",
+      "baseName": "Feral Claws",
+      "code": "7lw",
+      "level": 75,
+      "requiredLevel": 67,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Garras de asesina",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invclw.png",
+      "invfile": "invclw",
+      "baseStats": {
+        "oneHandDamage": "22-53",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 52,
+        "speed": -20,
+        "requiredStrength": 113,
+        "requiredDexterity": 113,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 270,
+          "param": null,
+          "variable": true,
+          "text": "+200-270% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Increased Attack Speed"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 3,
+          "param": 20,
+          "variable": true,
+          "text": "+1-3 to [Class Skill Tab] Skills (20)"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 236,
+          "max": 480,
+          "param": null,
+          "variable": true,
+          "text": "Adds 236-480-236-480 Fire Damage"
+        },
+        {
+          "code": "res-fire",
+          "min": 40,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +40-70%"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "Wake of Fire Sentry",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (Wake of Fire Sentry)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "Inferno Sentry",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (Inferno Sentry)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "firelizard's talons feral claws 7lw garras de asesina +200-270% enhanced damage +15% increased attack speed +1-3 to [class skill tab] skills (20) adds 236-480-236-480 fire damage fire resist +40-70% +1-2 to [skill] ([class] only) (wake of fire sentry) +1-2 to [skill] ([class] only) (inferno sentry)"
+    },
+    {
+      "id": 343,
+      "name": "Nightwing's Veil",
+      "baseName": "Spired Helm",
+      "code": "uhm",
+      "level": 75,
+      "requiredLevel": 67,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invghm.png",
+      "invfile": "invghm",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "114-159",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 192,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 90,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+90-120% Enhanced Defense"
+        },
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "dex",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 to Dexterity"
+        },
+        {
+          "code": "abs-cold",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "Cold Absorb 5-9%"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "extra-cold",
+          "min": 8,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+8-15% to Cold Skill Damage"
+        },
+        {
+          "code": "ease",
+          "min": -50,
+          "max": -50,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --50%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nightwing's veil spired helm uhm cascos +90-120% enhanced defense +2 to all skills +10-20 to dexterity cold absorb 5-9% half freeze duration +8-15% to cold skill damage requirements --50%"
+    },
+    {
+      "id": 294,
+      "name": "Razoredge",
+      "baseName": "Tomahawk",
+      "code": "7ha",
+      "level": 75,
+      "requiredLevel": 67,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invhaxu.png",
+      "invfile": "invhaxu",
+      "baseStats": {
+        "oneHandDamage": "33-58",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": null,
+        "requiredStrength": 125,
+        "requiredDexterity": 67,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 175,
+          "max": 225,
+          "param": null,
+          "variable": true,
+          "text": "+175-225% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Increased Attack Speed"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "-33% Target Defense"
+        },
+        {
+          "code": "deadly",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Deadly Strike"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "razoredge tomahawk 7ha hachas +175-225% enhanced damage +40% increased attack speed -33% target defense 50% deadly strike 50% chance of open wounds"
+    },
+    {
+      "id": 327,
+      "name": "Spiritkeeper",
+      "baseName": "Earth Spirit",
+      "code": "drd",
+      "level": 75,
+      "requiredLevel": 67,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Pelts de druida",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invdr3.png",
+      "invfile": "invdr3",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "107-152",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 104,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 170,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+170-190% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "abs-ltng",
+          "min": 9,
+          "max": 14,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Absorb 9-14%"
+        },
+        {
+          "code": "res-fire",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +30-40%"
+        },
+        {
+          "code": "abs-cold%",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25 Cold Absorb"
+        },
+        {
+          "code": "res-pois-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Poison Resist"
+        },
+        {
+          "code": "dru",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "+1-2 to Druid Skill Levels"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spiritkeeper earth spirit drd pelts de druida +170-190% enhanced defense +20% faster hit recovery lightning absorb 9-14% fire resist +30-40% +15-25 cold absorb +10% to maximum poison resist +1-2 to druid skill levels"
+    },
+    {
+      "id": 272,
+      "name": "Mara's Kaleidoscope",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 80,
+      "requiredLevel": 67,
+      "rarity": 5,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-30"
+        },
+        {
+          "code": "str",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Vitality"
+        },
+        {
+          "code": "enr",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Energy"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "mara's kaleidoscope amulet amu amuletos +2 to all skills all resistances +20-30 +5 to strength +5 to dexterity +5 to vitality +5 to energy"
+    },
+    {
+      "id": 340,
+      "name": "Demon's Arch",
+      "baseName": "Balrog Spear",
+      "code": "7s7",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Jabalinas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invssp.png",
+      "invfile": "invssp",
+      "baseStats": {
+        "oneHandDamage": "33-63",
+        "twoHandDamage": null,
+        "throwDamage": "40-62",
+        "defense": null,
+        "durability": 14,
+        "speed": 10,
+        "requiredStrength": 127,
+        "requiredDexterity": 95,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 210,
+          "param": null,
+          "variable": true,
+          "text": "+160-210% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 232,
+          "max": 323,
+          "param": null,
+          "variable": true,
+          "text": "Adds 232-323-232-323 Fire Damage"
+        },
+        {
+          "code": "lifesteal",
+          "min": 6,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "6-12% Life stolen per hit"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 30,
+          "variable": false,
+          "text": "Replenishes quantity (30)"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 23,
+          "max": 333,
+          "param": null,
+          "variable": true,
+          "text": "Adds 23-333-23-333 Lightning Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "demon's arch balrog spear 7s7 jabalinas +160-210% enhanced damage adds 232-323-232-323 fire damage 6-12% life stolen per hit replenishes quantity (30) +30% increased attack speed adds 23-333-23-333 lightning damage"
+    },
+    {
+      "id": 304,
+      "name": "Fleshripper",
+      "baseName": "Fanged Knife",
+      "code": "7kr",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Dagas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invkrsu.png",
+      "invfile": "invkrsu",
+      "baseStats": {
+        "oneHandDamage": "15-57",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 36,
+        "speed": -20,
+        "requiredStrength": 42,
+        "requiredDexterity": 86,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+200-300% Enhanced Damage"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "-50% Target Defense"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "openwounds",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Open Wounds"
+        },
+        {
+          "code": "deadly",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Deadly Strike"
+        },
+        {
+          "code": "slow",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 20%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "fleshripper fanged knife 7kr dagas +200-300% enhanced damage -50% target defense prevent monster heal 25% chance of crushing blow 50% chance of open wounds 33% deadly strike slows target by 20%"
+    },
+    {
+      "id": 321,
+      "name": "Lacerator",
+      "baseName": "Winged Axe",
+      "code": "7b8",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arrojadizas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbal.png",
+      "invfile": "invbal",
+      "baseStats": {
+        "oneHandDamage": "11-56",
+        "twoHandDamage": null,
+        "throwDamage": "7-60",
+        "defense": null,
+        "durability": 16,
+        "speed": -10,
+        "requiredStrength": 96,
+        "requiredDexterity": 122,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 210,
+          "param": null,
+          "variable": true,
+          "text": "+150-210% Enhanced Damage"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 25,
+          "variable": false,
+          "text": "Replenishes quantity (25)"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "openwounds",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Open Wounds"
+        },
+        {
+          "code": "howl",
+          "min": 64,
+          "max": 64,
+          "param": null,
+          "variable": false,
+          "text": "Hit Causes Monster to Flee 64%"
+        },
+        {
+          "code": "hit-skill",
+          "min": 33,
+          "max": 3,
+          "param": "Amplify Damage",
+          "variable": true,
+          "text": "33-3% Chance to cast level 33-3 [Skill] on striking (Amplify Damage)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "lacerator winged axe 7b8 arrojadizas +150-210% enhanced damage replenishes quantity (25) +30% increased attack speed prevent monster heal 33% chance of open wounds hit causes monster to flee 64% 33-3% chance to cast level 33-3 [skill] on striking (amplify damage)"
+    },
+    {
+      "id": 384,
+      "name": "Nord's Tenderizer",
+      "baseName": "Truncheon",
+      "code": "7cl",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invclbu.png",
+      "invfile": "invclbu",
+      "baseStats": {
+        "oneHandDamage": "35-43",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": -10,
+        "requiredStrength": 88,
+        "requiredDexterity": 43,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 270,
+          "max": 330,
+          "param": null,
+          "variable": true,
+          "text": "+270-330% Enhanced Damage"
+        },
+        {
+          "code": "freeze",
+          "min": 2,
+          "max": 4,
+          "param": null,
+          "variable": true,
+          "text": "Freezes Target +2-4"
+        },
+        {
+          "code": "swing2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Increased Attack Speed"
+        },
+        {
+          "code": "charged",
+          "min": 12,
+          "max": 16,
+          "param": "Blizzard",
+          "variable": true,
+          "text": "Level 12-16 [Skill] (12-16/12-16 Charges) (Blizzard)"
+        },
+        {
+          "code": "att%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "150-180% Bonus to Attack Rating"
+        },
+        {
+          "code": "abs-cold%",
+          "min": 5,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+5-15 Cold Absorb"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 205,
+          "max": 455,
+          "param": 125,
+          "variable": true,
+          "text": "Adds 205-455-205-455 Cold Damage (125)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nord's tenderizer truncheon 7cl mazas y martillos +270-330% enhanced damage freezes target +2-4 +25% increased attack speed level 12-16 [skill] (12-16/12-16 charges) (blizzard) 150-180% bonus to attack rating +5-15 cold absorb adds 205-455-205-455 cold damage (125)"
+    },
+    {
+      "id": 356,
+      "name": "Spirit Ward",
+      "baseName": "Ward",
+      "code": "uts",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgtsu.png",
+      "invfile": "invgtsu",
+      "baseStats": {
+        "oneHandDamage": "11-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "153-170",
+        "durability": 100,
+        "speed": 5,
+        "requiredStrength": 185,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 130,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+130-180% Enhanced Defense"
+        },
+        {
+          "code": "abs-cold",
+          "min": 6,
+          "max": 11,
+          "param": null,
+          "variable": true,
+          "text": "Cold Absorb 6-11%"
+        },
+        {
+          "code": "res-all",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +30-40"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "20-30% Increased Chance of Blocking"
+        },
+        {
+          "code": "block2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Faster Block Rate"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 8,
+          "param": "Fade",
+          "variable": true,
+          "text": "5-8% Chance to cast level 5-8 [Skill] when struck (Fade)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spirit ward ward uts escudos +130-180% enhanced defense cold absorb 6-11% all resistances +30-40 20-30% increased chance of blocking +25% faster block rate 5-8% chance to cast level 5-8 [skill] when struck (fade)"
+    },
+    {
+      "id": 307,
+      "name": "Stone Crusher",
+      "baseName": "Legendary Mallet",
+      "code": "7wh",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 4,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwhm.png",
+      "invfile": "invwhm",
+      "baseStats": {
+        "oneHandDamage": "50-61",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": 20,
+        "requiredStrength": 189,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 280,
+          "max": 320,
+          "param": null,
+          "variable": true,
+          "text": "+280-320% Enhanced Damage"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 to Strength"
+        },
+        {
+          "code": "crush",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Chance of Crushing Blow"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "-25% Target Defense"
+        },
+        {
+          "code": "dmg-ac",
+          "min": -100,
+          "max": -100,
+          "param": null,
+          "variable": false,
+          "text": "--100 to Monster Defense Per Hit"
+        },
+        {
+          "code": "dmg",
+          "min": 10,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Damage +10-30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stone crusher legendary mallet 7wh mazas y martillos +280-320% enhanced damage +20-30 to strength 40% chance of crushing blow -25% target defense --100 to monster defense per hit damage +10-30"
+    },
+    {
+      "id": 337,
+      "name": "Windhammer",
+      "baseName": "Ogre Maul",
+      "code": "7m7",
+      "level": 76,
+      "requiredLevel": 68,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invmau.png",
+      "invfile": "invmau",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "77-106",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 10,
+        "requiredStrength": 225,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "crush",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Chance of Crushing Blow"
+        },
+        {
+          "code": "swing2",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60% Increased Attack Speed"
+        },
+        {
+          "code": "hit-skill",
+          "min": 33,
+          "max": 22,
+          "param": "Twister",
+          "variable": true,
+          "text": "33-22% Chance to cast level 33-22 [Skill] on striking (Twister)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "windhammer ogre maul 7m7 mazas y martillos +180-230% enhanced damage 50% chance of crushing blow +60% increased attack speed 33-22% chance to cast level 33-22 [skill] on striking (twister)"
+    },
+    {
+      "id": 260,
+      "name": "Doombringer",
+      "baseName": "Champion Sword",
+      "code": "7b7",
+      "level": 75,
+      "requiredLevel": 69,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invbswu.png",
+      "invfile": "invbswu",
+      "baseStats": {
+        "oneHandDamage": "24-54",
+        "twoHandDamage": "71-83",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": -10,
+        "requiredStrength": 163,
+        "requiredDexterity": 103,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "hp%",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Life 20%"
+        },
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+180-250% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "40% Bonus to Attack Rating"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 30,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "Adds 30-100-30-100 Damage"
+        },
+        {
+          "code": "hit-skill",
+          "min": 8,
+          "max": 3,
+          "param": 72,
+          "variable": true,
+          "text": "8-3% Chance to cast level 8-3 [Skill] on striking (72)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "5-7% Life stolen per hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "doombringer champion sword 7b7 espadas increase maximum life 20% +180-250% enhanced damage 40% bonus to attack rating indestructible adds 30-100-30-100 damage 8-3% chance to cast level 8-3 [skill] on striking (72) 5-7% life stolen per hit"
+    },
+    {
+      "id": 265,
+      "name": "Eaglehorn",
+      "baseName": "Crusader Bow",
+      "code": "6l7",
+      "level": 77,
+      "requiredLevel": 69,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlbb.png",
+      "invfile": "invlbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "15-63",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": 10,
+        "requiredStrength": 97,
+        "requiredDexterity": 121,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "att/lvl",
+          "min": null,
+          "max": null,
+          "param": 12,
+          "variable": false,
+          "text": "+# to Attack Rating (Based on Character Level) (12)"
+        },
+        {
+          "code": "dmg%/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+#% Enhanced Maximum Damage (Based on Character Level) (16)"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200% Enhanced Damage"
+        },
+        {
+          "code": "ama",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Amazon Skill Levels"
+        },
+        {
+          "code": "dex",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Dexterity"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "eaglehorn crusader bow 6l7 arcos ignore target's defense +# to attack rating (based on character level) (12) +#% enhanced maximum damage (based on character level) (16) +200% enhanced damage +1 to amazon skill levels +25 to dexterity"
+    },
+    {
+      "id": 385,
+      "name": "Earthshifter",
+      "baseName": "Thunder Maul",
+      "code": "7gm",
+      "level": 77,
+      "requiredLevel": 69,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgma.png",
+      "invfile": "invgma",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "33-180",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 20,
+        "requiredStrength": 253,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 250,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+250-300% Enhanced Damage"
+        },
+        {
+          "code": "hit-skill",
+          "min": 25,
+          "max": 14,
+          "param": "Eruption",
+          "variable": true,
+          "text": "25-14% Chance to cast level 25-14 [Skill] on striking (Eruption)"
+        },
+        {
+          "code": "crush",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Crushing Blow"
+        },
+        {
+          "code": "swing2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Increased Attack Speed"
+        },
+        {
+          "code": "charged",
+          "min": 30,
+          "max": 14,
+          "param": "Volcano",
+          "variable": true,
+          "text": "Level 30-14 [Skill] (30-14/30-14 Charges) (Volcano)"
+        },
+        {
+          "code": "skilltab",
+          "min": 7,
+          "max": 7,
+          "param": 17,
+          "variable": false,
+          "text": "+7 to [Class Skill Tab] Skills (17)"
+        },
+        {
+          "code": "cast2",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% Faster Cast Rate"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "earthshifter thunder maul 7gm mazas y martillos +250-300% enhanced damage 25-14% chance to cast level 25-14 [skill] on striking (eruption) 33% chance of crushing blow +10% increased attack speed level 30-14 [skill] (30-14/30-14 charges) (volcano) +7 to [class skill tab] skills (17) +10% faster cast rate"
+    },
+    {
+      "id": 300,
+      "name": "Nature's Peace",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 77,
+      "requiredLevel": 69,
+      "rarity": 3,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "noheal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Prevent Monster Heal"
+        },
+        {
+          "code": "rip",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Slain Monsters Rest in Peace"
+        },
+        {
+          "code": "red-dmg",
+          "min": 7,
+          "max": 11,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 7-11"
+        },
+        {
+          "code": "res-pois",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Poison Resist +20-30%"
+        },
+        {
+          "code": "charged",
+          "min": 27,
+          "max": 5,
+          "param": "Oak Sage",
+          "variable": true,
+          "text": "Level 27-5 [Skill] (27-5/27-5 Charges) (Oak Sage)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "nature's peace ring rin anillos prevent monster heal slain monsters rest in peace damage reduced by 7-11 poison resist +20-30% level 27-5 [skill] (27-5/27-5 charges) (oak sage)"
+    },
+    {
+      "id": 342,
+      "name": "Steelpillar",
+      "baseName": "War Pike",
+      "code": "7p7",
+      "level": 77,
+      "requiredLevel": 69,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpik.png",
+      "invfile": "invpik",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "33-178",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 25,
+        "speed": 20,
+        "requiredStrength": 165,
+        "requiredDexterity": 106,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 210,
+          "max": 260,
+          "param": null,
+          "variable": true,
+          "text": "+210-260% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Increased Attack Speed"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "-20% Target Defense"
+        },
+        {
+          "code": "ac%",
+          "min": 50,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "+50-80% Enhanced Defense"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steelpillar war pike 7p7 lanzas +210-260% enhanced damage +25% increased attack speed -20% target defense +50-80% enhanced defense indestructible 25% chance of crushing blow"
+    },
+    {
+      "id": 338,
+      "name": "Thunderstroke",
+      "baseName": "Matriarchal Javelin",
+      "code": "amf",
+      "level": 77,
+      "requiredLevel": 69,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de amazona",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invam5.png",
+      "invfile": "invam5",
+      "baseStats": {
+        "oneHandDamage": "30-54",
+        "twoHandDamage": null,
+        "throwDamage": "35-66",
+        "defense": null,
+        "durability": 6,
+        "speed": -10,
+        "requiredStrength": 107,
+        "requiredDexterity": 151,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Damage"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 511,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-511-1-511 Lightning Damage"
+        },
+        {
+          "code": "hit-skill",
+          "min": 20,
+          "max": 14,
+          "param": "Lightning",
+          "variable": true,
+          "text": "20-14% Chance to cast level 20-14 [Skill] on striking (Lightning)"
+        },
+        {
+          "code": "swing2",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% Increased Attack Speed"
+        },
+        {
+          "code": "pierce-ltng",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "-15% to Enemy Lightning Resistance"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 3,
+          "param": "Lightning Bolt",
+          "variable": false,
+          "text": "+3 to [Skill] ([Class] only) (Lightning Bolt)"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 4,
+          "param": 2,
+          "variable": true,
+          "text": "+2-4 to [Class Skill Tab] Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "thunderstroke matriarchal javelin amf armas de amazona +150-200% enhanced damage adds 1-511-1-511 lightning damage 20-14% chance to cast level 20-14 [skill] on striking (lightning) +15% increased attack speed -15% to enemy lightning resistance +3 to [skill] ([class] only) (lightning bolt) +2-4 to [class skill tab] skills"
+    },
+    {
+      "id": 255,
+      "name": "Messerschmidt's Reaver",
+      "baseName": "Champion Axe",
+      "code": "7ga",
+      "level": 75,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgaxu.png",
+      "invfile": "invgaxu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "59-94",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": -10,
+        "requiredStrength": 167,
+        "requiredDexterity": 59,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%/lvl",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "+#% Enhanced Maximum Damage (Based on Character Level) (20)"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 200,
+          "param": null,
+          "variable": false,
+          "text": "+200% Enhanced Damage"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Vitality"
+        },
+        {
+          "code": "enr",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Energy"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 20,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-240-20-240 Fire Damage"
+        },
+        {
+          "code": "dur",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 25 of 25"
+        },
+        {
+          "code": "att%",
+          "min": 100,
+          "max": 100,
+          "param": null,
+          "variable": false,
+          "text": "100% Bonus to Attack Rating"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "messerschmidt's reaver champion axe 7ga hachas +#% enhanced maximum damage (based on character level) (20) +200% enhanced damage +15 to strength +15 to dexterity +15 to vitality +15 to energy adds 20-240-20-240 fire damage durability: 25 of 25 100% bonus to attack rating"
+    },
+    {
+      "id": 314,
+      "name": "Deathcleaver",
+      "baseName": "Berserker Axe",
+      "code": "7wa",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwax.png",
+      "invfile": "invwax",
+      "baseStats": {
+        "oneHandDamage": "24-71",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": null,
+        "requiredStrength": 138,
+        "requiredDexterity": 59,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 230,
+          "max": 280,
+          "param": null,
+          "variable": true,
+          "text": "+230-280% Enhanced Damage"
+        },
+        {
+          "code": "deadly",
+          "min": 66,
+          "max": 66,
+          "param": null,
+          "variable": false,
+          "text": "66% Deadly Strike"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "-33% Target Defense"
+        },
+        {
+          "code": "swing2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Increased Attack Speed"
+        },
+        {
+          "code": "heal-kill",
+          "min": 6,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "+6-9 Life after each Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "deathcleaver berserker axe 7wa hachas +230-280% enhanced damage 66% deadly strike -33% target defense +40% increased attack speed +6-9 life after each kill"
+    },
+    {
+      "id": 365,
+      "name": "Frostwind",
+      "baseName": "Cryptic Sword",
+      "code": "7ls",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invlsdu.png",
+      "invfile": "invlsdu",
+      "baseStats": {
+        "oneHandDamage": "5-77",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 44,
+        "speed": -10,
+        "requiredStrength": 99,
+        "requiredDexterity": 109,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "freeze",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +4"
+        },
+        {
+          "code": "half-freeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Half Freeze Duration"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 237,
+          "max": 486,
+          "param": 150,
+          "variable": true,
+          "text": "Adds 237-486-237-486 Cold Damage (150)"
+        },
+        {
+          "code": "swing2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Increased Attack Speed"
+        },
+        {
+          "code": "abs-cold%",
+          "min": 7,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+7-15 Cold Absorb"
+        },
+        {
+          "code": "oskill",
+          "min": 7,
+          "max": 14,
+          "param": "Arctic Blast",
+          "variable": true,
+          "text": "+7-14 to [Skill] (Arctic Blast)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "frostwind cryptic sword 7ls espadas +180-230% enhanced damage freezes target +4 half freeze duration adds 237-486-237-486 cold damage (150) +25% increased attack speed +7-15 cold absorb +7-14 to [skill] (arctic blast)"
+    },
+    {
+      "id": 320,
+      "name": "Gargoyle's Bite",
+      "baseName": "Winged Harpoon",
+      "code": "7ts",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Jabalinas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invtsp.png",
+      "invfile": "invtsp",
+      "baseStats": {
+        "oneHandDamage": "27-35",
+        "twoHandDamage": null,
+        "throwDamage": "11-77",
+        "defense": null,
+        "durability": 18,
+        "speed": -10,
+        "requiredStrength": 76,
+        "requiredDexterity": 145,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 30,
+          "variable": false,
+          "text": "Replenishes quantity (30)"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 300,
+          "max": 300,
+          "param": 250,
+          "variable": false,
+          "text": "Adds 300-300 Poison Damage Over 300 Seconds (250)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 9,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "9-15% Life stolen per hit"
+        },
+        {
+          "code": "charged",
+          "min": 60,
+          "max": 11,
+          "param": "Plague Javelin",
+          "variable": true,
+          "text": "Level 60-11 [Skill] (60-11/60-11 Charges) (Plague Javelin)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gargoyle's bite winged harpoon 7ts jabalinas +180-230% enhanced damage replenishes quantity (30) adds 300-300 poison damage over 300 seconds (250) 9-15% life stolen per hit level 60-11 [skill] (60-11/60-11 charges) (plague javelin)"
+    },
+    {
+      "id": 335,
+      "name": "Gimmershred",
+      "baseName": "Flying Axe",
+      "code": "7ta",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arrojadizas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invtax.png",
+      "invfile": "invtax",
+      "baseStats": {
+        "oneHandDamage": "17-65",
+        "twoHandDamage": null,
+        "throwDamage": "15-66",
+        "defense": null,
+        "durability": 15,
+        "speed": 10,
+        "requiredStrength": 88,
+        "requiredDexterity": 108,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 210,
+          "param": null,
+          "variable": true,
+          "text": "+160-210% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 218,
+          "max": 483,
+          "param": null,
+          "variable": true,
+          "text": "Adds 218-483-218-483 Fire Damage"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 176,
+          "max": 397,
+          "param": 100,
+          "variable": true,
+          "text": "Adds 176-397-176-397 Cold Damage (100)"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 29,
+          "max": 501,
+          "param": null,
+          "variable": true,
+          "text": "Adds 29-501-29-501 Lightning Damage"
+        },
+        {
+          "code": "stack",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "Increased Stack Size"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gimmershred flying axe 7ta arrojadizas +160-210% enhanced damage adds 218-483-218-483 fire damage adds 176-397-176-397 cold damage (100) adds 29-501-29-501 lightning damage increased stack size +30% increased attack speed"
+    },
+    {
+      "id": 363,
+      "name": "Spike Thorn",
+      "baseName": "Blade Barrier",
+      "code": "upk",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invspku.png",
+      "invfile": "invspku",
+      "baseStats": {
+        "oneHandDamage": "26-40",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "147-163",
+        "durability": 83,
+        "speed": 0,
+        "requiredStrength": 118,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "thorns/lvl",
+          "min": null,
+          "max": null,
+          "param": 11,
+          "variable": false,
+          "text": "Attacker Takes Damage of # (Based on Character Level) (11)"
+        },
+        {
+          "code": "dur",
+          "min": 250,
+          "max": 250,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 250 of 250"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 15-20%"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Socketed (1)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "spike thorn blade barrier upk escudos +120-150% enhanced defense attacker takes damage of # (based on character level) (11) durability: 250 of 250 +30% faster hit recovery damage reduced by 15-20% socketed (1)"
+    },
+    {
+      "id": 391,
+      "name": "Steelrend",
+      "baseName": "Ogre Gauntlets",
+      "code": "uhg",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhgl.png",
+      "invfile": "invhgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "62-71",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 185,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 170,
+          "max": 210,
+          "param": null,
+          "variable": true,
+          "text": "+170-210 Defense"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+15-20 to Strength"
+        },
+        {
+          "code": "dmg%",
+          "min": 30,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "+30-60% Enhanced Damage"
+        },
+        {
+          "code": "crush",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "10% Chance of Crushing Blow"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "steelrend ogre gauntlets uhg guantes +170-210 defense +15-20 to strength +30-60% enhanced damage 10% chance of crushing blow"
+    },
+    {
+      "id": 264,
+      "name": "Stormspire",
+      "baseName": "Giant Thresher",
+      "code": "7wc",
+      "level": 78,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invwsc.png",
+      "invfile": "invwsc",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "40-114",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": -10,
+        "requiredStrength": 188,
+        "requiredDexterity": 140,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "res-ltng",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +50%"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 5,
+          "max": 5,
+          "param": 53,
+          "variable": false,
+          "text": "5% Chance to cast level 5 [Skill] when struck (53)"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250% Enhanced Damage"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 2,
+          "max": 0,
+          "param": 38,
+          "variable": true,
+          "text": "2-0% Chance to cast level 2-0 [Skill] when struck (38)"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 237,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-237-1-237 Lightning Damage"
+        },
+        {
+          "code": "light-thorns",
+          "min": 27,
+          "max": 27,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 27"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormspire giant thresher 7wc armas de asta lightning resist +50% 5% chance to cast level 5 [skill] when struck (53) +150-250% enhanced damage +10 to strength 2-0% chance to cast level 2-0 [skill] when struck (38) +30% increased attack speed indestructible adds 1-237-1-237 lightning damage attacker takes lightning damage of 27"
+    },
+    {
+      "id": 381,
+      "name": "Annihilus",
+      "baseName": "Small Charm",
+      "code": "cm1",
+      "level": 110,
+      "requiredLevel": 70,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invmss.png",
+      "invfile": "invmss",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "all-stats",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 to all Attributes"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +10-20"
+        },
+        {
+          "code": "addxp",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Experience Gained"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "annihilus charm cm1 charms +1 to all skills +10-20 to all attributes all resistances +10-20 +5-10% to experience gained"
+    },
+    {
+      "id": 332,
+      "name": "Bloodraven's Charge",
+      "baseName": "Matriarchal Bow",
+      "code": "amb",
+      "level": 79,
+      "requiredLevel": 71,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de amazona",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invswbu.png",
+      "invfile": "invswbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "20-47",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 48,
+        "speed": -10,
+        "requiredStrength": 87,
+        "requiredDexterity": 187,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 200,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "200-300% Bonus to Attack Rating"
+        },
+        {
+          "code": "explosivearrow",
+          "min": 13,
+          "max": 13,
+          "param": null,
+          "variable": false,
+          "text": "Fires Explosive Arrows or Bolts"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 4,
+          "param": 0,
+          "variable": true,
+          "text": "+2-4 to [Class Skill Tab] Skills (0)"
+        },
+        {
+          "code": "charged",
+          "min": 30,
+          "max": 5,
+          "param": "Revive",
+          "variable": true,
+          "text": "Level 30-5 [Skill] (30-5/30-5 Charges) (Revive)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bloodraven's charge matriarchal bow amb armas de amazona +180-230% enhanced damage 200-300% bonus to attack rating fires explosive arrows or bolts +2-4 to [class skill tab] skills (0) level 30-5 [skill] (30-5/30-5 charges) (revive)"
+    },
+    {
+      "id": 353,
+      "name": "Flamebellow",
+      "baseName": "Balrog Blade",
+      "code": "7gs",
+      "level": 79,
+      "requiredLevel": 71,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invgisu.png",
+      "invfile": "invgisu",
+      "baseStats": {
+        "oneHandDamage": "15-75",
+        "twoHandDamage": "55-118",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 185,
+        "requiredDexterity": 87,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 170,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+170-240% Enhanced Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 233,
+          "max": 482,
+          "param": null,
+          "variable": true,
+          "text": "Adds 233-482-233-482 Fire Damage"
+        },
+        {
+          "code": "fireskill",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Fire Skills"
+        },
+        {
+          "code": "abs-fire%",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 Fire Absorb"
+        },
+        {
+          "code": "hit-skill",
+          "min": 12,
+          "max": 16,
+          "param": "Firestorm",
+          "variable": true,
+          "text": "12-16% Chance to cast level 12-16 [Skill] on striking (Firestorm)"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 to Vitality"
+        },
+        {
+          "code": "oskill",
+          "min": 12,
+          "max": 18,
+          "param": "Inferno",
+          "variable": true,
+          "text": "+12-18 to [Skill] (Inferno)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "flamebellow balrog blade 7gs espadas +170-240% enhanced damage adds 233-482-233-482 fire damage +3 to fire skills +20-30 fire absorb 12-16% chance to cast level 12-16 [skill] on striking (firestorm) +10-20 to strength +5-10 to vitality +12-18 to [skill] (inferno)"
+    },
+    {
+      "id": 418,
+      "name": "Gheed's Wager",
+      "baseName": "Troll Belt",
+      "code": "utc",
+      "level": 79,
+      "requiredLevel": 71,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invtbl.png",
+      "invfile": "invtbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "59-66",
+        "durability": 18,
+        "speed": 0,
+        "requiredStrength": 151,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "cast1",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Faster Cast Rate"
+        },
+        {
+          "code": "balance1",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Faster Hit Recovery"
+        },
+        {
+          "code": "move1",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% Faster Run/Walk"
+        },
+        {
+          "code": "ac%",
+          "min": 90,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+90-150% Enhanced Defense"
+        },
+        {
+          "code": "pierce-mag",
+          "min": 3,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "-3-7% to Enemy Fire Resistance"
+        },
+        {
+          "code": "res-all",
+          "min": 5,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +5-15"
+        },
+        {
+          "code": "gold%",
+          "min": 44,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "44-75% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gheed's wager troll belt utc cintos +10-20% faster cast rate +10-20% faster hit recovery +10-20% faster run/walk +90-150% enhanced defense -3-7% to enemy fire resistance all resistances +5-15 44-75% extra gold from monsters"
+    },
+    {
+      "id": 293,
+      "name": "Gutsiphon",
+      "baseName": "Demon Crossbow",
+      "code": "6rx",
+      "level": 79,
+      "requiredLevel": 71,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invrxbu.png",
+      "invfile": "invrxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "26-40",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 40,
+        "speed": -60,
+        "requiredStrength": 141,
+        "requiredDexterity": 98,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 160,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+160-220% Enhanced Damage"
+        },
+        {
+          "code": "pierce",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "lifesteal",
+          "min": 12,
+          "max": 18,
+          "param": null,
+          "variable": true,
+          "text": "12-18% Life stolen per hit"
+        },
+        {
+          "code": "slow",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 25%"
+        },
+        {
+          "code": "openwounds",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Open Wounds"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "gutsiphon demon crossbow 6rx ballestas +160-220% enhanced damage piercing attack 12-18% life stolen per hit slows target by 25% 33% chance of open wounds"
+    },
+    {
+      "id": 309,
+      "name": "Shadowdancer",
+      "baseName": "Myrmidon Greaves",
+      "code": "uhb",
+      "level": 79,
+      "requiredLevel": 71,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Botas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invhbt.png",
+      "invfile": "invhbt",
+      "baseStats": {
+        "oneHandDamage": "83-149",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "62-71",
+        "durability": 24,
+        "speed": 0,
+        "requiredStrength": 208,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 70,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+70-100% Enhanced Defense"
+        },
+        {
+          "code": "move2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Run/Walk"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "dex",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25 to Dexterity"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 2,
+          "param": 19,
+          "variable": true,
+          "text": "+1-2 to [Class Skill Tab] Skills (19)"
+        },
+        {
+          "code": "ease",
+          "min": -20,
+          "max": -20,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --20%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "shadowdancer myrmidon greaves uhb botas +70-100% enhanced defense +30% faster run/walk +30% faster hit recovery +15-25 to dexterity +1-2 to [class skill tab] skills (19) requirements --20%"
+    },
+    {
+      "id": 323,
+      "name": "Viperfork",
+      "baseName": "Mancatcher",
+      "code": "7br",
+      "level": 79,
+      "requiredLevel": 71,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invbrn.png",
+      "invfile": "invbrn",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "42-92",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 28,
+        "speed": -20,
+        "requiredStrength": 132,
+        "requiredDexterity": 134,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+190-240% Enhanced Damage"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 333,
+          "max": 333,
+          "param": 250,
+          "variable": false,
+          "text": "Adds 333-333 Poison Damage Over 333 Seconds (250)"
+        },
+        {
+          "code": "swing2",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Increased Attack Speed"
+        },
+        {
+          "code": "att",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250 to Attack Rating"
+        },
+        {
+          "code": "hit-skill",
+          "min": 15,
+          "max": 9,
+          "param": "Poison Explosion",
+          "variable": true,
+          "text": "15-9% Chance to cast level 15-9 [Skill] on striking (Poison Explosion)"
+        },
+        {
+          "code": "res-pois",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "Poison Resist +30-50%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "viperfork war fork 7br lanzas +190-240% enhanced damage adds 333-333 poison damage over 333 seconds (250) +50% increased attack speed +200-250 to attack rating 15-9% chance to cast level 15-9 [skill] on striking (poison explosion) poison resist +30-50%"
+    },
+    {
+      "id": 341,
+      "name": "Boneflame",
+      "baseName": "Succubus Skull",
+      "code": "nee",
+      "level": 80,
+      "requiredLevel": 72,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cabezas de necromante",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invne4.png",
+      "invfile": "invne4",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "100-146",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 95,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 15,
+          "max": 3,
+          "param": "Terror",
+          "variable": true,
+          "text": "15-3% Chance to cast level 15-3 [Skill] when struck (Terror)"
+        },
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "+2-3 to Necromancer Skill Levels"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-30"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "boneflame succubae skull nee cabezas de necromante +120-150% enhanced defense +20% faster run/walk 15-3% chance to cast level 15-3 [skill] when struck (terror) +2-3 to necromancer skill levels all resistances +20-30"
+    },
+    {
+      "id": 367,
+      "name": "Eschuta's temper",
+      "baseName": "Eldritch Orb",
+      "code": "obc",
+      "level": 80,
+      "requiredLevel": 72,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Orbes de hechicera",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invob2.png",
+      "invfile": "invob2",
+      "baseStats": {
+        "oneHandDamage": "18-50",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "sor",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "+1-3 to Sorceress Skill Levels"
+        },
+        {
+          "code": "cast2",
+          "min": 40,
+          "max": 40,
+          "param": null,
+          "variable": false,
+          "text": "+40% Faster Cast Rate"
+        },
+        {
+          "code": "extra-fire",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% to Fire Skill Damage"
+        },
+        {
+          "code": "extra-ltng",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20% to Lightning Skill Damage"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 to Energy"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "eschuta's temper eldritch orb obc orbes de hechicera +1-3 to sorceress skill levels +40% faster cast rate +10-20% to fire skill damage +10-20% to lightning skill damage +20-30 to energy"
+    },
+    {
+      "id": 313,
+      "name": "Runemaster",
+      "baseName": "Ettin Axe",
+      "code": "72a",
+      "level": 80,
+      "requiredLevel": 72,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/inv2ax.png",
+      "invfile": "inv2ax",
+      "baseStats": {
+        "oneHandDamage": "33-66",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 24,
+        "speed": 10,
+        "requiredStrength": 145,
+        "requiredDexterity": 45,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 220,
+          "max": 270,
+          "param": null,
+          "variable": true,
+          "text": "+220-270% Enhanced Damage"
+        },
+        {
+          "code": "sock",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (3-5)"
+        },
+        {
+          "code": "res-cold-max",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5% to Maximum Cold Resist"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "runemaster ettin axe 72a hachas +220-270% enhanced damage socketed (3-5) +5% to maximum cold resist cannot be frozen"
+    },
+    {
+      "id": 389,
+      "name": "The Reedeemer",
+      "baseName": "Mighty Scepter",
+      "code": "7sc",
+      "level": 80,
+      "requiredLevel": 72,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Cetros",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invscp.png",
+      "invfile": "invscp",
+      "baseStats": {
+        "oneHandDamage": "40-52",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": null,
+        "requiredStrength": 125,
+        "requiredDexterity": 65,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 250,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+250-300% Enhanced Damage"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250% Damage to Demons"
+        },
+        {
+          "code": "pal",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Paladin Skill Levels"
+        },
+        {
+          "code": "ease",
+          "min": -60,
+          "max": -60,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --60%"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 4,
+          "param": "Redemption",
+          "variable": true,
+          "text": "+2-4 to [Skill] ([Class] only) (Redemption)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 4,
+          "param": "Holy Bolt",
+          "variable": true,
+          "text": "+2-4 to [Skill] ([Class] only) (Holy Bolt)"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "-33% Target Defense"
+        },
+        {
+          "code": "dmg",
+          "min": 60,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "Damage +60-120"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the reedeemer mighty scepter 7sc cetros +250-300% enhanced damage +200-250% damage to demons +2 to paladin skill levels requirements --60% +2-4 to [skill] ([class] only) (redemption) +2-4 to [skill] ([class] only) (holy bolt) +3 to light radius -33% target defense damage +60-120"
+    },
+    {
+      "id": 253,
+      "name": "Stormshield",
+      "baseName": "Monarch",
+      "code": "uit",
+      "level": 77,
+      "requiredLevel": 73,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invkitu.png",
+      "invfile": "invkitu",
+      "baseStats": {
+        "oneHandDamage": "12-34",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "133-148",
+        "durability": 86,
+        "speed": 0,
+        "requiredStrength": 156,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac/lvl",
+          "min": null,
+          "max": null,
+          "param": 30,
+          "variable": false,
+          "text": "+# Defense (Based on Character Level) (30)"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by 35%"
+        },
+        {
+          "code": "str",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30 to Strength"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "block2",
+          "min": 35,
+          "max": 35,
+          "param": null,
+          "variable": false,
+          "text": "+35% Faster Block Rate"
+        },
+        {
+          "code": "res-ltng",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +25%"
+        },
+        {
+          "code": "block",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Increased Chance of Blocking"
+        },
+        {
+          "code": "res-cold",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +60%"
+        },
+        {
+          "code": "light-thorns",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 10"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "stormshield monarch uit escudos +# defense (based on character level) (30) damage reduced by 35% +30 to strength indestructible +35% faster block rate lightning resist +25% 25% increased chance of blocking cold resist +60% attacker takes lightning damage of 10"
+    },
+    {
+      "id": 249,
+      "name": "Veil of Steel",
+      "baseName": "Spired Helm",
+      "code": "uhm",
+      "level": 77,
+      "requiredLevel": 73,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invghm.png",
+      "invfile": "invghm",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "114-159",
+        "durability": 40,
+        "speed": 0,
+        "requiredStrength": 192,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "res-all",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +50"
+        },
+        {
+          "code": "ac%",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60% Enhanced Defense"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Vitality"
+        },
+        {
+          "code": "light",
+          "min": -4,
+          "max": -4,
+          "param": null,
+          "variable": false,
+          "text": "+-4 to Light Radius"
+        },
+        {
+          "code": "dur",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 20 of 20"
+        },
+        {
+          "code": "ac",
+          "min": 140,
+          "max": 140,
+          "param": null,
+          "variable": false,
+          "text": "+140 Defense"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "veil of steel spired helm uhm cascos all resistances +50 +60% enhanced defense +15 to strength +15 to vitality +-4 to light radius durability: 20 of 20 +140 defense"
+    },
+    {
+      "id": 266,
+      "name": "Windforce",
+      "baseName": "Hydra Bow",
+      "code": "6lw",
+      "level": 80,
+      "requiredLevel": 73,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arcos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invlwb.png",
+      "invfile": "invlwb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "10-68",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 55,
+        "speed": 10,
+        "requiredStrength": 134,
+        "requiredDexterity": 167,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dex",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to Dexterity"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 25,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (25)"
+        },
+        {
+          "code": "regen-stam",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Heal Stamina Plus 30%"
+        },
+        {
+          "code": "manasteal",
+          "min": 6,
+          "max": 8,
+          "param": null,
+          "variable": true,
+          "text": "6-8% Mana stolen per hit"
+        },
+        {
+          "code": "knock",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Knockback"
+        },
+        {
+          "code": "dmg%",
+          "min": 250,
+          "max": 250,
+          "param": null,
+          "variable": false,
+          "text": "+250% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10 to Strength"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "windforce hydra bow 6lw arcos +5 to dexterity +# to maximum damage (based on character level) (25) heal stamina plus 30% 6-8% mana stolen per hit knockback +250% enhanced damage +20% increased attack speed +10 to strength"
+    },
+    {
+      "id": 354,
+      "name": "Fathom",
+      "baseName": "Dimensional Shard",
+      "code": "obf",
+      "level": 81,
+      "requiredLevel": 73,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Orbes de hechicera",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invob5.png",
+      "invfile": "invob5",
+      "baseStats": {
+        "oneHandDamage": "30-53",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "sor",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Sorceress Skill Levels"
+        },
+        {
+          "code": "extra-cold",
+          "min": 15,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+15-30% to Cold Skill Damage"
+        },
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "res-fire",
+          "min": 25,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +25-40%"
+        },
+        {
+          "code": "res-ltng",
+          "min": 25,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Resist +25-40%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "fathom dimensional shard obf orbes de hechicera +3 to sorceress skill levels +15-30% to cold skill damage +20% faster cast rate fire resist +25-40% lightning resist +25-40%"
+    },
+    {
+      "id": 409,
+      "name": "Ars Tor'Baalos",
+      "baseName": "Blasphemous Compendium",
+      "code": "wae",
+      "level": 85,
+      "requiredLevel": 73,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Grimorios",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbbb.png",
+      "invfile": "invbbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "100-146",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 95,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 21,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (21)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 15,
+          "max": 1,
+          "param": "Decrepify",
+          "variable": true,
+          "text": "15-1% Chance to cast level 15-1 [Skill] when struck (Decrepify)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Demonic Mastery",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Demonic Mastery)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 4,
+          "param": "Blood Boil",
+          "variable": true,
+          "text": "+2-4 to [Skill] ([Class] only) (Blood Boil)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Engorge",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Engorge)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Consume",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Consume)"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "hp/lvl",
+          "min": null,
+          "max": null,
+          "param": 12,
+          "variable": false,
+          "text": "+# to Life (Based on Character Level) (12)"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 5-10%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ars tor'baalos blasphemous compendium wae grimorios +2 to [class skill tab] skills (21) 15-1% chance to cast level 15-1 [skill] when struck (decrepify) +2-3 to [skill] ([class] only) (demonic mastery) +2-4 to [skill] ([class] only) (blood boil) +2-3 to [skill] ([class] only) (engorge) +2-3 to [skill] ([class] only) (consume) +120-150% enhanced defense +# to life (based on character level) (12) damage reduced by 5-10%"
+    },
+    {
+      "id": 324,
+      "name": "Ethereal Edge",
+      "baseName": "Silver-edged Axe",
+      "code": "7ba",
+      "level": 82,
+      "requiredLevel": 74,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbrx.png",
+      "invfile": "invbrx",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "62-110",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 35,
+        "speed": null,
+        "requiredStrength": 166,
+        "requiredDexterity": 65,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Increased Attack Speed"
+        },
+        {
+          "code": "abs-fire",
+          "min": 10,
+          "max": 12,
+          "param": null,
+          "variable": true,
+          "text": "Fire Absorb 10-12%"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Damage to Demons"
+        },
+        {
+          "code": "demon-heal",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 Life after each Demon Kill"
+        },
+        {
+          "code": "att",
+          "min": 270,
+          "max": 350,
+          "param": null,
+          "variable": true,
+          "text": "+270-350 to Attack Rating"
+        },
+        {
+          "code": "ethereal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ethereal"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ethereal edge silver-edged axe 7ba hachas +150-180% enhanced damage +25% increased attack speed fire absorb 10-12% +150-200% damage to demons +5-10 life after each demon kill +270-350 to attack rating ethereal indestructible"
+    },
+    {
+      "id": 350,
+      "name": "Ravenlore",
+      "baseName": "Sky Spirit",
+      "code": "dre",
+      "level": 82,
+      "requiredLevel": 74,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Pelts de druida",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invdr4.png",
+      "invfile": "invdr4",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "103-155",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 113,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +15-25"
+        },
+        {
+          "code": "skilltab",
+          "min": 3,
+          "max": 3,
+          "param": 17,
+          "variable": false,
+          "text": "+3 to [Class Skill Tab] Skills (17)"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 to Energy"
+        },
+        {
+          "code": "pierce-fire",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "-10-20% to Enemy Fire Resistance"
+        },
+        {
+          "code": "skill",
+          "min": 7,
+          "max": 7,
+          "param": "Raven",
+          "variable": false,
+          "text": "+7 to [Skill] ([Class] only) (Raven)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ravenlore sky spirit dre pelts de druida +120-150% enhanced defense all resistances +15-25 +3 to [class skill tab] skills (17) +20-30 to energy -10-20% to enemy fire resistance +7 to [skill] ([class] only) (raven)"
+    },
+    {
+      "id": 312,
+      "name": "Souldrain",
+      "baseName": "Vambraces",
+      "code": "umg",
+      "level": 82,
+      "requiredLevel": 74,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmgl.png",
+      "invfile": "invmgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "59-67",
+        "durability": 16,
+        "speed": 0,
+        "requiredStrength": 106,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 90,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+90-120% Enhanced Defense"
+        },
+        {
+          "code": "manasteal",
+          "min": 4,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "4-7% Mana stolen per hit"
+        },
+        {
+          "code": "lifesteal",
+          "min": 4,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "4-7% Life stolen per hit"
+        },
+        {
+          "code": "hit-skill",
+          "min": 8,
+          "max": 3,
+          "param": "Weaken",
+          "variable": true,
+          "text": "8-3% Chance to cast level 8-3 [Skill] on striking (Weaken)"
+        },
+        {
+          "code": "dmg-ac",
+          "min": -50,
+          "max": -50,
+          "param": null,
+          "variable": false,
+          "text": "--50 to Monster Defense Per Hit"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "souldrain vambraces umg guantes +90-120% enhanced defense 4-7% mana stolen per hit 4-7% life stolen per hit 8-3% chance to cast level 8-3 [skill] on striking (weaken) --50 to monster defense per hit"
+    },
+    {
+      "id": 366,
+      "name": "Templar's Might",
+      "baseName": "Sacred Armor",
+      "code": "uar",
+      "level": 82,
+      "requiredLevel": 74,
+      "rarity": 8,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invaaru.png",
+      "invfile": "invaaru",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "487-600",
+        "durability": 60,
+        "speed": 5,
+        "requiredStrength": 232,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 170,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+170-220% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "ac-miss",
+          "min": 250,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+250-300 Defense vs. Missile"
+        },
+        {
+          "code": "stam",
+          "min": 40,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+40-50 Maximum Stamina"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Strength"
+        },
+        {
+          "code": "vit",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Vitality"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 2,
+          "param": 10,
+          "variable": true,
+          "text": "+1-2 to [Class Skill Tab] Skills (10)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "templar's might sacred armor uar armaduras corporales +170-220% enhanced defense +20% faster hit recovery +250-300 defense vs. missile +40-50 maximum stamina +10-15 to strength +10-15 to vitality +1-2 to [class skill tab] skills (10)"
+    },
+    {
+      "id": 406,
+      "name": "Black Cleft",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-magic",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Magic Immunity is Sundered"
+        },
+        {
+          "code": "res-mag",
+          "min": -65,
+          "max": -45,
+          "param": null,
+          "variable": true,
+          "text": "Magic Resist +-65--45%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "black cleft charm cm3 charms monster magic immunity is sundered magic resist +-65--45%"
+    },
+    {
+      "id": 405,
+      "name": "Bone Break",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-damage",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Physical Immunity is Sundered"
+        },
+        {
+          "code": "red-dmg%",
+          "min": -20,
+          "max": -10,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by -20--10%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "bone break charm cm3 charms monster physical immunity is sundered damage reduced by -20--10%"
+    },
+    {
+      "id": 401,
+      "name": "Cold Rupture",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-cold",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Cold Immunity is Sundered"
+        },
+        {
+          "code": "res-cold",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Cold Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "cold rupture charm cm3 charms monster cold immunity is sundered cold resist +-90--70%"
+    },
+    {
+      "id": 403,
+      "name": "Crack of the Heavens",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-light",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Lightning Immunity is Sundered"
+        },
+        {
+          "code": "res-ltng",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crack of the heavens charm cm3 charms monster lightning immunity is sundered lightning resist +-90--70%"
+    },
+    {
+      "id": 437,
+      "name": "Crafted Black Cleft",
+      "baseName": "Crafted Sunder Charm",
+      "code": "cs2",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-magic",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Magic Immunity is Sundered"
+        },
+        {
+          "code": "res-mag",
+          "min": -45,
+          "max": -45,
+          "param": null,
+          "variable": false,
+          "text": "Magic Resist +-45%"
+        },
+        {
+          "code": "Mystical-Affix1",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Mystical Affix1: 1"
+        },
+        {
+          "code": "Mystical-Affix2",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Mystical Affix2: 1"
+        },
+        {
+          "code": "Mystical-Affix3",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Mystical Affix3: 1"
+        },
+        {
+          "code": "Mystical-Affix4",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Mystical Affix4: 1"
+        },
+        {
+          "code": "Mystical-Affix6",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Mystical Affix6: 1"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "crafted black cleft charm cs2 charms monster magic immunity is sundered magic resist +-45% mystical affix1: 1 mystical affix2: 1 mystical affix3: 1 mystical affix4: 1 mystical affix6: 1"
+    },
+    {
+      "id": 436,
+      "name": "Crafted Bone Break",
+      "baseName": "Crafted Sunder Charm",
+      "code": "cs2",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-damage",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Physical Immunity is Sundered"
+        },
+        {
+          "code": "red-dmg%",
+          "min": -10,
+          "max": -10,
+          "param": null,
+          "variable": false,
+          "text": "Damage Reduced by -10%"
+        },
+        {
+          "code": "Breaching-Affix1",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Breaching Affix1: 1"
+        },
+        {
+          "code": "Breaching-Affix2",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Breaching Affix2: 1"
+        },
+        {
+          "code": "Breaching-Affix3",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Breaching Affix3: 1"
+        },
+        {
+          "code": "Breaching-Affix4",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Breaching Affix4: 1"
+        },
+        {
+          "code": "Breaching-Affix6",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Breaching Affix6: 1"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "crafted bone break charm cs2 charms monster physical immunity is sundered damage reduced by -10% breaching affix1: 1 breaching affix2: 1 breaching affix3: 1 breaching affix4: 1 breaching affix6: 1"
+    },
+    {
+      "id": 427,
+      "name": "Crafted Cold Rupture",
+      "baseName": "Crafted Sunder Charm",
+      "code": "cs2",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-cold",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Cold Immunity is Sundered"
+        },
+        {
+          "code": "res-cold",
+          "min": -70,
+          "max": -70,
+          "param": null,
+          "variable": false,
+          "text": "Cold Resist +-70%"
+        },
+        {
+          "code": "Gelid-Affix1",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Gelid Affix1: 1"
+        },
+        {
+          "code": "Gelid-Affix2",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Gelid Affix2: 1"
+        },
+        {
+          "code": "Gelid-Affix3",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Gelid Affix3: 1"
+        },
+        {
+          "code": "Gelid-Affix4",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Gelid Affix4: 1"
+        },
+        {
+          "code": "Gelid-Affix5",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Gelid Affix5: 1"
+        },
+        {
+          "code": "Gelid-Affix6",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Gelid Affix6: 1"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "crafted cold rupture charm cs2 charms monster cold immunity is sundered cold resist +-70% gelid affix1: 1 gelid affix2: 1 gelid affix3: 1 gelid affix4: 1 gelid affix5: 1 gelid affix6: 1"
+    },
+    {
+      "id": 434,
+      "name": "Crafted Crack of the Heavens",
+      "baseName": "Crafted Sunder Charm",
+      "code": "cs2",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-light",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Lightning Immunity is Sundered"
+        },
+        {
+          "code": "res-ltng",
+          "min": -70,
+          "max": -70,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +-70%"
+        },
+        {
+          "code": "Magnetic-Affix1",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magnetic Affix1: 1"
+        },
+        {
+          "code": "Magnetic-Affix2",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magnetic Affix2: 1"
+        },
+        {
+          "code": "Magnetic-Affix3",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magnetic Affix3: 1"
+        },
+        {
+          "code": "Magnetic-Affix4",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magnetic Affix4: 1"
+        },
+        {
+          "code": "Magnetic-Affix6",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Magnetic Affix6: 1"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "crafted crack of the heavens charm cs2 charms monster lightning immunity is sundered lightning resist +-70% magnetic affix1: 1 magnetic affix2: 1 magnetic affix3: 1 magnetic affix4: 1 magnetic affix6: 1"
+    },
+    {
+      "id": 433,
+      "name": "Crafted Flame Rift",
+      "baseName": "Crafted Sunder Charm",
+      "code": "cs2",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-fire",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Fire Immunity is Sundered"
+        },
+        {
+          "code": "res-fire",
+          "min": -70,
+          "max": -70,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +-70%"
+        },
+        {
+          "code": "Incendiary-Affix1",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Incendiary Affix1: 1"
+        },
+        {
+          "code": "Incendiary-Affix2",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Incendiary Affix2: 1"
+        },
+        {
+          "code": "Incendiary-Affix3",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Incendiary Affix3: 1"
+        },
+        {
+          "code": "Incendiary-Affix4",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Incendiary Affix4: 1"
+        },
+        {
+          "code": "Incendiary-Affix6",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Incendiary Affix6: 1"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "crafted flame rift charm cs2 charms monster fire immunity is sundered fire resist +-70% incendiary affix1: 1 incendiary affix2: 1 incendiary affix3: 1 incendiary affix4: 1 incendiary affix6: 1"
+    },
+    {
+      "id": 435,
+      "name": "Crafted Rotting Fissure",
+      "baseName": "Crafted Sunder Charm",
+      "code": "cs2",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-poison",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Poison Immunity is Sundered"
+        },
+        {
+          "code": "res-pois",
+          "min": -70,
+          "max": -70,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +-70%"
+        },
+        {
+          "code": "Virulent-Affix1",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Virulent Affix1: 1"
+        },
+        {
+          "code": "Virulent-Affix2",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Virulent Affix2: 1"
+        },
+        {
+          "code": "Virulent-Affix3",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Virulent Affix3: 1"
+        },
+        {
+          "code": "Virulent-Affix4",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Virulent Affix4: 1"
+        },
+        {
+          "code": "Virulent-Affix6",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Virulent Affix6: 1"
+        }
+      ],
+      "hasVariableStats": false,
+      "search": "crafted rotting fissure charm cs2 charms monster poison immunity is sundered poison resist +-70% virulent affix1: 1 virulent affix2: 1 virulent affix3: 1 virulent affix4: 1 virulent affix6: 1"
+    },
+    {
+      "id": 402,
+      "name": "Flame Rift",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-fire",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Fire Immunity is Sundered"
+        },
+        {
+          "code": "res-fire",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "flame rift charm cm3 charms monster fire immunity is sundered fire resist +-90--70%"
+    },
+    {
+      "id": 432,
+      "name": "PreCrafted Black Cleft",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-magic",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Magic Immunity is Sundered"
+        },
+        {
+          "code": "res-mag",
+          "min": -65,
+          "max": -45,
+          "param": null,
+          "variable": true,
+          "text": "Magic Resist +-65--45%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "precrafted black cleft charm cm3 charms monster magic immunity is sundered magic resist +-65--45%"
+    },
+    {
+      "id": 431,
+      "name": "PreCrafted Bone Break",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-damage",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Physical Immunity is Sundered"
+        },
+        {
+          "code": "red-dmg%",
+          "min": -20,
+          "max": -10,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by -20--10%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "precrafted bone break charm cm3 charms monster physical immunity is sundered damage reduced by -20--10%"
+    },
+    {
+      "id": 426,
+      "name": "PreCrafted Cold Rupture",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-cold",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Cold Immunity is Sundered"
+        },
+        {
+          "code": "res-cold",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Cold Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "precrafted cold rupture charm cm3 charms monster cold immunity is sundered cold resist +-90--70%"
+    },
+    {
+      "id": 429,
+      "name": "PreCrafted Crack of the Heavens",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-light",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Lightning Immunity is Sundered"
+        },
+        {
+          "code": "res-ltng",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "precrafted crack of the heavens charm cm3 charms monster lightning immunity is sundered lightning resist +-90--70%"
+    },
+    {
+      "id": 428,
+      "name": "PreCrafted Flame Rift",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-fire",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Fire Immunity is Sundered"
+        },
+        {
+          "code": "res-fire",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "precrafted flame rift charm cm3 charms monster fire immunity is sundered fire resist +-90--70%"
+    },
+    {
+      "id": 430,
+      "name": "PreCrafted Rotting Fissure",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-poison",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Poison Immunity is Sundered"
+        },
+        {
+          "code": "res-pois",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Poison Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "precrafted rotting fissure charm cm3 charms monster poison immunity is sundered poison resist +-90--70%"
+    },
+    {
+      "id": 404,
+      "name": "Rotting Fissure",
+      "baseName": "Grand Charm",
+      "code": "cm3",
+      "level": 69,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invsst.png",
+      "invfile": "invsst",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "pierce-immunity-poison",
+          "min": 300,
+          "max": 300,
+          "param": null,
+          "variable": false,
+          "text": "Monster Poison Immunity is Sundered"
+        },
+        {
+          "code": "res-pois",
+          "min": -90,
+          "max": -70,
+          "param": null,
+          "variable": true,
+          "text": "Poison Resist +-90--70%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "rotting fissure charm cm3 charms monster poison immunity is sundered poison resist +-90--70%"
+    },
+    {
+      "id": 315,
+      "name": "Executioner's Justice",
+      "baseName": "Glorious Axe",
+      "code": "7gi",
+      "level": 83,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Hachas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgix.png",
+      "invfile": "invgix",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "60-124",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 164,
+        "requiredDexterity": 55,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 240,
+          "max": 290,
+          "param": null,
+          "variable": true,
+          "text": "+240-290% Enhanced Damage"
+        },
+        {
+          "code": "crush",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Crushing Blow"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "-33% Target Defense"
+        },
+        {
+          "code": "kill-skill",
+          "min": 50,
+          "max": 6,
+          "param": "Decrepify",
+          "variable": true,
+          "text": "50-6% Chance to cast level 50-6 [Skill] when you Kill an Enemy (Decrepify)"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "executioner's justice glorious axe 7gi hachas +240-290% enhanced damage 25% chance of crushing blow -33% target defense 50-6% chance to cast level 50-6 [skill] when you kill an enemy (decrepify) +30% increased attack speed"
+    },
+    {
+      "id": 390,
+      "name": "Headhunter's Glory",
+      "baseName": "Troll Nest",
+      "code": "ush",
+      "level": 83,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invbshu.png",
+      "invfile": "invbshu",
+      "baseStats": {
+        "oneHandDamage": "24-38",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "158-173",
+        "durability": 74,
+        "speed": 0,
+        "requiredStrength": 106,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 320,
+          "max": 420,
+          "param": null,
+          "variable": true,
+          "text": "+320-420 Defense"
+        },
+        {
+          "code": "ac-miss",
+          "min": 300,
+          "max": 350,
+          "param": null,
+          "variable": true,
+          "text": "+300-350 Defense vs. Missile"
+        },
+        {
+          "code": "res-pois",
+          "min": 30,
+          "max": 40,
+          "param": null,
+          "variable": true,
+          "text": "Poison Resist +30-40%"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (1-3)"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +20-30%"
+        },
+        {
+          "code": "heal-kill",
+          "min": 5,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "+5-7 Life after each Kill"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "headhunter's glory troll nest ush escudos +320-420 defense +300-350 defense vs. missile poison resist +30-40% socketed (1-3) fire resist +20-30% +5-7 life after each kill"
+    },
+    {
+      "id": 358,
+      "name": "Ormus' Robes",
+      "baseName": "Dusk Shroud",
+      "code": "uui",
+      "level": 83,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invqlt.png",
+      "invfile": "invqlt",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "361-467",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 77,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 Defense"
+        },
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "extra-fire",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15% to Fire Skill Damage"
+        },
+        {
+          "code": "extra-cold",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15% to Cold Skill Damage"
+        },
+        {
+          "code": "extra-ltng",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15% to Lightning Skill Damage"
+        },
+        {
+          "code": "regen-mana",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Regenerate Mana 10-15%"
+        },
+        {
+          "code": "skill-rand",
+          "min": 36,
+          "max": 60,
+          "param": 3,
+          "variable": true,
+          "text": "+36-60 to [Skill] ([Class] only)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ormus' robes dusk shroud uui armaduras corporales +10-20 defense +20% faster cast rate +10-15% to fire skill damage +10-15% to cold skill damage +10-15% to lightning skill damage regenerate mana 10-15% +36-60 to [skill] ([class] only)"
+    },
+    {
+      "id": 326,
+      "name": "The Reaper's Toll",
+      "baseName": "Thresher",
+      "code": "7s8",
+      "level": 83,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invscy.png",
+      "invfile": "invscy",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "12-141",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": -10,
+        "requiredStrength": 152,
+        "requiredDexterity": 118,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 190,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+190-240% Enhanced Damage"
+        },
+        {
+          "code": "hit-skill",
+          "min": 33,
+          "max": 1,
+          "param": "Decrepify",
+          "variable": true,
+          "text": "33-1% Chance to cast level 33-1 [Skill] on striking (Decrepify)"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "lifesteal",
+          "min": 11,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "11-15% Life stolen per hit"
+        },
+        {
+          "code": "ease",
+          "min": -25,
+          "max": -25,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --25%"
+        },
+        {
+          "code": "deadly",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Deadly Strike"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 4,
+          "max": 44,
+          "param": null,
+          "variable": true,
+          "text": "Adds 4-44-4-44 Cold Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the reaper's toll thresher 7s8 armas de asta +190-240% enhanced damage 33-1% chance to cast level 33-1 [skill] on striking (decrepify) ignore target's defense 11-15% life stolen per hit requirements --25% 33% deadly strike adds 4-44-4-44 cold damage"
+    },
+    {
+      "id": 292,
+      "name": "Warshrike",
+      "baseName": "Winged Knife",
+      "code": "7bk",
+      "level": 83,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Arrojadizas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invtk3.png",
+      "invfile": "invtk3",
+      "baseStats": {
+        "oneHandDamage": "27-35",
+        "twoHandDamage": null,
+        "throwDamage": "23-39",
+        "defense": null,
+        "durability": 20,
+        "speed": -20,
+        "requiredStrength": 45,
+        "requiredDexterity": 142,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+200-250% Enhanced Damage"
+        },
+        {
+          "code": "pierce",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Piercing Attack"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "deadly",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Deadly Strike"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 30,
+          "variable": false,
+          "text": "Replenishes quantity (30)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 25,
+          "max": 9,
+          "param": "Nova",
+          "variable": true,
+          "text": "25-9% Chance to cast level 25-9 [Skill] on striking (Nova)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "warshrike winged knife 7bk arrojadizas +200-250% enhanced damage piercing attack +30% increased attack speed 50% deadly strike replenishes quantity (30) 25-9% chance to cast level 25-9 [skill] on striking (nova)"
+    },
+    {
+      "id": 420,
+      "name": "Defender's Bile",
+      "baseName": "Colossal Jewel",
+      "code": "cjw",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "Gethit-skill",
+          "min": 1,
+          "max": 25,
+          "param": 68,
+          "variable": true,
+          "text": "Gethit Skill: 1-25 (68)"
+        },
+        {
+          "code": "extra-pois",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Poison Skill Damage"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 975,
+          "max": 975,
+          "param": 25,
+          "variable": false,
+          "text": "Adds 975-975 Poison Damage Over 975 Seconds (25)"
+        },
+        {
+          "code": "pierce-pois",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "-5-10% to Enemy Poison Resistance"
+        },
+        {
+          "code": "addxp",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Experience Gained"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "15-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "defender's bile jewel cjw joyas gethit skill: 1-25 (68) +5-10% to poison skill damage adds 975-975 poison damage over 975 seconds (25) -5-10% to enemy poison resistance +3-5% to experience gained 15-35% better chance of getting magic items 25-50% extra gold from monsters"
+    },
+    {
+      "id": 423,
+      "name": "Defender's Fire",
+      "baseName": "Colossal Jewel",
+      "code": "cjw",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "Gethit-skill",
+          "min": 1,
+          "max": 25,
+          "param": 46,
+          "variable": true,
+          "text": "Gethit Skill: 1-25 (46)"
+        },
+        {
+          "code": "extra-fire",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Fire Skill Damage"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 20,
+          "max": 60,
+          "param": null,
+          "variable": true,
+          "text": "Adds 20-60-20-60 Fire Damage"
+        },
+        {
+          "code": "pierce-fire",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "-5-10% to Enemy Fire Resistance"
+        },
+        {
+          "code": "addxp",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Experience Gained"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "15-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "defender's fire jewel cjw joyas gethit skill: 1-25 (46) +5-10% to fire skill damage adds 20-60-20-60 fire damage -5-10% to enemy fire resistance +3-5% to experience gained 15-35% better chance of getting magic items 25-50% extra gold from monsters"
+    },
+    {
+      "id": 425,
+      "name": "Guardian's Light",
+      "baseName": "Colossal Jewel",
+      "code": "cjw",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "Gethit-skill",
+          "min": 1,
+          "max": 25,
+          "param": 387,
+          "variable": true,
+          "text": "Gethit Skill: 1-25 (387)"
+        },
+        {
+          "code": "extra-mag",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Magic Skill Damage"
+        },
+        {
+          "code": "dmg-mag",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "Adds 15-35-15-35 Magic Damage"
+        },
+        {
+          "code": "pierce-mag",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "-5-10% to Enemy Fire Resistance"
+        },
+        {
+          "code": "addxp",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Experience Gained"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "15-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "guardian's light jewel cjw joyas gethit skill: 1-25 (387) +5-10% to magic skill damage adds 15-35-15-35 magic damage -5-10% to enemy fire resistance +3-5% to experience gained 15-35% better chance of getting magic items 25-50% extra gold from monsters"
+    },
+    {
+      "id": 421,
+      "name": "Guardian's Thunder",
+      "baseName": "Colossal Jewel",
+      "code": "cjw",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "Gethit-skill",
+          "min": 1,
+          "max": 25,
+          "param": 235,
+          "variable": true,
+          "text": "Gethit Skill: 1-25 (235)"
+        },
+        {
+          "code": "extra-ltng",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Lightning Skill Damage"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-75-1-75 Lightning Damage"
+        },
+        {
+          "code": "pierce-ltng",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "-5-10% to Enemy Lightning Resistance"
+        },
+        {
+          "code": "addxp",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Experience Gained"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "15-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "guardian's thunder jewel cjw joyas gethit skill: 1-25 (235) +5-10% to lightning skill damage adds 1-75-1-75 lightning damage -5-10% to enemy lightning resistance +3-5% to experience gained 15-35% better chance of getting magic items 25-50% extra gold from monsters"
+    },
+    {
+      "id": 400,
+      "name": "Hellfire Torch",
+      "baseName": "Large Charm",
+      "code": "cm2",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Charms",
+      "tier": "Especial",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invtrch.png",
+      "invfile": "invtrch",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "randclassskill",
+          "min": 0,
+          "max": 7,
+          "param": null,
+          "variable": true,
+          "text": "+0-7 to [Class] Skill Levels"
+        },
+        {
+          "code": "all-stats",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 to all Attributes"
+        },
+        {
+          "code": "res-all",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +10-20"
+        },
+        {
+          "code": "light",
+          "min": 8,
+          "max": 8,
+          "param": null,
+          "variable": false,
+          "text": "+8 to Light Radius"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 10,
+          "param": 197,
+          "variable": true,
+          "text": "5-10% Chance to cast level 5-10 [Skill] on striking (197)"
+        },
+        {
+          "code": "charged",
+          "min": 10,
+          "max": 30,
+          "param": "Hydra",
+          "variable": true,
+          "text": "Level 10-30 [Skill] (10-30/10-30 Charges) (Hydra)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellfire torch charm cm2 charms +0-7 to [class] skill levels +10-20 to all attributes all resistances +10-20 +8 to light radius 5-10% chance to cast level 5-10 [skill] on striking (197) level 10-30 [skill] (10-30/10-30 charges) (hydra)"
+    },
+    {
+      "id": 422,
+      "name": "Protector's Frost",
+      "baseName": "Colossal Jewel",
+      "code": "cjw",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "Gethit-skill",
+          "min": 1,
+          "max": 25,
+          "param": 40,
+          "variable": true,
+          "text": "Gethit Skill: 1-25 (40)"
+        },
+        {
+          "code": "extra-cold",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10% to Cold Skill Damage"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 10,
+          "max": 30,
+          "param": 125,
+          "variable": true,
+          "text": "Adds 10-30-10-30 Cold Damage (125)"
+        },
+        {
+          "code": "pierce-cold",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "-5-10% to Enemy Cold Resistance"
+        },
+        {
+          "code": "addxp",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Experience Gained"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "15-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "protector's frost jewel cjw joyas gethit skill: 1-25 (40) +5-10% to cold skill damage adds 10-30-10-30 cold damage (125) -5-10% to enemy cold resistance +3-5% to experience gained 15-35% better chance of getting magic items 25-50% extra gold from monsters"
+    },
+    {
+      "id": 424,
+      "name": "Protector's Stone",
+      "baseName": "Colossal Jewel",
+      "code": "cjw",
+      "level": 110,
+      "requiredLevel": 75,
+      "rarity": 1,
+      "family": "Charms y joyas",
+      "subtype": "Joyas",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invgswe.png",
+      "invfile": "invgswe",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "Gethit-skill",
+          "min": 1,
+          "max": 15,
+          "param": 267,
+          "variable": true,
+          "text": "Gethit Skill: 1-15 (267)"
+        },
+        {
+          "code": "dmg%",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "+30-50% Enhanced Damage"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 10,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Adds 10-30-10-30 Damage"
+        },
+        {
+          "code": "pierce-dmg",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "-5-10% to Enemy Lightning Resistance"
+        },
+        {
+          "code": "addxp",
+          "min": 3,
+          "max": 5,
+          "param": null,
+          "variable": true,
+          "text": "+3-5% to Experience Gained"
+        },
+        {
+          "code": "mag%",
+          "min": 15,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "15-35% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "gold%",
+          "min": 25,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "25-50% Extra Gold from Monsters"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "protector's stone jewel cjw joyas gethit skill: 1-15 (267) +30-50% enhanced damage adds 10-30-10-30 damage -5-10% to enemy lightning resistance +3-5% to experience gained 15-35% better chance of getting magic items 25-50% extra gold from monsters"
+    },
+    {
+      "id": 364,
+      "name": "Dracul's Grasp",
+      "baseName": "Vampirebone Gloves",
+      "code": "uvg",
+      "level": 84,
+      "requiredLevel": 76,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Guantes",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invvgl.png",
+      "invfile": "invvgl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "56-65",
+        "durability": 14,
+        "speed": 0,
+        "requiredStrength": 50,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 90,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+90-120% Enhanced Defense"
+        },
+        {
+          "code": "lifesteal",
+          "min": 7,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "7-10% Life stolen per hit"
+        },
+        {
+          "code": "openwounds",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "25% Chance of Open Wounds"
+        },
+        {
+          "code": "hit-skill",
+          "min": 5,
+          "max": 10,
+          "param": "Life Tap",
+          "variable": true,
+          "text": "5-10% Chance to cast level 5-10 [Skill] on striking (Life Tap)"
+        },
+        {
+          "code": "heal-kill",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 Life after each Kill"
+        },
+        {
+          "code": "str",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Strength"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "dracul's grasp vampirebone gloves uvg guantes +90-120% enhanced defense 7-10% life stolen per hit 25% chance of open wounds 5-10% chance to cast level 5-10 [skill] on striking (life tap) +5-10 life after each kill +10-15 to strength"
+    },
+    {
+      "id": 336,
+      "name": "Griffon's Eye",
+      "baseName": "Diadem",
+      "code": "ci3",
+      "level": 84,
+      "requiredLevel": 76,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Diademas y circlets",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invci3.png",
+      "invfile": "invci3",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "50-60",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 100,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+100-200 Defense"
+        },
+        {
+          "code": "cast2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Faster Cast Rate"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "extra-ltng",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15% to Lightning Skill Damage"
+        },
+        {
+          "code": "pierce-ltng",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "-15-20% to Enemy Lightning Resistance"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "griffon's eye diadem ci3 diademas y circlets +100-200 defense +25% faster cast rate +1 to all skills +10-15% to lightning skill damage -15-20% to enemy lightning resistance"
+    },
+    {
+      "id": 328,
+      "name": "Hellrack",
+      "baseName": "Colossus Crossbow",
+      "code": "6hx",
+      "level": 84,
+      "requiredLevel": 76,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Ballestas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invhxbu.png",
+      "invfile": "invhxbu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "32-91",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 10,
+        "requiredStrength": 163,
+        "requiredDexterity": 77,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "dmg-elem",
+          "min": 63,
+          "max": 324,
+          "param": 33,
+          "variable": true,
+          "text": "Adds 63-324-63-324 Fire/Lightning/Cold Damage (33)"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "att%",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "100-150% Bonus to Attack Rating"
+        },
+        {
+          "code": "sock",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Socketed (2)"
+        },
+        {
+          "code": "charged",
+          "min": 150,
+          "max": 18,
+          "param": "Immolation Arrow",
+          "variable": true,
+          "text": "Level 150-18 [Skill] (150-18/150-18 Charges) (Immolation Arrow)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "hellrack colossus crossbow 6hx ballestas +180-230% enhanced damage adds 63-324-63-324 fire/lightning/cold damage (33) +20% increased attack speed 100-150% bonus to attack rating socketed (2) level 150-18 [skill] (150-18/150-18 charges) (immolation arrow)"
+    },
+    {
+      "id": 349,
+      "name": "Medusa's Gaze",
+      "baseName": "Aegis",
+      "code": "uow",
+      "level": 84,
+      "requiredLevel": 76,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invtowu.png",
+      "invfile": "invtowu",
+      "baseStats": {
+        "oneHandDamage": "18-28",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "145-161",
+        "durability": 92,
+        "speed": 10,
+        "requiredStrength": 219,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Defense"
+        },
+        {
+          "code": "slow",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 20%"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 10,
+          "max": 7,
+          "param": "Lower Resist",
+          "variable": true,
+          "text": "10-7% Chance to cast level 10-7 [Skill] when struck (Lower Resist)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "5-9% Life stolen per hit"
+        },
+        {
+          "code": "death-skill",
+          "min": 100,
+          "max": 44,
+          "param": "Nova",
+          "variable": true,
+          "text": "100-44% Chance to cast level 100-44 [Skill] when you Die (Nova)"
+        },
+        {
+          "code": "res-cold",
+          "min": 40,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "Cold Resist +40-80%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "medusa's gaze aegis uow escudos +150-180% enhanced defense slows target by 20% 10-7% chance to cast level 10-7 [skill] when struck (lower resist) 5-9% life stolen per hit 100-44% chance to cast level 100-44 [skill] when you die (nova) cold resist +40-80%"
+    },
+    {
+      "id": 319,
+      "name": "Wisp",
+      "baseName": "Ring",
+      "code": "rin",
+      "level": 84,
+      "requiredLevel": 76,
+      "rarity": 1,
+      "family": "Joyeria",
+      "subtype": "Anillos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invrin.png",
+      "invfile": "invrin",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "abs-ltng%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 Lightning Absorb"
+        },
+        {
+          "code": "hit-skill",
+          "min": 10,
+          "max": 16,
+          "param": "Lightning",
+          "variable": true,
+          "text": "10-16% Chance to cast level 10-16 [Skill] on striking (Lightning)"
+        },
+        {
+          "code": "mag%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "10-20% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "charged",
+          "min": 15,
+          "max": 2,
+          "param": "Oak Sage",
+          "variable": true,
+          "text": "Level 15-2 [Skill] (15-2/15-2 Charges) (Oak Sage)"
+        },
+        {
+          "code": "charged",
+          "min": 13,
+          "max": 5,
+          "param": "Heart of Wolverine",
+          "variable": true,
+          "text": "Level 13-5 [Skill] (13-5/13-5 Charges) (Heart of Wolverine)"
+        },
+        {
+          "code": "charged",
+          "min": 11,
+          "max": 7,
+          "param": "Spirit of Barbs",
+          "variable": true,
+          "text": "Level 11-7 [Skill] (11-7/11-7 Charges) (Spirit of Barbs)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wisp ring rin anillos +10-20 lightning absorb 10-16% chance to cast level 10-16 [skill] on striking (lightning) 10-20% better chance of getting magic items level 15-2 [skill] (15-2/15-2 charges) (oak sage) level 13-5 [skill] (13-5/13-5 charges) (heart of wolverine) level 11-7 [skill] (11-7/11-7 charges) (spirit of barbs)"
+    },
+    {
+      "id": 386,
+      "name": "Wraithflight",
+      "baseName": "Ghost Glaive",
+      "code": "7gl",
+      "level": 84,
+      "requiredLevel": 76,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Jabalinas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 4,
+      "image": "assets/items/invglv.png",
+      "invfile": "invglv",
+      "baseStats": {
+        "oneHandDamage": "19-60",
+        "twoHandDamage": null,
+        "throwDamage": "30-85",
+        "defense": null,
+        "durability": 16,
+        "speed": 20,
+        "requiredStrength": 89,
+        "requiredDexterity": 137,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 190,
+          "param": null,
+          "variable": true,
+          "text": "+150-190% Enhanced Damage"
+        },
+        {
+          "code": "rep-quant",
+          "min": null,
+          "max": null,
+          "param": 40,
+          "variable": false,
+          "text": "Replenishes quantity (40)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 9,
+          "max": 13,
+          "param": null,
+          "variable": true,
+          "text": "9-13% Life stolen per hit"
+        },
+        {
+          "code": "mana-kill",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15 to Mana after each Kill"
+        },
+        {
+          "code": "ethereal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ethereal"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wraithflight ghost glaive 7gl jabalinas +150-190% enhanced damage replenishes quantity (40) 9-13% life stolen per hit +15 to mana after each kill ethereal"
+    },
+    {
+      "id": 329,
+      "name": "Alma Negra",
+      "baseName": "Sacred Rondache",
+      "code": "pac",
+      "level": 85,
+      "requiredLevel": 77,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos de paladin",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invpa2.png",
+      "invfile": "invpa2",
+      "baseStats": {
+        "oneHandDamage": "35-58",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "138-164",
+        "durability": 68,
+        "speed": 0,
+        "requiredStrength": 109,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 180,
+          "max": 210,
+          "param": null,
+          "variable": true,
+          "text": "+180-210% Enhanced Defense"
+        },
+        {
+          "code": "block2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Block Rate"
+        },
+        {
+          "code": "pal",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "+1-2 to Paladin Skill Levels"
+        },
+        {
+          "code": "block",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "20% Increased Chance of Blocking"
+        },
+        {
+          "code": "red-mag",
+          "min": 5,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 5-9"
+        },
+        {
+          "code": "att%",
+          "min": 40,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "40-75% Bonus to Attack Rating"
+        },
+        {
+          "code": "dmg%",
+          "min": 40,
+          "max": 75,
+          "param": null,
+          "variable": true,
+          "text": "+40-75% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "alma negra sacred rondache pac escudos de paladin +180-210% enhanced defense +30% faster block rate +1-2 to paladin skill levels 20% increased chance of blocking magic damage reduced by 5-9 40-75% bonus to attack rating +40-75% enhanced damage"
+    },
+    {
+      "id": 361,
+      "name": "Halaberd's Reign",
+      "baseName": "Conqueror Crown",
+      "code": "bae",
+      "level": 85,
+      "requiredLevel": 77,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos de barbaro",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invba4.png",
+      "invfile": "invba4",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "114-159",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 174,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+140-170% Enhanced Defense"
+        },
+        {
+          "code": "skilltab",
+          "min": 1,
+          "max": 1,
+          "param": 13,
+          "variable": false,
+          "text": "+1 to [Class Skill Tab] Skills (13)"
+        },
+        {
+          "code": "bar",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Barbarian Skill Levels"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        },
+        {
+          "code": "regen",
+          "min": 15,
+          "max": 23,
+          "param": null,
+          "variable": true,
+          "text": "Replenish Life +15-23"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "Battle Orders",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (Battle Orders)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "Battle Command",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (Battle Command)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "halaberd's reign conqueror crown bae cascos de barbaro +140-170% enhanced defense +1 to [class skill tab] skills (13) +2 to barbarian skill levels +20% faster hit recovery replenish life +15-23 +1-2 to [skill] ([class] only) (battle orders) +1-2 to [skill] ([class] only) (battle command)"
+    },
+    {
+      "id": 357,
+      "name": "Kira's Guardian",
+      "baseName": "Tiara",
+      "code": "ci2",
+      "level": 85,
+      "requiredLevel": 77,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Diademas y circlets",
+      "tier": "Excepcional",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invci2.png",
+      "invfile": "invci2",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "40-50",
+        "durability": 25,
+        "speed": 0,
+        "requiredStrength": 0,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 50,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+50-120 Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 50,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +50-70"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "balance2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Hit Recovery"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "kira's guardian tiara ci2 diademas y circlets +50-120 defense all resistances +50-70 cannot be frozen +20% faster hit recovery"
+    },
+    {
+      "id": 410,
+      "name": "Ars Dul'Mephistos",
+      "baseName": "Occult Tome",
+      "code": "wac",
+      "level": 85,
+      "requiredLevel": 78,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Grimorios",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbbb.png",
+      "invfile": "invbbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "96-141",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 82,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "war",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Warlock Skill Levels"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 15,
+          "max": 28,
+          "param": "Blizzard",
+          "variable": true,
+          "text": "15-28% Chance to cast level 15-28 [Skill] when struck (Blizzard)"
+        },
+        {
+          "code": "cast1",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30% Faster Cast Rate"
+        },
+        {
+          "code": "balance1",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "dmg%",
+          "min": 70,
+          "max": 115,
+          "param": null,
+          "variable": true,
+          "text": "+70-115% Enhanced Damage"
+        },
+        {
+          "code": "att%",
+          "min": 50,
+          "max": 70,
+          "param": null,
+          "variable": true,
+          "text": "50-70% Bonus to Attack Rating"
+        },
+        {
+          "code": "ac%",
+          "min": 140,
+          "max": 170,
+          "param": null,
+          "variable": true,
+          "text": "+140-170% Enhanced Defense"
+        },
+        {
+          "code": "pierce-mag",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "-10-20% to Enemy Fire Resistance"
+        },
+        {
+          "code": "mag%",
+          "min": 10,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "10-25% Better Chance of Getting Magic Items"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ars dul'mephistos occult tome wac grimorios +2 to warlock skill levels 15-28% chance to cast level 15-28 [skill] when struck (blizzard) +20-30% faster cast rate +30% faster hit recovery +70-115% enhanced damage 50-70% bonus to attack rating +140-170% enhanced defense -10-20% to enemy fire resistance 10-25% better chance of getting magic items"
+    },
+    {
+      "id": 334,
+      "name": "Shadowkiller",
+      "baseName": "Battle Cestus",
+      "code": "7cs",
+      "level": 85,
+      "requiredLevel": 78,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Garras de asesina",
+      "tier": "Elite",
+      "width": 1,
+      "height": 3,
+      "image": "assets/items/invaxfu.png",
+      "invfile": "invaxfu",
+      "baseStats": {
+        "oneHandDamage": "36-42",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 72,
+        "speed": -10,
+        "requiredStrength": 110,
+        "requiredDexterity": 110,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 170,
+          "max": 220,
+          "param": null,
+          "variable": true,
+          "text": "+170-220% Enhanced Damage"
+        },
+        {
+          "code": "reduce-ac",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "-25% Target Defense"
+        },
+        {
+          "code": "freeze",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "Freezes Target +2"
+        },
+        {
+          "code": "mana-kill",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+10-15 to Mana after each Kill"
+        },
+        {
+          "code": "hit-skill",
+          "min": 33,
+          "max": 8,
+          "param": "Frost Nova",
+          "variable": true,
+          "text": "33-8% Chance to cast level 33-8 [Skill] on striking (Frost Nova)"
+        },
+        {
+          "code": "ethereal",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ethereal"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "shadowkiller battle cestus 7cs garras de asesina +170-220% enhanced damage -25% target defense freezes target +2 +10-15 to mana after each kill 33-8% chance to cast level 33-8 [skill] on striking (frost nova) ethereal indestructible"
+    },
+    {
+      "id": 257,
+      "name": "Schaefer's Hammer",
+      "baseName": "Legendary Mallet",
+      "code": "7wh",
+      "level": 83,
+      "requiredLevel": 79,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invwhm.png",
+      "invfile": "invwhm",
+      "baseStats": {
+        "oneHandDamage": "50-61",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": 20,
+        "requiredStrength": 189,
+        "requiredDexterity": null,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "hit-skill",
+          "min": 20,
+          "max": 10,
+          "param": 42,
+          "variable": true,
+          "text": "20-10% Chance to cast level 20-10 [Skill] on striking (42)"
+        },
+        {
+          "code": "hp",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 to Life"
+        },
+        {
+          "code": "att/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+# to Attack Rating (Based on Character Level) (16)"
+        },
+        {
+          "code": "res-ltng",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "Lightning Resist +75%"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 16,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (16)"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "dmg%",
+          "min": 100,
+          "max": 130,
+          "param": null,
+          "variable": true,
+          "text": "+100-130% Enhanced Damage"
+        },
+        {
+          "code": "light",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to Light Radius"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 50,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "Adds 50-200-50-200 Lightning Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "schaefer's hammer legendary mallet 7wh mazas y martillos 20-10% chance to cast level 20-10 [skill] on striking (42) +50 to life +# to attack rating (based on character level) (16) lightning resist +75% +20% increased attack speed +# to maximum damage (based on character level) (16) indestructible +100-130% enhanced damage +1 to light radius adds 50-200-50-200 lightning damage"
+    },
+    {
+      "id": 351,
+      "name": "Boneshade",
+      "baseName": "Lich Wand",
+      "code": "7bw",
+      "level": 84,
+      "requiredLevel": 79,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Varitas",
+      "tier": "Elite",
+      "width": 1,
+      "height": 2,
+      "image": "assets/items/invbwnu.png",
+      "invfile": "invbwnu",
+      "baseStats": {
+        "oneHandDamage": "10-31",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 17,
+        "speed": -20,
+        "requiredStrength": 25,
+        "requiredDexterity": null,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "nec",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to Necromancer Skill Levels"
+        },
+        {
+          "code": "cast2",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Faster Cast Rate"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 5,
+          "param": "Teeth",
+          "variable": true,
+          "text": "+4-5 to [Skill] ([Class] only) (Teeth)"
+        },
+        {
+          "code": "skill",
+          "min": 4,
+          "max": 5,
+          "param": "Bone Armor",
+          "variable": true,
+          "text": "+4-5 to [Skill] ([Class] only) (Bone Armor)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Bone Spear",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Bone Spear)"
+        },
+        {
+          "code": "skill",
+          "min": 1,
+          "max": 2,
+          "param": "Bone Spirit",
+          "variable": true,
+          "text": "+1-2 to [Skill] ([Class] only) (Bone Spirit)"
+        },
+        {
+          "code": "skill",
+          "min": 2,
+          "max": 3,
+          "param": "Bone Wall",
+          "variable": true,
+          "text": "+2-3 to [Skill] ([Class] only) (Bone Wall)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "boneshade lich wand 7bw varitas +2 to necromancer skill levels +25% faster cast rate +4-5 to [skill] ([class] only) (teeth) +4-5 to [skill] ([class] only) (bone armor) +2-3 to [skill] ([class] only) (bone spear) +1-2 to [skill] ([class] only) (bone spirit) +2-3 to [skill] ([class] only) (bone wall)"
+    },
+    {
+      "id": 355,
+      "name": "Wolfhowl",
+      "baseName": "Fury Visor",
+      "code": "bac",
+      "level": 85,
+      "requiredLevel": 79,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos de barbaro",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invba2.png",
+      "invfile": "invba2",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "105-150",
+        "durability": 35,
+        "speed": 0,
+        "requiredStrength": 129,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 3,
+          "param": 14,
+          "variable": true,
+          "text": "+2-3 to [Class Skill Tab] Skills (14)"
+        },
+        {
+          "code": "str",
+          "min": 8,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+8-15 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 8,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+8-15 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 8,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "+8-15 to Vitality"
+        },
+        {
+          "code": "oskill",
+          "min": 3,
+          "max": 6,
+          "param": "Wearwolf",
+          "variable": true,
+          "text": "+3-6 to [Skill] (Wearwolf)"
+        },
+        {
+          "code": "charged",
+          "min": 18,
+          "max": 15,
+          "param": "Summon Fenris",
+          "variable": true,
+          "text": "Level 18-15 [Skill] (18-15/18-15 Charges) (Summon Fenris)"
+        },
+        {
+          "code": "oskill",
+          "min": 3,
+          "max": 6,
+          "param": "Shape Shifting",
+          "variable": true,
+          "text": "+3-6 to [Skill] (Shape Shifting)"
+        },
+        {
+          "code": "oskill",
+          "min": 3,
+          "max": 6,
+          "param": "Feral Rage",
+          "variable": true,
+          "text": "+3-6 to [Skill] (Feral Rage)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "wolfhowl fury visor bac cascos de barbaro +120-150% enhanced defense +2-3 to [class skill tab] skills (14) +8-15 to strength +8-15 to dexterity +8-15 to vitality +3-6 to [skill] (wearwolf) level 18-15 [skill] (18-15/18-15 charges) (summon fenris) +3-6 to [skill] (shape shifting) +3-6 to [skill] (feral rage)"
+    },
+    {
+      "id": 347,
+      "name": "Dragonscale",
+      "baseName": "Zakarum Shield",
+      "code": "pae",
+      "level": 84,
+      "requiredLevel": 80,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Escudos de paladin",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpa4.png",
+      "invfile": "invpa4",
+      "baseStats": {
+        "oneHandDamage": "46-46",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "169-193",
+        "durability": 65,
+        "speed": 0,
+        "requiredStrength": 142,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 170,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+170-200% Enhanced Defense"
+        },
+        {
+          "code": "abs-fire%",
+          "min": 10,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "+10-20 Fire Absorb"
+        },
+        {
+          "code": "res-fire-max",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5% to Maximum Fire Resist"
+        },
+        {
+          "code": "str",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25 to Strength"
+        },
+        {
+          "code": "dmg-fire",
+          "min": 211,
+          "max": 371,
+          "param": null,
+          "variable": true,
+          "text": "Adds 211-371-211-371 Fire Damage"
+        },
+        {
+          "code": "oskill",
+          "min": 10,
+          "max": 10,
+          "param": "Hydra",
+          "variable": false,
+          "text": "+10 to [Skill] (Hydra)"
+        },
+        {
+          "code": "extra-fire",
+          "min": 15,
+          "max": 15,
+          "param": null,
+          "variable": false,
+          "text": "+15% to Fire Skill Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "dragonscale zakarum shield pae escudos de paladin +170-200% enhanced defense +10-20 fire absorb +5% to maximum fire resist +15-25 to strength adds 211-371-211-371 fire damage +10 to [skill] (hydra) +15% to fire skill damage"
+    },
+    {
+      "id": 408,
+      "name": "Ars Al'Diablolos",
+      "baseName": "Blasphemous Grimoire",
+      "code": "waf",
+      "level": 85,
+      "requiredLevel": 80,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Grimorios",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invbbb.png",
+      "invfile": "invbbb",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "103-148",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 106,
+        "requiredDexterity": 0,
+        "maxSockets": 2
+      },
+      "properties": [
+        {
+          "code": "skilltab",
+          "min": 2,
+          "max": 2,
+          "param": 23,
+          "variable": false,
+          "text": "+2 to [Class Skill Tab] Skills (23)"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 15,
+          "max": 1,
+          "param": "Terror",
+          "variable": true,
+          "text": "15-1% Chance to cast level 15-1 [Skill] when struck (Terror)"
+        },
+        {
+          "code": "cast1",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25% Faster Cast Rate"
+        },
+        {
+          "code": "ac%",
+          "min": 170,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+170-200% Enhanced Defense"
+        },
+        {
+          "code": "extra-fire",
+          "min": 15,
+          "max": 25,
+          "param": null,
+          "variable": true,
+          "text": "+15-25% to Fire Skill Damage"
+        },
+        {
+          "code": "light",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 to Light Radius"
+        },
+        {
+          "code": "mana-kill",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 to Mana after each Kill"
+        },
+        {
+          "code": "res-fire",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "Fire Resist +20-30%"
+        },
+        {
+          "code": "skill",
+          "min": 3,
+          "max": 5,
+          "param": "Apocalypse",
+          "variable": true,
+          "text": "+3-5 to [Skill] ([Class] only) (Apocalypse)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "ars al'diablolos blasphemous grimoire waf grimorios +2 to [class skill tab] skills (23) 15-1% chance to cast level 15-1 [skill] when struck (terror) +25% faster cast rate +170-200% enhanced defense +15-25% to fire skill damage +5-10 to light radius +5-10 to mana after each kill fire resist +20-30% +3-5 to [skill] ([class] only) (apocalypse)"
+    },
+    {
+      "id": 373,
+      "name": "Arachnid Mesh",
+      "baseName": "Spiderweb Sash",
+      "code": "ulc",
+      "level": 87,
+      "requiredLevel": 80,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cintos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 1,
+      "image": "assets/items/invlbl.png",
+      "invfile": "invlbl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "55-62",
+        "durability": 12,
+        "speed": 0,
+        "requiredStrength": 50,
+        "requiredDexterity": 0,
+        "maxSockets": 0
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 90,
+          "max": 120,
+          "param": null,
+          "variable": true,
+          "text": "+90-120% Enhanced Defense"
+        },
+        {
+          "code": "cast2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Cast Rate"
+        },
+        {
+          "code": "charged",
+          "min": 11,
+          "max": 3,
+          "param": "Venom",
+          "variable": true,
+          "text": "Level 11-3 [Skill] (11-3/11-3 Charges) (Venom)"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "slow",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Slows Target by 10%"
+        },
+        {
+          "code": "mana%",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "Increase Maximum Mana 5%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "arachnid mesh spiderweb sash ulc cintos +90-120% enhanced defense +20% faster cast rate level 11-3 [skill] (11-3/11-3 charges) (venom) +1 to all skills slows target by 10% increase maximum mana 5%"
+    },
+    {
+      "id": 382,
+      "name": "Arioc's Needle",
+      "baseName": "Hyperion Spear",
+      "code": "7sr",
+      "level": 85,
+      "requiredLevel": 81,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Lanzas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invspr.png",
+      "invfile": "invspr",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "35-119",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 30,
+        "speed": -10,
+        "requiredStrength": 155,
+        "requiredDexterity": 120,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 180,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+180-230% Enhanced Damage"
+        },
+        {
+          "code": "dmg-pois",
+          "min": 403,
+          "max": 403,
+          "param": 250,
+          "variable": false,
+          "text": "Adds 403-403 Poison Damage Over 403 Seconds (250)"
+        },
+        {
+          "code": "deadly",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Deadly Strike"
+        },
+        {
+          "code": "ignore-ac",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Ignore Target's Defense"
+        },
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 4,
+          "param": null,
+          "variable": true,
+          "text": "+2-4 to All Skills"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "arioc's needle hyperion spear 7sr lanzas +180-230% enhanced damage adds 403-403 poison damage over 403 seconds (250) 50% deadly strike ignore target's defense +2-4 to all skills +30% increased attack speed"
+    },
+    {
+      "id": 375,
+      "name": "Metalgrid",
+      "baseName": "Amulet",
+      "code": "amu",
+      "level": 85,
+      "requiredLevel": 81,
+      "rarity": 2,
+      "family": "Joyeria",
+      "subtype": "Amuletos",
+      "tier": "Especial",
+      "width": 1,
+      "height": 1,
+      "image": "assets/items/invamu.png",
+      "invfile": "invamu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": null,
+        "speed": 0,
+        "requiredStrength": null,
+        "requiredDexterity": null,
+        "maxSockets": 1
+      },
+      "properties": [
+        {
+          "code": "ac",
+          "min": 300,
+          "max": 350,
+          "param": null,
+          "variable": true,
+          "text": "+300-350 Defense"
+        },
+        {
+          "code": "res-all",
+          "min": 25,
+          "max": 35,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +25-35"
+        },
+        {
+          "code": "att",
+          "min": 400,
+          "max": 450,
+          "param": null,
+          "variable": true,
+          "text": "+400-450 to Attack Rating"
+        },
+        {
+          "code": "charged",
+          "min": 11,
+          "max": 22,
+          "param": "IronGolem",
+          "variable": true,
+          "text": "Level 11-22 [Skill] (11-22/11-22 Charges) (IronGolem)"
+        },
+        {
+          "code": "charged",
+          "min": 20,
+          "max": 12,
+          "param": "Iron Maiden",
+          "variable": true,
+          "text": "Level 20-12 [Skill] (20-12/20-12 Charges) (Iron Maiden)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "metalgrid amulet amu amuletos +300-350 defense all resistances +25-35 +400-450 to attack rating level 11-22 [skill] (11-22/11-22 charges) (irongolem) level 20-12 [skill] (20-12/20-12 charges) (iron maiden)"
+    },
+    {
+      "id": 261,
+      "name": "The Grandfather",
+      "baseName": "Colossus Blade",
+      "code": "7gd",
+      "level": 85,
+      "requiredLevel": 81,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invgsdu.png",
+      "invfile": "invgsdu",
+      "baseStats": {
+        "oneHandDamage": "25-65",
+        "twoHandDamage": "58-115",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 50,
+        "speed": 5,
+        "requiredStrength": 189,
+        "requiredDexterity": 110,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "str",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Strength"
+        },
+        {
+          "code": "dex",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Dexterity"
+        },
+        {
+          "code": "vit",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Vitality"
+        },
+        {
+          "code": "enr",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20 to Energy"
+        },
+        {
+          "code": "att%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "50% Bonus to Attack Rating"
+        },
+        {
+          "code": "hp",
+          "min": 80,
+          "max": 80,
+          "param": null,
+          "variable": false,
+          "text": "+80 to Life"
+        },
+        {
+          "code": "dmg/lvl",
+          "min": null,
+          "max": null,
+          "param": 20,
+          "variable": false,
+          "text": "+# to Maximum Damage (Based on Character Level) (20)"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "dmg%",
+          "min": 150,
+          "max": 250,
+          "param": null,
+          "variable": true,
+          "text": "+150-250% Enhanced Damage"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the grandfather colossus blade 7gd espadas +20 to strength +20 to dexterity +20 to vitality +20 to energy 50% bonus to attack rating +80 to life +# to maximum damage (based on character level) (20) indestructible +150-250% enhanced damage"
+    },
+    {
+      "id": 344,
+      "name": "Crown of Ages",
+      "baseName": "Corona",
+      "code": "urn",
+      "level": 86,
+      "requiredLevel": 82,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invcrn.png",
+      "invfile": "invcrn",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "111-165",
+        "durability": 50,
+        "speed": 0,
+        "requiredStrength": 174,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-30"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        },
+        {
+          "code": "ac",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150 Defense"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "red-dmg%",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 10-15%"
+        },
+        {
+          "code": "ac%",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50% Enhanced Defense"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (1-2)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "crown of ages corona urn cascos +30% faster hit recovery all resistances +20-30 +1 to all skills +100-150 defense indestructible damage reduced by 10-15% +50% enhanced defense socketed (1-2)"
+    },
+    {
+      "id": 322,
+      "name": "Mang Song's Lesson",
+      "baseName": "Archon Staff",
+      "code": "6ws",
+      "level": 86,
+      "requiredLevel": 82,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Bastones",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/inv8wsu.png",
+      "invfile": "inv8wsu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "83-99",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 26,
+        "speed": 10,
+        "requiredStrength": 34,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "allskills",
+          "min": 5,
+          "max": 5,
+          "param": null,
+          "variable": false,
+          "text": "+5 to All Skills"
+        },
+        {
+          "code": "pierce-fire",
+          "min": 7,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "-7-15% to Enemy Fire Resistance"
+        },
+        {
+          "code": "pierce-ltng",
+          "min": 7,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "-7-15% to Enemy Lightning Resistance"
+        },
+        {
+          "code": "pierce-cold",
+          "min": 7,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "-7-15% to Enemy Cold Resistance"
+        },
+        {
+          "code": "regen-mana",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "Regenerate Mana 10%"
+        },
+        {
+          "code": "cast2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Cast Rate"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "mang song's lesson archon staff 6ws bastones +5 to all skills -7-15% to enemy fire resistance -7-15% to enemy lightning resistance -7-15% to enemy cold resistance regenerate mana 10% +30% faster cast rate"
+    },
+    {
+      "id": 360,
+      "name": "Stormlash",
+      "baseName": "Scourge",
+      "code": "7fl",
+      "level": 86,
+      "requiredLevel": 82,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invfla.png",
+      "invfile": "invfla",
+      "baseStats": {
+        "oneHandDamage": "3-80",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": -10,
+        "requiredStrength": 125,
+        "requiredDexterity": 77,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "dmg%",
+          "min": 240,
+          "max": 300,
+          "param": null,
+          "variable": true,
+          "text": "+240-300% Enhanced Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "hit-skill",
+          "min": 15,
+          "max": 10,
+          "param": "Static Field",
+          "variable": true,
+          "text": "15-10% Chance to cast level 15-10 [Skill] on striking (Static Field)"
+        },
+        {
+          "code": "hit-skill",
+          "min": 20,
+          "max": 18,
+          "param": "Tornado",
+          "variable": true,
+          "text": "20-18% Chance to cast level 20-18 [Skill] on striking (Tornado)"
+        },
+        {
+          "code": "dmg-ltng",
+          "min": 1,
+          "max": 473,
+          "param": null,
+          "variable": true,
+          "text": "Adds 1-473-1-473 Lightning Damage"
+        },
+        {
+          "code": "light-thorns",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Lightning Damage of 30"
+        },
+        {
+          "code": "crush",
+          "min": 33,
+          "max": 33,
+          "param": null,
+          "variable": false,
+          "text": "33% Chance of Crushing Blow"
+        },
+        {
+          "code": "abs-ltng",
+          "min": 3,
+          "max": 9,
+          "param": null,
+          "variable": true,
+          "text": "Lightning Absorb 3-9%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "stormlash scourge 7fl mazas y martillos +240-300% enhanced damage +30% increased attack speed 15-10% chance to cast level 15-10 [skill] on striking (static field) 20-18% chance to cast level 20-18 [skill] on striking (tornado) adds 1-473-1-473 lightning damage attacker takes lightning damage of 30 33% chance of crushing blow lightning absorb 3-9%"
+    },
+    {
+      "id": 345,
+      "name": "Andariel's Visage",
+      "baseName": "Demonhead",
+      "code": "usk",
+      "level": 85,
+      "requiredLevel": 83,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Cascos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 2,
+      "image": "assets/items/invmsk.png",
+      "invfile": "invmsk",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "101-154",
+        "durability": 20,
+        "speed": 0,
+        "requiredStrength": 102,
+        "requiredDexterity": 0,
+        "maxSockets": 3
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 100,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+100-150% Enhanced Defense"
+        },
+        {
+          "code": "res-pois",
+          "min": 70,
+          "max": 70,
+          "param": null,
+          "variable": false,
+          "text": "Poison Resist +70%"
+        },
+        {
+          "code": "allskills",
+          "min": 2,
+          "max": 2,
+          "param": null,
+          "variable": false,
+          "text": "+2 to All Skills"
+        },
+        {
+          "code": "res-pois-max",
+          "min": 10,
+          "max": 10,
+          "param": null,
+          "variable": false,
+          "text": "+10% to Maximum Poison Resist"
+        },
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "str",
+          "min": 25,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+25-30 to Strength"
+        },
+        {
+          "code": "gethit-skill",
+          "min": 15,
+          "max": 15,
+          "param": 92,
+          "variable": false,
+          "text": "15% Chance to cast level 15 [Skill] when struck (92)"
+        },
+        {
+          "code": "charged",
+          "min": 20,
+          "max": 3,
+          "param": 278,
+          "variable": true,
+          "text": "Level 20-3 [Skill] (20-3/20-3 Charges) (278)"
+        },
+        {
+          "code": "lifesteal",
+          "min": 8,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "8-10% Life stolen per hit"
+        },
+        {
+          "code": "res-fire",
+          "min": -30,
+          "max": -30,
+          "param": null,
+          "variable": false,
+          "text": "Fire Resist +-30%"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "andariel's visage demonhead usk cascos +100-150% enhanced defense poison resist +70% +2 to all skills +10% to maximum poison resist +20% increased attack speed +25-30 to strength 15% chance to cast level 15 [skill] when struck (92) level 20-3 [skill] (20-3/20-3 charges) (278) 8-10% life stolen per hit fire resist +-30%"
+    },
+    {
+      "id": 298,
+      "name": "Tomb Reaver",
+      "baseName": "Cryptic Axe",
+      "code": "7pa",
+      "level": 86,
+      "requiredLevel": 84,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Armas de asta",
+      "tier": "Elite",
+      "width": 2,
+      "height": 4,
+      "image": "assets/items/invpax.png",
+      "invfile": "invpax",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "33-150",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 65,
+        "speed": 10,
+        "requiredStrength": 165,
+        "requiredDexterity": 103,
+        "maxSockets": 5
+      },
+      "properties": [
+        {
+          "code": "swing2",
+          "min": 60,
+          "max": 60,
+          "param": null,
+          "variable": false,
+          "text": "+60% Increased Attack Speed"
+        },
+        {
+          "code": "light",
+          "min": 4,
+          "max": 4,
+          "param": null,
+          "variable": false,
+          "text": "+4 to Light Radius"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 280,
+          "param": null,
+          "variable": true,
+          "text": "+200-280% Enhanced Damage"
+        },
+        {
+          "code": "dmg-undead",
+          "min": 150,
+          "max": 230,
+          "param": null,
+          "variable": true,
+          "text": "+150-230% Damage to Undead"
+        },
+        {
+          "code": "mag%",
+          "min": 50,
+          "max": 80,
+          "param": null,
+          "variable": true,
+          "text": "50-80% Better Chance of Getting Magic Items"
+        },
+        {
+          "code": "res-all",
+          "min": 30,
+          "max": 50,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +30-50"
+        },
+        {
+          "code": "att-undead",
+          "min": 250,
+          "max": 350,
+          "param": null,
+          "variable": true,
+          "text": "+250-350 to Attack Rating against Undead"
+        },
+        {
+          "code": "reanimate",
+          "min": 10,
+          "max": 10,
+          "param": 1,
+          "variable": false,
+          "text": "Reanimate As: [Returned] (1)"
+        },
+        {
+          "code": "heal-kill",
+          "min": 10,
+          "max": 14,
+          "param": null,
+          "variable": true,
+          "text": "+10-14 Life after each Kill"
+        },
+        {
+          "code": "sock",
+          "min": 1,
+          "max": 3,
+          "param": null,
+          "variable": true,
+          "text": "Socketed (1-3)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "tomb reaver cryptic axe 7pa armas de asta +60% increased attack speed +4 to light radius +200-280% enhanced damage +150-230% damage to undead 50-80% better chance of getting magic items all resistances +30-50 +250-350 to attack rating against undead reanimate as: [returned] (1) +10-14 life after each kill socketed (1-3)"
+    },
+    {
+      "id": 311,
+      "name": "Tyrael's Might",
+      "baseName": "Sacred Armor",
+      "code": "uar",
+      "level": 87,
+      "requiredLevel": 84,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invaaru.png",
+      "invfile": "invaaru",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "487-600",
+        "durability": 60,
+        "speed": 5,
+        "requiredStrength": 232,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ease",
+          "min": -100,
+          "max": -100,
+          "param": null,
+          "variable": false,
+          "text": "Requirements --100%"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "ac%",
+          "min": 120,
+          "max": 150,
+          "param": null,
+          "variable": true,
+          "text": "+120-150% Enhanced Defense"
+        },
+        {
+          "code": "rip",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Slain Monsters Rest in Peace"
+        },
+        {
+          "code": "dmg-demon",
+          "min": 50,
+          "max": 100,
+          "param": null,
+          "variable": true,
+          "text": "+50-100% Damage to Demons"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        },
+        {
+          "code": "move2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Faster Run/Walk"
+        },
+        {
+          "code": "res-all",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "All Resistances +20-30"
+        },
+        {
+          "code": "str",
+          "min": 20,
+          "max": 30,
+          "param": null,
+          "variable": true,
+          "text": "+20-30 to Strength"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "tyrael's might sacred armor uar armaduras corporales requirements --100% indestructible +120-150% enhanced defense slain monsters rest in peace +50-100% damage to demons cannot be frozen +20% faster run/walk all resistances +20-30 +20-30 to strength"
+    },
+    {
+      "id": 251,
+      "name": "Arkaine's Valor",
+      "baseName": "Balrog Skin",
+      "code": "upl",
+      "level": 85,
+      "requiredLevel": 85,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invspl.png",
+      "invfile": "invspl",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "410-517",
+        "durability": 30,
+        "speed": 5,
+        "requiredStrength": 165,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 180,
+          "param": null,
+          "variable": true,
+          "text": "+150-180% Enhanced Defense"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 2,
+          "param": null,
+          "variable": true,
+          "text": "+1-2 to All Skills"
+        },
+        {
+          "code": "red-dmg",
+          "min": 10,
+          "max": 15,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 10-15"
+        },
+        {
+          "code": "vit/lvl",
+          "min": null,
+          "max": null,
+          "param": 4,
+          "variable": false,
+          "text": "+# to Vitality (Based on Character Level) (4)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "arkaine's valor balrog skin upl armaduras corporales +150-180% enhanced defense +30% faster hit recovery +1-2 to all skills damage reduced by 10-15 +# to vitality (based on character level) (4)"
+    },
+    {
+      "id": 250,
+      "name": "The Gladiator's Bane",
+      "baseName": "Wire Fleece",
+      "code": "utu",
+      "level": 85,
+      "requiredLevel": 85,
+      "rarity": 1,
+      "family": "Armaduras",
+      "subtype": "Armaduras corporales",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invstu.png",
+      "invfile": "invstu",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": "375-481",
+        "durability": 32,
+        "speed": 0,
+        "requiredStrength": 111,
+        "requiredDexterity": 0,
+        "maxSockets": 4
+      },
+      "properties": [
+        {
+          "code": "ac%",
+          "min": 150,
+          "max": 200,
+          "param": null,
+          "variable": true,
+          "text": "+150-200% Enhanced Defense"
+        },
+        {
+          "code": "red-mag",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Magic Damage Reduced by 15-20"
+        },
+        {
+          "code": "red-dmg",
+          "min": 15,
+          "max": 20,
+          "param": null,
+          "variable": true,
+          "text": "Damage Reduced by 15-20"
+        },
+        {
+          "code": "thorns",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Attacker Takes Damage of 20"
+        },
+        {
+          "code": "res-pois-len",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "Poison Length Reduced by 50%"
+        },
+        {
+          "code": "dur",
+          "min": 103,
+          "max": 103,
+          "param": null,
+          "variable": false,
+          "text": "Durability: 103 of 103"
+        },
+        {
+          "code": "balance2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Faster Hit Recovery"
+        },
+        {
+          "code": "ac",
+          "min": 50,
+          "max": 50,
+          "param": null,
+          "variable": false,
+          "text": "+50 Defense"
+        },
+        {
+          "code": "nofreeze",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Cannot Be Frozen"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the gladiator's bane wire fleece utu armaduras corporales +150-200% enhanced defense magic damage reduced by 15-20 damage reduced by 15-20 attacker takes damage of 20 poison length reduced by 50% durability: 103 of 103 +30% faster hit recovery +50 defense cannot be frozen"
+    },
+    {
+      "id": 301,
+      "name": "Azurewrath",
+      "baseName": "Phase Blade",
+      "code": "7cr",
+      "level": 87,
+      "requiredLevel": 85,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Espadas",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invcrs.png",
+      "invfile": "invcrs",
+      "baseStats": {
+        "oneHandDamage": "31-35",
+        "twoHandDamage": null,
+        "throwDamage": null,
+        "defense": null,
+        "durability": 0,
+        "speed": -30,
+        "requiredStrength": 25,
+        "requiredDexterity": 136,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "dmg-mag",
+          "min": 250,
+          "max": 500,
+          "param": null,
+          "variable": true,
+          "text": "Adds 250-500-250-500 Magic Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 230,
+          "max": 270,
+          "param": null,
+          "variable": true,
+          "text": "+230-270% Enhanced Damage"
+        },
+        {
+          "code": "aura",
+          "min": 10,
+          "max": 13,
+          "param": "Sanctuary",
+          "variable": true,
+          "text": "Level 10-13 [Skill] Aura When Equipped (Sanctuary)"
+        },
+        {
+          "code": "dmg-cold",
+          "min": 250,
+          "max": 500,
+          "param": 250,
+          "variable": true,
+          "text": "Adds 250-500-250-500 Cold Damage"
+        },
+        {
+          "code": "swing2",
+          "min": 30,
+          "max": 30,
+          "param": null,
+          "variable": false,
+          "text": "+30% Increased Attack Speed"
+        },
+        {
+          "code": "all-stats",
+          "min": 5,
+          "max": 10,
+          "param": null,
+          "variable": true,
+          "text": "+5-10 to all Attributes"
+        },
+        {
+          "code": "light",
+          "min": 3,
+          "max": 3,
+          "param": null,
+          "variable": false,
+          "text": "+3 to Light Radius"
+        },
+        {
+          "code": "allskills",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "+1 to All Skills"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "azurewrath phase blade 7cr espadas adds 250-500-250-500 magic damage +230-270% enhanced damage level 10-13 [skill] aura when equipped (sanctuary) adds 250-500-250-500 cold damage +30% increased attack speed +5-10 to all attributes +3 to light radius +1 to all skills"
+    },
+    {
+      "id": 258,
+      "name": "The Cranium Basher",
+      "baseName": "Thunder Maul",
+      "code": "7gm",
+      "level": 85,
+      "requiredLevel": 87,
+      "rarity": 1,
+      "family": "Armas",
+      "subtype": "Mazas y martillos",
+      "tier": "Elite",
+      "width": 2,
+      "height": 3,
+      "image": "assets/items/invgma.png",
+      "invfile": "invgma",
+      "baseStats": {
+        "oneHandDamage": null,
+        "twoHandDamage": "33-180",
+        "throwDamage": null,
+        "defense": null,
+        "durability": 60,
+        "speed": 20,
+        "requiredStrength": 253,
+        "requiredDexterity": null,
+        "maxSockets": 6
+      },
+      "properties": [
+        {
+          "code": "swing2",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "+20% Increased Attack Speed"
+        },
+        {
+          "code": "indestruct",
+          "min": 1,
+          "max": 1,
+          "param": null,
+          "variable": false,
+          "text": "Indestructible"
+        },
+        {
+          "code": "str",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "+25 to Strength"
+        },
+        {
+          "code": "res-all",
+          "min": 25,
+          "max": 25,
+          "param": null,
+          "variable": false,
+          "text": "All Resistances +25"
+        },
+        {
+          "code": "crush",
+          "min": 75,
+          "max": 75,
+          "param": null,
+          "variable": false,
+          "text": "75% Chance of Crushing Blow"
+        },
+        {
+          "code": "dmg-norm",
+          "min": 20,
+          "max": 20,
+          "param": null,
+          "variable": false,
+          "text": "Adds 20-20 Damage"
+        },
+        {
+          "code": "dmg%",
+          "min": 200,
+          "max": 240,
+          "param": null,
+          "variable": true,
+          "text": "+200-240% Enhanced Damage"
+        },
+        {
+          "code": "hit-skill",
+          "min": 4,
+          "max": 1,
+          "param": 66,
+          "variable": true,
+          "text": "4-1% Chance to cast level 4-1 [Skill] on striking (66)"
+        }
+      ],
+      "hasVariableStats": true,
+      "search": "the cranium basher thunder maul 7gm mazas y martillos +20% increased attack speed indestructible +25 to strength all resistances +25 75% chance of crushing blow adds 20-20 damage +200-240% enhanced damage 4-1% chance to cast level 4-1 [skill] on striking (66)"
+    }
+  ]
+};
