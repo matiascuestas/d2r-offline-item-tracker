@@ -1,39 +1,39 @@
 const datasets = {
   unique: {
-    label: "Unicos",
-    ownedLabel: "unicos",
-    lead: "Items unicos con base, niveles, imagen, estadisticas y rolls.",
-    payload: window.D2_UNIQUES || { items: [], source: "Sin datos" },
+    label: "Uniques",
+    ownedLabel: "uniques",
+    lead: "Unique items with base, levels, image, stats and rolls.",
+    payload: window.D2_UNIQUES || { items: [], source: "No data" },
   },
   set: {
     label: "Sets",
     ownedLabel: "sets",
-    lead: "Piezas de set con base, niveles, imagen, bonuses de set y rolls.",
-    payload: window.D2_SETS || { items: [], source: "Sin datos" },
+    lead: "Set pieces with base, levels, image, set bonuses and rolls.",
+    payload: window.D2_SETS || { items: [], source: "No data" },
   },
   base: {
     label: "Bases",
     ownedLabel: "bases",
-    lead: "Items blancos/pelados equipables: armas y armaduras base para buscar, filtrar y comparar.",
-    payload: window.D2_BASES || { items: [], source: "Sin datos" },
+    lead: "Equippable white/blank items: base weapons and armor to search, filter and compare.",
+    payload: window.D2_BASES || { items: [], source: "No data" },
   },
   runeword: {
     label: "Runewords",
     ownedLabel: "runewords",
-    lead: "Runewords con runas requeridas, sockets, bases permitidas, disponibilidad y rolls.",
-    payload: window.D2_RUNEWORDS || { items: [], source: "Sin datos" },
+    lead: "Runewords with required runes, sockets, allowed bases, availability and rolls.",
+    payload: window.D2_RUNEWORDS || { items: [], source: "No data" },
   },
   charm: {
     label: "Charms",
     ownedLabel: "charms",
-    lead: "Charms encontrados en tus personajes y alijos, agrupados por nombre y stats exactas.",
-    payload: { items: [], source: "Saves locales" },
+    lead: "Charms found on your characters and stashes, grouped by name and exact stats.",
+    payload: { items: [], source: "Local saves" },
   },
   jewel: {
     label: "Jewels",
     ownedLabel: "jewels",
-    lead: "Jewels encontrados en tus personajes y alijos, agrupados por nombre y stats exactas.",
-    payload: { items: [], source: "Saves locales" },
+    lead: "Jewels found on your characters and stashes, grouped by name and exact stats.",
+    payload: { items: [], source: "Local saves" },
   },
 };
 
@@ -87,25 +87,25 @@ let ownedByName = new Map();
 let ownedPayload = null;
 
 const propertyFilters = [
-  { value: "strength", label: "Fuerza", terms: ["strength", "fuerza"], codes: ["str", "all-stats"] },
-  { value: "dexterity", label: "Destreza", terms: ["dexterity", "destreza"], codes: ["dex", "all-stats"] },
-  { value: "life", label: "Vida", terms: ["to life", "maximum life", "life", "vida"], codes: ["hp", "hp%", "maxhp", "regen"] },
+  { value: "strength", label: "Strength", terms: ["strength", "fuerza"], codes: ["str", "all-stats"] },
+  { value: "dexterity", label: "Dexterity", terms: ["dexterity", "destreza"], codes: ["dex", "all-stats"] },
+  { value: "life", label: "Life", terms: ["to life", "maximum life", "life", "vida"], codes: ["hp", "hp%", "maxhp", "regen"] },
   { value: "mana", label: "Mana", terms: ["to mana", "maximum mana", "mana"], codes: ["mana", "mana%", "regen-mana"] },
   { value: "fcr", label: "FCR", terms: ["faster cast rate", "fast cast rate"], codes: ["cast1", "cast2"] },
   { value: "ias", label: "IAS", terms: ["increased attack speed", "attack speed"], codes: ["swing1", "swing2", "swing3"] },
   { value: "fhr", label: "FHR", terms: ["faster hit recovery", "hit recovery"], codes: ["balance1", "balance2", "balance3"] },
   { value: "frw", label: "FRW", terms: ["faster run/walk", "faster run", "run/walk", "walk/run"], codes: ["move1", "move2", "move3"] },
-  { value: "res-all", label: "Todas resistencias", terms: ["all resistances", "all res", "resist all"], codes: ["res-all"] },
-  { value: "res-fire", label: "Res. fuego", terms: ["fire resist"], codes: ["res-fire", "fireresist"] },
-  { value: "res-cold", label: "Res. frio", terms: ["cold resist"], codes: ["res-cold", "coldresist"] },
-  { value: "res-light", label: "Res. rayo", terms: ["lightning resist"], codes: ["res-ltng", "lightresist"] },
-  { value: "res-poison", label: "Res. veneno", terms: ["poison resist"], codes: ["res-pois", "poisonresist"] },
+  { value: "res-all", label: "All resistances", terms: ["all resistances", "all res", "resist all"], codes: ["res-all"] },
+  { value: "res-fire", label: "Fire res.", terms: ["fire resist"], codes: ["res-fire", "fireresist"] },
+  { value: "res-cold", label: "Cold res.", terms: ["cold resist"], codes: ["res-cold", "coldresist"] },
+  { value: "res-light", label: "Lightning res.", terms: ["lightning resist"], codes: ["res-ltng", "lightresist"] },
+  { value: "res-poison", label: "Poison res.", terms: ["poison resist"], codes: ["res-pois", "poisonresist"] },
   { value: "magic-find", label: "Magic find", terms: ["magic find", "better chance of getting magic items"], codes: ["mag%"] },
   { value: "gold-find", label: "Extra gold", terms: ["extra gold"], codes: ["gold%", "item_goldbonus"] },
   { value: "skills", label: "Skills", terms: ["to all skills", "skill levels", "skills", "skill"], codes: ["allskills", "skill", "skilltab", "oskill"] },
-  { value: "damage", label: "Daño", terms: ["damage", "enhanced damage"], codes: ["dmg", "dmg%", "dmg-min", "dmg-max", "dmg-norm", "dmg-to-mana"] },
+  { value: "damage", label: "Damage", terms: ["damage", "enhanced damage"], codes: ["dmg", "dmg%", "dmg-min", "dmg-max", "dmg-norm", "dmg-to-mana"] },
   { value: "attack-rating", label: "Attack rating", terms: ["attack rating"], codes: ["att", "att%", "tohit"] },
-  { value: "defense", label: "Defensa", terms: ["defense"], codes: ["ac", "ac%"] },
+  { value: "defense", label: "Defense", terms: ["defense"], codes: ["ac", "ac%"] },
   { value: "life-leech", label: "Life leech", terms: ["life stolen", "life steal"], codes: ["lifesteal"] },
   { value: "mana-leech", label: "Mana leech", terms: ["mana stolen", "mana steal"], codes: ["manasteal"] },
   { value: "crushing", label: "Crushing blow", terms: ["crushing blow"], codes: ["crush"] },
@@ -180,7 +180,7 @@ function fillSelect(select, label, values) {
 
 function fillPropertySelect() {
   els.property.innerHTML = "";
-  els.property.append(new Option("Todas", "all"));
+  els.property.append(new Option("All", "all"));
   propertyFilters.forEach((filter) => els.property.append(new Option(filter.label, filter.value)));
 }
 
@@ -208,15 +208,15 @@ function matchesPropertyFilter(item) {
 function statRows(item) {
   const stats = item.baseStats || {};
   return [
-    ["Nivel", item.level],
-    ["Req. nivel", item.requiredLevel],
-    ["Danio 1 mano", stats.oneHandDamage],
-    ["Danio 2 manos", stats.twoHandDamage],
-    ["Danio arroj.", stats.throwDamage],
-    ["Defensa", stats.defense],
-    ["Durabilidad", stats.durability],
-    ["Req. fuerza", stats.requiredStrength],
-    ["Req. destreza", stats.requiredDexterity],
+    ["Level", item.level],
+    ["Req. level", item.requiredLevel],
+    ["1H damage", stats.oneHandDamage],
+    ["2H damage", stats.twoHandDamage],
+    ["Throw damage", stats.throwDamage],
+    ["Defense", stats.defense],
+    ["Durability", stats.durability],
+    ["Req. strength", stats.requiredStrength],
+    ["Req. dexterity", stats.requiredDexterity],
     ["Sockets", stats.maxSockets || null],
   ].filter(([, value]) => value !== null && value !== undefined && value !== "");
 }
@@ -300,7 +300,7 @@ function renderRuneStrip(item) {
 
   const strip = document.createElement("div");
   strip.className = "rune-strip";
-  strip.setAttribute("aria-label", `Runas: ${item.runes.map((rune) => rune.name).join(", ")}`);
+  strip.setAttribute("aria-label", `Runes: ${item.runes.map((rune) => rune.name).join(", ")}`);
 
   item.runes.forEach((rune, index) => {
     if (index > 0) {
@@ -414,7 +414,7 @@ function renderCard(item) {
     baseButton.className = "item-card__base-button";
     baseButton.type = "button";
     baseButton.textContent = `${item.baseName} - ${item.code}`;
-    baseButton.title = `Ver base: ${baseItem.name}`;
+    baseButton.title = `View base: ${baseItem.name}`;
     baseButton.addEventListener("click", (event) => {
       event.stopPropagation();
       navigateToBase(baseItem);
@@ -435,20 +435,20 @@ function renderCard(item) {
   if (item.hasVariableStats) {
     const badge = document.createElement("span");
     badge.className = "badge badge--variable";
-    badge.textContent = "rolls variables";
+    badge.textContent = "variable rolls";
     badges.append(badge);
   }
 
   if (owned) {
     const badge = document.createElement("span");
     badge.className = "badge badge--owned";
-    badge.textContent = `${owned.count} disponibles`;
+    badge.textContent = `${owned.count} available`;
     badges.append(badge);
 
     node.classList.add("item-card--owned");
     node.tabIndex = 0;
     node.setAttribute("role", "button");
-    node.setAttribute("aria-label", `Ver ubicaciones de ${displayName}`);
+    node.setAttribute("aria-label", `View locations of ${displayName}`);
     node.addEventListener("click", () => showOwnedDetails(item));
     node.addEventListener("keydown", (event) => {
       if (event.key === "Enter" || event.key === " ") {
@@ -472,7 +472,7 @@ function renderCard(item) {
   });
 
   item.properties
-    .filter((prop) => !(state.section === "runeword" && prop.text.startsWith("Runas:")))
+    .filter((prop) => !(state.section === "runeword" && prop.text.startsWith("Runes:")))
     .forEach((prop) => {
     const li = document.createElement("li");
     li.textContent = prop.text;
@@ -483,7 +483,7 @@ function renderCard(item) {
   if (item.setBonuses?.length) {
     const header = document.createElement("li");
     header.className = "props__header";
-    header.textContent = "Bonos parciales";
+    header.textContent = "Partial bonuses";
     props.append(header);
     item.setBonuses.forEach((prop) => {
       const li = document.createElement("li");
@@ -496,7 +496,7 @@ function renderCard(item) {
   if (item.fullSetBonuses?.length) {
     const header = document.createElement("li");
     header.className = "props__header";
-    header.textContent = "Set completo";
+    header.textContent = "Full set";
     props.append(header);
     item.fullSetBonuses.forEach((prop) => {
       const li = document.createElement("li");
@@ -512,7 +512,7 @@ function renderCard(item) {
 function describeOwnedLocation(location) {
   const owner = location.level === null || location.level === undefined
     ? `${location.character} (${location.class})`
-    : `${location.character} (${location.class} nivel ${location.level})`;
+    : `${location.character} (${location.class} level ${location.level})`;
   const parts = [
     owner,
     location.source,
@@ -559,20 +559,20 @@ function renderOwnedCopy(location) {
   li.append(title);
 
   const rolled = [];
-  if (location.defense) rolled.push(`Defensa actual: ${location.defense}`);
+  if (location.defense) rolled.push(`Current defense: ${location.defense}`);
   rolled.push(...(location.variableAttributes || []).map((attr) => attr.text));
-  appendDetailGroup(li, "Rolls variables", rolled);
+  appendDetailGroup(li, "Variable rolls", rolled);
 
   const socketed = (location.socketedItems || []).map(socketText);
   if (location.sockets > socketed.length) {
-    socketed.push(`${location.sockets - socketed.length} socket(s) vacio(s)`);
+    socketed.push(`${location.sockets - socketed.length} empty socket(s)`);
   }
-  appendDetailGroup(li, "Engarzado", socketed);
+  appendDetailGroup(li, "Socketed", socketed);
 
   if (!rolled.length && !socketed.length) {
     const empty = document.createElement("p");
     empty.className = "owned-copy__empty";
-    empty.textContent = "Sin rolls variables detectados ni sockets engarzados.";
+    empty.textContent = "No variable rolls or socketed items detected.";
     li.append(empty);
   }
 
@@ -585,7 +585,7 @@ function showOwnedDetails(item) {
   const displayName = item.displayName || item.name;
 
   els.ownedTitle.textContent = displayName;
-  els.ownedSubtitle.textContent = `${owned.count} disponibles encontrados en ${ownedPayload?.characters || 0} personajes y ${ownedPayload?.stashes || 0} alijos escaneados.`;
+  els.ownedSubtitle.textContent = `${owned.count} available, found across ${ownedPayload?.characters || 0} characters and ${ownedPayload?.stashes || 0} stashes scanned.`;
   els.ownedList.innerHTML = "";
 
   owned.locations
@@ -601,8 +601,8 @@ function showOwnedDetails(item) {
 
 async function refreshOwned() {
   els.refreshOwned.disabled = true;
-  els.refreshOwned.textContent = "Leyendo saves...";
-  els.ownedStatus.textContent = "Escaneando personajes...";
+  els.refreshOwned.textContent = "Reading saves...";
+  els.ownedStatus.textContent = "Scanning characters...";
 
   try {
     const response = await fetch("/api/owned-items", { cache: "no-store" });
@@ -610,17 +610,17 @@ async function refreshOwned() {
     ownedPayload = await response.json();
     rebuildOwnedMap();
     const total = currentOwnedTotal();
-    els.ownedStatus.textContent = `${total} ${currentDataset().ownedLabel} en ${ownedPayload.characters} personajes y ${ownedPayload.stashes || 0} alijos`;
+    els.ownedStatus.textContent = `${total} ${currentDataset().ownedLabel} across ${ownedPayload.characters} characters and ${ownedPayload.stashes || 0} stashes`;
     if (ownedPayload.errors?.length) {
-      els.ownedStatus.textContent += ` (${ownedPayload.errors.length} errores)`;
+      els.ownedStatus.textContent += ` (${ownedPayload.errors.length} errors)`;
     }
     render();
   } catch (error) {
-    els.ownedStatus.textContent = "No pude leer saves. Inicia con npm run start.";
+    els.ownedStatus.textContent = "Couldn't read saves. Start with npm run start.";
     console.error(error);
   } finally {
     els.refreshOwned.disabled = false;
-    els.refreshOwned.textContent = "Refrescar saves";
+    els.refreshOwned.textContent = "Refresh saves";
   }
 }
 
@@ -628,13 +628,13 @@ function filteredItems() {
   const term = state.search.trim().toLowerCase();
   const filtered = currentItems().filter((item) => {
     if (state.section === "charm" && state.charmType !== "all") {
-      if (state.charmType === "unique" && item.tier !== "Unico") return false;
+      if (state.charmType === "unique" && item.tier !== "Unique") return false;
       if (state.charmType === "small" && item.code !== "cm1") return false;
       if (state.charmType === "medium" && item.code !== "cm2") return false;
       if (state.charmType === "grand" && item.code !== "cm3") return false;
     }
     if (state.section === "jewel" && state.jewelType !== "all") {
-      if (state.jewelType === "unique" && item.tier !== "Unico") return false;
+      if (state.jewelType === "unique" && item.tier !== "Unique") return false;
       if (state.jewelType === "jewel" && item.code !== "jew") return false;
     }
     if (state.family !== "all" && item.family !== state.family) return false;
@@ -683,7 +683,7 @@ function render() {
   if (!result.length) {
     const empty = document.createElement("div");
     empty.className = "empty";
-    empty.textContent = `No hay ${currentDataset().label.toLowerCase()} que coincidan con los filtros.`;
+    empty.textContent = `No ${currentDataset().label.toLowerCase()} match the filters.`;
     els.grid.append(empty);
     return;
   }
@@ -719,7 +719,7 @@ function bindEvents() {
   els.family.addEventListener("change", (event) => {
     state.family = event.target.value;
     state.subtype = "all";
-    fillSelect(els.subtype, "Todos", subtypeValues());
+    fillSelect(els.subtype, "All", subtypeValues());
     render();
   });
   els.subtype.addEventListener("change", (event) => {
@@ -737,7 +737,7 @@ function bindEvents() {
   els.ownedFilter.addEventListener("change", (event) => {
     state.ownedFilter = event.target.value;
     if (!ownedPayload && state.ownedFilter !== "all") {
-      els.ownedStatus.textContent = "Primero usa Refrescar saves para filtrar tenencia.";
+      els.ownedStatus.textContent = "Use Refresh saves first to filter ownership.";
     }
     render();
   });
@@ -777,11 +777,11 @@ function updateControls() {
   const dataset = currentDataset();
   const payload = currentPayload();
   els.total.textContent = currentItems().length;
-  els.totalLabel.textContent = `${dataset.label.toLowerCase()} cargados`;
+  els.totalLabel.textContent = `${dataset.label.toLowerCase()} loaded`;
   els.sectionLead.textContent = dataset.lead;
-  els.source.textContent = payload.source || "Datos locales";
+  els.source.textContent = payload.source || "Local data";
   if (state.section === "charm" && !ownedPayload) {
-    els.ownedStatus.textContent = "Usa Refrescar saves para cargar tus charms.";
+    els.ownedStatus.textContent = "Use Refresh saves to load your charms.";
   }
   els.family.value = "all";
   els.subtype.value = "all";
@@ -794,14 +794,14 @@ function updateControls() {
   els.jewelTypeLabel.hidden = state.section !== "jewel";
   els.sort.value = state.sort;
   els.sortDirection.value = state.sortDirection;
-  fillSelect(els.family, "Todas", uniqueValues("family"));
-  fillSelect(els.subtype, "Todos", subtypeValues());
-  fillSelect(els.tier, "Todos", uniqueValues("tier"));
+  fillSelect(els.family, "All", uniqueValues("family"));
+  fillSelect(els.subtype, "All", subtypeValues());
+  fillSelect(els.tier, "All", uniqueValues("tier"));
   fillPropertySelect();
   els.property.value = state.property;
   if (ownedPayload) {
     const total = currentOwnedTotal();
-    els.ownedStatus.textContent = `${total} ${dataset.ownedLabel} en ${ownedPayload.characters} personajes y ${ownedPayload.stashes || 0} alijos`;
+    els.ownedStatus.textContent = `${total} ${dataset.ownedLabel} across ${ownedPayload.characters} characters and ${ownedPayload.stashes || 0} stashes`;
   }
 }
 

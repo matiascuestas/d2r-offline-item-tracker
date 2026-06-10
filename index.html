@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -10,40 +10,40 @@
     <header class="hero">
       <div class="hero__content">
         <p class="eyebrow">Diablo II Resurrected</p>
-        <h1>Catalogo de items</h1>
-        <p id="section-lead" class="lead">Items unicos con base, niveles, imagen, estadisticas y rolls.</p>
+        <h1>Item catalog</h1>
+        <p id="section-lead" class="lead">Unique items with base, levels, image, stats and rolls.</p>
       </div>
-      <div class="hero__panel" aria-label="Resumen">
+      <div class="hero__panel" aria-label="Summary">
         <span id="total-count">0</span>
-        <small id="total-label">items cargados</small>
+        <small id="total-label">items loaded</small>
       </div>
     </header>
 
     <main>
-      <nav class="sections" aria-label="Secciones del catalogo">
-        <button class="section-tab section-tab--active" type="button" data-section="unique">Unicos</button>
+      <nav class="sections" aria-label="Catalog sections">
+        <button class="section-tab section-tab--active" type="button" data-section="unique">Uniques</button>
         <button class="section-tab" type="button" data-section="set">Sets</button>
         <button class="section-tab" type="button" data-section="base">Bases</button>
         <button class="section-tab" type="button" data-section="runeword">Runewords</button>
         <button class="section-tab" type="button" data-section="charm">Charms</button>
         <button class="section-tab" type="button" data-section="jewel">Jewels</button>
-        <button class="section-tab" type="button" disabled>Magicos y rares</button>
+        <button class="section-tab" type="button" disabled>Magic & Rare</button>
       </nav>
 
-      <section class="toolbar" aria-label="Filtros de items">
+      <section class="toolbar" aria-label="Item filters">
         <div class="toolbar__row toolbar__row--main">
           <label class="search">
-            <span>Buscar</span>
+            <span>Search</span>
             <input id="search" type="search" placeholder="Shako, War Traveler, resist, damage..." autocomplete="off" />
           </label>
 
           <label>
-            <span>Familia</span>
+            <span>Family</span>
             <select id="family-filter"></select>
           </label>
 
           <label>
-            <span>Subtipo</span>
+            <span>Subtype</span>
             <select id="subtype-filter"></select>
           </label>
 
@@ -53,25 +53,25 @@
           </label>
 
           <label>
-            <span>Propiedad</span>
+            <span>Property</span>
             <select id="property-filter"></select>
           </label>
         </div>
 
         <div class="toolbar__row toolbar__row--extra">
           <label>
-            <span>Tenencia</span>
+            <span>Ownership</span>
             <select id="owned-filter">
-              <option value="all">Todos</option>
-              <option value="owned">Solo los que tengo</option>
-              <option value="missing">Solo los que no tengo</option>
+              <option value="all">All</option>
+              <option value="owned">Only owned</option>
+              <option value="missing">Only missing</option>
             </select>
           </label>
 
           <label id="charm-type-label" hidden>
-            <span>Tipo charm</span>
+            <span>Charm type</span>
             <select id="charm-type-filter">
-              <option value="all">Todos</option>
+              <option value="all">All</option>
               <option value="small">Small Charm</option>
               <option value="medium">Medium Charm</option>
               <option value="grand">Grand Charm</option>
@@ -80,53 +80,53 @@
           </label>
 
           <label id="jewel-type-label" hidden>
-            <span>Tipo jewel</span>
+            <span>Jewel type</span>
             <select id="jewel-type-filter">
-              <option value="all">Todos</option>
+              <option value="all">All</option>
               <option value="jewel">Jewel</option>
               <option value="unique">Unique Jewels</option>
             </select>
           </label>
 
           <label>
-            <span>Orden</span>
+            <span>Sort</span>
             <select id="sort-filter">
-              <option value="requiredLevel">Nivel requerido</option>
-              <option value="name">Nombre</option>
-              <option value="level">Nivel de item</option>
-              <option value="ownedCount">Cantidad disponible</option>
+              <option value="requiredLevel">Required level</option>
+              <option value="name">Name</option>
+              <option value="level">Item level</option>
+              <option value="ownedCount">Available count</option>
             </select>
           </label>
 
           <label>
-            <span>Direccion</span>
+            <span>Direction</span>
             <select id="sort-direction">
-              <option value="asc">Ascendente</option>
-              <option value="desc">Descendente</option>
+              <option value="asc">Ascending</option>
+              <option value="desc">Descending</option>
             </select>
           </label>
 
           <label class="check">
             <input id="variable-filter" type="checkbox" />
-            <span>Solo con rolls variables</span>
+            <span>Variable rolls only</span>
           </label>
 
-          <button id="refresh-owned" class="refresh-button" type="button">Refrescar saves</button>
+          <button id="refresh-owned" class="refresh-button" type="button">Refresh saves</button>
         </div>
       </section>
 
       <section class="summary" aria-live="polite">
         <strong id="visible-count">0</strong>
-        <span>items visibles</span>
+        <span>visible items</span>
         <span class="dot"></span>
         <span id="source"></span>
         <span class="dot"></span>
-        <span id="owned-status">Saves no leidos</span>
+        <span id="owned-status">Saves not read</span>
       </section>
 
       <section id="owned-detail" class="owned-detail" hidden>
-        <button id="owned-close" class="owned-detail__close" type="button">Cerrar</button>
-        <p class="owned-detail__label">Disponibles</p>
+        <button id="owned-close" class="owned-detail__close" type="button">Close</button>
+        <p class="owned-detail__label">Available</p>
         <h3 id="owned-title"></h3>
         <p id="owned-subtitle"></p>
         <ul id="owned-list"></ul>

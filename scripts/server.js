@@ -55,33 +55,33 @@ function sendJson(res, status, payload) {
 
 function locationFor(item, source) {
   const equipped = {
-    1: "casco",
-    2: "amuleto",
-    3: "armadura",
-    4: "mano derecha",
-    5: "mano izquierda",
-    6: "anillo derecho",
-    7: "anillo izquierdo",
-    8: "cinturon",
-    9: "botas",
-    10: "guantes",
-    11: "swap mano derecha",
-    12: "swap mano izquierda",
+    1: "helm",
+    2: "amulet",
+    3: "armor",
+    4: "right hand",
+    5: "left hand",
+    6: "right ring",
+    7: "left ring",
+    8: "belt",
+    9: "boots",
+    10: "gloves",
+    11: "swap right hand",
+    12: "swap left hand",
   };
   const container = {
-    1: "inventario",
-    4: "cubo",
-    5: "alijo personal",
+    1: "inventory",
+    4: "cube",
+    5: "personal stash",
   };
 
-  if (source === "Mercenario") return equipped[item.equipped_id] || "mercenario";
-  if (source === "Cadaver") return "cadaver";
+  if (source === "Mercenary") return equipped[item.equipped_id] || "mercenary";
+  if (source === "Corpse") return "corpse";
   if (source === "Golem") return "golem";
-  if (item.location_id === 1) return equipped[item.equipped_id] || "equipado";
-  if (item.location_id === 2) return "cinturon";
-  if (item.location_id === 0) return container[item.alt_position_id] || "contenedor";
-  if (item.location_id === 4) return "engarzado";
-  return "ubicacion desconocida";
+  if (item.location_id === 1) return equipped[item.equipped_id] || "equipped";
+  if (item.location_id === 2) return "belt";
+  if (item.location_id === 0) return container[item.alt_position_id] || "container";
+  if (item.location_id === 4) return "socketed";
+  return "unknown location";
 }
 
 function buildVariableStatsByRows(rows, nameKey, propPrefix, minPrefix, maxPrefix) {
@@ -184,7 +184,7 @@ function isPlainBase(item) {
 function runewordNameFor(item) {
   if (!item?.runeword_name) return null;
   if (item.runeword_name !== "Hustle") return item.runeword_name;
-  return baseFamilyByCode.get(item.type) === "Armaduras" ? "Hustle (armor)" : "Hustle (weapon)";
+  return baseFamilyByCode.get(item.type) === "Armor" ? "Hustle (armor)" : "Hustle (weapon)";
 }
 
 function readableItemName(item) {
@@ -279,7 +279,7 @@ function collectCharm(map, item, character, source, customLocation) {
       requiredLevel: item.required_level || 0,
       family: "Charms",
       subtype: baseName,
-      tier: item.unique_name ? "Unico" : "Magico",
+      tier: item.unique_name ? "Unique" : "Magic",
       width: itemRows[item.type]?.invwidth || 1,
       height: itemRows[item.type]?.invheight || 1,
       image: `assets/items/${invfile}.png`,
@@ -303,7 +303,7 @@ function collectCharm(map, item, character, source, customLocation) {
     source,
     location: customLocation || locationFor(item, source),
     baseName,
-    quality: item.unique_name ? "Unico" : "Magico",
+    quality: item.unique_name ? "Unique" : "Magic",
     ethereal: false,
     sockets: 0,
     defense: null,
@@ -350,9 +350,9 @@ function collectJewel(map, item, character, source, customLocation) {
       code: item.type,
       level: item.level || null,
       requiredLevel: item.required_level || 0,
-      family: "Joyas",
+      family: "Jewels",
       subtype: baseName,
-      tier: item.unique_name ? "Unico" : "Magico",
+      tier: item.unique_name ? "Unique" : "Magic",
       width: itemRows[item.type]?.invwidth || 1,
       height: itemRows[item.type]?.invheight || 1,
       image: `assets/items/${invfile}.png`,
@@ -376,7 +376,7 @@ function collectJewel(map, item, character, source, customLocation) {
     source,
     location: customLocation || locationFor(item, source),
     baseName,
-    quality: item.unique_name ? "Unico" : "Magico",
+    quality: item.unique_name ? "Unique" : "Magic",
     ethereal: false,
     sockets: 0,
     defense: null,
@@ -450,9 +450,9 @@ async function readOwnedUniques() {
         file,
       };
 
-      for (const item of save.items || []) collectItem(owned, item, character, "Personaje");
-      for (const item of save.merc_items || []) collectItem(owned, item, character, "Mercenario");
-      for (const item of save.corpse_items || []) collectItem(owned, item, character, "Cadaver");
+      for (const item of save.items || []) collectItem(owned, item, character, "Character");
+      for (const item of save.merc_items || []) collectItem(owned, item, character, "Mercenary");
+      for (const item of save.corpse_items || []) collectItem(owned, item, character, "Corpse");
       collectItem(owned, save.golem_item, character, "Golem");
     } catch (error) {
       errors.push({ file, message: error.message });
@@ -465,14 +465,14 @@ async function readOwnedUniques() {
       const stash = await stashReader.read(await fs.promises.readFile(fullPath));
       const character = {
         name: path.basename(file, path.extname(file)),
-        class: "Alijo compartido",
+        class: "Shared Stash",
         level: null,
         file,
       };
 
       (stash.pages || []).forEach((page, index) => {
-        const pageName = page.name ? `pagina ${index + 1}: ${page.name}` : `pagina ${index + 1}`;
-        for (const item of page.items || []) collectItem(owned, item, character, "Alijo compartido", pageName);
+        const pageName = page.name ? `page ${index + 1}: ${page.name}` : `page ${index + 1}`;
+        for (const item of page.items || []) collectItem(owned, item, character, "Shared Stash", pageName);
       });
     } catch (error) {
       errors.push({ file, message: error.message });

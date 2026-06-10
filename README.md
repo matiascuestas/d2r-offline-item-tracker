@@ -42,6 +42,16 @@ npm run start
 
 Then open http://localhost:5173 in your browser. On Windows you can also double-click `start-web.cmd`, which launches the server and opens the browser for you.
 
+### Desktop shortcut (Windows)
+
+To create a Desktop shortcut that launches the app (it reuses the Diablo II: Resurrected icon if `D2R.exe` is found):
+
+```bash
+npm run shortcut
+```
+
+This creates a **"D2R Item Tracker"** shortcut on your Desktop pointing at `start-web.cmd`.
+
 > Opening `index.html` directly (without the server) works for **browsing the catalog**, but the "owned / missing" tracking needs the server, since reading your save files happens in `scripts/server.js` via the `/api/owned-items` endpoint.
 
 ### Save folder

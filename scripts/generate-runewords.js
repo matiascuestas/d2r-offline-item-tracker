@@ -18,36 +18,36 @@ const runewordCategories = loadJson("runeworduicategories.json");
 const excludedRunewords = new Set(["Authority", "Coven", "Ritual", "Vigilance", "Void"]);
 
 const categoryLabels = {
-  "Body Armor": "Armaduras corporales",
-  Helms: "Cascos",
-  "Melee Weapons": "Armas melee",
-  "Missile Weapons": "Armas a distancia",
-  Offhand: "Escudos y offhands",
+  "Body Armor": "Body Armor",
+  Helms: "Helms",
+  "Melee Weapons": "Melee Weapons",
+  "Missile Weapons": "Ranged Weapons",
+  Offhand: "Shields & Offhands",
 };
 
 const subtypeLabels = {
-  armor: "Armaduras corporales",
-  helms: "Cascos",
-  shlds: "Escudos",
-  palad: "Escudos de paladin",
-  necro: "Cabezas de necromante",
-  warlo: "Grimorios",
-  axes: "Hachas",
-  sword: "Espadas",
-  maces: "Mazas y martillos",
-  daggs: "Dagas",
-  scept: "Cetros",
-  wands: "Varitas",
-  stave: "Bastones",
-  bows: "Arcos",
-  xbows: "Ballestas",
-  spear: "Lanzas",
-  poles: "Armas de asta",
-  javel: "Jabalinas",
-  throw: "Arrojadizas",
-  assas: "Garras de asesina",
-  sorce: "Orbes de hechicera",
-  amazo: "Armas de amazona",
+  armor: "Body Armor",
+  helms: "Helms",
+  shlds: "Shields",
+  palad: "Paladin Shields",
+  necro: "Necromancer Heads",
+  warlo: "Grimoires",
+  axes: "Axes",
+  sword: "Swords",
+  maces: "Maces & Hammers",
+  daggs: "Daggers",
+  scept: "Scepters",
+  wands: "Wands",
+  stave: "Staves",
+  bows: "Bows",
+  xbows: "Crossbows",
+  spear: "Spears",
+  poles: "Polearms",
+  javel: "Javelins",
+  throw: "Throwing",
+  assas: "Assassin Claws",
+  sorce: "Sorceress Orbs",
+  amazo: "Amazon Weapons",
 };
 
 function clean(value) {
@@ -158,22 +158,22 @@ function getAllowedTypes(row) {
 
 function getFamily(types) {
   const families = [...new Set(types.map((type) => type.family).filter(Boolean))];
-  if (!families.length) return "Otros";
+  if (!families.length) return "Other";
   if (families.length === 1) return families[0];
-  if (families.some((family) => family.includes("Armas"))) return "Armas varias";
-  return "Bases varias";
+  if (families.some((family) => family.includes("Weapons"))) return "Various Weapons";
+  return "Various Bases";
 }
 
 function getSubtype(types) {
   const subtypes = [...new Set(types.map((type) => type.subtype).filter(Boolean))];
-  if (!subtypes.length) return "Otros";
+  if (!subtypes.length) return "Other";
   if (subtypes.length === 1) return subtypes[0];
   return subtypes.join(" / ");
 }
 
 function getPatch(row) {
   const release = clean(row["*Patch Release"]);
-  if (!release) return "D2R / clasica";
+  if (!release) return "D2R / classic";
   if (typeof release === "number") return `Patch ${String(release).replace(/^(\d)(\d\d)$/, "$1.$2")}`;
   return String(release);
 }
@@ -192,7 +192,7 @@ const runewords = runewordRows
     return {
       id: row.lineNumber,
       name,
-      baseName: baseText || "Bases compatibles",
+      baseName: baseText || "Compatible bases",
       code: runeText,
       level: Math.max(...runes.map((rune) => rune.requiredLevel), 0),
       requiredLevel: Math.max(...runes.map((rune) => rune.requiredLevel), 0),
@@ -209,9 +209,9 @@ const runewords = runewordRows
       patch,
       baseStats: { maxSockets: sockets },
       properties: [
-        { text: `Runas: ${runeText}`, variable: false },
-        { text: `Bases: ${baseText || "No especificadas"}`, variable: false },
-        { text: `Disponibilidad: ${patch}`, variable: false },
+        { text: `Runes: ${runeText}`, variable: false },
+        { text: `Bases: ${baseText || "Not specified"}`, variable: false },
+        { text: `Availability: ${patch}`, variable: false },
         ...properties,
       ],
       setBonuses: [],

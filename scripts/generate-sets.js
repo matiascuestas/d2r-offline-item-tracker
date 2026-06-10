@@ -16,9 +16,9 @@ const properties = loadJson("properties.json");
 const itemTypes = loadJson("itemtypes.json");
 
 const storePages = {
-  armo: "Armaduras",
-  weap: "Armas",
-  misc: "Miscelaneos",
+  armo: "Armor",
+  weap: "Weapons",
+  misc: "Miscellaneous",
 };
 
 function clean(value) {
@@ -136,30 +136,30 @@ function getFullSetProperties(setName) {
 function getFamily(base) {
   const type = itemTypes[base.type] || {};
   const armorTypes = ["helm", "tors", "shie", "boot", "glov", "belt", "circ", "pelt", "phlm", "head", "ashd", "grim"];
-  if (armorTypes.includes(base.type) || asNumber(base.armorclass) > 0) return "Armaduras";
-  if ([asNumber(base.mindam), asNumber(base.maxdam), asNumber(base["2handmindam"]), asNumber(base["2handmaxdam"])].some((value) => value > 0)) return "Armas";
-  if (["amul", "ring"].includes(base.type)) return "Joyeria";
-  if (["char", "jewl", "cjwl", "csch"].includes(base.type) || type.Equiv1 === "char") return "Charms y joyas";
-  return storePages[type.StorePage] || storePages[base.StorePage] || "Otros";
+  if (armorTypes.includes(base.type) || asNumber(base.armorclass) > 0) return "Armor";
+  if ([asNumber(base.mindam), asNumber(base.maxdam), asNumber(base["2handmindam"]), asNumber(base["2handmaxdam"])].some((value) => value > 0)) return "Weapons";
+  if (["amul", "ring"].includes(base.type)) return "Jewelry";
+  if (["char", "jewl", "cjwl", "csch"].includes(base.type) || type.Equiv1 === "char") return "Charms & Jewels";
+  return storePages[type.StorePage] || storePages[base.StorePage] || "Other";
 }
 
 function getSubtype(base) {
   const type = itemTypes[base.type] || {};
-  const itemType = type.ItemType || base.type || "Otros";
+  const itemType = type.ItemType || base.type || "Other";
   const ui = type.UICategory || "";
-  const armorSubtypes = { armor: "Armaduras corporales", helms: "Cascos", circl: "Diademas y circlets", belts: "Cintos", boots: "Botas", glove: "Guantes", shlds: "Escudos", palad: "Escudos de paladin", necro: "Cabezas de necromante", druid: "Pelts de druida", barbh: "Cascos de barbaro", warlo: "Grimorios" };
-  const weaponSubtypes = { axes: "Hachas", sword: "Espadas", maces: "Mazas y martillos", daggs: "Dagas", scept: "Cetros", wands: "Varitas", stave: "Bastones", bows: "Arcos", xbows: "Ballestas", spear: "Lanzas", poles: "Armas de asta", javel: "Jabalinas", throw: "Arrojadizas", assas: "Garras de asesina", sorce: "Orbes de hechicera", amazo: "Armas de amazona" };
-  const miscSubtypes = { amule: "Amuletos", rings: "Anillos", charm: "Charms", jewel: "Joyas" };
+  const armorSubtypes = { armor: "Body Armor", helms: "Helms", circl: "Circlets", belts: "Belts", boots: "Boots", glove: "Gloves", shlds: "Shields", palad: "Paladin Shields", necro: "Necromancer Heads", druid: "Druid Pelts", barbh: "Barbarian Helms", warlo: "Grimoires" };
+  const weaponSubtypes = { axes: "Axes", sword: "Swords", maces: "Maces & Hammers", daggs: "Daggers", scept: "Scepters", wands: "Wands", stave: "Staves", bows: "Bows", xbows: "Crossbows", spear: "Spears", poles: "Polearms", javel: "Javelins", throw: "Throwing", assas: "Assassin Claws", sorce: "Sorceress Orbs", amazo: "Amazon Weapons" };
+  const miscSubtypes = { amule: "Amulets", rings: "Rings", charm: "Charms", jewel: "Jewels" };
   if (["char", "csch"].includes(base.type) || type.Equiv1 === "char") return "Charms";
-  if (["jewl", "cjwl"].includes(base.type)) return "Joyas";
+  if (["jewl", "cjwl"].includes(base.type)) return "Jewels";
   return armorSubtypes[ui] || weaponSubtypes[ui] || miscSubtypes[ui] || itemType;
 }
 
 function getTier(code, base) {
   if (code === base.normcode) return "Normal";
-  if (code === base.ubercode) return "Excepcional";
+  if (code === base.ubercode) return "Exceptional";
   if (code === base.ultracode) return "Elite";
-  return "Especial";
+  return "Special";
 }
 
 function damage(a, b) {

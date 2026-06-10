@@ -1,5 +1,5 @@
 window.D2_BASES = {
-  "generatedAt": "2026-06-09T23:51:39.149Z",
+  "generatedAt": "2026-06-10T01:27:23.046Z",
   "source": "@blizzhackers/d2data 3.2.92777",
   "section": "Bases",
   "count": 478,
@@ -12,8 +12,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -34,7 +34,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "decoy gidbinn d33 armas dagas normal"
+      "search": "decoy gidbinn d33 weapons daggers normal"
     },
     {
       "id": 90,
@@ -44,8 +44,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -66,7 +66,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hellforge hammer hfh armas mazas y martillos normal"
+      "search": "hellforge hammer hfh weapons maces & hammers normal"
     },
     {
       "id": 89,
@@ -76,8 +76,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -98,7 +98,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "horadric malus hdm armas mazas y martillos normal"
+      "search": "horadric malus hdm weapons maces & hammers normal"
     },
     {
       "id": 91,
@@ -108,8 +108,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -130,7 +130,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "horadric staff hst armas bastones normal"
+      "search": "horadric staff hst weapons staves normal"
     },
     {
       "id": 173,
@@ -140,9 +140,9 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Especial",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Special",
       "width": 2,
       "height": 3,
       "image": "assets/items/invqf1.png",
@@ -162,7 +162,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "khalim's flail qf1 armas mazas y martillos especial"
+      "search": "khalim's flail qf1 weapons maces & hammers special"
     },
     {
       "id": 174,
@@ -172,9 +172,9 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Especial",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Special",
       "width": 2,
       "height": 3,
       "image": "assets/items/invqf2.png",
@@ -194,7 +194,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "khalim's will qf2 armas mazas y martillos especial"
+      "search": "khalim's will qf2 weapons maces & hammers special"
     },
     {
       "id": 92,
@@ -204,8 +204,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -226,7 +226,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "staff of kings msf armas bastones normal"
+      "search": "staff of kings msf weapons staves normal"
     },
     {
       "id": 87,
@@ -236,8 +236,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -258,7 +258,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "the gidbinn g33 armas dagas normal"
+      "search": "the gidbinn g33 weapons daggers normal"
     },
     {
       "id": 88,
@@ -268,8 +268,8 @@ window.D2_BASES = {
       "level": 0,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -290,7 +290,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wirt's leg leg armas mazas y martillos normal"
+      "search": "wirt's leg leg weapons maces & hammers normal"
     },
     {
       "id": 22,
@@ -300,8 +300,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -322,7 +322,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "buckler buc armaduras escudos normal"
+      "search": "buckler buc armor shields normal"
     },
     {
       "id": 0,
@@ -332,8 +332,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -354,7 +354,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cap cap armaduras cascos normal"
+      "search": "cap cap armor helms normal"
     },
     {
       "id": 14,
@@ -364,8 +364,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -386,7 +386,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "club clb armas mazas y martillos normal"
+      "search": "club clb weapons maces & hammers normal"
     },
     {
       "id": 277,
@@ -396,8 +396,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -418,7 +418,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "eagle orb ob1 armas orbes de hechicera normal"
+      "search": "eagle orb ob1 weapons sorceress orbs normal"
     },
     {
       "id": 47,
@@ -428,8 +428,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -450,7 +450,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "javelin jav armas jabalinas normal"
+      "search": "javelin jav weapons javelins normal"
     },
     {
       "id": 176,
@@ -460,8 +460,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -482,7 +482,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "katar ktr armas garras de asesina normal"
+      "search": "katar ktr weapons assassin claws normal"
     },
     {
       "id": 7,
@@ -492,8 +492,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -514,7 +514,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "quilted armor qui armaduras armaduras corporales normal"
+      "search": "quilted armor qui armor body armor normal"
     },
     {
       "id": 68,
@@ -524,8 +524,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -546,7 +546,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short bow sbw armas arcos normal"
+      "search": "short bow sbw weapons bows normal"
     },
     {
       "id": 63,
@@ -556,8 +556,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -578,7 +578,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short staff sst armas bastones normal"
+      "search": "short staff sst weapons staves normal"
     },
     {
       "id": 25,
@@ -588,8 +588,8 @@ window.D2_BASES = {
       "level": 1,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -610,7 +610,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short sword ssd armas espadas normal"
+      "search": "short sword ssd weapons swords normal"
     },
     {
       "id": 43,
@@ -620,8 +620,8 @@ window.D2_BASES = {
       "level": 2,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -642,7 +642,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "throwing knife tkf armas arrojadizas normal"
+      "search": "throwing knife tkf weapons throwing normal"
     },
     {
       "id": 10,
@@ -652,8 +652,8 @@ window.D2_BASES = {
       "level": 2,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -674,7 +674,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wand wnd armas varitas normal"
+      "search": "wand wnd weapons wands normal"
     },
     {
       "id": 39,
@@ -684,8 +684,8 @@ window.D2_BASES = {
       "level": 3,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -706,7 +706,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dagger dgr armas dagas normal"
+      "search": "dagger dgr weapons daggers normal"
     },
     {
       "id": 0,
@@ -716,8 +716,8 @@ window.D2_BASES = {
       "level": 3,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -738,7 +738,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hand axe hax armas hachas normal"
+      "search": "hand axe hax weapons axes normal"
     },
     {
       "id": 8,
@@ -748,8 +748,8 @@ window.D2_BASES = {
       "level": 3,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -770,7 +770,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "leather armor lea armaduras armaduras corporales normal"
+      "search": "leather armor lea armor body armor normal"
     },
     {
       "id": 15,
@@ -780,8 +780,8 @@ window.D2_BASES = {
       "level": 3,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -802,7 +802,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scepter scp armas cetros normal"
+      "search": "scepter scp weapons scepters normal"
     },
     {
       "id": 85,
@@ -812,8 +812,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 0,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 1,
@@ -834,7 +834,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fulminating potion opl armas arrojadizas normal"
+      "search": "fulminating potion opl weapons throwing normal"
     },
     {
       "id": 18,
@@ -844,8 +844,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -866,7 +866,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spiked club spc armas mazas y martillos normal"
+      "search": "spiked club spc weapons maces & hammers normal"
     },
     {
       "id": 57,
@@ -876,8 +876,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -898,7 +898,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bardiche bar armas armas de asta normal"
+      "search": "bardiche bar weapons polearms normal"
     },
     {
       "id": 9,
@@ -908,8 +908,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -930,7 +930,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hard leather armor hla armaduras armaduras corporales normal"
+      "search": "hard leather armor hla armor body armor normal"
     },
     {
       "id": 69,
@@ -940,8 +940,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -962,7 +962,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hunter's bow hbw armas arcos normal"
+      "search": "hunter's bow hbw weapons bows normal"
     },
     {
       "id": 26,
@@ -972,8 +972,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -994,7 +994,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scimitar scm armas espadas normal"
+      "search": "scimitar scm weapons swords normal"
     },
     {
       "id": 1,
@@ -1004,8 +1004,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -1026,7 +1026,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "skull cap skp armaduras cascos normal"
+      "search": "skull cap skp armor helms normal"
     },
     {
       "id": 23,
@@ -1036,8 +1036,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -1058,7 +1058,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "small shield sml armaduras escudos normal"
+      "search": "small shield sml armor shields normal"
     },
     {
       "id": 52,
@@ -1068,8 +1068,8 @@ window.D2_BASES = {
       "level": 5,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -1090,7 +1090,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spear spr armas lanzas normal"
+      "search": "spear spr weapons spears normal"
     },
     {
       "id": 5,
@@ -1100,8 +1100,8 @@ window.D2_BASES = {
       "level": 6,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1122,7 +1122,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "large axe lax armas hachas normal"
+      "search": "large axe lax weapons axes normal"
     },
     {
       "id": 76,
@@ -1132,8 +1132,8 @@ window.D2_BASES = {
       "level": 6,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1154,7 +1154,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "light crossbow lxb armas ballestas normal"
+      "search": "light crossbow lxb weapons crossbows normal"
     },
     {
       "id": 1,
@@ -1164,8 +1164,8 @@ window.D2_BASES = {
       "level": 7,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1186,7 +1186,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "axe axe armas hachas normal"
+      "search": "axe axe weapons axes normal"
     },
     {
       "id": 44,
@@ -1196,8 +1196,8 @@ window.D2_BASES = {
       "level": 7,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -1218,7 +1218,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "throwing axe tax armas arrojadizas normal"
+      "search": "throwing axe tax weapons throwing normal"
     },
     {
       "id": 70,
@@ -1228,8 +1228,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -1250,7 +1250,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "long bow lbw armas arcos normal"
+      "search": "long bow lbw weapons bows normal"
     },
     {
       "id": 64,
@@ -1260,8 +1260,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -1282,7 +1282,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "long staff lst armas bastones normal"
+      "search": "long staff lst weapons staves normal"
     },
     {
       "id": 19,
@@ -1292,8 +1292,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -1314,7 +1314,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mace mac armas mazas y martillos normal"
+      "search": "mace mac weapons maces & hammers normal"
     },
     {
       "id": 27,
@@ -1324,8 +1324,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -1346,7 +1346,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "saber sbr armas espadas normal"
+      "search": "saber sbr weapons swords normal"
     },
     {
       "id": 278,
@@ -1356,8 +1356,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -1378,7 +1378,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sacred globe ob2 armas orbes de hechicera normal"
+      "search": "sacred globe ob2 weapons sorceress orbs normal"
     },
     {
       "id": 10,
@@ -1388,8 +1388,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1410,7 +1410,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "studded leather stu armaduras armaduras corporales normal"
+      "search": "studded leather stu armor body armor normal"
     },
     {
       "id": 40,
@@ -1420,8 +1420,8 @@ window.D2_BASES = {
       "level": 9,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -1442,7 +1442,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dirk dir armas dagas normal"
+      "search": "dirk dir weapons daggers normal"
     },
     {
       "id": 53,
@@ -1452,8 +1452,8 @@ window.D2_BASES = {
       "level": 9,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -1474,7 +1474,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "trident tri armas lanzas normal"
+      "search": "trident tri weapons spears normal"
     },
     {
       "id": 177,
@@ -1484,8 +1484,8 @@ window.D2_BASES = {
       "level": 9,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -1506,7 +1506,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wrist blade wrb armas garras de asesina normal"
+      "search": "wrist blade wrb weapons assassin claws normal"
     },
     {
       "id": 48,
@@ -1516,8 +1516,8 @@ window.D2_BASES = {
       "level": 10,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -1538,7 +1538,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "pilum pil armas jabalinas normal"
+      "search": "pilum pil weapons javelins normal"
     },
     {
       "id": 33,
@@ -1548,8 +1548,8 @@ window.D2_BASES = {
       "level": 10,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -1570,7 +1570,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "two-handed sword 2hs armas espadas normal"
+      "search": "two-handed sword 2hs weapons swords normal"
     },
     {
       "id": 29,
@@ -1580,8 +1580,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1602,7 +1602,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crystal sword crs armas espadas normal"
+      "search": "crystal sword crs weapons swords normal"
     },
     {
       "id": 28,
@@ -1612,8 +1612,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -1634,7 +1634,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "falchion flc armas espadas normal"
+      "search": "falchion flc weapons swords normal"
     },
     {
       "id": 2,
@@ -1644,8 +1644,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -1666,7 +1666,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "helm hlm armaduras cascos normal"
+      "search": "helm hlm armor helms normal"
     },
     {
       "id": 24,
@@ -1676,8 +1676,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1698,7 +1698,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "large shield lrg armaduras escudos normal"
+      "search": "large shield lrg armor shields normal"
     },
     {
       "id": 11,
@@ -1708,8 +1708,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1730,7 +1730,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ring mail rng armaduras armaduras corporales normal"
+      "search": "ring mail rng armor body armor normal"
     },
     {
       "id": 45,
@@ -1740,8 +1740,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1762,7 +1762,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spiked shield spk armaduras escudos normal"
+      "search": "spiked shield spk armor shields normal"
     },
     {
       "id": 58,
@@ -1772,8 +1772,8 @@ window.D2_BASES = {
       "level": 11,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -1794,7 +1794,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "voulge vou armas armas de asta normal"
+      "search": "voulge vou weapons polearms normal"
     },
     {
       "id": 6,
@@ -1804,8 +1804,8 @@ window.D2_BASES = {
       "level": 12,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1826,7 +1826,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "broad axe bax armas hachas normal"
+      "search": "broad axe bax weapons axes normal"
     },
     {
       "id": 71,
@@ -1836,8 +1836,8 @@ window.D2_BASES = {
       "level": 12,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1858,7 +1858,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "composite bow cbw armas arcos normal"
+      "search": "composite bow cbw weapons bows normal"
     },
     {
       "id": 65,
@@ -1868,8 +1868,8 @@ window.D2_BASES = {
       "level": 12,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -1890,7 +1890,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gnarled staff cst armas bastones normal"
+      "search": "gnarled staff cst weapons staves normal"
     },
     {
       "id": 178,
@@ -1900,8 +1900,8 @@ window.D2_BASES = {
       "level": 12,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -1922,7 +1922,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hatchet hands axf armas garras de asesina normal"
+      "search": "hatchet hands axf weapons assassin claws normal"
     },
     {
       "id": 11,
@@ -1932,8 +1932,8 @@ window.D2_BASES = {
       "level": 12,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -1954,7 +1954,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "yew wand ywn armas varitas normal"
+      "search": "yew wand ywn weapons wands normal"
     },
     {
       "id": 45,
@@ -1964,8 +1964,8 @@ window.D2_BASES = {
       "level": 13,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -1986,7 +1986,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "balanced knife bkf armas arrojadizas normal"
+      "search": "balanced knife bkf weapons throwing normal"
     },
     {
       "id": 2,
@@ -1996,8 +1996,8 @@ window.D2_BASES = {
       "level": 13,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2018,7 +2018,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "double axe 2ax armas hachas normal"
+      "search": "double axe 2ax weapons axes normal"
     },
     {
       "id": 20,
@@ -2028,8 +2028,8 @@ window.D2_BASES = {
       "level": 13,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2050,7 +2050,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "morning star mst armas mazas y martillos normal"
+      "search": "morning star mst weapons maces & hammers normal"
     },
     {
       "id": 12,
@@ -2060,8 +2060,8 @@ window.D2_BASES = {
       "level": 13,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2082,7 +2082,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scale mail scl armaduras armaduras corporales normal"
+      "search": "scale mail scl armor body armor normal"
     },
     {
       "id": 30,
@@ -2092,8 +2092,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2114,7 +2114,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "broad sword bsd armas espadas normal"
+      "search": "broad sword bsd weapons swords normal"
     },
     {
       "id": 179,
@@ -2124,8 +2124,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2146,7 +2146,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cestus ces armas garras de asesina normal"
+      "search": "cestus ces weapons assassin claws normal"
     },
     {
       "id": 13,
@@ -2156,8 +2156,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2178,7 +2178,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "chain mail chn armaduras armaduras corporales normal"
+      "search": "chain mail chn armor body armor normal"
     },
     {
       "id": 77,
@@ -2188,8 +2188,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2210,7 +2210,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crossbow mxb armas ballestas normal"
+      "search": "crossbow mxb weapons crossbows normal"
     },
     {
       "id": 3,
@@ -2220,8 +2220,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -2242,7 +2242,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "full helm fhl armaduras cascos normal"
+      "search": "full helm fhl armor helms normal"
     },
     {
       "id": 16,
@@ -2252,8 +2252,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2274,7 +2274,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grand scepter gsc armas cetros normal"
+      "search": "grand scepter gsc weapons scepters normal"
     },
     {
       "id": 25,
@@ -2284,8 +2284,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2306,7 +2306,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "kite shield kit armaduras escudos normal"
+      "search": "kite shield kit armor shields normal"
     },
     {
       "id": 59,
@@ -2316,8 +2316,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -2338,7 +2338,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scythe scy armas armas de asta normal"
+      "search": "scythe scy weapons polearms normal"
     },
     {
       "id": 49,
@@ -2348,8 +2348,8 @@ window.D2_BASES = {
       "level": 15,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2370,7 +2370,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short spear ssp armas jabalinas normal"
+      "search": "short spear ssp weapons javelins normal"
     },
     {
       "id": 46,
@@ -2380,8 +2380,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2402,7 +2402,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "balanced axe bal armas arrojadizas normal"
+      "search": "balanced axe bal weapons throwing normal"
     },
     {
       "id": 54,
@@ -2412,8 +2412,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -2434,7 +2434,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "brandistock brn armas lanzas normal"
+      "search": "brandistock brn weapons spears normal"
     },
     {
       "id": 7,
@@ -2444,8 +2444,8 @@ window.D2_BASES = {
       "level": 17,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2466,7 +2466,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle axe btx armas hachas normal"
+      "search": "battle axe btx weapons axes normal"
     },
     {
       "id": 66,
@@ -2476,8 +2476,8 @@ window.D2_BASES = {
       "level": 17,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -2498,7 +2498,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle staff bst armas bastones normal"
+      "search": "battle staff bst weapons staves normal"
     },
     {
       "id": 34,
@@ -2508,8 +2508,8 @@ window.D2_BASES = {
       "level": 17,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -2530,7 +2530,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "claymore clm armas espadas normal"
+      "search": "claymore clm weapons swords normal"
     },
     {
       "id": 41,
@@ -2540,8 +2540,8 @@ window.D2_BASES = {
       "level": 17,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2562,7 +2562,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "kriss kri armas dagas normal"
+      "search": "kriss kri weapons daggers normal"
     },
     {
       "id": 12,
@@ -2572,8 +2572,8 @@ window.D2_BASES = {
       "level": 18,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -2594,7 +2594,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bone wand bwn armas varitas normal"
+      "search": "bone wand bwn weapons wands normal"
     },
     {
       "id": 14,
@@ -2604,8 +2604,8 @@ window.D2_BASES = {
       "level": 18,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2626,7 +2626,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "breast plate brs armaduras armaduras corporales normal"
+      "search": "breast plate brs armor body armor normal"
     },
     {
       "id": 180,
@@ -2636,8 +2636,8 @@ window.D2_BASES = {
       "level": 18,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2658,7 +2658,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "claws clw armas garras de asesina normal"
+      "search": "claws clw weapons assassin claws normal"
     },
     {
       "id": 72,
@@ -2668,8 +2668,8 @@ window.D2_BASES = {
       "level": 18,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2690,7 +2690,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short battle bow sbb armas arcos normal"
+      "search": "short battle bow sbb weapons bows normal"
     },
     {
       "id": 44,
@@ -2700,8 +2700,8 @@ window.D2_BASES = {
       "level": 19,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2722,7 +2722,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bone shield bsh armaduras escudos normal"
+      "search": "bone shield bsh armor shields normal"
     },
     {
       "id": 21,
@@ -2732,8 +2732,8 @@ window.D2_BASES = {
       "level": 19,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2754,7 +2754,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "flail fla armas mazas y martillos normal"
+      "search": "flail fla weapons maces & hammers normal"
     },
     {
       "id": 6,
@@ -2764,8 +2764,8 @@ window.D2_BASES = {
       "level": 19,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -2786,7 +2786,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mask msk armaduras cascos normal"
+      "search": "mask msk armor helms normal"
     },
     {
       "id": 3,
@@ -2796,8 +2796,8 @@ window.D2_BASES = {
       "level": 19,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2818,7 +2818,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "military pick mpi armas hachas normal"
+      "search": "military pick mpi weapons axes normal"
     },
     {
       "id": 31,
@@ -2828,8 +2828,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2850,7 +2850,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "long sword lsd armas espadas normal"
+      "search": "long sword lsd weapons swords normal"
     },
     {
       "id": 55,
@@ -2860,8 +2860,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -2882,7 +2882,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spetum spt armas lanzas normal"
+      "search": "spetum spt weapons spears normal"
     },
     {
       "id": 15,
@@ -2892,8 +2892,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2914,7 +2914,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "splint mail spl armaduras armaduras corporales normal"
+      "search": "splint mail spl armor body armor normal"
     },
     {
       "id": 181,
@@ -2924,8 +2924,8 @@ window.D2_BASES = {
       "level": 21,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2946,7 +2946,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blade talons btl armas garras de asesina normal"
+      "search": "blade talons btl weapons assassin claws normal"
     },
     {
       "id": 35,
@@ -2956,8 +2956,8 @@ window.D2_BASES = {
       "level": 21,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -2978,7 +2978,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "giant sword gis armas espadas normal"
+      "search": "giant sword gis weapons swords normal"
     },
     {
       "id": 23,
@@ -2988,8 +2988,8 @@ window.D2_BASES = {
       "level": 21,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3010,7 +3010,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "maul mau armas mazas y martillos normal"
+      "search": "maul mau weapons maces & hammers normal"
     },
     {
       "id": 60,
@@ -3020,8 +3020,8 @@ window.D2_BASES = {
       "level": 21,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3042,7 +3042,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "poleaxe pax armas armas de asta normal"
+      "search": "poleaxe pax weapons polearms normal"
     },
     {
       "id": 17,
@@ -3052,8 +3052,8 @@ window.D2_BASES = {
       "level": 21,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3074,7 +3074,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war scepter wsp armas cetros normal"
+      "search": "war scepter wsp weapons scepters normal"
     },
     {
       "id": 43,
@@ -3084,8 +3084,8 @@ window.D2_BASES = {
       "level": 22,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3106,7 +3106,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bone helm bhm armaduras cascos normal"
+      "search": "bone helm bhm armor helms normal"
     },
     {
       "id": 26,
@@ -3116,8 +3116,8 @@ window.D2_BASES = {
       "level": 22,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3138,7 +3138,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tower shield tow armaduras escudos normal"
+      "search": "tower shield tow armor shields normal"
     },
     {
       "id": 42,
@@ -3148,8 +3148,8 @@ window.D2_BASES = {
       "level": 23,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -3170,7 +3170,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blade bld armas dagas normal"
+      "search": "blade bld weapons daggers normal"
     },
     {
       "id": 50,
@@ -3180,8 +3180,8 @@ window.D2_BASES = {
       "level": 23,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -3202,7 +3202,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "glaive glv armas jabalinas normal"
+      "search": "glaive glv weapons javelins normal"
     },
     {
       "id": 8,
@@ -3212,8 +3212,8 @@ window.D2_BASES = {
       "level": 23,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3234,7 +3234,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great axe gax armas hachas normal"
+      "search": "great axe gax weapons axes normal"
     },
     {
       "id": 4,
@@ -3244,8 +3244,8 @@ window.D2_BASES = {
       "level": 23,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3266,7 +3266,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great helm ghm armaduras cascos normal"
+      "search": "great helm ghm armor helms normal"
     },
     {
       "id": 73,
@@ -3276,8 +3276,8 @@ window.D2_BASES = {
       "level": 23,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3298,7 +3298,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "long battle bow lbb armas arcos normal"
+      "search": "long battle bow lbb weapons bows normal"
     },
     {
       "id": 36,
@@ -3308,8 +3308,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -3330,7 +3330,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bastard sword bsw armas espadas normal"
+      "search": "bastard sword bsw weapons swords normal"
     },
     {
       "id": 78,
@@ -3340,8 +3340,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3362,7 +3362,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "heavy crossbow hxb armas ballestas normal"
+      "search": "heavy crossbow hxb weapons crossbows normal"
     },
     {
       "id": 56,
@@ -3372,8 +3372,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3394,7 +3394,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "pike pik armas lanzas normal"
+      "search": "pike pik weapons spears normal"
     },
     {
       "id": 16,
@@ -3404,8 +3404,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3426,7 +3426,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "plate mail plt armaduras armaduras corporales normal"
+      "search": "plate mail plt armor body armor normal"
     },
     {
       "id": 182,
@@ -3436,8 +3436,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -3458,7 +3458,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scissors katar skr armas garras de asesina normal"
+      "search": "scissors katar skr weapons assassin claws normal"
     },
     {
       "id": 67,
@@ -3468,8 +3468,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3490,7 +3490,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war staff wst armas bastones normal"
+      "search": "war staff wst weapons staves normal"
     },
     {
       "id": 4,
@@ -3500,8 +3500,8 @@ window.D2_BASES = {
       "level": 25,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3522,7 +3522,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war axe wax armas hachas normal"
+      "search": "war axe wax weapons axes normal"
     },
     {
       "id": 22,
@@ -3532,8 +3532,8 @@ window.D2_BASES = {
       "level": 25,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3554,7 +3554,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war hammer whm armas mazas y martillos normal"
+      "search": "war hammer whm weapons maces & hammers normal"
     },
     {
       "id": 13,
@@ -3564,8 +3564,8 @@ window.D2_BASES = {
       "level": 26,
       "requiredLevel": 0,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -3586,7 +3586,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grim wand gwn armas varitas normal"
+      "search": "grim wand gwn weapons wands normal"
     },
     {
       "id": 37,
@@ -3596,8 +3596,8 @@ window.D2_BASES = {
       "level": 27,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3618,7 +3618,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "flamberge flb armas espadas normal"
+      "search": "flamberge flb weapons swords normal"
     },
     {
       "id": 9,
@@ -3628,8 +3628,8 @@ window.D2_BASES = {
       "level": 27,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3650,7 +3650,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "giant axe gix armas hachas normal"
+      "search": "giant axe gix weapons axes normal"
     },
     {
       "id": 74,
@@ -3660,8 +3660,8 @@ window.D2_BASES = {
       "level": 27,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3682,7 +3682,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short war bow swb armas arcos normal"
+      "search": "short war bow swb weapons bows normal"
     },
     {
       "id": 32,
@@ -3692,8 +3692,8 @@ window.D2_BASES = {
       "level": 27,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -3714,7 +3714,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war sword wsd armas espadas normal"
+      "search": "war sword wsd weapons swords normal"
     },
     {
       "id": 17,
@@ -3724,8 +3724,8 @@ window.D2_BASES = {
       "level": 28,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3746,7 +3746,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "field plate fld armaduras armaduras corporales normal"
+      "search": "field plate fld armor body armor normal"
     },
     {
       "id": 5,
@@ -3756,8 +3756,8 @@ window.D2_BASES = {
       "level": 29,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3778,7 +3778,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crown crn armaduras cascos normal"
+      "search": "crown crn armor helms normal"
     },
     {
       "id": 61,
@@ -3788,8 +3788,8 @@ window.D2_BASES = {
       "level": 29,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3810,7 +3810,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "halberd hal armas armas de asta normal"
+      "search": "halberd hal weapons polearms normal"
     },
     {
       "id": 51,
@@ -3820,8 +3820,8 @@ window.D2_BASES = {
       "level": 29,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -3842,7 +3842,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "throwing spear tsp armas jabalinas normal"
+      "search": "throwing spear tsp weapons javelins normal"
     },
     {
       "id": 27,
@@ -3852,8 +3852,8 @@ window.D2_BASES = {
       "level": 30,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3874,7 +3874,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gothic shield gts armaduras escudos normal"
+      "search": "gothic shield gts armor shields normal"
     },
     {
       "id": 75,
@@ -3884,8 +3884,8 @@ window.D2_BASES = {
       "level": 31,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -3906,7 +3906,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "long war bow lwb armas arcos normal"
+      "search": "long war bow lwb weapons bows normal"
     },
     {
       "id": 18,
@@ -3916,8 +3916,8 @@ window.D2_BASES = {
       "level": 32,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3938,7 +3938,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gothic plate gth armaduras armaduras corporales normal"
+      "search": "gothic plate gth armor body armor normal"
     },
     {
       "id": 24,
@@ -3948,8 +3948,8 @@ window.D2_BASES = {
       "level": 32,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3970,7 +3970,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great maul gma armas mazas y martillos normal"
+      "search": "great maul gma weapons maces & hammers normal"
     },
     {
       "id": 38,
@@ -3980,8 +3980,8 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -4002,7 +4002,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great sword gsd armas espadas normal"
+      "search": "great sword gsd weapons swords normal"
     },
     {
       "id": 79,
@@ -4012,8 +4012,8 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 0,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -4034,7 +4034,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "repeating crossbow rxb armas ballestas normal"
+      "search": "repeating crossbow rxb weapons crossbows normal"
     },
     {
       "id": 62,
@@ -4044,8 +4044,8 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 0,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -4066,7 +4066,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war scythe wsc armas armas de asta normal"
+      "search": "war scythe wsc weapons polearms normal"
     },
     {
       "id": 21,
@@ -4076,8 +4076,8 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -4098,7 +4098,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "light plate ltp armaduras armaduras corporales normal"
+      "search": "light plate ltp armor body armor normal"
     },
     {
       "id": 19,
@@ -4108,8 +4108,8 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -4130,7 +4130,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "full plate mail ful armaduras armaduras corporales normal"
+      "search": "full plate mail ful armor body armor normal"
     },
     {
       "id": 20,
@@ -4140,8 +4140,8 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 0,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -4162,7 +4162,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ancient armor aar armaduras armaduras corporales normal"
+      "search": "ancient armor aar armor body armor normal"
     },
     {
       "id": 98,
@@ -4172,8 +4172,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 3,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4194,7 +4194,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "jawbone cap ba1 armaduras cascos de barbaro normal"
+      "search": "jawbone cap ba1 armor barbarian helms normal"
     },
     {
       "id": 203,
@@ -4204,8 +4204,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 3,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4226,7 +4226,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "old book wa1 armaduras grimorios normal"
+      "search": "old book wa1 armor grimoires normal"
     },
     {
       "id": 108,
@@ -4236,8 +4236,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 3,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4258,7 +4258,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "preserved head ne1 armaduras cabezas de necromante normal"
+      "search": "preserved head ne1 armor necromancer heads normal"
     },
     {
       "id": 103,
@@ -4268,8 +4268,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 3,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4290,7 +4290,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "targe pa1 armaduras escudos de paladin normal"
+      "search": "targe pa1 armor paladin shields normal"
     },
     {
       "id": 93,
@@ -4300,8 +4300,8 @@ window.D2_BASES = {
       "level": 4,
       "requiredLevel": 3,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4322,7 +4322,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wolf head dr1 armaduras pelts de druida normal"
+      "search": "wolf head dr1 armor druid pelts normal"
     },
     {
       "id": 99,
@@ -4332,8 +4332,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 6,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4354,7 +4354,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fanged helm ba2 armaduras cascos de barbaro normal"
+      "search": "fanged helm ba2 armor barbarian helms normal"
     },
     {
       "id": 94,
@@ -4364,8 +4364,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 6,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4386,7 +4386,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hawk helm dr2 armaduras pelts de druida normal"
+      "search": "hawk helm dr2 armor druid pelts normal"
     },
     {
       "id": 104,
@@ -4396,8 +4396,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 6,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4418,7 +4418,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rondache pa2 armaduras escudos de paladin normal"
+      "search": "rondache pa2 armor paladin shields normal"
     },
     {
       "id": 84,
@@ -4428,8 +4428,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 6,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 1,
@@ -4450,7 +4450,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "strangling gas potion gpl armas arrojadizas normal"
+      "search": "strangling gas potion gpl weapons throwing normal"
     },
     {
       "id": 204,
@@ -4460,8 +4460,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 6,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4482,7 +4482,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tome wa2 armaduras grimorios normal"
+      "search": "tome wa2 armor grimoires normal"
     },
     {
       "id": 109,
@@ -4492,8 +4492,8 @@ window.D2_BASES = {
       "level": 8,
       "requiredLevel": 6,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4514,7 +4514,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "zombie head ne2 armaduras cabezas de necromante normal"
+      "search": "zombie head ne2 armor necromancer heads normal"
     },
     {
       "id": 279,
@@ -4524,8 +4524,8 @@ window.D2_BASES = {
       "level": 12,
       "requiredLevel": 8,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -4546,7 +4546,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "smoked sphere ob3 armas orbes de hechicera normal"
+      "search": "smoked sphere ob3 weapons sorceress orbs normal"
     },
     {
       "id": 95,
@@ -4556,8 +4556,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 12,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4578,7 +4578,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "antlers dr3 armaduras pelts de druida normal"
+      "search": "antlers dr3 armor druid pelts normal"
     },
     {
       "id": 205,
@@ -4588,8 +4588,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 12,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4610,7 +4610,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "codex wa3 armaduras grimorios normal"
+      "search": "codex wa3 armor grimoires normal"
     },
     {
       "id": 83,
@@ -4620,8 +4620,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 12,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 1,
@@ -4642,7 +4642,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "exploding potion opm armas arrojadizas normal"
+      "search": "exploding potion opm weapons throwing normal"
     },
     {
       "id": 105,
@@ -4652,8 +4652,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 12,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -4674,7 +4674,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "heraldic shield pa3 armaduras escudos de paladin normal"
+      "search": "heraldic shield pa3 armor paladin shields normal"
     },
     {
       "id": 100,
@@ -4684,8 +4684,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 12,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4706,7 +4706,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "horned helm ba3 armaduras cascos de barbaro normal"
+      "search": "horned helm ba3 armor barbarian helms normal"
     },
     {
       "id": 110,
@@ -4716,8 +4716,8 @@ window.D2_BASES = {
       "level": 16,
       "requiredLevel": 12,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4738,7 +4738,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "unraveller head ne3 armaduras cabezas de necromante normal"
+      "search": "unraveller head ne3 armor necromancer heads normal"
     },
     {
       "id": 280,
@@ -4748,8 +4748,8 @@ window.D2_BASES = {
       "level": 17,
       "requiredLevel": 13,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -4770,7 +4770,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "clasped orb ob4 armas orbes de hechicera normal"
+      "search": "clasped orb ob4 weapons sorceress orbs normal"
     },
     {
       "id": 284,
@@ -4780,8 +4780,8 @@ window.D2_BASES = {
       "level": 18,
       "requiredLevel": 14,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -4802,7 +4802,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "maiden spear am3 armas armas de amazona normal"
+      "search": "maiden spear am3 weapons amazon weapons normal"
     },
     {
       "id": 282,
@@ -4812,8 +4812,8 @@ window.D2_BASES = {
       "level": 18,
       "requiredLevel": 14,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -4834,7 +4834,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "stag bow am1 armas armas de amazona normal"
+      "search": "stag bow am1 weapons amazon weapons normal"
     },
     {
       "id": 106,
@@ -4844,8 +4844,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 15,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -4866,7 +4866,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "aerin shield pa4 armaduras escudos de paladin normal"
+      "search": "aerin shield pa4 armor paladin shields normal"
     },
     {
       "id": 101,
@@ -4876,8 +4876,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 15,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4898,7 +4898,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "assault helmet ba4 armaduras cascos de barbaro normal"
+      "search": "assault helmet ba4 armor barbarian helms normal"
     },
     {
       "id": 206,
@@ -4908,8 +4908,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 15,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4930,7 +4930,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "compendium wa4 armaduras grimorios normal"
+      "search": "compendium wa4 armor grimoires normal"
     },
     {
       "id": 96,
@@ -4940,8 +4940,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 15,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4962,7 +4962,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "falcon mask dr4 armaduras pelts de druida normal"
+      "search": "falcon mask dr4 armor druid pelts normal"
     },
     {
       "id": 111,
@@ -4972,8 +4972,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 15,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4994,7 +4994,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gargoyle head ne4 armaduras cabezas de necromante normal"
+      "search": "gargoyle head ne4 armor necromancer heads normal"
     },
     {
       "id": 82,
@@ -5004,8 +5004,8 @@ window.D2_BASES = {
       "level": 20,
       "requiredLevel": 16,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 1,
@@ -5026,7 +5026,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "choking gas potion gpm armas arrojadizas normal"
+      "search": "choking gas potion gpm weapons throwing normal"
     },
     {
       "id": 113,
@@ -5036,8 +5036,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 16,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Diademas y circlets",
+      "family": "Armor",
+      "subtype": "Circlets",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -5058,7 +5058,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "circlet ci0 armaduras diademas y circlets normal"
+      "search": "circlet ci0 armor circlets normal"
     },
     {
       "id": 286,
@@ -5068,8 +5068,8 @@ window.D2_BASES = {
       "level": 23,
       "requiredLevel": 17,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -5090,7 +5090,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "maiden javelin am5 armas armas de amazona normal"
+      "search": "maiden javelin am5 weapons amazon weapons normal"
     },
     {
       "id": 102,
@@ -5100,8 +5100,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 18,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -5122,7 +5122,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "avenger guard ba5 armaduras cascos de barbaro normal"
+      "search": "avenger guard ba5 armor barbarian helms normal"
     },
     {
       "id": 107,
@@ -5132,8 +5132,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 18,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -5154,7 +5154,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crown shield pa5 armaduras escudos de paladin normal"
+      "search": "crown shield pa5 armor paladin shields normal"
     },
     {
       "id": 112,
@@ -5164,8 +5164,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 18,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -5186,7 +5186,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "demon head ne5 armaduras cabezas de necromante normal"
+      "search": "demon head ne5 armor necromancer heads normal"
     },
     {
       "id": 207,
@@ -5196,8 +5196,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 18,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -5218,7 +5218,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grimoire wa5 armaduras grimorios normal"
+      "search": "grimoire wa5 armor grimoires normal"
     },
     {
       "id": 281,
@@ -5228,8 +5228,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 18,
       "rarity": 5,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -5250,7 +5250,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "jared's stone ob5 armas orbes de hechicera normal"
+      "search": "jared's stone ob5 weapons sorceress orbs normal"
     },
     {
       "id": 97,
@@ -5260,8 +5260,8 @@ window.D2_BASES = {
       "level": 24,
       "requiredLevel": 18,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -5282,7 +5282,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spirit mask dr5 armaduras pelts de druida normal"
+      "search": "spirit mask dr5 armor druid pelts normal"
     },
     {
       "id": 107,
@@ -5292,9 +5292,9 @@ window.D2_BASES = {
       "level": 30,
       "requiredLevel": 18,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invclb.png",
@@ -5314,7 +5314,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cudgel 9cl armas mazas y martillos excepcional"
+      "search": "cudgel 9cl weapons maces & hammers exceptional"
     },
     {
       "id": 161,
@@ -5324,9 +5324,9 @@ window.D2_BASES = {
       "level": 30,
       "requiredLevel": 18,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invsbw.png",
@@ -5346,7 +5346,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "edge bow 8sb armas arcos excepcional"
+      "search": "edge bow 8sb weapons bows exceptional"
     },
     {
       "id": 118,
@@ -5356,9 +5356,9 @@ window.D2_BASES = {
       "level": 30,
       "requiredLevel": 18,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invssd.png",
@@ -5378,7 +5378,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gladius 9ss armas espadas excepcional"
+      "search": "gladius 9ss weapons swords exceptional"
     },
     {
       "id": 156,
@@ -5388,9 +5388,9 @@ window.D2_BASES = {
       "level": 30,
       "requiredLevel": 18,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Staves",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invsst.png",
@@ -5410,7 +5410,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "jo staff 8ss armas bastones excepcional"
+      "search": "jo staff 8ss weapons staves exceptional"
     },
     {
       "id": 140,
@@ -5420,9 +5420,9 @@ window.D2_BASES = {
       "level": 30,
       "requiredLevel": 18,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Javelins",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invjav.png",
@@ -5442,7 +5442,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war javelin 9ja armas jabalinas excepcional"
+      "search": "war javelin 9ja weapons javelins exceptional"
     },
     {
       "id": 136,
@@ -5452,9 +5452,9 @@ window.D2_BASES = {
       "level": 31,
       "requiredLevel": 19,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Throwing",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invtkn.png",
@@ -5474,7 +5474,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle dart 9tk armas arrojadizas excepcional"
+      "search": "battle dart 9tk weapons throwing exceptional"
     },
     {
       "id": 103,
@@ -5484,9 +5484,9 @@ window.D2_BASES = {
       "level": 31,
       "requiredLevel": 19,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Wands",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invwnd.png",
@@ -5506,7 +5506,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "burnt wand 9wn armas varitas excepcional"
+      "search": "burnt wand 9wn weapons wands exceptional"
     },
     {
       "id": 93,
@@ -5516,9 +5516,9 @@ window.D2_BASES = {
       "level": 31,
       "requiredLevel": 19,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invhax.png",
@@ -5538,7 +5538,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hatchet 9ha armas hachas excepcional"
+      "search": "hatchet 9ha weapons axes exceptional"
     },
     {
       "id": 132,
@@ -5548,9 +5548,9 @@ window.D2_BASES = {
       "level": 31,
       "requiredLevel": 19,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Daggers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invdgr.png",
@@ -5570,7 +5570,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "poignard 9dg armas dagas excepcional"
+      "search": "poignard 9dg weapons daggers exceptional"
     },
     {
       "id": 108,
@@ -5580,9 +5580,9 @@ window.D2_BASES = {
       "level": 31,
       "requiredLevel": 19,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Cetros",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Scepters",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invscp.png",
@@ -5602,7 +5602,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rune scepter 9sc armas cetros excepcional"
+      "search": "rune scepter 9sc weapons scepters exceptional"
     },
     {
       "id": 285,
@@ -5612,8 +5612,8 @@ window.D2_BASES = {
       "level": 27,
       "requiredLevel": 20,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -5634,7 +5634,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "maiden pike am4 armas armas de amazona normal"
+      "search": "maiden pike am4 weapons amazon weapons normal"
     },
     {
       "id": 283,
@@ -5644,8 +5644,8 @@ window.D2_BASES = {
       "level": 27,
       "requiredLevel": 20,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -5666,7 +5666,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "reflex bow am2 armas armas de amazona normal"
+      "search": "reflex bow am2 weapons amazon weapons normal"
     },
     {
       "id": 81,
@@ -5676,8 +5676,8 @@ window.D2_BASES = {
       "level": 28,
       "requiredLevel": 20,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 1,
@@ -5698,7 +5698,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "oil potion ops armas arrojadizas normal"
+      "search": "oil potion ops weapons throwing normal"
     },
     {
       "id": 111,
@@ -5708,9 +5708,9 @@ window.D2_BASES = {
       "level": 32,
       "requiredLevel": 20,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invspc.png",
@@ -5730,7 +5730,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "barbed club 9sp armas mazas y martillos excepcional"
+      "search": "barbed club 9sp weapons maces & hammers exceptional"
     },
     {
       "id": 183,
@@ -5740,9 +5740,9 @@ window.D2_BASES = {
       "level": 28,
       "requiredLevel": 21,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invktr.png",
@@ -5762,7 +5762,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "quhab 9ar armas garras de asesina excepcional"
+      "search": "quhab 9ar weapons assassin claws exceptional"
     },
     {
       "id": 150,
@@ -5772,9 +5772,9 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 21,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invbar.png",
@@ -5794,7 +5794,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "lochaber axe 9b7 armas armas de asta excepcional"
+      "search": "lochaber axe 9b7 weapons polearms exceptional"
     },
     {
       "id": 162,
@@ -5804,9 +5804,9 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 21,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invhbw.png",
@@ -5826,7 +5826,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "razor bow 8hb armas arcos excepcional"
+      "search": "razor bow 8hb weapons bows exceptional"
     },
     {
       "id": 145,
@@ -5836,9 +5836,9 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 21,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Spears",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invspr.png",
@@ -5858,7 +5858,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war spear 9sr armas lanzas excepcional"
+      "search": "war spear 9sr weapons spears exceptional"
     },
     {
       "id": 169,
@@ -5868,9 +5868,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Crossbows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invlxb.png",
@@ -5890,7 +5890,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "arbalest 8lx armas ballestas excepcional"
+      "search": "arbalest 8lx weapons crossbows exceptional"
     },
     {
       "id": 94,
@@ -5900,9 +5900,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invaxe.png",
@@ -5922,7 +5922,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cleaver 9ax armas hachas excepcional"
+      "search": "cleaver 9ax weapons axes exceptional"
     },
     {
       "id": 68,
@@ -5932,9 +5932,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbuc.png",
@@ -5954,7 +5954,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "defender xuc armaduras escudos excepcional"
+      "search": "defender xuc armor shields exceptional"
     },
     {
       "id": 137,
@@ -5964,9 +5964,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Throwing",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invtax.png",
@@ -5986,7 +5986,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "francisca 9ta armas arrojadizas excepcional"
+      "search": "francisca 9ta weapons throwing exceptional"
     },
     {
       "id": 53,
@@ -5996,9 +5996,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invqlt.png",
@@ -6018,7 +6018,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ghost armor xui armaduras armaduras corporales excepcional"
+      "search": "ghost armor xui armor body armor exceptional"
     },
     {
       "id": 98,
@@ -6028,9 +6028,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invlax.png",
@@ -6050,7 +6050,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "military axe 9la armas hachas excepcional"
+      "search": "military axe 9la weapons axes exceptional"
     },
     {
       "id": 46,
@@ -6060,9 +6060,9 @@ window.D2_BASES = {
       "level": 34,
       "requiredLevel": 22,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invcap.png",
@@ -6082,7 +6082,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war hat xap armaduras cascos excepcional"
+      "search": "war hat xap armor helms exceptional"
     },
     {
       "id": 163,
@@ -6092,9 +6092,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 23,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invlbw.png",
@@ -6114,7 +6114,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cedar bow 8lb armas arcos excepcional"
+      "search": "cedar bow 8lb weapons bows exceptional"
     },
     {
       "id": 112,
@@ -6124,9 +6124,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 23,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invmac.png",
@@ -6146,7 +6146,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "flanged mace 9ma armas mazas y martillos excepcional"
+      "search": "flanged mace 9ma weapons maces & hammers exceptional"
     },
     {
       "id": 153,
@@ -6156,9 +6156,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 23,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invpax.png",
@@ -6178,7 +6178,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "partizan 9pa armas armas de asta excepcional"
+      "search": "partizan 9pa weapons polearms exceptional"
     },
     {
       "id": 157,
@@ -6188,9 +6188,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 23,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Staves",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invlst.png",
@@ -6210,7 +6210,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "quarterstaff 8ls armas bastones excepcional"
+      "search": "quarterstaff 8ls weapons staves exceptional"
     },
     {
       "id": 120,
@@ -6220,9 +6220,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 23,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invsbr.png",
@@ -6242,7 +6242,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "shamshir 9sb armas espadas excepcional"
+      "search": "shamshir 9sb weapons swords exceptional"
     },
     {
       "id": 287,
@@ -6252,9 +6252,9 @@ window.D2_BASES = {
       "level": 32,
       "requiredLevel": 24,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invob1.png",
@@ -6274,7 +6274,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "glowing orb ob6 armas orbes de hechicera excepcional"
+      "search": "glowing orb ob6 weapons sorceress orbs exceptional"
     },
     {
       "id": 80,
@@ -6284,8 +6284,8 @@ window.D2_BASES = {
       "level": 32,
       "requiredLevel": 24,
       "rarity": null,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Normal",
       "width": 1,
       "height": 1,
@@ -6306,7 +6306,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rancid gas potion gps armas arrojadizas normal"
+      "search": "rancid gas potion gps weapons throwing normal"
     },
     {
       "id": 184,
@@ -6316,9 +6316,9 @@ window.D2_BASES = {
       "level": 32,
       "requiredLevel": 24,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invktr.png",
@@ -6338,7 +6338,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wrist spike 9wb armas garras de asesina excepcional"
+      "search": "wrist spike 9wb weapons assassin claws exceptional"
     },
     {
       "id": 208,
@@ -6348,9 +6348,9 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 24,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Grimoires",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbbb.png",
@@ -6370,7 +6370,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "burnt text wa6 armaduras grimorios excepcional"
+      "search": "burnt text wa6 armor grimoires exceptional"
     },
     {
       "id": 178,
@@ -6380,9 +6380,9 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 24,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invne1.png",
@@ -6402,7 +6402,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mummified trophy ne6 armaduras cabezas de necromante excepcional"
+      "search": "mummified trophy ne6 armor necromancer heads exceptional"
     },
     {
       "id": 146,
@@ -6412,9 +6412,9 @@ window.D2_BASES = {
       "level": 36,
       "requiredLevel": 24,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Spears",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invtri.png",
@@ -6434,7 +6434,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fuscina 9tr armas lanzas excepcional"
+      "search": "fuscina 9tr weapons spears exceptional"
     },
     {
       "id": 133,
@@ -6444,9 +6444,9 @@ window.D2_BASES = {
       "level": 36,
       "requiredLevel": 24,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Daggers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invdir.png",
@@ -6466,7 +6466,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rondel 9di armas dagas excepcional"
+      "search": "rondel 9di weapons daggers exceptional"
     },
     {
       "id": 54,
@@ -6476,9 +6476,9 @@ window.D2_BASES = {
       "level": 36,
       "requiredLevel": 24,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invlea.png",
@@ -6498,7 +6498,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "serpentskin armor xea armaduras armaduras corporales excepcional"
+      "search": "serpentskin armor xea armor body armor exceptional"
     },
     {
       "id": 168,
@@ -6508,9 +6508,9 @@ window.D2_BASES = {
       "level": 33,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invba1.png",
@@ -6530,7 +6530,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "jawbone visor ba6 armaduras cascos de barbaro excepcional"
+      "search": "jawbone visor ba6 armor barbarian helms exceptional"
     },
     {
       "id": 151,
@@ -6540,9 +6540,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invvou.png",
@@ -6562,7 +6562,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bill 9vo armas armas de asta excepcional"
+      "search": "bill 9vo weapons polearms exceptional"
     },
     {
       "id": 55,
@@ -6572,9 +6572,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invhla.png",
@@ -6594,7 +6594,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "demonhide armor xla armaduras armaduras corporales excepcional"
+      "search": "demonhide armor xla armor body armor exceptional"
     },
     {
       "id": 122,
@@ -6604,9 +6604,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invcrs.png",
@@ -6626,7 +6626,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dimensional blade 9cr armas espadas excepcional"
+      "search": "dimensional blade 9cr weapons swords exceptional"
     },
     {
       "id": 126,
@@ -6636,9 +6636,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/inv2hs.png",
@@ -6658,7 +6658,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "espandon 92h armas espadas excepcional"
+      "search": "espandon 92h weapons swords exceptional"
     },
     {
       "id": 141,
@@ -6668,9 +6668,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Javelins",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invpil.png",
@@ -6690,7 +6690,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great pilum 9pi armas jabalinas excepcional"
+      "search": "great pilum 9pi weapons javelins exceptional"
     },
     {
       "id": 69,
@@ -6700,9 +6700,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invsml.png",
@@ -6722,7 +6722,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "round shield xml armaduras escudos excepcional"
+      "search": "round shield xml armor shields exceptional"
     },
     {
       "id": 47,
@@ -6732,9 +6732,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invskp.png",
@@ -6754,7 +6754,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sallet xkp armaduras cascos excepcional"
+      "search": "sallet xkp armor helms exceptional"
     },
     {
       "id": 121,
@@ -6764,9 +6764,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invflc.png",
@@ -6786,7 +6786,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tulwar 9fc armas espadas excepcional"
+      "search": "tulwar 9fc weapons swords exceptional"
     },
     {
       "id": 99,
@@ -6796,9 +6796,9 @@ window.D2_BASES = {
       "level": 38,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invbrx.png",
@@ -6818,7 +6818,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bearded axe 9ba armas hachas excepcional"
+      "search": "bearded axe 9ba weapons axes exceptional"
     },
     {
       "id": 158,
@@ -6828,9 +6828,9 @@ window.D2_BASES = {
       "level": 38,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Staves",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invcst.png",
@@ -6850,7 +6850,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cedar staff 8cs armas bastones excepcional"
+      "search": "cedar staff 8cs weapons staves exceptional"
     },
     {
       "id": 104,
@@ -6860,9 +6860,9 @@ window.D2_BASES = {
       "level": 38,
       "requiredLevel": 25,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Wands",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invywn.png",
@@ -6882,7 +6882,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "petrified wand 9yw armas varitas excepcional"
+      "search": "petrified wand 9yw weapons wands exceptional"
     },
     {
       "id": 164,
@@ -6892,9 +6892,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invcbw.png",
@@ -6914,7 +6914,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "double bow 8cb armas arcos excepcional"
+      "search": "double bow 8cb weapons bows exceptional"
     },
     {
       "id": 113,
@@ -6924,9 +6924,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invmst.png",
@@ -6946,7 +6946,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "jagged star 9mt armas mazas y martillos excepcional"
+      "search": "jagged star 9mt weapons maces & hammers exceptional"
     },
     {
       "id": 95,
@@ -6956,9 +6956,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/inv2ax.png",
@@ -6978,7 +6978,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "twin axe 92a armas hachas excepcional"
+      "search": "twin axe 92a weapons axes exceptional"
     },
     {
       "id": 138,
@@ -6988,9 +6988,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Throwing",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invbkf.png",
@@ -7010,7 +7010,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war dart 9bk armas arrojadizas excepcional"
+      "search": "war dart 9bk weapons throwing exceptional"
     },
     {
       "id": 152,
@@ -7020,9 +7020,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invscy.png",
@@ -7042,7 +7042,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle scythe 9s8 armas armas de asta excepcional"
+      "search": "battle scythe 9s8 weapons polearms exceptional"
     },
     {
       "id": 123,
@@ -7052,9 +7052,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invbsd.png",
@@ -7074,7 +7074,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle sword 9bs armas espadas excepcional"
+      "search": "battle sword 9bs weapons swords exceptional"
     },
     {
       "id": 109,
@@ -7084,9 +7084,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Cetros",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Scepters",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invgsc.png",
@@ -7106,7 +7106,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "holy water sprinkler 9qs armas cetros excepcional"
+      "search": "holy water sprinkler 9qs weapons scepters exceptional"
     },
     {
       "id": 170,
@@ -7116,9 +7116,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Crossbows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invmxb.png",
@@ -7138,7 +7138,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "siege crossbow 8mx armas ballestas excepcional"
+      "search": "siege crossbow 8mx weapons crossbows exceptional"
     },
     {
       "id": 142,
@@ -7148,9 +7148,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Javelins",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invssp.png",
@@ -7170,7 +7170,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "simbilan 9s9 armas jabalinas excepcional"
+      "search": "simbilan 9s9 weapons javelins exceptional"
     },
     {
       "id": 56,
@@ -7180,9 +7180,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invstu.png",
@@ -7202,7 +7202,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "trellised armor xtu armaduras armaduras corporales excepcional"
+      "search": "trellised armor xtu armor body armor exceptional"
     },
     {
       "id": 139,
@@ -7212,9 +7212,9 @@ window.D2_BASES = {
       "level": 41,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Throwing",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invbal.png",
@@ -7234,7 +7234,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hurlbat 9b8 armas arrojadizas excepcional"
+      "search": "hurlbat 9b8 weapons throwing exceptional"
     },
     {
       "id": 147,
@@ -7244,9 +7244,9 @@ window.D2_BASES = {
       "level": 41,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Spears",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invbrn.png",
@@ -7266,7 +7266,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war fork 9br armas lanzas excepcional"
+      "search": "war fork 9br weapons spears exceptional"
     },
     {
       "id": 91,
@@ -7276,9 +7276,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invspk.png",
@@ -7298,7 +7298,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "barbed shield xpk armaduras escudos excepcional"
+      "search": "barbed shield xpk armor shields exceptional"
     },
     {
       "id": 48,
@@ -7308,9 +7308,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invhlm.png",
@@ -7330,7 +7330,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "casque xlm armaduras cascos excepcional"
+      "search": "casque xlm armor helms exceptional"
     },
     {
       "id": 134,
@@ -7340,9 +7340,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Daggers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invkrs.png",
@@ -7362,7 +7362,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cinquedeas 9kr armas dagas excepcional"
+      "search": "cinquedeas 9kr weapons daggers exceptional"
     },
     {
       "id": 127,
@@ -7372,9 +7372,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invclm.png",
@@ -7394,7 +7394,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dacian falx 9cm armas espadas excepcional"
+      "search": "dacian falx 9cm weapons swords exceptional"
     },
     {
       "id": 159,
@@ -7404,9 +7404,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Staves",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invbst.png",
@@ -7426,7 +7426,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gothic staff 8bs armas bastones excepcional"
+      "search": "gothic staff 8bs weapons staves exceptional"
     },
     {
       "id": 57,
@@ -7436,9 +7436,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invrng.png",
@@ -7458,7 +7458,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "linked mail xng armaduras armaduras corporales excepcional"
+      "search": "linked mail xng armor body armor exceptional"
     },
     {
       "id": 70,
@@ -7468,9 +7468,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invlrg.png",
@@ -7490,7 +7490,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scutum xrg armaduras escudos excepcional"
+      "search": "scutum xrg armor shields exceptional"
     },
     {
       "id": 100,
@@ -7500,9 +7500,9 @@ window.D2_BASES = {
       "level": 42,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invbtx.png",
@@ -7522,7 +7522,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tabar 9bt armas hachas excepcional"
+      "search": "tabar 9bt weapons axes exceptional"
     },
     {
       "id": 96,
@@ -7532,9 +7532,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invmpi.png",
@@ -7554,7 +7554,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crowbill 9mp armas hachas excepcional"
+      "search": "crowbill 9mp weapons axes exceptional"
     },
     {
       "id": 119,
@@ -7564,9 +7564,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invscm.png",
@@ -7586,7 +7586,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cutlass 9sm armas espadas excepcional"
+      "search": "cutlass 9sm weapons swords exceptional"
     },
     {
       "id": 114,
@@ -7596,9 +7596,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invfla.png",
@@ -7618,7 +7618,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "knout 9fl armas mazas y martillos excepcional"
+      "search": "knout 9fl weapons maces & hammers exceptional"
     },
     {
       "id": 165,
@@ -7628,9 +7628,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invsbb.png",
@@ -7650,7 +7650,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "short siege bow 8s8 armas arcos excepcional"
+      "search": "short siege bow 8s8 weapons bows exceptional"
     },
     {
       "id": 58,
@@ -7660,9 +7660,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invscl.png",
@@ -7682,7 +7682,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tigulated mail xcl armaduras armaduras corporales excepcional"
+      "search": "tigulated mail xcl armor body armor exceptional"
     },
     {
       "id": 105,
@@ -7692,9 +7692,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 25,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Wands",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invbwn.png",
@@ -7714,7 +7714,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tomb wand 9bw armas varitas excepcional"
+      "search": "tomb wand 9bw weapons wands exceptional"
     },
     {
       "id": 124,
@@ -7724,9 +7724,9 @@ window.D2_BASES = {
       "level": 44,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invlsd.png",
@@ -7746,7 +7746,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rune sword 9ls armas espadas excepcional"
+      "search": "rune sword 9ls weapons swords exceptional"
     },
     {
       "id": 148,
@@ -7756,9 +7756,9 @@ window.D2_BASES = {
       "level": 44,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Spears",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invspt.png",
@@ -7778,7 +7778,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "yari 9st armas lanzas excepcional"
+      "search": "yari 9st weapons spears exceptional"
     },
     {
       "id": 49,
@@ -7788,9 +7788,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invfhl.png",
@@ -7810,7 +7810,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "basinet xhl armaduras cascos excepcional"
+      "search": "basinet xhl armor helms exceptional"
     },
     {
       "id": 110,
@@ -7820,9 +7820,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Cetros",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Scepters",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invwsp.png",
@@ -7842,7 +7842,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "divine scepter 9ws armas cetros excepcional"
+      "search": "divine scepter 9ws weapons scepters exceptional"
     },
     {
       "id": 71,
@@ -7852,9 +7852,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invkit.png",
@@ -7874,7 +7874,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dragon shield xit armaduras escudos excepcional"
+      "search": "dragon shield xit armor shields exceptional"
     },
     {
       "id": 59,
@@ -7884,9 +7884,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invchn.png",
@@ -7906,7 +7906,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mesh armor xhn armaduras armaduras corporales excepcional"
+      "search": "mesh armor xhn armor body armor exceptional"
     },
     {
       "id": 128,
@@ -7916,9 +7916,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invgis.png",
@@ -7938,7 +7938,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tusk sword 9gs armas espadas excepcional"
+      "search": "tusk sword 9gs weapons swords exceptional"
     },
     {
       "id": 116,
@@ -7948,9 +7948,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invmau.png",
@@ -7970,7 +7970,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war club 9m9 armas mazas y martillos excepcional"
+      "search": "war club 9m9 weapons maces & hammers exceptional"
     },
     {
       "id": 101,
@@ -7980,9 +7980,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invgax.png",
@@ -8002,7 +8002,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gothic axe 9ga armas hachas excepcional"
+      "search": "gothic axe 9ga weapons axes exceptional"
     },
     {
       "id": 166,
@@ -8012,9 +8012,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invlbb.png",
@@ -8034,7 +8034,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "long siege bow 8l8 armas arcos excepcional"
+      "search": "long siege bow 8l8 weapons bows exceptional"
     },
     {
       "id": 143,
@@ -8044,9 +8044,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Javelins",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invglv.png",
@@ -8066,7 +8066,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spiculum 9gl armas jabalinas excepcional"
+      "search": "spiculum 9gl weapons javelins exceptional"
     },
     {
       "id": 135,
@@ -8076,9 +8076,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Dagas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Daggers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invbld.png",
@@ -8098,7 +8098,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "stilleto 9bl armas dagas excepcional"
+      "search": "stilleto 9bl weapons daggers exceptional"
     },
     {
       "id": 171,
@@ -8108,9 +8108,9 @@ window.D2_BASES = {
       "level": 47,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Crossbows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invhxb.png",
@@ -8130,7 +8130,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ballista 8hx armas ballestas excepcional"
+      "search": "ballista 8hx weapons crossbows exceptional"
     },
     {
       "id": 60,
@@ -8140,9 +8140,9 @@ window.D2_BASES = {
       "level": 47,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invbrs.png",
@@ -8162,7 +8162,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cuirass xrs armaduras armaduras corporales excepcional"
+      "search": "cuirass xrs armor body armor exceptional"
     },
     {
       "id": 149,
@@ -8172,9 +8172,9 @@ window.D2_BASES = {
       "level": 47,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Spears",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invpik.png",
@@ -8194,7 +8194,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "lance 9p9 armas lanzas excepcional"
+      "search": "lance 9p9 weapons spears exceptional"
     },
     {
       "id": 160,
@@ -8204,9 +8204,9 @@ window.D2_BASES = {
       "level": 47,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Staves",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invwst.png",
@@ -8226,7 +8226,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rune staff 8ws armas bastones excepcional"
+      "search": "rune staff 8ws weapons staves exceptional"
     },
     {
       "id": 115,
@@ -8236,9 +8236,9 @@ window.D2_BASES = {
       "level": 48,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invwhm.png",
@@ -8258,7 +8258,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle hammer 9wh armas mazas y martillos excepcional"
+      "search": "battle hammer 9wh weapons maces & hammers exceptional"
     },
     {
       "id": 52,
@@ -8268,9 +8268,9 @@ window.D2_BASES = {
       "level": 48,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invmsk.png",
@@ -8290,7 +8290,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "death mask xsk armaduras cascos excepcional"
+      "search": "death mask xsk armor helms exceptional"
     },
     {
       "id": 129,
@@ -8300,9 +8300,9 @@ window.D2_BASES = {
       "level": 48,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invbsw.png",
@@ -8322,7 +8322,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gothic sword 9b9 armas espadas excepcional"
+      "search": "gothic sword 9b9 weapons swords exceptional"
     },
     {
       "id": 90,
@@ -8332,9 +8332,9 @@ window.D2_BASES = {
       "level": 48,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invbsh.png",
@@ -8354,7 +8354,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grim shield xsh armaduras escudos excepcional"
+      "search": "grim shield xsh armor shields exceptional"
     },
     {
       "id": 97,
@@ -8364,9 +8364,9 @@ window.D2_BASES = {
       "level": 48,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invwax.png",
@@ -8386,7 +8386,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "naga 9wa armas hachas excepcional"
+      "search": "naga 9wa weapons axes exceptional"
     },
     {
       "id": 125,
@@ -8396,9 +8396,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invwsd.png",
@@ -8418,7 +8418,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ancient sword 9wd armas espadas excepcional"
+      "search": "ancient sword 9wd weapons swords exceptional"
     },
     {
       "id": 106,
@@ -8428,9 +8428,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 25,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Wands",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invgwn.png",
@@ -8450,7 +8450,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grave wand 9gw armas varitas excepcional"
+      "search": "grave wand 9gw weapons wands exceptional"
     },
     {
       "id": 167,
@@ -8460,9 +8460,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invswb.png",
@@ -8482,7 +8482,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rune bow 8sw armas arcos excepcional"
+      "search": "rune bow 8sw weapons bows exceptional"
     },
     {
       "id": 61,
@@ -8492,9 +8492,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invspl.png",
@@ -8514,7 +8514,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "russet armor xpl armaduras armaduras corporales excepcional"
+      "search": "russet armor xpl armor body armor exceptional"
     },
     {
       "id": 130,
@@ -8524,9 +8524,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invflb.png",
@@ -8546,7 +8546,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "zweihander 9fb armas espadas excepcional"
+      "search": "zweihander 9fb weapons swords exceptional"
     },
     {
       "id": 89,
@@ -8556,9 +8556,9 @@ window.D2_BASES = {
       "level": 50,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbhm.png",
@@ -8578,7 +8578,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grim helm xh9 armaduras cascos excepcional"
+      "search": "grim helm xh9 armor helms exceptional"
     },
     {
       "id": 72,
@@ -8588,9 +8588,9 @@ window.D2_BASES = {
       "level": 50,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invtow.png",
@@ -8610,7 +8610,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "pavise xow armaduras escudos excepcional"
+      "search": "pavise xow armor shields exceptional"
     },
     {
       "id": 102,
@@ -8620,9 +8620,9 @@ window.D2_BASES = {
       "level": 51,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Axes",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invgix.png",
@@ -8642,7 +8642,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ancient axe 9gi armas hachas excepcional"
+      "search": "ancient axe 9gi weapons axes exceptional"
     },
     {
       "id": 154,
@@ -8652,9 +8652,9 @@ window.D2_BASES = {
       "level": 51,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invhal.png",
@@ -8674,7 +8674,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bec-de-corbin 9h9 armas armas de asta excepcional"
+      "search": "bec-de-corbin 9h9 weapons polearms exceptional"
     },
     {
       "id": 144,
@@ -8684,9 +8684,9 @@ window.D2_BASES = {
       "level": 51,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Javelins",
+      "tier": "Exceptional",
       "width": 1,
       "height": 4,
       "image": "assets/items/invtsp.png",
@@ -8706,7 +8706,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "harpoon 9ts armas jabalinas excepcional"
+      "search": "harpoon 9ts weapons javelins exceptional"
     },
     {
       "id": 50,
@@ -8716,9 +8716,9 @@ window.D2_BASES = {
       "level": 51,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invghm.png",
@@ -8738,7 +8738,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "winged helm xhm armaduras cascos excepcional"
+      "search": "winged helm xhm armor helms exceptional"
     },
     {
       "id": 168,
@@ -8748,9 +8748,9 @@ window.D2_BASES = {
       "level": 52,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Bows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invlwb.png",
@@ -8770,7 +8770,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gothic bow 8lw armas arcos excepcional"
+      "search": "gothic bow 8lw weapons bows exceptional"
     },
     {
       "id": 62,
@@ -8780,9 +8780,9 @@ window.D2_BASES = {
       "level": 52,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invplt.png",
@@ -8802,7 +8802,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "templar coat xlt armaduras armaduras corporales excepcional"
+      "search": "templar coat xlt armor body armor exceptional"
     },
     {
       "id": 117,
@@ -8812,9 +8812,9 @@ window.D2_BASES = {
       "level": 53,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invgma.png",
@@ -8834,7 +8834,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "martel de fer 9gm armas mazas y martillos excepcional"
+      "search": "martel de fer 9gm weapons maces & hammers exceptional"
     },
     {
       "id": 172,
@@ -8844,9 +8844,9 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 25,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Crossbows",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invrxb.png",
@@ -8866,7 +8866,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "chu-ko-nu 8rx armas ballestas excepcional"
+      "search": "chu-ko-nu 8rx weapons crossbows exceptional"
     },
     {
       "id": 131,
@@ -8876,9 +8876,9 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Swords",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invgsd.png",
@@ -8898,7 +8898,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "executioner sword 9gd armas espadas excepcional"
+      "search": "executioner sword 9gd weapons swords exceptional"
     },
     {
       "id": 51,
@@ -8908,9 +8908,9 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invcrn.png",
@@ -8930,7 +8930,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grand crown xrn armaduras cascos excepcional"
+      "search": "grand crown xrn armor helms exceptional"
     },
     {
       "id": 155,
@@ -8940,9 +8940,9 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invwsc.png",
@@ -8962,7 +8962,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grim scythe 9wc armas armas de asta excepcional"
+      "search": "grim scythe 9wc weapons polearms exceptional"
     },
     {
       "id": 63,
@@ -8972,9 +8972,9 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invfld.png",
@@ -8994,7 +8994,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sharktooth armor xld armaduras armaduras corporales excepcional"
+      "search": "sharktooth armor xld armor body armor exceptional"
     },
     {
       "id": 73,
@@ -9004,9 +9004,9 @@ window.D2_BASES = {
       "level": 56,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invgts.png",
@@ -9026,7 +9026,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ancient shield xts armaduras escudos excepcional"
+      "search": "ancient shield xts armor shields exceptional"
     },
     {
       "id": 64,
@@ -9036,9 +9036,9 @@ window.D2_BASES = {
       "level": 58,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invgth.png",
@@ -9058,7 +9058,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "embossed plate xth armaduras armaduras corporales excepcional"
+      "search": "embossed plate xth armor body armor exceptional"
     },
     {
       "id": 67,
@@ -9068,9 +9068,9 @@ window.D2_BASES = {
       "level": 60,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invltp.png",
@@ -9090,7 +9090,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mage plate xtp armaduras armaduras corporales excepcional"
+      "search": "mage plate xtp armor body armor exceptional"
     },
     {
       "id": 65,
@@ -9100,9 +9100,9 @@ window.D2_BASES = {
       "level": 61,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invful.png",
@@ -9122,7 +9122,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "chaos armor xul armaduras armaduras corporales excepcional"
+      "search": "chaos armor xul armor body armor exceptional"
     },
     {
       "id": 66,
@@ -9132,9 +9132,9 @@ window.D2_BASES = {
       "level": 64,
       "requiredLevel": 25,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invaar.png",
@@ -9154,7 +9154,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ornate armor xar armaduras armaduras corporales excepcional"
+      "search": "ornate armor xar armor body armor exceptional"
     },
     {
       "id": 173,
@@ -9164,9 +9164,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 26,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invpa1.png",
@@ -9186,7 +9186,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "akaran targe pa6 armaduras escudos de paladin excepcional"
+      "search": "akaran targe pa6 armor paladin shields exceptional"
     },
     {
       "id": 163,
@@ -9196,9 +9196,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 26,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invdr1.png",
@@ -9218,7 +9218,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "alpha helm dr6 armaduras pelts de druida excepcional"
+      "search": "alpha helm dr6 armor druid pelts exceptional"
     },
     {
       "id": 296,
@@ -9228,9 +9228,9 @@ window.D2_BASES = {
       "level": 35,
       "requiredLevel": 26,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invam5.png",
@@ -9250,7 +9250,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ceremonial javelin ama armas armas de amazona excepcional"
+      "search": "ceremonial javelin ama weapons amazon weapons exceptional"
     },
     {
       "id": 185,
@@ -9260,9 +9260,9 @@ window.D2_BASES = {
       "level": 36,
       "requiredLevel": 27,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invaxf.png",
@@ -9282,7 +9282,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fascia 9xf armas garras de asesina excepcional"
+      "search": "fascia 9xf weapons assassin claws exceptional"
     },
     {
       "id": 288,
@@ -9292,9 +9292,9 @@ window.D2_BASES = {
       "level": 37,
       "requiredLevel": 27,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invob2.png",
@@ -9314,7 +9314,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crystalline globe ob7 armas orbes de hechicera excepcional"
+      "search": "crystalline globe ob7 weapons sorceress orbs exceptional"
     },
     {
       "id": 169,
@@ -9324,9 +9324,9 @@ window.D2_BASES = {
       "level": 38,
       "requiredLevel": 29,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invba2.png",
@@ -9346,7 +9346,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "lion helm ba7 armaduras cascos de barbaro excepcional"
+      "search": "lion helm ba7 armor barbarian helms exceptional"
     },
     {
       "id": 292,
@@ -9356,9 +9356,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 29,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invam1.png",
@@ -9378,7 +9378,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ashwood bow am6 armas armas de amazona excepcional"
+      "search": "ashwood bow am6 weapons amazon weapons exceptional"
     },
     {
       "id": 209,
@@ -9388,9 +9388,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 29,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Grimoires",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbbb.png",
@@ -9410,7 +9410,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dark tome wa7 armaduras grimorios excepcional"
+      "search": "dark tome wa7 armor grimoires exceptional"
     },
     {
       "id": 179,
@@ -9420,9 +9420,9 @@ window.D2_BASES = {
       "level": 39,
       "requiredLevel": 29,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invne2.png",
@@ -9442,7 +9442,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fetish trophy ne7 armaduras cabezas de necromante excepcional"
+      "search": "fetish trophy ne7 armor necromancer heads exceptional"
     },
     {
       "id": 170,
@@ -9452,9 +9452,9 @@ window.D2_BASES = {
       "level": 44,
       "requiredLevel": 29,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invba3.png",
@@ -9474,7 +9474,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "rage mask ba8 armaduras cascos de barbaro excepcional"
+      "search": "rage mask ba8 armor barbarian helms exceptional"
     },
     {
       "id": 165,
@@ -9484,9 +9484,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 29,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invdr3.png",
@@ -9506,7 +9506,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hunter's guise dr8 armaduras pelts de druida excepcional"
+      "search": "hunter's guise dr8 armor druid pelts exceptional"
     },
     {
       "id": 174,
@@ -9516,9 +9516,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 30,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invpa2.png",
@@ -9538,7 +9538,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "akaran rondache pa7 armaduras escudos de paladin excepcional"
+      "search": "akaran rondache pa7 armor paladin shields exceptional"
     },
     {
       "id": 164,
@@ -9548,9 +9548,9 @@ window.D2_BASES = {
       "level": 40,
       "requiredLevel": 30,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invdr2.png",
@@ -9570,7 +9570,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "griffon headress dr7 armaduras pelts de druida excepcional"
+      "search": "griffon headress dr7 armor druid pelts exceptional"
     },
     {
       "id": 289,
@@ -9580,9 +9580,9 @@ window.D2_BASES = {
       "level": 41,
       "requiredLevel": 30,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invob3.png",
@@ -9602,7 +9602,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cloudy sphere ob8 armas orbes de hechicera excepcional"
+      "search": "cloudy sphere ob8 weapons sorceress orbs exceptional"
     },
     {
       "id": 186,
@@ -9612,9 +9612,9 @@ window.D2_BASES = {
       "level": 41,
       "requiredLevel": 30,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invaxf.png",
@@ -9634,7 +9634,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hand scythe 9cs armas garras de asesina excepcional"
+      "search": "hand scythe 9cs weapons assassin claws exceptional"
     },
     {
       "id": 294,
@@ -9644,9 +9644,9 @@ window.D2_BASES = {
       "level": 43,
       "requiredLevel": 32,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invam3.png",
@@ -9666,7 +9666,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ceremonial spear am8 armas armas de amazona excepcional"
+      "search": "ceremonial spear am8 weapons amazon weapons exceptional"
     },
     {
       "id": 171,
@@ -9676,9 +9676,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 32,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invba4.png",
@@ -9698,7 +9698,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "savage helmet ba9 armaduras cascos de barbaro excepcional"
+      "search": "savage helmet ba9 armor barbarian helms exceptional"
     },
     {
       "id": 166,
@@ -9708,9 +9708,9 @@ window.D2_BASES = {
       "level": 50,
       "requiredLevel": 32,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invdr4.png",
@@ -9730,7 +9730,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sacred feathers dr9 armaduras pelts de druida excepcional"
+      "search": "sacred feathers dr9 armor druid pelts exceptional"
     },
     {
       "id": 210,
@@ -9740,9 +9740,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 33,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Grimoires",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbbb.png",
@@ -9762,7 +9762,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dark codex wa8 armaduras grimorios excepcional"
+      "search": "dark codex wa8 armor grimoires exceptional"
     },
     {
       "id": 187,
@@ -9772,9 +9772,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 33,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invclw.png",
@@ -9794,7 +9794,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "greater claws 9lw armas garras de asesina excepcional"
+      "search": "greater claws 9lw weapons assassin claws exceptional"
     },
     {
       "id": 180,
@@ -9804,9 +9804,9 @@ window.D2_BASES = {
       "level": 45,
       "requiredLevel": 33,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invne3.png",
@@ -9826,7 +9826,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sexton trophy ne8 armaduras cabezas de necromante excepcional"
+      "search": "sexton trophy ne8 armor necromancer heads exceptional"
     },
     {
       "id": 175,
@@ -9836,9 +9836,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 34,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invpa3.png",
@@ -9858,7 +9858,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "protector shield pa8 armaduras escudos de paladin excepcional"
+      "search": "protector shield pa8 armor paladin shields exceptional"
     },
     {
       "id": 290,
@@ -9868,9 +9868,9 @@ window.D2_BASES = {
       "level": 46,
       "requiredLevel": 34,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
+      "tier": "Exceptional",
       "width": 1,
       "height": 2,
       "image": "assets/items/invob4.png",
@@ -9890,7 +9890,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sparkling ball ob9 armas orbes de hechicera excepcional"
+      "search": "sparkling ball ob9 weapons sorceress orbs exceptional"
     },
     {
       "id": 293,
@@ -9900,9 +9900,9 @@ window.D2_BASES = {
       "level": 47,
       "requiredLevel": 35,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invam2.png",
@@ -9922,7 +9922,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ceremonial bow am7 armas armas de amazona excepcional"
+      "search": "ceremonial bow am7 weapons amazon weapons exceptional"
     },
     {
       "id": 181,
@@ -9932,9 +9932,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 36,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invne4.png",
@@ -9954,7 +9954,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cantor trophy ne9 armaduras cabezas de necromante excepcional"
+      "search": "cantor trophy ne9 armor necromancer heads exceptional"
     },
     {
       "id": 211,
@@ -9964,9 +9964,9 @@ window.D2_BASES = {
       "level": 49,
       "requiredLevel": 36,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Grimoires",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbbb.png",
@@ -9986,7 +9986,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "possessed compendium wa9 armaduras grimorios excepcional"
+      "search": "possessed compendium wa9 armor grimoires exceptional"
     },
     {
       "id": 188,
@@ -9996,9 +9996,9 @@ window.D2_BASES = {
       "level": 50,
       "requiredLevel": 37,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invclw.png",
@@ -10018,7 +10018,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "greater talons 9tw armas garras de asesina excepcional"
+      "search": "greater talons 9tw weapons assassin claws exceptional"
     },
     {
       "id": 291,
@@ -10028,9 +10028,9 @@ window.D2_BASES = {
       "level": 50,
       "requiredLevel": 37,
       "rarity": 5,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invob5.png",
@@ -10050,7 +10050,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "swirling crystal oba armas orbes de hechicera excepcional"
+      "search": "swirling crystal oba weapons sorceress orbs exceptional"
     },
     {
       "id": 295,
@@ -10060,9 +10060,9 @@ window.D2_BASES = {
       "level": 51,
       "requiredLevel": 38,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invam4.png",
@@ -10082,7 +10082,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ceremonial pike am9 armas armas de amazona excepcional"
+      "search": "ceremonial pike am9 weapons amazon weapons exceptional"
     },
     {
       "id": 176,
@@ -10092,9 +10092,9 @@ window.D2_BASES = {
       "level": 51,
       "requiredLevel": 38,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invpa4.png",
@@ -10114,7 +10114,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gilded shield pa9 armaduras escudos de paladin excepcional"
+      "search": "gilded shield pa9 armor paladin shields exceptional"
     },
     {
       "id": 114,
@@ -10124,8 +10124,8 @@ window.D2_BASES = {
       "level": 52,
       "requiredLevel": 39,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Diademas y circlets",
+      "family": "Armor",
+      "subtype": "Circlets",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -10146,7 +10146,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "coronet ci1 armaduras diademas y circlets normal"
+      "search": "coronet ci1 armor circlets normal"
     },
     {
       "id": 211,
@@ -10156,8 +10156,8 @@ window.D2_BASES = {
       "level": 52,
       "requiredLevel": 39,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -10178,7 +10178,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "truncheon 7cl armas mazas y martillos elite"
+      "search": "truncheon 7cl weapons maces & hammers elite"
     },
     {
       "id": 302,
@@ -10188,8 +10188,8 @@ window.D2_BASES = {
       "level": 53,
       "requiredLevel": 39,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -10210,7 +10210,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "matriarchal bow amb armas armas de amazona elite"
+      "search": "matriarchal bow amb weapons amazon weapons elite"
     },
     {
       "id": 120,
@@ -10220,8 +10220,8 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -10242,7 +10242,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "giant conch uhl armaduras cascos elite"
+      "search": "giant conch uhl armor helms elite"
     },
     {
       "id": 182,
@@ -10252,9 +10252,9 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invne5.png",
@@ -10274,7 +10274,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "heirophant trophy nea armaduras cabezas de necromante excepcional"
+      "search": "heirophant trophy nea armor necromancer heads exceptional"
     },
     {
       "id": 244,
@@ -10284,8 +10284,8 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -10306,7 +10306,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hyperion javelin 7ja armas jabalinas elite"
+      "search": "hyperion javelin 7ja weapons javelins elite"
     },
     {
       "id": 212,
@@ -10316,9 +10316,9 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Grimoires",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbbb.png",
@@ -10338,7 +10338,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "possessed grimoire waa armaduras grimorios excepcional"
+      "search": "possessed grimoire waa armor grimoires exceptional"
     },
     {
       "id": 189,
@@ -10348,9 +10348,9 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invskr.png",
@@ -10370,7 +10370,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scissors quhab 9qr armas garras de asesina excepcional"
+      "search": "scissors quhab 9qr weapons assassin claws exceptional"
     },
     {
       "id": 172,
@@ -10380,9 +10380,9 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invba5.png",
@@ -10402,7 +10402,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "slayer guard baa armaduras cascos de barbaro excepcional"
+      "search": "slayer guard baa armor barbarian helms exceptional"
     },
     {
       "id": 197,
@@ -10412,8 +10412,8 @@ window.D2_BASES = {
       "level": 54,
       "requiredLevel": 40,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -10434,7 +10434,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tomahawk 7ha armas hachas elite"
+      "search": "tomahawk 7ha weapons axes elite"
     },
     {
       "id": 207,
@@ -10444,8 +10444,8 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 41,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -10466,7 +10466,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "polished wand 7wn armas varitas elite"
+      "search": "polished wand 7wn weapons wands elite"
     },
     {
       "id": 177,
@@ -10476,9 +10476,9 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 41,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invpa5.png",
@@ -10498,7 +10498,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "royal shield paa armaduras escudos de paladin excepcional"
+      "search": "royal shield paa armor paladin shields exceptional"
     },
     {
       "id": 265,
@@ -10508,8 +10508,8 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 41,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -10530,7 +10530,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spider bow 6sb armas arcos elite"
+      "search": "spider bow 6sb weapons bows elite"
     },
     {
       "id": 167,
@@ -10540,9 +10540,9 @@ window.D2_BASES = {
       "level": 55,
       "requiredLevel": 41,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invdr5.png",
@@ -10562,7 +10562,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "totemic mask dra armaduras pelts de druida excepcional"
+      "search": "totemic mask dra armor druid pelts exceptional"
     },
     {
       "id": 222,
@@ -10572,8 +10572,8 @@ window.D2_BASES = {
       "level": 56,
       "requiredLevel": 42,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -10594,7 +10594,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "falcata 7ss armas espadas elite"
+      "search": "falcata 7ss weapons swords elite"
     },
     {
       "id": 241,
@@ -10604,8 +10604,8 @@ window.D2_BASES = {
       "level": 56,
       "requiredLevel": 42,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -10626,7 +10626,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "flying axe 7ta armas arrojadizas elite"
+      "search": "flying axe 7ta weapons throwing elite"
     },
     {
       "id": 202,
@@ -10636,8 +10636,8 @@ window.D2_BASES = {
       "level": 57,
       "requiredLevel": 42,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -10658,7 +10658,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "feral axe 7la armas hachas elite"
+      "search": "feral axe 7la weapons axes elite"
     },
     {
       "id": 273,
@@ -10668,8 +10668,8 @@ window.D2_BASES = {
       "level": 57,
       "requiredLevel": 42,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -10690,7 +10690,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "pellet bow 6lx armas ballestas elite"
+      "search": "pellet bow 6lx weapons crossbows elite"
     },
     {
       "id": 215,
@@ -10700,8 +10700,8 @@ window.D2_BASES = {
       "level": 57,
       "requiredLevel": 42,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -10722,7 +10722,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tyrant club 7sp armas mazas y martillos elite"
+      "search": "tyrant club 7sp weapons maces & hammers elite"
     },
     {
       "id": 236,
@@ -10732,8 +10732,8 @@ window.D2_BASES = {
       "level": 58,
       "requiredLevel": 43,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -10754,7 +10754,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bone knife 7dg armas dagas elite"
+      "search": "bone knife 7dg weapons daggers elite"
     },
     {
       "id": 139,
@@ -10764,8 +10764,8 @@ window.D2_BASES = {
       "level": 58,
       "requiredLevel": 43,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -10786,7 +10786,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "heater uuc armaduras escudos elite"
+      "search": "heater uuc armor shields elite"
     },
     {
       "id": 249,
@@ -10796,8 +10796,8 @@ window.D2_BASES = {
       "level": 58,
       "requiredLevel": 43,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -10818,7 +10818,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hyperion spear 7sr armas lanzas elite"
+      "search": "hyperion spear 7sr weapons spears elite"
     },
     {
       "id": 117,
@@ -10828,8 +10828,8 @@ window.D2_BASES = {
       "level": 58,
       "requiredLevel": 43,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -10850,7 +10850,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "shako uap armaduras cascos elite"
+      "search": "shako uap armor helms elite"
     },
     {
       "id": 260,
@@ -10860,8 +10860,8 @@ window.D2_BASES = {
       "level": 58,
       "requiredLevel": 43,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -10882,7 +10882,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "walking stick 6ss armas bastones elite"
+      "search": "walking stick 6ss weapons staves elite"
     },
     {
       "id": 213,
@@ -10892,8 +10892,8 @@ window.D2_BASES = {
       "level": 59,
       "requiredLevel": 44,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -10914,7 +10914,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "forgotten volume wab armaduras grimorios elite"
+      "search": "forgotten volume wab armor grimoires elite"
     },
     {
       "id": 297,
@@ -10924,8 +10924,8 @@ window.D2_BASES = {
       "level": 59,
       "requiredLevel": 44,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -10946,7 +10946,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "heavenly stone obb armas orbes de hechicera elite"
+      "search": "heavenly stone obb weapons sorceress orbs elite"
     },
     {
       "id": 230,
@@ -10956,8 +10956,8 @@ window.D2_BASES = {
       "level": 59,
       "requiredLevel": 44,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -10978,7 +10978,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "legend sword 72h armas espadas elite"
+      "search": "legend sword 72h weapons swords elite"
     },
     {
       "id": 198,
@@ -10988,8 +10988,8 @@ window.D2_BASES = {
       "level": 59,
       "requiredLevel": 44,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11010,7 +11010,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "minion skull neb armaduras cabezas de necromante elite"
+      "search": "minion skull neb armor necromancer heads elite"
     },
     {
       "id": 190,
@@ -11020,8 +11020,8 @@ window.D2_BASES = {
       "level": 59,
       "requiredLevel": 44,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11042,7 +11042,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "suwayyah 7ar armas garras de asesina elite"
+      "search": "suwayyah 7ar weapons assassin claws elite"
     },
     {
       "id": 266,
@@ -11052,8 +11052,8 @@ window.D2_BASES = {
       "level": 60,
       "requiredLevel": 45,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11074,7 +11074,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blade bow 6hb armas arcos elite"
+      "search": "blade bow 6hb weapons bows elite"
     },
     {
       "id": 188,
@@ -11084,8 +11084,8 @@ window.D2_BASES = {
       "level": 60,
       "requiredLevel": 45,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11106,7 +11106,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "carnage helm bab armaduras cascos de barbaro elite"
+      "search": "carnage helm bab armor barbarian helms elite"
     },
     {
       "id": 254,
@@ -11116,8 +11116,8 @@ window.D2_BASES = {
       "level": 60,
       "requiredLevel": 45,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -11138,7 +11138,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ogre axe 7o7 armas armas de asta elite"
+      "search": "ogre axe 7o7 weapons polearms elite"
     },
     {
       "id": 223,
@@ -11148,8 +11148,8 @@ window.D2_BASES = {
       "level": 61,
       "requiredLevel": 45,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11170,7 +11170,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ataghan 7sm armas espadas elite"
+      "search": "ataghan 7sm weapons swords elite"
     },
     {
       "id": 140,
@@ -11180,8 +11180,8 @@ window.D2_BASES = {
       "level": 61,
       "requiredLevel": 45,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11202,7 +11202,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "luna uml armaduras escudos elite"
+      "search": "luna uml armor shields elite"
     },
     {
       "id": 304,
@@ -11212,8 +11212,8 @@ window.D2_BASES = {
       "level": 61,
       "requiredLevel": 45,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -11234,7 +11234,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "matriarchal spear amd armas armas de amazona elite"
+      "search": "matriarchal spear amd weapons amazon weapons elite"
     },
     {
       "id": 198,
@@ -11244,8 +11244,8 @@ window.D2_BASES = {
       "level": 61,
       "requiredLevel": 45,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11266,7 +11266,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "small crescent 7ax armas hachas elite"
+      "search": "small crescent 7ax weapons axes elite"
     },
     {
       "id": 183,
@@ -11276,8 +11276,8 @@ window.D2_BASES = {
       "level": 62,
       "requiredLevel": 46,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11298,7 +11298,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blood spirit drb armaduras pelts de druida elite"
+      "search": "blood spirit drb armor druid pelts elite"
     },
     {
       "id": 212,
@@ -11308,8 +11308,8 @@ window.D2_BASES = {
       "level": 62,
       "requiredLevel": 46,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11330,7 +11330,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mighty scepter 7sc armas cetros elite"
+      "search": "mighty scepter 7sc weapons scepters elite"
     },
     {
       "id": 245,
@@ -11340,8 +11340,8 @@ window.D2_BASES = {
       "level": 62,
       "requiredLevel": 46,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11362,7 +11362,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "stygian pilum 7pi armas jabalinas elite"
+      "search": "stygian pilum 7pi weapons javelins elite"
     },
     {
       "id": 191,
@@ -11372,8 +11372,8 @@ window.D2_BASES = {
       "level": 62,
       "requiredLevel": 46,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11394,7 +11394,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wrist sword 7wb armas garras de asesina elite"
+      "search": "wrist sword 7wb weapons assassin claws elite"
     },
     {
       "id": 130,
@@ -11404,8 +11404,8 @@ window.D2_BASES = {
       "level": 62,
       "requiredLevel": 47,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11426,7 +11426,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "boneweave uhn armaduras armaduras corporales elite"
+      "search": "boneweave uhn armor body armor elite"
     },
     {
       "id": 224,
@@ -11436,8 +11436,8 @@ window.D2_BASES = {
       "level": 63,
       "requiredLevel": 47,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11458,7 +11458,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "elegant blade 7sb armas espadas elite"
+      "search": "elegant blade 7sb weapons swords elite"
     },
     {
       "id": 118,
@@ -11468,8 +11468,8 @@ window.D2_BASES = {
       "level": 63,
       "requiredLevel": 47,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11490,7 +11490,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hydraskull ukp armaduras cascos elite"
+      "search": "hydraskull ukp armor helms elite"
     },
     {
       "id": 216,
@@ -11500,8 +11500,8 @@ window.D2_BASES = {
       "level": 63,
       "requiredLevel": 47,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11522,7 +11522,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "reinforced mace 7ma armas mazas y martillos elite"
+      "search": "reinforced mace 7ma weapons maces & hammers elite"
     },
     {
       "id": 193,
@@ -11532,8 +11532,8 @@ window.D2_BASES = {
       "level": 63,
       "requiredLevel": 47,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11554,7 +11554,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sacred targe pab armaduras escudos de paladin elite"
+      "search": "sacred targe pab armor paladin shields elite"
     },
     {
       "id": 267,
@@ -11564,8 +11564,8 @@ window.D2_BASES = {
       "level": 63,
       "requiredLevel": 47,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -11586,7 +11586,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "shadow bow 6lb armas arcos elite"
+      "search": "shadow bow 6lb weapons bows elite"
     },
     {
       "id": 255,
@@ -11596,8 +11596,8 @@ window.D2_BASES = {
       "level": 64,
       "requiredLevel": 48,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -11618,7 +11618,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "colossus voulge 7vo armas armas de asta elite"
+      "search": "colossus voulge 7vo weapons polearms elite"
     },
     {
       "id": 240,
@@ -11628,8 +11628,8 @@ window.D2_BASES = {
       "level": 64,
       "requiredLevel": 48,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -11650,7 +11650,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "flying knife 7tk armas arrojadizas elite"
+      "search": "flying knife 7tk weapons throwing elite"
     },
     {
       "id": 141,
@@ -11660,8 +11660,8 @@ window.D2_BASES = {
       "level": 64,
       "requiredLevel": 48,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11682,7 +11682,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hyperion urg armaduras escudos elite"
+      "search": "hyperion urg armor shields elite"
     },
     {
       "id": 208,
@@ -11692,8 +11692,8 @@ window.D2_BASES = {
       "level": 65,
       "requiredLevel": 48,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -11714,7 +11714,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ghost wand 7yw armas varitas elite"
+      "search": "ghost wand 7yw weapons wands elite"
     },
     {
       "id": 306,
@@ -11724,8 +11724,8 @@ window.D2_BASES = {
       "level": 65,
       "requiredLevel": 48,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11746,7 +11746,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "matriarchal javelin amf armas armas de amazona elite"
+      "search": "matriarchal javelin amf weapons amazon weapons elite"
     },
     {
       "id": 203,
@@ -11756,8 +11756,8 @@ window.D2_BASES = {
       "level": 65,
       "requiredLevel": 48,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11778,7 +11778,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "silver-edged axe 7ba armas hachas elite"
+      "search": "silver-edged axe 7ba weapons axes elite"
     },
     {
       "id": 124,
@@ -11788,8 +11788,8 @@ window.D2_BASES = {
       "level": 65,
       "requiredLevel": 49,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11810,7 +11810,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dusk shroud uui armaduras armaduras corporales elite"
+      "search": "dusk shroud uui armor body armor elite"
     },
     {
       "id": 189,
@@ -11820,8 +11820,8 @@ window.D2_BASES = {
       "level": 66,
       "requiredLevel": 49,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11842,7 +11842,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fury visor bac armaduras cascos de barbaro elite"
+      "search": "fury visor bac armor barbarian helms elite"
     },
     {
       "id": 231,
@@ -11852,8 +11852,8 @@ window.D2_BASES = {
       "level": 66,
       "requiredLevel": 49,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -11874,7 +11874,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "highland blade 7cm armas espadas elite"
+      "search": "highland blade 7cm weapons swords elite"
     },
     {
       "id": 200,
@@ -11884,8 +11884,8 @@ window.D2_BASES = {
       "level": 66,
       "requiredLevel": 49,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -11906,7 +11906,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "overseer skull ned armaduras cabezas de necromante elite"
+      "search": "overseer skull ned armor necromancer heads elite"
     },
     {
       "id": 261,
@@ -11916,8 +11916,8 @@ window.D2_BASES = {
       "level": 66,
       "requiredLevel": 49,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -11938,7 +11938,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "stalagmite 6ls armas bastones elite"
+      "search": "stalagmite 6ls weapons staves elite"
     },
     {
       "id": 250,
@@ -11948,8 +11948,8 @@ window.D2_BASES = {
       "level": 66,
       "requiredLevel": 49,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -11970,7 +11970,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "stygian pike 7tr armas lanzas elite"
+      "search": "stygian pike 7tr weapons spears elite"
     },
     {
       "id": 214,
@@ -11980,8 +11980,8 @@ window.D2_BASES = {
       "level": 67,
       "requiredLevel": 49,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12002,7 +12002,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "occult tome wac armaduras grimorios elite"
+      "search": "occult tome wac armor grimoires elite"
     },
     {
       "id": 215,
@@ -12012,8 +12012,8 @@ window.D2_BASES = {
       "level": 66,
       "requiredLevel": 50,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12034,7 +12034,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "occult codex wad armaduras grimorios elite"
+      "search": "occult codex wad armor grimoires elite"
     },
     {
       "id": 298,
@@ -12044,8 +12044,8 @@ window.D2_BASES = {
       "level": 67,
       "requiredLevel": 50,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -12066,7 +12066,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "eldritch orb obc armas orbes de hechicera elite"
+      "search": "eldritch orb obc weapons sorceress orbs elite"
     },
     {
       "id": 274,
@@ -12076,8 +12076,8 @@ window.D2_BASES = {
       "level": 67,
       "requiredLevel": 50,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12098,7 +12098,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "gorgon crossbow 6mx armas ballestas elite"
+      "search": "gorgon crossbow 6mx weapons crossbows elite"
     },
     {
       "id": 199,
@@ -12108,8 +12108,8 @@ window.D2_BASES = {
       "level": 67,
       "requiredLevel": 50,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12130,7 +12130,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hellspawn skull neg armaduras cabezas de necromante elite"
+      "search": "hellspawn skull neg armor necromancer heads elite"
     },
     {
       "id": 125,
@@ -12140,8 +12140,8 @@ window.D2_BASES = {
       "level": 67,
       "requiredLevel": 50,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12162,7 +12162,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wyrmhide uea armaduras armaduras corporales elite"
+      "search": "wyrmhide uea armor body armor elite"
     },
     {
       "id": 119,
@@ -12172,8 +12172,8 @@ window.D2_BASES = {
       "level": 68,
       "requiredLevel": 51,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12194,7 +12194,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "armet ulm armaduras cascos elite"
+      "search": "armet ulm armor helms elite"
     },
     {
       "id": 162,
@@ -12204,8 +12204,8 @@ window.D2_BASES = {
       "level": 68,
       "requiredLevel": 51,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12226,7 +12226,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blade barrier upk armaduras escudos elite"
+      "search": "blade barrier upk armor shields elite"
     },
     {
       "id": 268,
@@ -12236,8 +12236,8 @@ window.D2_BASES = {
       "level": 68,
       "requiredLevel": 51,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12258,7 +12258,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great bow 6cb armas arcos elite"
+      "search": "great bow 6cb weapons bows elite"
     },
     {
       "id": 126,
@@ -12268,8 +12268,8 @@ window.D2_BASES = {
       "level": 68,
       "requiredLevel": 51,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12290,7 +12290,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scarab husk ula armaduras armaduras corporales elite"
+      "search": "scarab husk ula armor body armor elite"
     },
     {
       "id": 192,
@@ -12300,8 +12300,8 @@ window.D2_BASES = {
       "level": 68,
       "requiredLevel": 51,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -12322,7 +12322,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war fist 7xf armas garras de asesina elite"
+      "search": "war fist 7xf weapons assassin claws elite"
     },
     {
       "id": 225,
@@ -12332,8 +12332,8 @@ window.D2_BASES = {
       "level": 69,
       "requiredLevel": 51,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -12354,7 +12354,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hydra edge 7fc armas espadas elite"
+      "search": "hydra edge 7fc weapons swords elite"
     },
     {
       "id": 220,
@@ -12364,8 +12364,8 @@ window.D2_BASES = {
       "level": 69,
       "requiredLevel": 51,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -12386,7 +12386,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ogre maul 7m7 armas mazas y martillos elite"
+      "search": "ogre maul 7m7 weapons maces & hammers elite"
     },
     {
       "id": 184,
@@ -12396,8 +12396,8 @@ window.D2_BASES = {
       "level": 69,
       "requiredLevel": 51,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12418,7 +12418,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sun spirit drc armaduras pelts de druida elite"
+      "search": "sun spirit drc armor druid pelts elite"
     },
     {
       "id": 217,
@@ -12428,8 +12428,8 @@ window.D2_BASES = {
       "level": 70,
       "requiredLevel": 52,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -12450,7 +12450,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "devil star 7mt armas mazas y martillos elite"
+      "search": "devil star 7mt weapons maces & hammers elite"
     },
     {
       "id": 199,
@@ -12460,8 +12460,8 @@ window.D2_BASES = {
       "level": 70,
       "requiredLevel": 52,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12482,7 +12482,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ettin axe 72a armas hachas elite"
+      "search": "ettin axe 72a weapons axes elite"
     },
     {
       "id": 237,
@@ -12492,8 +12492,8 @@ window.D2_BASES = {
       "level": 70,
       "requiredLevel": 52,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -12514,7 +12514,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mithral point 7di armas dagas elite"
+      "search": "mithral point 7di weapons daggers elite"
     },
     {
       "id": 194,
@@ -12524,8 +12524,8 @@ window.D2_BASES = {
       "level": 70,
       "requiredLevel": 52,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12546,7 +12546,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sacred rondache pac armaduras escudos de paladin elite"
+      "search": "sacred rondache pac armor paladin shields elite"
     },
     {
       "id": 115,
@@ -12556,9 +12556,9 @@ window.D2_BASES = {
       "level": 70,
       "requiredLevel": 52,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Diademas y circlets",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Circlets",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invci2.png",
@@ -12578,7 +12578,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "tiara ci2 armaduras diademas y circlets excepcional"
+      "search": "tiara ci2 armor circlets exceptional"
     },
     {
       "id": 127,
@@ -12588,8 +12588,8 @@ window.D2_BASES = {
       "level": 70,
       "requiredLevel": 53,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12610,7 +12610,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "wire fleece utu armaduras armaduras corporales elite"
+      "search": "wire fleece utu armor body armor elite"
     },
     {
       "id": 232,
@@ -12620,8 +12620,8 @@ window.D2_BASES = {
       "level": 71,
       "requiredLevel": 53,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -12642,7 +12642,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "balrog blade 7gs armas espadas elite"
+      "search": "balrog blade 7gs weapons swords elite"
     },
     {
       "id": 246,
@@ -12652,8 +12652,8 @@ window.D2_BASES = {
       "level": 71,
       "requiredLevel": 53,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -12674,7 +12674,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "balrog spear 7s7 armas jabalinas elite"
+      "search": "balrog spear 7s7 weapons javelins elite"
     },
     {
       "id": 256,
@@ -12684,8 +12684,8 @@ window.D2_BASES = {
       "level": 71,
       "requiredLevel": 53,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -12706,7 +12706,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "thresher 7s8 armas armas de asta elite"
+      "search": "thresher 7s8 weapons polearms elite"
     },
     {
       "id": 269,
@@ -12716,8 +12716,8 @@ window.D2_BASES = {
       "level": 72,
       "requiredLevel": 54,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12738,7 +12738,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "diamond bow 6s7 armas arcos elite"
+      "search": "diamond bow 6s7 weapons bows elite"
     },
     {
       "id": 128,
@@ -12748,8 +12748,8 @@ window.D2_BASES = {
       "level": 72,
       "requiredLevel": 54,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12770,7 +12770,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "diamond mail ung armaduras armaduras corporales elite"
+      "search": "diamond mail ung armor body armor elite"
     },
     {
       "id": 142,
@@ -12780,8 +12780,8 @@ window.D2_BASES = {
       "level": 72,
       "requiredLevel": 54,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12802,7 +12802,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "monarch uit armaduras escudos elite"
+      "search": "monarch uit armor shields elite"
     },
     {
       "id": 193,
@@ -12812,8 +12812,8 @@ window.D2_BASES = {
       "level": 73,
       "requiredLevel": 54,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -12834,7 +12834,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "battle cestus 7cs armas garras de asesina elite"
+      "search": "battle cestus 7cs weapons assassin claws elite"
     },
     {
       "id": 204,
@@ -12844,8 +12844,8 @@ window.D2_BASES = {
       "level": 73,
       "requiredLevel": 54,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12866,7 +12866,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "decapitator 7bt armas hachas elite"
+      "search": "decapitator 7bt weapons axes elite"
     },
     {
       "id": 190,
@@ -12876,8 +12876,8 @@ window.D2_BASES = {
       "level": 73,
       "requiredLevel": 54,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -12898,7 +12898,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "destroyer helm bad armaduras cascos de barbaro elite"
+      "search": "destroyer helm bad armor barbarian helms elite"
     },
     {
       "id": 226,
@@ -12908,8 +12908,8 @@ window.D2_BASES = {
       "level": 73,
       "requiredLevel": 54,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12930,7 +12930,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "phase blade 7cr armas espadas elite"
+      "search": "phase blade 7cr weapons swords elite"
     },
     {
       "id": 129,
@@ -12940,8 +12940,8 @@ window.D2_BASES = {
       "level": 73,
       "requiredLevel": 55,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12962,7 +12962,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "loricated mail ucl armaduras armaduras corporales elite"
+      "search": "loricated mail ucl armor body armor elite"
     },
     {
       "id": 195,
@@ -12972,8 +12972,8 @@ window.D2_BASES = {
       "level": 74,
       "requiredLevel": 55,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -12994,7 +12994,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ancient shield pad armaduras escudos de paladin elite"
+      "search": "ancient shield pad armor paladin shields elite"
     },
     {
       "id": 123,
@@ -13004,8 +13004,8 @@ window.D2_BASES = {
       "level": 74,
       "requiredLevel": 55,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -13026,7 +13026,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "demonhead usk armaduras cascos elite"
+      "search": "demonhead usk armor helms elite"
     },
     {
       "id": 262,
@@ -13036,8 +13036,8 @@ window.D2_BASES = {
       "level": 74,
       "requiredLevel": 55,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -13058,7 +13058,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "elder staff 6cs armas bastones elite"
+      "search": "elder staff 6cs weapons staves elite"
     },
     {
       "id": 251,
@@ -13068,8 +13068,8 @@ window.D2_BASES = {
       "level": 74,
       "requiredLevel": 55,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13090,7 +13090,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mancatcher 7br armas lanzas elite"
+      "search": "mancatcher 7br weapons spears elite"
     },
     {
       "id": 275,
@@ -13100,8 +13100,8 @@ window.D2_BASES = {
       "level": 75,
       "requiredLevel": 56,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13122,7 +13122,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "colossus crossbow 6hx armas ballestas elite"
+      "search": "colossus crossbow 6hx weapons crossbows elite"
     },
     {
       "id": 299,
@@ -13132,8 +13132,8 @@ window.D2_BASES = {
       "level": 75,
       "requiredLevel": 56,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -13154,7 +13154,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "demon heart obd armas orbes de hechicera elite"
+      "search": "demon heart obd weapons sorceress orbs elite"
     },
     {
       "id": 131,
@@ -13164,8 +13164,8 @@ window.D2_BASES = {
       "level": 75,
       "requiredLevel": 56,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13186,7 +13186,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great hauberk urs armaduras armaduras corporales elite"
+      "search": "great hauberk urs armor body armor elite"
     },
     {
       "id": 209,
@@ -13196,8 +13196,8 @@ window.D2_BASES = {
       "level": 75,
       "requiredLevel": 56,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -13218,7 +13218,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "lich wand 7bw armas varitas elite"
+      "search": "lich wand 7bw weapons wands elite"
     },
     {
       "id": 132,
@@ -13228,8 +13228,8 @@ window.D2_BASES = {
       "level": 76,
       "requiredLevel": 57,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13250,7 +13250,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "balrog skin upl armaduras armaduras corporales elite"
+      "search": "balrog skin upl armor body armor elite"
     },
     {
       "id": 185,
@@ -13260,8 +13260,8 @@ window.D2_BASES = {
       "level": 76,
       "requiredLevel": 57,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -13282,7 +13282,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "earth spirit drd armaduras pelts de druida elite"
+      "search": "earth spirit drd armor druid pelts elite"
     },
     {
       "id": 218,
@@ -13292,8 +13292,8 @@ window.D2_BASES = {
       "level": 76,
       "requiredLevel": 57,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13314,7 +13314,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scourge 7fl armas mazas y martillos elite"
+      "search": "scourge 7fl weapons maces & hammers elite"
     },
     {
       "id": 213,
@@ -13324,8 +13324,8 @@ window.D2_BASES = {
       "level": 76,
       "requiredLevel": 57,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -13346,7 +13346,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "seraph rod 7qs armas cetros elite"
+      "search": "seraph rod 7qs weapons scepters elite"
     },
     {
       "id": 161,
@@ -13356,8 +13356,8 @@ window.D2_BASES = {
       "level": 76,
       "requiredLevel": 57,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13378,7 +13378,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "troll nest ush armaduras escudos elite"
+      "search": "troll nest ush armor shields elite"
     },
     {
       "id": 233,
@@ -13388,8 +13388,8 @@ window.D2_BASES = {
       "level": 77,
       "requiredLevel": 57,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -13410,7 +13410,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "champion sword 7b7 armas espadas elite"
+      "search": "champion sword 7b7 weapons swords elite"
     },
     {
       "id": 270,
@@ -13420,8 +13420,8 @@ window.D2_BASES = {
       "level": 77,
       "requiredLevel": 57,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13442,7 +13442,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "crusader bow 6l7 armas arcos elite"
+      "search": "crusader bow 6l7 weapons bows elite"
     },
     {
       "id": 242,
@@ -13452,8 +13452,8 @@ window.D2_BASES = {
       "level": 77,
       "requiredLevel": 57,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -13474,7 +13474,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "winged knife 7bk armas arrojadizas elite"
+      "search": "winged knife 7bk weapons throwing elite"
     },
     {
       "id": 227,
@@ -13484,8 +13484,8 @@ window.D2_BASES = {
       "level": 78,
       "requiredLevel": 58,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13506,7 +13506,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "conquest sword 7bs armas espadas elite"
+      "search": "conquest sword 7bs weapons swords elite"
     },
     {
       "id": 194,
@@ -13516,8 +13516,8 @@ window.D2_BASES = {
       "level": 78,
       "requiredLevel": 58,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -13538,7 +13538,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "feral claws 7lw armas garras de asesina elite"
+      "search": "feral claws 7lw weapons assassin claws elite"
     },
     {
       "id": 303,
@@ -13548,8 +13548,8 @@ window.D2_BASES = {
       "level": 78,
       "requiredLevel": 58,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13570,7 +13570,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "grand matron bow amc armas armas de amazona elite"
+      "search": "grand matron bow amc weapons amazon weapons elite"
     },
     {
       "id": 133,
@@ -13580,8 +13580,8 @@ window.D2_BASES = {
       "level": 78,
       "requiredLevel": 59,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13602,7 +13602,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hellforge plate ult armaduras armaduras corporales elite"
+      "search": "hellforge plate ult armor body armor elite"
     },
     {
       "id": 143,
@@ -13612,8 +13612,8 @@ window.D2_BASES = {
       "level": 79,
       "requiredLevel": 59,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13634,7 +13634,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "aegis uow armaduras escudos elite"
+      "search": "aegis uow armor shields elite"
     },
     {
       "id": 257,
@@ -13644,8 +13644,8 @@ window.D2_BASES = {
       "level": 79,
       "requiredLevel": 59,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13666,7 +13666,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cryptic axe 7pa armas armas de asta elite"
+      "search": "cryptic axe 7pa weapons polearms elite"
     },
     {
       "id": 247,
@@ -13676,8 +13676,8 @@ window.D2_BASES = {
       "level": 79,
       "requiredLevel": 59,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -13698,7 +13698,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ghost glaive 7gl armas jabalinas elite"
+      "search": "ghost glaive 7gl weapons javelins elite"
     },
     {
       "id": 121,
@@ -13708,8 +13708,8 @@ window.D2_BASES = {
       "level": 79,
       "requiredLevel": 59,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -13730,7 +13730,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "spired helm uhm armaduras cascos elite"
+      "search": "spired helm uhm armor helms elite"
     },
     {
       "id": 200,
@@ -13740,8 +13740,8 @@ window.D2_BASES = {
       "level": 79,
       "requiredLevel": 59,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13762,7 +13762,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war spike 7mp armas hachas elite"
+      "search": "war spike 7mp weapons axes elite"
     },
     {
       "id": 234,
@@ -13772,8 +13772,8 @@ window.D2_BASES = {
       "level": 80,
       "requiredLevel": 60,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13794,7 +13794,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "colossal sword 7fb armas espadas elite"
+      "search": "colossal sword 7fb weapons swords elite"
     },
     {
       "id": 191,
@@ -13804,8 +13804,8 @@ window.D2_BASES = {
       "level": 80,
       "requiredLevel": 60,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -13826,7 +13826,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "conqueror crown bae armaduras cascos de barbaro elite"
+      "search": "conqueror crown bae armor barbarian helms elite"
     },
     {
       "id": 271,
@@ -13836,8 +13836,8 @@ window.D2_BASES = {
       "level": 80,
       "requiredLevel": 60,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13858,7 +13858,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ward bow 6sw armas arcos elite"
+      "search": "ward bow 6sw weapons bows elite"
     },
     {
       "id": 243,
@@ -13868,8 +13868,8 @@ window.D2_BASES = {
       "level": 80,
       "requiredLevel": 60,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arrojadizas",
+      "family": "Weapons",
+      "subtype": "Throwing",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13890,7 +13890,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "winged axe 7b8 armas arrojadizas elite"
+      "search": "winged axe 7b8 weapons throwing elite"
     },
     {
       "id": 216,
@@ -13900,8 +13900,8 @@ window.D2_BASES = {
       "level": 81,
       "requiredLevel": 60,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -13922,7 +13922,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blasphemous compendium wae armaduras grimorios elite"
+      "search": "blasphemous compendium wae armor grimoires elite"
     },
     {
       "id": 305,
@@ -13932,8 +13932,8 @@ window.D2_BASES = {
       "level": 81,
       "requiredLevel": 60,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -13954,7 +13954,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "matriarchal pike ame armas armas de amazona elite"
+      "search": "matriarchal pike ame weapons amazon weapons elite"
     },
     {
       "id": 195,
@@ -13964,8 +13964,8 @@ window.D2_BASES = {
       "level": 81,
       "requiredLevel": 60,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -13986,7 +13986,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "runic talons 7tw armas garras de asesina elite"
+      "search": "runic talons 7tw weapons assassin claws elite"
     },
     {
       "id": 201,
@@ -13996,8 +13996,8 @@ window.D2_BASES = {
       "level": 81,
       "requiredLevel": 60,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14018,7 +14018,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "succubus skull nee armaduras cabezas de necromante elite"
+      "search": "succubus skull nee armor necromancer heads elite"
     },
     {
       "id": 134,
@@ -14028,8 +14028,8 @@ window.D2_BASES = {
       "level": 81,
       "requiredLevel": 61,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14050,7 +14050,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "kraken shell uld armaduras armaduras corporales elite"
+      "search": "kraken shell uld armor body armor elite"
     },
     {
       "id": 205,
@@ -14060,8 +14060,8 @@ window.D2_BASES = {
       "level": 82,
       "requiredLevel": 61,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14082,7 +14082,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "champion axe 7ga armas hachas elite"
+      "search": "champion axe 7ga weapons axes elite"
     },
     {
       "id": 228,
@@ -14092,8 +14092,8 @@ window.D2_BASES = {
       "level": 82,
       "requiredLevel": 61,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14114,7 +14114,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "cryptic sword 7ls armas espadas elite"
+      "search": "cryptic sword 7ls weapons swords elite"
     },
     {
       "id": 219,
@@ -14124,8 +14124,8 @@ window.D2_BASES = {
       "level": 82,
       "requiredLevel": 61,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14146,7 +14146,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "legendary mallet 7wh armas mazas y martillos elite"
+      "search": "legendary mallet 7wh weapons maces & hammers elite"
     },
     {
       "id": 196,
@@ -14156,8 +14156,8 @@ window.D2_BASES = {
       "level": 82,
       "requiredLevel": 61,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14178,7 +14178,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "zakarum shield pae armaduras escudos de paladin elite"
+      "search": "zakarum shield pae armor paladin shields elite"
     },
     {
       "id": 135,
@@ -14188,8 +14188,8 @@ window.D2_BASES = {
       "level": 82,
       "requiredLevel": 62,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14210,7 +14210,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "lacquered plate uth armaduras armaduras corporales elite"
+      "search": "lacquered plate uth armor body armor elite"
     },
     {
       "id": 238,
@@ -14220,8 +14220,8 @@ window.D2_BASES = {
       "level": 83,
       "requiredLevel": 62,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -14242,7 +14242,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "fanged knife 7kr armas dagas elite"
+      "search": "fanged knife 7kr weapons daggers elite"
     },
     {
       "id": 252,
@@ -14252,8 +14252,8 @@ window.D2_BASES = {
       "level": 83,
       "requiredLevel": 62,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14274,7 +14274,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ghost spear 7st armas lanzas elite"
+      "search": "ghost spear 7st weapons spears elite"
     },
     {
       "id": 263,
@@ -14284,8 +14284,8 @@ window.D2_BASES = {
       "level": 83,
       "requiredLevel": 62,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -14306,7 +14306,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "shillelagh 6bs armas bastones elite"
+      "search": "shillelagh 6bs weapons staves elite"
     },
     {
       "id": 186,
@@ -14316,8 +14316,8 @@ window.D2_BASES = {
       "level": 83,
       "requiredLevel": 62,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14338,7 +14338,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sky spirit dre armaduras pelts de druida elite"
+      "search": "sky spirit dre armor druid pelts elite"
     },
     {
       "id": 138,
@@ -14348,8 +14348,8 @@ window.D2_BASES = {
       "level": 84,
       "requiredLevel": 63,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14370,7 +14370,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "archon plate utp armaduras armaduras corporales elite"
+      "search": "archon plate utp armor body armor elite"
     },
     {
       "id": 160,
@@ -14380,8 +14380,8 @@ window.D2_BASES = {
       "level": 84,
       "requiredLevel": 63,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14402,7 +14402,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bone visage uh9 armaduras cascos elite"
+      "search": "bone visage uh9 armor helms elite"
     },
     {
       "id": 276,
@@ -14412,8 +14412,8 @@ window.D2_BASES = {
       "level": 84,
       "requiredLevel": 63,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Ballestas",
+      "family": "Weapons",
+      "subtype": "Crossbows",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14434,7 +14434,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "demon crossbow 6rx armas ballestas elite"
+      "search": "demon crossbow 6rx weapons crossbows elite"
     },
     {
       "id": 258,
@@ -14444,8 +14444,8 @@ window.D2_BASES = {
       "level": 84,
       "requiredLevel": 63,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14466,7 +14466,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "great poleaxe 7h7 armas armas de asta elite"
+      "search": "great poleaxe 7h7 weapons polearms elite"
     },
     {
       "id": 300,
@@ -14476,8 +14476,8 @@ window.D2_BASES = {
       "level": 84,
       "requiredLevel": 63,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -14498,7 +14498,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "vortex orb obe armas orbes de hechicera elite"
+      "search": "vortex orb obe weapons sorceress orbs elite"
     },
     {
       "id": 144,
@@ -14508,8 +14508,8 @@ window.D2_BASES = {
       "level": 84,
       "requiredLevel": 63,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14530,7 +14530,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "ward uts armaduras escudos elite"
+      "search": "ward uts armor shields elite"
     },
     {
       "id": 235,
@@ -14540,8 +14540,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 63,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14562,7 +14562,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "colossus blade 7gd armas espadas elite"
+      "search": "colossus blade 7gd weapons swords elite"
     },
     {
       "id": 272,
@@ -14572,8 +14572,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 63,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14594,7 +14594,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "hydra bow 6lw armas arcos elite"
+      "search": "hydra bow 6lw weapons bows elite"
     },
     {
       "id": 136,
@@ -14604,8 +14604,8 @@ window.D2_BASES = {
       "level": 83,
       "requiredLevel": 64,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14626,7 +14626,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "shadow plate uul armaduras armaduras corporales elite"
+      "search": "shadow plate uul armor body armor elite"
     },
     {
       "id": 201,
@@ -14636,8 +14636,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 64,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14658,7 +14658,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "berserker axe 7wa armas hachas elite"
+      "search": "berserker axe 7wa weapons axes elite"
     },
     {
       "id": 116,
@@ -14668,8 +14668,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 64,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Diademas y circlets",
+      "family": "Armor",
+      "subtype": "Circlets",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14690,7 +14690,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "diadem ci3 armaduras diademas y circlets elite"
+      "search": "diadem ci3 armor circlets elite"
     },
     {
       "id": 196,
@@ -14700,8 +14700,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 64,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -14722,7 +14722,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "scissors suwayyah 7qr armas garras de asesina elite"
+      "search": "scissors suwayyah 7qr weapons assassin claws elite"
     },
     {
       "id": 210,
@@ -14732,8 +14732,8 @@ window.D2_BASES = {
       "level": 86,
       "requiredLevel": 64,
       "rarity": 1,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Elite",
       "width": 1,
       "height": 2,
@@ -14754,7 +14754,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "unearthed wand 7gw armas varitas elite"
+      "search": "unearthed wand 7gw weapons wands elite"
     },
     {
       "id": 217,
@@ -14764,8 +14764,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 65,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14786,7 +14786,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "blasphemous grimoire waf armaduras grimorios elite"
+      "search": "blasphemous grimoire waf armor grimoires elite"
     },
     {
       "id": 202,
@@ -14796,8 +14796,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 65,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14818,7 +14818,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "bloodlord skull nef armaduras cabezas de necromante elite"
+      "search": "bloodlord skull nef armor necromancer heads elite"
     },
     {
       "id": 192,
@@ -14828,8 +14828,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 65,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14850,7 +14850,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "guardian crown baf armaduras cascos de barbaro elite"
+      "search": "guardian crown baf armor barbarian helms elite"
     },
     {
       "id": 221,
@@ -14860,8 +14860,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 65,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14882,7 +14882,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "thunder maul 7gm armas mazas y martillos elite"
+      "search": "thunder maul 7gm weapons maces & hammers elite"
     },
     {
       "id": 248,
@@ -14892,8 +14892,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 65,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Jabalinas",
+      "family": "Weapons",
+      "subtype": "Javelins",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -14914,7 +14914,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "winged harpoon 7ts armas jabalinas elite"
+      "search": "winged harpoon 7ts weapons javelins elite"
     },
     {
       "id": 264,
@@ -14924,8 +14924,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 2,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -14946,7 +14946,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "archon staff 6ws armas bastones elite"
+      "search": "archon staff 6ws weapons staves elite"
     },
     {
       "id": 214,
@@ -14956,8 +14956,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14978,7 +14978,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "caduceus 7ws armas cetros elite"
+      "search": "caduceus 7ws weapons scepters elite"
     },
     {
       "id": 122,
@@ -14988,8 +14988,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -15010,7 +15010,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "corona urn armaduras cascos elite"
+      "search": "corona urn armor helms elite"
     },
     {
       "id": 301,
@@ -15020,8 +15020,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 5,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -15042,7 +15042,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dimensional shard obf armas orbes de hechicera elite"
+      "search": "dimensional shard obf weapons sorceress orbs elite"
     },
     {
       "id": 187,
@@ -15052,8 +15052,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 1,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -15074,7 +15074,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "dream spirit drf armaduras pelts de druida elite"
+      "search": "dream spirit drf armor druid pelts elite"
     },
     {
       "id": 259,
@@ -15084,8 +15084,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Armas de asta",
+      "family": "Weapons",
+      "subtype": "Polearms",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -15106,7 +15106,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "giant thresher 7wc armas armas de asta elite"
+      "search": "giant thresher 7wc weapons polearms elite"
     },
     {
       "id": 206,
@@ -15116,8 +15116,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -15138,7 +15138,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "glorious axe 7gi armas hachas elite"
+      "search": "glorious axe 7gi weapons axes elite"
     },
     {
       "id": 239,
@@ -15148,8 +15148,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 3,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -15170,7 +15170,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "legend spike 7bl armas dagas elite"
+      "search": "legend spike 7bl weapons daggers elite"
     },
     {
       "id": 229,
@@ -15180,8 +15180,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -15202,7 +15202,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "mythical sword 7wd armas espadas elite"
+      "search": "mythical sword 7wd weapons swords elite"
     },
     {
       "id": 137,
@@ -15212,8 +15212,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 4,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -15234,7 +15234,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "sacred armor uar armaduras armaduras corporales elite"
+      "search": "sacred armor uar armor body armor elite"
     },
     {
       "id": 197,
@@ -15244,8 +15244,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 2,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -15266,7 +15266,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "vortex shield paf armaduras escudos de paladin elite"
+      "search": "vortex shield paf armor paladin shields elite"
     },
     {
       "id": 253,
@@ -15276,8 +15276,8 @@ window.D2_BASES = {
       "level": 85,
       "requiredLevel": 66,
       "rarity": 4,
-      "family": "Armas",
-      "subtype": "Lanzas",
+      "family": "Weapons",
+      "subtype": "Spears",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -15298,7 +15298,7 @@ window.D2_BASES = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": false,
-      "search": "war pike 7p7 armas lanzas elite"
+      "search": "war pike 7p7 weapons spears elite"
     }
   ]
 };

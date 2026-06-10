@@ -34,25 +34,25 @@ function range(min, max) {
 
 function getFamily(base) {
   const armorTypes = ["helm", "tors", "shie", "boot", "glov", "belt", "circ", "pelt", "phlm", "head", "ashd", "grim"];
-  if (armorTypes.includes(base.type) || asNumber(base.armorclass) > 0) return "Armaduras";
-  if ([asNumber(base.mindam), asNumber(base.maxdam), asNumber(base["2handmindam"]), asNumber(base["2handmaxdam"])].some((value) => value > 0)) return "Armas";
-  return "Otros";
+  if (armorTypes.includes(base.type) || asNumber(base.armorclass) > 0) return "Armor";
+  if ([asNumber(base.mindam), asNumber(base.maxdam), asNumber(base["2handmindam"]), asNumber(base["2handmaxdam"])].some((value) => value > 0)) return "Weapons";
+  return "Other";
 }
 
 function getSubtype(base) {
   const type = itemTypes[base.type] || {};
-  const itemType = type.ItemType || base.type || "Otros";
+  const itemType = type.ItemType || base.type || "Other";
   const ui = type.UICategory || "";
-  const armorSubtypes = { armor: "Armaduras corporales", helms: "Cascos", circl: "Diademas y circlets", belts: "Cintos", boots: "Botas", glove: "Guantes", shlds: "Escudos", palad: "Escudos de paladin", necro: "Cabezas de necromante", druid: "Pelts de druida", barbh: "Cascos de barbaro", warlo: "Grimorios" };
-  const weaponSubtypes = { axes: "Hachas", sword: "Espadas", maces: "Mazas y martillos", daggs: "Dagas", scept: "Cetros", wands: "Varitas", stave: "Bastones", bows: "Arcos", xbows: "Ballestas", spear: "Lanzas", poles: "Armas de asta", javel: "Jabalinas", throw: "Arrojadizas", assas: "Garras de asesina", sorce: "Orbes de hechicera", amazo: "Armas de amazona" };
+  const armorSubtypes = { armor: "Body Armor", helms: "Helms", circl: "Circlets", belts: "Belts", boots: "Boots", glove: "Gloves", shlds: "Shields", palad: "Paladin Shields", necro: "Necromancer Heads", druid: "Druid Pelts", barbh: "Barbarian Helms", warlo: "Grimoires" };
+  const weaponSubtypes = { axes: "Axes", sword: "Swords", maces: "Maces & Hammers", daggs: "Daggers", scept: "Scepters", wands: "Wands", stave: "Staves", bows: "Bows", xbows: "Crossbows", spear: "Spears", poles: "Polearms", javel: "Javelins", throw: "Throwing", assas: "Assassin Claws", sorce: "Sorceress Orbs", amazo: "Amazon Weapons" };
   return armorSubtypes[ui] || weaponSubtypes[ui] || itemType;
 }
 
 function getTier(code, base) {
   if (code === base.normcode) return "Normal";
-  if (code === base.ubercode) return "Excepcional";
+  if (code === base.ubercode) return "Exceptional";
   if (code === base.ultracode) return "Elite";
-  return "Especial";
+  return "Special";
 }
 
 function damage(a, b) {
@@ -80,7 +80,7 @@ function getStats(base) {
 const bases = Object.values(baseItems)
   .filter((base) => base && base.code && base.name && base.spawnable !== 0 && base.hasinv !== 0)
   .map((base) => ({ base, family: getFamily(base) }))
-  .filter(({ family }) => family === "Armas" || family === "Armaduras")
+  .filter(({ family }) => family === "Weapons" || family === "Armor")
   .map(({ base, family }) => {
     const invfile = clean(base.invfile) || base.code;
     return {

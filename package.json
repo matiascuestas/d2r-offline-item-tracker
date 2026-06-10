@@ -1,16 +1,24 @@
 {
-  "name": "web",
+  "name": "d2r-offline-item-tracker",
   "version": "1.0.0",
-  "description": "Catalogo web local de items de Diablo II Resurrected",
-  "main": "scripts/generate-uniques.js",
+  "description": "Local item catalog and Holy Grail tracker for Diablo II: Resurrected single player",
+  "main": "scripts/server.js",
   "scripts": {
     "generate": "node scripts/generate-uniques.js && node scripts/generate-sets.js && node scripts/generate-bases.js && node scripts/generate-runewords.js",
     "import-images": "node scripts/import-images.js",
-    "start": "node scripts/server.js"
+    "start": "node scripts/server.js",
+    "shortcut": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/create-shortcut.ps1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "diablo-2",
+    "diablo-2-resurrected",
+    "d2r",
+    "holy-grail",
+    "item-tracker",
+    "single-player"
+  ],
+  "author": "Matias Cuestas",
+  "license": "MIT",
   "dependencies": {
     "@blizzhackers/d2data": "^3.2.92777",
     "@d2runewizard/d2s": "^2.0.132"

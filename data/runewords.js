@@ -1,5 +1,5 @@
 window.D2_RUNEWORDS = {
-  "generatedAt": "2026-06-09T23:51:39.201Z",
+  "generatedAt": "2026-06-10T01:27:09.639Z",
   "source": "@blizzhackers/d2data 3.2.92777",
   "section": "Runewords",
   "count": 94,
@@ -12,8 +12,8 @@ window.D2_RUNEWORDS = {
       "level": 13,
       "requiredLevel": 13,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -37,8 +37,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "Patch 1.09",
@@ -47,7 +47,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Nef + Tir",
+          "text": "Runes: Nef + Tir",
           "variable": false
         },
         {
@@ -55,7 +55,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -120,8 +120,8 @@ window.D2_RUNEWORDS = {
       "level": 13,
       "requiredLevel": 13,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Hachas / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Axes / Maces & Hammers",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -145,20 +145,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         },
         {
           "code": "mace",
           "name": "Mace",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Patch 1.09",
@@ -167,7 +167,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tir + El",
+          "text": "Runes: Tir + El",
           "variable": false
         },
         {
@@ -175,7 +175,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -232,7 +232,7 @@ window.D2_RUNEWORDS = {
       "level": 15,
       "requiredLevel": 15,
       "rarity": null,
-      "family": "Armas melee",
+      "family": "Melee Weapons",
       "subtype": "Melee Weapon",
       "tier": "3 sockets",
       "width": 1,
@@ -263,7 +263,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "mele",
           "name": "Melee Weapon",
-          "family": "Armas melee",
+          "family": "Melee Weapons",
           "subtype": "Melee Weapon"
         }
       ],
@@ -273,7 +273,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ith + El + Eth",
+          "text": "Runes: Ith + El + Eth",
           "variable": false
         },
         {
@@ -281,7 +281,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -346,8 +346,8 @@ window.D2_RUNEWORDS = {
       "level": 17,
       "requiredLevel": 17,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -371,8 +371,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.09",
@@ -381,7 +381,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tal + Eth",
+          "text": "Runes: Tal + Eth",
           "variable": false
         },
         {
@@ -389,7 +389,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -454,8 +454,8 @@ window.D2_RUNEWORDS = {
       "level": 19,
       "requiredLevel": 19,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Bastones",
+      "family": "Melee Weapons",
+      "subtype": "Staves",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -479,8 +479,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "staf",
           "name": "Staff",
-          "family": "Armas melee",
-          "subtype": "Bastones"
+          "family": "Melee Weapons",
+          "subtype": "Staves"
         }
       ],
       "patch": "Patch 1.09",
@@ -489,7 +489,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tir + Ral",
+          "text": "Runes: Tir + Ral",
           "variable": false
         },
         {
@@ -497,7 +497,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -562,7 +562,7 @@ window.D2_RUNEWORDS = {
       "level": 21,
       "requiredLevel": 21,
       "rarity": null,
-      "family": "Escudos y offhands",
+      "family": "Shields & Offhands",
       "subtype": "Any Shield",
       "tier": "3 sockets",
       "width": 1,
@@ -593,7 +593,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -603,7 +603,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ral + Ort + Tal",
+          "text": "Runes: Ral + Ort + Tal",
           "variable": false
         },
         {
@@ -611,7 +611,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -660,8 +660,8 @@ window.D2_RUNEWORDS = {
       "level": 21,
       "requiredLevel": 21,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Cetros",
+      "family": "Melee Weapons",
+      "subtype": "Scepters",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -697,8 +697,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "scep",
           "name": "Scepter",
-          "family": "Armas melee",
-          "subtype": "Cetros"
+          "family": "Melee Weapons",
+          "subtype": "Scepters"
         }
       ],
       "patch": "Patch 1.09",
@@ -707,7 +707,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Eth + Ral + Ort + Tal",
+          "text": "Runes: Eth + Ral + Ort + Tal",
           "variable": false
         },
         {
@@ -715,7 +715,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -788,7 +788,7 @@ window.D2_RUNEWORDS = {
       "level": 21,
       "requiredLevel": 21,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "2 sockets",
       "width": 1,
@@ -813,7 +813,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -823,7 +823,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ort + Eth",
+          "text": "Runes: Ort + Eth",
           "variable": false
         },
         {
@@ -831,7 +831,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -896,8 +896,8 @@ window.D2_RUNEWORDS = {
       "level": 23,
       "requiredLevel": 23,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Garras de asesina",
+      "family": "Melee Weapons",
+      "subtype": "Assassin Claws",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -927,8 +927,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "h2h",
           "name": "Hand to Hand",
-          "family": "Armas melee",
-          "subtype": "Garras de asesina"
+          "family": "Melee Weapons",
+          "subtype": "Assassin Claws"
         }
       ],
       "patch": "D2R Ladder 1",
@@ -937,7 +937,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tal + Ort + Thul",
+          "text": "Runes: Tal + Ort + Thul",
           "variable": false
         },
         {
@@ -945,7 +945,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {
@@ -1018,7 +1018,7 @@ window.D2_RUNEWORDS = {
       "level": 25,
       "requiredLevel": 25,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "3 sockets",
       "width": 1,
@@ -1049,7 +1049,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -1059,7 +1059,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tir + Tal + Amn",
+          "text": "Runes: Tir + Tal + Amn",
           "variable": false
         },
         {
@@ -1067,7 +1067,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -1140,8 +1140,8 @@ window.D2_RUNEWORDS = {
       "level": 25,
       "requiredLevel": 25,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Cetros",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Scepters",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -1171,14 +1171,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "scep",
           "name": "Scepter",
-          "family": "Armas melee",
-          "subtype": "Cetros"
+          "family": "Melee Weapons",
+          "subtype": "Scepters"
         }
       ],
       "patch": "Patch 1.09",
@@ -1187,7 +1187,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + Ral + Thul",
+          "text": "Runes: Amn + Ral + Thul",
           "variable": false
         },
         {
@@ -1195,7 +1195,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -1260,8 +1260,8 @@ window.D2_RUNEWORDS = {
       "level": 25,
       "requiredLevel": 25,
       "rarity": null,
-      "family": "Armas varias",
-      "subtype": "Espadas / Any Shield",
+      "family": "Various Weapons",
+      "subtype": "Swords / Any Shield",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -1297,13 +1297,13 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -1313,7 +1313,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tal + Thul + Ort + Amn",
+          "text": "Runes: Tal + Thul + Ort + Amn",
           "variable": false
         },
         {
@@ -1321,7 +1321,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -1394,7 +1394,7 @@ window.D2_RUNEWORDS = {
       "level": 25,
       "requiredLevel": 25,
       "rarity": null,
-      "family": "Armas melee",
+      "family": "Melee Weapons",
       "subtype": "Melee Weapon",
       "tier": "2 sockets",
       "width": 1,
@@ -1419,7 +1419,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "mele",
           "name": "Melee Weapon",
-          "family": "Armas melee",
+          "family": "Melee Weapons",
           "subtype": "Melee Weapon"
         }
       ],
@@ -1429,7 +1429,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + Tir",
+          "text": "Runes: Amn + Tir",
           "variable": false
         },
         {
@@ -1437,7 +1437,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -1486,7 +1486,7 @@ window.D2_RUNEWORDS = {
       "level": 27,
       "requiredLevel": 27,
       "rarity": null,
-      "family": "Armas melee",
+      "family": "Melee Weapons",
       "subtype": "Melee Weapon",
       "tier": "5 sockets",
       "width": 1,
@@ -1529,7 +1529,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "mele",
           "name": "Melee Weapon",
-          "family": "Armas melee",
+          "family": "Melee Weapons",
           "subtype": "Melee Weapon"
         }
       ],
@@ -1539,7 +1539,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + El + Ith + Tir + Sol",
+          "text": "Runes: Amn + El + Ith + Tir + Sol",
           "variable": false
         },
         {
@@ -1547,7 +1547,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -1612,8 +1612,8 @@ window.D2_RUNEWORDS = {
       "level": 27,
       "requiredLevel": 27,
       "rarity": null,
-      "family": "Armas varias",
-      "subtype": "Armas de asta / Bastones / Missile Weapon",
+      "family": "Various Weapons",
+      "subtype": "Polearms / Staves / Missile Weapon",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -1649,19 +1649,19 @@ window.D2_RUNEWORDS = {
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "staf",
           "name": "Staff",
-          "family": "Armas melee",
-          "subtype": "Bastones"
+          "family": "Melee Weapons",
+          "subtype": "Staves"
         },
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -1671,7 +1671,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ral + Tir + Tal + Sol",
+          "text": "Runes: Ral + Tir + Tal + Sol",
           "variable": false
         },
         {
@@ -1679,7 +1679,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -1752,8 +1752,8 @@ window.D2_RUNEWORDS = {
       "level": 27,
       "requiredLevel": 27,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -1777,8 +1777,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "Patch 1.09",
@@ -1787,7 +1787,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ort + Sol",
+          "text": "Runes: Ort + Sol",
           "variable": false
         },
         {
@@ -1795,7 +1795,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -1844,8 +1844,8 @@ window.D2_RUNEWORDS = {
       "level": 27,
       "requiredLevel": 27,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -1875,8 +1875,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "Patch 1.09",
@@ -1885,7 +1885,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Nef + Sol + Ith",
+          "text": "Runes: Nef + Sol + Ith",
           "variable": false
         },
         {
@@ -1893,7 +1893,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -1958,8 +1958,8 @@ window.D2_RUNEWORDS = {
       "level": 29,
       "requiredLevel": 29,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -1989,8 +1989,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -1999,7 +1999,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Thul + Amn",
+          "text": "Runes: Shael + Thul + Amn",
           "variable": false
         },
         {
@@ -2007,7 +2007,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -2056,7 +2056,7 @@ window.D2_RUNEWORDS = {
       "level": 29,
       "requiredLevel": 29,
       "rarity": null,
-      "family": "Escudos y offhands",
+      "family": "Shields & Offhands",
       "subtype": "Any Shield",
       "tier": "2 sockets",
       "width": 1,
@@ -2081,7 +2081,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -2091,7 +2091,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Eth",
+          "text": "Runes: Shael + Eth",
           "variable": false
         },
         {
@@ -2099,7 +2099,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -2164,8 +2164,8 @@ window.D2_RUNEWORDS = {
       "level": 33,
       "requiredLevel": 33,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2195,8 +2195,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -2205,7 +2205,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Hel + Amn + Nef",
+          "text": "Runes: Hel + Amn + Nef",
           "variable": false
         },
         {
@@ -2213,7 +2213,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -2262,8 +2262,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2293,20 +2293,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "club",
           "name": "Club",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         },
         {
           "code": "hamm",
           "name": "Hammer",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         },
         {
           "code": "mace",
           "name": "Mace",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Patch 1.09",
@@ -2315,7 +2315,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Thul + Io + Nef",
+          "text": "Runes: Thul + Io + Nef",
           "variable": false
         },
         {
@@ -2323,7 +2323,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -2388,8 +2388,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2419,8 +2419,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -2429,7 +2429,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Io + Sol",
+          "text": "Runes: Shael + Io + Sol",
           "variable": false
         },
         {
@@ -2437,7 +2437,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -2494,8 +2494,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2525,8 +2525,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -2535,7 +2535,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Io + Tal",
+          "text": "Runes: Shael + Io + Tal",
           "variable": false
         },
         {
@@ -2543,7 +2543,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -2600,8 +2600,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2631,8 +2631,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -2641,7 +2641,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Io + Ort",
+          "text": "Runes: Shael + Io + Ort",
           "variable": false
         },
         {
@@ -2649,7 +2649,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -2698,8 +2698,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2729,8 +2729,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -2739,7 +2739,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Io + Thul",
+          "text": "Runes: Shael + Io + Thul",
           "variable": false
         },
         {
@@ -2747,7 +2747,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -2804,8 +2804,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -2835,8 +2835,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -2845,7 +2845,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Io + Ral",
+          "text": "Runes: Shael + Io + Ral",
           "variable": false
         },
         {
@@ -2853,7 +2853,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -2902,8 +2902,8 @@ window.D2_RUNEWORDS = {
       "level": 35,
       "requiredLevel": 35,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Varitas",
+      "family": "Melee Weapons",
+      "subtype": "Wands",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -2927,8 +2927,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "wand",
           "name": "Wand",
-          "family": "Armas melee",
-          "subtype": "Varitas"
+          "family": "Melee Weapons",
+          "subtype": "Wands"
         }
       ],
       "patch": "Patch 1.09",
@@ -2937,7 +2937,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Dol + Io",
+          "text": "Runes: Dol + Io",
           "variable": false
         },
         {
@@ -2945,7 +2945,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -3018,8 +3018,8 @@ window.D2_RUNEWORDS = {
       "level": 37,
       "requiredLevel": 37,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Bastones",
+      "family": "Melee Weapons",
+      "subtype": "Staves",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -3055,8 +3055,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "staf",
           "name": "Staff",
-          "family": "Armas melee",
-          "subtype": "Bastones"
+          "family": "Melee Weapons",
+          "subtype": "Staves"
         }
       ],
       "patch": "Patch 1.09",
@@ -3065,7 +3065,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Lum + Io + Sol + Eth",
+          "text": "Runes: Lum + Io + Sol + Eth",
           "variable": false
         },
         {
@@ -3073,7 +3073,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -3146,8 +3146,8 @@ window.D2_RUNEWORDS = {
       "level": 37,
       "requiredLevel": 37,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -3171,8 +3171,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.09",
@@ -3181,7 +3181,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Nef + Lum",
+          "text": "Runes: Nef + Lum",
           "variable": false
         },
         {
@@ -3189,7 +3189,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -3254,7 +3254,7 @@ window.D2_RUNEWORDS = {
       "level": 37,
       "requiredLevel": 37,
       "rarity": null,
-      "family": "Escudos y offhands",
+      "family": "Shields & Offhands",
       "subtype": "Any Shield",
       "tier": "2 sockets",
       "width": 1,
@@ -3279,7 +3279,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -3289,7 +3289,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Eth + Lum",
+          "text": "Runes: Eth + Lum",
           "variable": false
         },
         {
@@ -3297,7 +3297,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -3370,7 +3370,7 @@ window.D2_RUNEWORDS = {
       "level": 39,
       "requiredLevel": 39,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -3407,7 +3407,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -3417,7 +3417,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tir + Ith + Sol + Ko",
+          "text": "Runes: Tir + Ith + Sol + Ko",
           "variable": false
         },
         {
@@ -3425,7 +3425,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -3498,8 +3498,8 @@ window.D2_RUNEWORDS = {
       "level": 39,
       "requiredLevel": 39,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -3529,8 +3529,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -3539,7 +3539,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Ko + Eld",
+          "text": "Runes: Shael + Ko + Eld",
           "variable": false
         },
         {
@@ -3547,7 +3547,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -3604,7 +3604,7 @@ window.D2_RUNEWORDS = {
       "level": 39,
       "requiredLevel": 39,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "3 sockets",
       "width": 1,
@@ -3635,7 +3635,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -3645,7 +3645,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Ko + Eld",
+          "text": "Runes: Shael + Ko + Eld",
           "variable": false
         },
         {
@@ -3653,7 +3653,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -3702,7 +3702,7 @@ window.D2_RUNEWORDS = {
       "level": 39,
       "requiredLevel": 39,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "3 sockets",
       "width": 1,
@@ -3733,7 +3733,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -3743,7 +3743,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Ko + Nef",
+          "text": "Runes: Shael + Ko + Nef",
           "variable": false
         },
         {
@@ -3751,7 +3751,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -3816,8 +3816,8 @@ window.D2_RUNEWORDS = {
       "level": 41,
       "requiredLevel": 41,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -3847,8 +3847,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.09",
@@ -3857,7 +3857,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Hel + Lum + Fal",
+          "text": "Runes: Hel + Lum + Fal",
           "variable": false
         },
         {
@@ -3865,7 +3865,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -3930,8 +3930,8 @@ window.D2_RUNEWORDS = {
       "level": 41,
       "requiredLevel": 41,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Armas de asta / Lanzas",
+      "family": "Melee Weapons",
+      "subtype": "Polearms / Spears",
       "tier": "5 sockets",
       "width": 1,
       "height": 1,
@@ -3973,14 +3973,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "spea",
           "name": "Spear",
-          "family": "Armas melee",
-          "subtype": "Lanzas"
+          "family": "Melee Weapons",
+          "subtype": "Spears"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -3989,7 +3989,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Hel + Ko + Thul + Eth + Fal",
+          "text": "Runes: Hel + Ko + Thul + Eth + Fal",
           "variable": false
         },
         {
@@ -3997,7 +3997,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -4070,8 +4070,8 @@ window.D2_RUNEWORDS = {
       "level": 41,
       "requiredLevel": 41,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas",
+      "family": "Melee Weapons",
+      "subtype": "Swords",
       "tier": "6 sockets",
       "width": 1,
       "height": 1,
@@ -4119,8 +4119,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         }
       ],
       "patch": "D2R Ladder 1",
@@ -4129,7 +4129,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Fal + Io + Ith + Eld + El + Hel",
+          "text": "Runes: Fal + Io + Ith + Eld + El + Hel",
           "variable": false
         },
         {
@@ -4137,7 +4137,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {
@@ -4210,8 +4210,8 @@ window.D2_RUNEWORDS = {
       "level": 43,
       "requiredLevel": 43,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Mazas y martillos / Cetros",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Maces & Hammers / Scepters",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -4241,20 +4241,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "hamm",
           "name": "Hammer",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         },
         {
           "code": "scep",
           "name": "Scepter",
-          "family": "Armas melee",
-          "subtype": "Cetros"
+          "family": "Melee Weapons",
+          "subtype": "Scepters"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -4263,7 +4263,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + Lem + Ko",
+          "text": "Runes: Amn + Lem + Ko",
           "variable": false
         },
         {
@@ -4271,7 +4271,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -4344,7 +4344,7 @@ window.D2_RUNEWORDS = {
       "level": 43,
       "requiredLevel": 43,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -4381,7 +4381,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -4391,7 +4391,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Dol + Ort + Eld + Lem",
+          "text": "Runes: Dol + Ort + Eld + Lem",
           "variable": false
         },
         {
@@ -4399,7 +4399,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -4472,8 +4472,8 @@ window.D2_RUNEWORDS = {
       "level": 43,
       "requiredLevel": 43,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -4503,8 +4503,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -4513,7 +4513,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Thul + Lem",
+          "text": "Runes: Shael + Thul + Lem",
           "variable": false
         },
         {
@@ -4521,7 +4521,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -4570,8 +4570,8 @@ window.D2_RUNEWORDS = {
       "level": 43,
       "requiredLevel": 43,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Maces & Hammers",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -4607,14 +4607,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "mace",
           "name": "Mace",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -4623,7 +4623,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Lem + Ko + El + Eld",
+          "text": "Runes: Lem + Ko + El + Eld",
           "variable": false
         },
         {
@@ -4631,7 +4631,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -4704,8 +4704,8 @@ window.D2_RUNEWORDS = {
       "level": 43,
       "requiredLevel": 43,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -4735,8 +4735,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.09",
@@ -4745,7 +4745,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Lem + Ko + Tir",
+          "text": "Runes: Lem + Ko + Tir",
           "variable": false
         },
         {
@@ -4753,7 +4753,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -4786,8 +4786,8 @@ window.D2_RUNEWORDS = {
       "level": 45,
       "requiredLevel": 45,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -4817,8 +4817,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -4827,7 +4827,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Pul + Ral + Sol",
+          "text": "Runes: Pul + Ral + Sol",
           "variable": false
         },
         {
@@ -4835,7 +4835,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -4884,8 +4884,8 @@ window.D2_RUNEWORDS = {
       "level": 45,
       "requiredLevel": 45,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -4915,8 +4915,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 1",
@@ -4925,7 +4925,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Pul + Ith + Eld",
+          "text": "Runes: Pul + Ith + Eld",
           "variable": false
         },
         {
@@ -4933,7 +4933,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {
@@ -4998,8 +4998,8 @@ window.D2_RUNEWORDS = {
       "level": 47,
       "requiredLevel": 47,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -5029,8 +5029,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -5039,7 +5039,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Sol + Um + Um",
+          "text": "Runes: Sol + Um + Um",
           "variable": false
         },
         {
@@ -5047,7 +5047,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -5096,8 +5096,8 @@ window.D2_RUNEWORDS = {
       "level": 47,
       "requiredLevel": 47,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Hachas / Espadas / Armas de asta",
+      "family": "Melee Weapons",
+      "subtype": "Axes / Swords / Polearms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -5127,20 +5127,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         },
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         }
       ],
       "patch": "Patch 1.10",
@@ -5149,7 +5149,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Um + Tir",
+          "text": "Runes: Shael + Um + Tir",
           "variable": false
         },
         {
@@ -5157,7 +5157,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -5230,8 +5230,8 @@ window.D2_RUNEWORDS = {
       "level": 47,
       "requiredLevel": 47,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -5261,8 +5261,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -5271,7 +5271,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Um + Thul",
+          "text": "Runes: Shael + Um + Thul",
           "variable": false
         },
         {
@@ -5279,7 +5279,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -5352,8 +5352,8 @@ window.D2_RUNEWORDS = {
       "level": 47,
       "requiredLevel": 47,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -5383,8 +5383,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -5393,7 +5393,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Fal + Um + Pul",
+          "text": "Runes: Fal + Um + Pul",
           "variable": false
         },
         {
@@ -5401,7 +5401,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -5474,8 +5474,8 @@ window.D2_RUNEWORDS = {
       "level": 47,
       "requiredLevel": 47,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -5511,8 +5511,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -5521,7 +5521,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Um + Pul + Lum",
+          "text": "Runes: Shael + Um + Pul + Lum",
           "variable": false
         },
         {
@@ -5529,7 +5529,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -5602,8 +5602,8 @@ window.D2_RUNEWORDS = {
       "level": 49,
       "requiredLevel": 49,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Hachas / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Axes / Maces & Hammers",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -5639,20 +5639,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         },
         {
           "code": "mace",
           "name": "Mace",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -5661,7 +5661,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Shael + Pul + Mal + Lum",
+          "text": "Runes: Shael + Pul + Mal + Lum",
           "variable": false
         },
         {
@@ -5669,7 +5669,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -5742,8 +5742,8 @@ window.D2_RUNEWORDS = {
       "level": 49,
       "requiredLevel": 49,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "2 sockets",
       "width": 1,
       "height": 1,
@@ -5767,8 +5767,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -5777,7 +5777,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Mal + Tir",
+          "text": "Runes: Mal + Tir",
           "variable": false
         },
         {
@@ -5785,7 +5785,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -5858,8 +5858,8 @@ window.D2_RUNEWORDS = {
       "level": 49,
       "requiredLevel": 49,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -5889,8 +5889,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -5899,7 +5899,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ort + Mal + Ith",
+          "text": "Runes: Ort + Mal + Ith",
           "variable": false
         },
         {
@@ -5907,7 +5907,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -5956,7 +5956,7 @@ window.D2_RUNEWORDS = {
       "level": 49,
       "requiredLevel": 49,
       "rarity": null,
-      "family": "Escudos y offhands",
+      "family": "Shields & Offhands",
       "subtype": "Any Shield",
       "tier": "3 sockets",
       "width": 1,
@@ -5987,7 +5987,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -5997,7 +5997,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ko + Ko + Mal",
+          "text": "Runes: Ko + Ko + Mal",
           "variable": false
         },
         {
@@ -6005,7 +6005,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -6078,7 +6078,7 @@ window.D2_RUNEWORDS = {
       "level": 49,
       "requiredLevel": 49,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "3 sockets",
       "width": 1,
@@ -6109,7 +6109,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -6119,7 +6119,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Tal + Dol + Mal",
+          "text": "Runes: Tal + Dol + Mal",
           "variable": false
         },
         {
@@ -6127,7 +6127,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -6184,8 +6184,8 @@ window.D2_RUNEWORDS = {
       "level": 51,
       "requiredLevel": 51,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -6215,8 +6215,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "Patch 1.10",
@@ -6225,7 +6225,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Lem + Ist + Io",
+          "text": "Runes: Lem + Ist + Io",
           "variable": false
         },
         {
@@ -6233,7 +6233,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -6306,8 +6306,8 @@ window.D2_RUNEWORDS = {
       "level": 53,
       "requiredLevel": 53,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Hachas",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Axes",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -6343,14 +6343,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         }
       ],
       "patch": "Patch 1.10",
@@ -6359,7 +6359,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Mal + Um + Gul + Fal",
+          "text": "Runes: Mal + Um + Gul + Fal",
           "variable": false
         },
         {
@@ -6367,7 +6367,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -6440,8 +6440,8 @@ window.D2_RUNEWORDS = {
       "level": 53,
       "requiredLevel": 53,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Garras de asesina",
+      "family": "Melee Weapons",
+      "subtype": "Assassin Claws",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -6471,8 +6471,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "h2h",
           "name": "Hand to Hand",
-          "family": "Armas melee",
-          "subtype": "Garras de asesina"
+          "family": "Melee Weapons",
+          "subtype": "Assassin Claws"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -6481,7 +6481,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Mal + Gul + Amn",
+          "text": "Runes: Mal + Gul + Amn",
           "variable": false
         },
         {
@@ -6489,7 +6489,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -6562,8 +6562,8 @@ window.D2_RUNEWORDS = {
       "level": 53,
       "requiredLevel": 53,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -6593,8 +6593,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.11",
@@ -6603,7 +6603,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ral + Gul + Eld",
+          "text": "Runes: Ral + Gul + Eld",
           "variable": false
         },
         {
@@ -6611,7 +6611,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.11",
+          "text": "Availability: Patch 1.11",
           "variable": false
         },
         {
@@ -6660,8 +6660,8 @@ window.D2_RUNEWORDS = {
       "level": 53,
       "requiredLevel": 53,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Armas de asta / Cetros",
+      "family": "Melee Weapons",
+      "subtype": "Polearms / Scepters",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -6697,14 +6697,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "scep",
           "name": "Scepter",
-          "family": "Armas melee",
-          "subtype": "Cetros"
+          "family": "Melee Weapons",
+          "subtype": "Scepters"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -6713,7 +6713,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Hel + Ko + Lem + Gul",
+          "text": "Runes: Hel + Ko + Lem + Gul",
           "variable": false
         },
         {
@@ -6721,7 +6721,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -6794,8 +6794,8 @@ window.D2_RUNEWORDS = {
       "level": 55,
       "requiredLevel": 55,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Hachas",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Axes",
       "tier": "5 sockets",
       "width": 1,
       "height": 1,
@@ -6837,14 +6837,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -6853,7 +6853,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Hel + El + Vex + Ort + Gul",
+          "text": "Runes: Hel + El + Vex + Ort + Gul",
           "variable": false
         },
         {
@@ -6861,7 +6861,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -6934,8 +6934,8 @@ window.D2_RUNEWORDS = {
       "level": 55,
       "requiredLevel": 55,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -6965,8 +6965,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 1",
@@ -6975,7 +6975,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Nef + Pul + Vex",
+          "text": "Runes: Nef + Pul + Vex",
           "variable": false
         },
         {
@@ -6983,7 +6983,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {
@@ -7048,8 +7048,8 @@ window.D2_RUNEWORDS = {
       "level": 55,
       "requiredLevel": 55,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Bastones / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Staves / Maces & Hammers",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -7085,14 +7085,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "staf",
           "name": "Staff",
-          "family": "Armas melee",
-          "subtype": "Bastones"
+          "family": "Melee Weapons",
+          "subtype": "Staves"
         },
         {
           "code": "mace",
           "name": "Mace",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Patch 1.10",
@@ -7101,7 +7101,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ko + Vex + Pul + Thul",
+          "text": "Runes: Ko + Vex + Pul + Thul",
           "variable": false
         },
         {
@@ -7109,7 +7109,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -7182,7 +7182,7 @@ window.D2_RUNEWORDS = {
       "level": 55,
       "requiredLevel": 55,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "6 sockets",
       "width": 1,
@@ -7231,7 +7231,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -7241,7 +7241,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Dol + Eld + Hel + Ist + Tir + Vex",
+          "text": "Runes: Dol + Eld + Hel + Ist + Tir + Vex",
           "variable": false
         },
         {
@@ -7249,7 +7249,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -7322,7 +7322,7 @@ window.D2_RUNEWORDS = {
       "level": 57,
       "requiredLevel": 57,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "5 sockets",
       "width": 1,
@@ -7365,7 +7365,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -7375,7 +7375,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + Ral + Mal + Ist + Ohm",
+          "text": "Runes: Amn + Ral + Mal + Ist + Ohm",
           "variable": false
         },
         {
@@ -7383,7 +7383,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -7456,8 +7456,8 @@ window.D2_RUNEWORDS = {
       "level": 57,
       "requiredLevel": 57,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Garras de asesina",
+      "family": "Melee Weapons",
+      "subtype": "Assassin Claws",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -7487,8 +7487,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "h2h",
           "name": "Hand to Hand",
-          "family": "Armas melee",
-          "subtype": "Garras de asesina"
+          "family": "Melee Weapons",
+          "subtype": "Assassin Claws"
         }
       ],
       "patch": "Patch 1.10",
@@ -7497,7 +7497,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Fal + Ohm + Um",
+          "text": "Runes: Fal + Ohm + Um",
           "variable": false
         },
         {
@@ -7505,7 +7505,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -7578,7 +7578,7 @@ window.D2_RUNEWORDS = {
       "level": 57,
       "requiredLevel": 57,
       "rarity": null,
-      "family": "Escudos y offhands",
+      "family": "Shields & Offhands",
       "subtype": "Paladin Item",
       "tier": "4 sockets",
       "width": 1,
@@ -7615,7 +7615,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "pala",
           "name": "Paladin Item",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Paladin Item"
         }
       ],
@@ -7625,7 +7625,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Vex + Ohm + Ist + Dol",
+          "text": "Runes: Vex + Ohm + Ist + Dol",
           "variable": false
         },
         {
@@ -7633,7 +7633,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -7706,8 +7706,8 @@ window.D2_RUNEWORDS = {
       "level": 59,
       "requiredLevel": 59,
       "rarity": null,
-      "family": "Armas varias",
-      "subtype": "Weapon / Armaduras corporales",
+      "family": "Various Weapons",
+      "subtype": "Weapon / Body Armor",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -7743,14 +7743,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         },
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -7759,7 +7759,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: El + Sol + Dol + Lo",
+          "text": "Runes: El + Sol + Dol + Lo",
           "variable": false
         },
         {
@@ -7767,7 +7767,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -7840,8 +7840,8 @@ window.D2_RUNEWORDS = {
       "level": 59,
       "requiredLevel": 59,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Hachas",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Axes",
       "tier": "5 sockets",
       "width": 1,
       "height": 1,
@@ -7883,14 +7883,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -7899,7 +7899,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Eth + Tir + Lo + Mal + Ral",
+          "text": "Runes: Eth + Tir + Lo + Mal + Ral",
           "variable": false
         },
         {
@@ -7907,7 +7907,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -7980,8 +7980,8 @@ window.D2_RUNEWORDS = {
       "level": 61,
       "requiredLevel": 61,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -8017,8 +8017,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -8027,7 +8027,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ral + Ohm + Sur + Eth",
+          "text": "Runes: Ral + Ohm + Sur + Eth",
           "variable": false
         },
         {
@@ -8035,7 +8035,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -8108,8 +8108,8 @@ window.D2_RUNEWORDS = {
       "level": 61,
       "requiredLevel": 61,
       "rarity": null,
-      "family": "Bases varias",
-      "subtype": "Armaduras corporales / Any Shield",
+      "family": "Various Bases",
+      "subtype": "Body Armor / Any Shield",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -8139,13 +8139,13 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         },
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -8155,7 +8155,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Sur + Lo + Sol",
+          "text": "Runes: Sur + Lo + Sol",
           "variable": false
         },
         {
@@ -8163,7 +8163,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -8236,7 +8236,7 @@ window.D2_RUNEWORDS = {
       "level": 61,
       "requiredLevel": 61,
       "rarity": null,
-      "family": "Armas melee",
+      "family": "Melee Weapons",
       "subtype": "Melee Weapon",
       "tier": "2 sockets",
       "width": 1,
@@ -8261,7 +8261,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "mele",
           "name": "Melee Weapon",
-          "family": "Armas melee",
+          "family": "Melee Weapons",
           "subtype": "Melee Weapon"
         }
       ],
@@ -8271,7 +8271,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Sur + El",
+          "text": "Runes: Sur + El",
           "variable": false
         },
         {
@@ -8279,7 +8279,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -8352,8 +8352,8 @@ window.D2_RUNEWORDS = {
       "level": 63,
       "requiredLevel": 63,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Hachas / Cetros / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Axes / Scepters / Maces & Hammers",
       "tier": "5 sockets",
       "width": 1,
       "height": 1,
@@ -8395,20 +8395,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         },
         {
           "code": "scep",
           "name": "Scepter",
-          "family": "Armas melee",
-          "subtype": "Cetros"
+          "family": "Melee Weapons",
+          "subtype": "Scepters"
         },
         {
           "code": "hamm",
           "name": "Hammer",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Patch 1.10",
@@ -8417,7 +8417,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ber + Tir + Um + Mal + Lum",
+          "text": "Runes: Ber + Tir + Um + Mal + Lum",
           "variable": false
         },
         {
@@ -8425,7 +8425,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -8498,8 +8498,8 @@ window.D2_RUNEWORDS = {
       "level": 63,
       "requiredLevel": 63,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -8535,8 +8535,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -8545,7 +8545,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Dol + Um + Ber + Ist",
+          "text": "Runes: Dol + Um + Ber + Ist",
           "variable": false
         },
         {
@@ -8553,7 +8553,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -8626,7 +8626,7 @@ window.D2_RUNEWORDS = {
       "level": 63,
       "requiredLevel": 63,
       "rarity": null,
-      "family": "Armas melee",
+      "family": "Melee Weapons",
       "subtype": "Melee Weapon",
       "tier": "5 sockets",
       "width": 1,
@@ -8669,7 +8669,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "mele",
           "name": "Melee Weapon",
-          "family": "Armas melee",
+          "family": "Melee Weapons",
           "subtype": "Melee Weapon"
         }
       ],
@@ -8679,7 +8679,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + Ber + Ist + Sol + Sur",
+          "text": "Runes: Amn + Ber + Ist + Sol + Sur",
           "variable": false
         },
         {
@@ -8687,7 +8687,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -8760,8 +8760,8 @@ window.D2_RUNEWORDS = {
       "level": 63,
       "requiredLevel": 63,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Armas de asta / Lanzas",
+      "family": "Melee Weapons",
+      "subtype": "Polearms / Spears",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -8797,14 +8797,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "spea",
           "name": "Spear",
-          "family": "Armas melee",
-          "subtype": "Lanzas"
+          "family": "Melee Weapons",
+          "subtype": "Spears"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -8813,7 +8813,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ber + Mal + Ber + Ist",
+          "text": "Runes: Ber + Mal + Ber + Ist",
           "variable": false
         },
         {
@@ -8821,7 +8821,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -8894,7 +8894,7 @@ window.D2_RUNEWORDS = {
       "level": 63,
       "requiredLevel": 63,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -8931,7 +8931,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -8941,7 +8941,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Pul + Lum + Ber + Mal",
+          "text": "Runes: Pul + Lum + Ber + Mal",
           "variable": false
         },
         {
@@ -8949,7 +8949,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -9022,7 +9022,7 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -9059,7 +9059,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -9069,7 +9069,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Jah + Lo + Mal + Gul",
+          "text": "Runes: Jah + Lo + Mal + Gul",
           "variable": false
         },
         {
@@ -9077,7 +9077,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -9150,8 +9150,8 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Armas de asta / Espadas",
+      "family": "Melee Weapons",
+      "subtype": "Polearms / Swords",
       "tier": "5 sockets",
       "width": 1,
       "height": 1,
@@ -9193,14 +9193,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -9209,7 +9209,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Vex + Lo + Ber + Jah + Ko",
+          "text": "Runes: Vex + Lo + Ber + Jah + Ko",
           "variable": false
         },
         {
@@ -9217,7 +9217,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -9290,8 +9290,8 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Bases varias",
-      "subtype": "Cascos / Any Shield",
+      "family": "Various Bases",
+      "subtype": "Helms / Any Shield",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -9321,13 +9321,13 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         },
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -9337,7 +9337,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Io + Jah + Pul",
+          "text": "Runes: Io + Jah + Pul",
           "variable": false
         },
         {
@@ -9345,7 +9345,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -9418,8 +9418,8 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armaduras corporales",
-      "subtype": "Armaduras corporales",
+      "family": "Body Armor",
+      "subtype": "Body Armor",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -9449,8 +9449,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "tors",
           "name": "Armor",
-          "family": "Armaduras corporales",
-          "subtype": "Armaduras corporales"
+          "family": "Body Armor",
+          "subtype": "Body Armor"
         }
       ],
       "patch": "Patch 1.10",
@@ -9459,7 +9459,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Jah + Ith + Ber",
+          "text": "Runes: Jah + Ith + Ber",
           "variable": false
         },
         {
@@ -9467,7 +9467,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -9540,7 +9540,7 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -9577,7 +9577,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -9587,7 +9587,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Ohm + Jah + Lem + Eld",
+          "text": "Runes: Ohm + Jah + Lem + Eld",
           "variable": false
         },
         {
@@ -9595,7 +9595,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: \"110, Previously Ladder Only\"",
+          "text": "Availability: \"110, Previously Ladder Only\"",
           "variable": false
         },
         {
@@ -9668,8 +9668,8 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Hachas / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Axes / Maces & Hammers",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -9705,23 +9705,23 @@ window.D2_RUNEWORDS = {
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         },
         {
           "code": "hamm",
           "name": "Hammer",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
-      "patch": "D2R / clasica",
+      "patch": "D2R / classic",
       "baseStats": {
         "maxSockets": 4
       },
       "properties": [
         {
-          "text": "Runas: Fal + Ohm + Ort + Jah",
+          "text": "Runes: Fal + Ohm + Ort + Jah",
           "variable": false
         },
         {
@@ -9729,7 +9729,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R / clasica",
+          "text": "Availability: D2R / classic",
           "variable": false
         },
         {
@@ -9792,7 +9792,7 @@ window.D2_RUNEWORDS = {
       "setBonuses": [],
       "fullSetBonuses": [],
       "hasVariableStats": true,
-      "search": "famine fal + ohm + ort + jah axe / hammer d2r / clasica +270-320% enhanced damage 12% life stolen per hit +30% increased attack speed prevent monster heal adds 180-200-180-200 magic damage adds 50-200-50-200 fire/lightning/cold damage ethereal"
+      "search": "famine fal + ohm + ort + jah axe / hammer d2r / classic +270-320% enhanced damage 12% life stolen per hit +30% increased attack speed prevent monster heal adds 180-200-180-200 magic damage adds 50-200-50-200 fire/lightning/cold damage ethereal"
     },
     {
       "id": 43,
@@ -9802,7 +9802,7 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas melee",
+      "family": "Melee Weapons",
       "subtype": "Melee Weapon",
       "tier": "3 sockets",
       "width": 1,
@@ -9833,7 +9833,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "mele",
           "name": "Melee Weapon",
-          "family": "Armas melee",
+          "family": "Melee Weapons",
           "subtype": "Melee Weapon"
         }
       ],
@@ -9843,7 +9843,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Jah + Gul + Eth",
+          "text": "Runes: Jah + Gul + Eth",
           "variable": false
         },
         {
@@ -9851,7 +9851,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.09",
+          "text": "Availability: Patch 1.09",
           "variable": false
         },
         {
@@ -9924,7 +9924,7 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -9961,7 +9961,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -9971,7 +9971,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Amn + Shael + Jah + Lo",
+          "text": "Runes: Amn + Shael + Jah + Lo",
           "variable": false
         },
         {
@@ -9979,7 +9979,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -10052,8 +10052,8 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Mazas y martillos / Hachas",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Maces & Hammers / Axes",
       "tier": "6 sockets",
       "width": 1,
       "height": 1,
@@ -10101,20 +10101,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "hamm",
           "name": "Hammer",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         },
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -10123,7 +10123,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Jah + Mal + Jah + Sur + Jah + Ber",
+          "text": "Runes: Jah + Mal + Jah + Sur + Jah + Ber",
           "variable": false
         },
         {
@@ -10131,7 +10131,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -10204,7 +10204,7 @@ window.D2_RUNEWORDS = {
       "level": 65,
       "requiredLevel": 65,
       "rarity": null,
-      "family": "Armas varias",
+      "family": "Various Weapons",
       "subtype": "Weapon / Any Shield",
       "tier": "4 sockets",
       "width": 1,
@@ -10241,13 +10241,13 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         },
         {
           "code": "shld",
           "name": "Any Shield",
-          "family": "Escudos y offhands",
+          "family": "Shields & Offhands",
           "subtype": "Any Shield"
         }
       ],
@@ -10257,7 +10257,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Vex + Vex + Lo + Jah",
+          "text": "Runes: Vex + Vex + Lo + Jah",
           "variable": false
         },
         {
@@ -10265,7 +10265,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -10338,8 +10338,8 @@ window.D2_RUNEWORDS = {
       "level": 67,
       "requiredLevel": 67,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Hachas / Armas de asta / Mazas y martillos",
+      "family": "Melee Weapons",
+      "subtype": "Axes / Polearms / Maces & Hammers",
       "tier": "5 sockets",
       "width": 1,
       "height": 1,
@@ -10381,20 +10381,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "axe",
           "name": "Axe",
-          "family": "Armas melee",
-          "subtype": "Hachas"
+          "family": "Melee Weapons",
+          "subtype": "Axes"
         },
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "hamm",
           "name": "Hammer",
-          "family": "Armas melee",
-          "subtype": "Mazas y martillos"
+          "family": "Melee Weapons",
+          "subtype": "Maces & Hammers"
         }
       ],
       "patch": "Patch 1.10",
@@ -10403,7 +10403,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Hel + Ohm + Um + Lo + Cham",
+          "text": "Runes: Hel + Ohm + Um + Lo + Cham",
           "variable": false
         },
         {
@@ -10411,7 +10411,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -10484,7 +10484,7 @@ window.D2_RUNEWORDS = {
       "level": 67,
       "requiredLevel": 67,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "4 sockets",
       "width": 1,
@@ -10521,7 +10521,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -10531,7 +10531,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Sur + Cham + Amn + Lo",
+          "text": "Runes: Sur + Cham + Amn + Lo",
           "variable": false
         },
         {
@@ -10539,7 +10539,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -10612,8 +10612,8 @@ window.D2_RUNEWORDS = {
       "level": 67,
       "requiredLevel": 67,
       "rarity": null,
-      "family": "Cascos",
-      "subtype": "Cascos",
+      "family": "Helms",
+      "subtype": "Helms",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -10643,8 +10643,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "helm",
           "name": "Helm",
-          "family": "Cascos",
-          "subtype": "Cascos"
+          "family": "Helms",
+          "subtype": "Helms"
         }
       ],
       "patch": "D2R Ladder 3",
@@ -10653,7 +10653,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Io + Cham + Fal",
+          "text": "Runes: Io + Cham + Fal",
           "variable": false
         },
         {
@@ -10661,7 +10661,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 3",
+          "text": "Availability: D2R Ladder 3",
           "variable": false
         },
         {
@@ -10726,7 +10726,7 @@ window.D2_RUNEWORDS = {
       "level": 67,
       "requiredLevel": 67,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Missile Weapon",
       "tier": "5 sockets",
       "width": 1,
@@ -10769,7 +10769,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "miss",
           "name": "Missile Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Missile Weapon"
         }
       ],
@@ -10779,7 +10779,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Cham + Shael + Gul + Thul + Ith",
+          "text": "Runes: Cham + Shael + Gul + Thul + Ith",
           "variable": false
         },
         {
@@ -10787,7 +10787,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {
@@ -10852,8 +10852,8 @@ window.D2_RUNEWORDS = {
       "level": 67,
       "requiredLevel": 67,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Espadas / Dagas / Garras de asesina",
+      "family": "Melee Weapons",
+      "subtype": "Swords / Daggers / Assassin Claws",
       "tier": "3 sockets",
       "width": 1,
       "height": 1,
@@ -10883,20 +10883,20 @@ window.D2_RUNEWORDS = {
         {
           "code": "swor",
           "name": "Sword",
-          "family": "Armas melee",
-          "subtype": "Espadas"
+          "family": "Melee Weapons",
+          "subtype": "Swords"
         },
         {
           "code": "knif",
           "name": "Knife",
-          "family": "Armas melee",
-          "subtype": "Dagas"
+          "family": "Melee Weapons",
+          "subtype": "Daggers"
         },
         {
           "code": "h2h",
           "name": "Hand to Hand",
-          "family": "Armas melee",
-          "subtype": "Garras de asesina"
+          "family": "Melee Weapons",
+          "subtype": "Assassin Claws"
         }
       ],
       "patch": "D2R Ladder 1",
@@ -10905,7 +10905,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Cham + Shael + Um",
+          "text": "Runes: Cham + Shael + Um",
           "variable": false
         },
         {
@@ -10913,7 +10913,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {
@@ -10986,8 +10986,8 @@ window.D2_RUNEWORDS = {
       "level": 67,
       "requiredLevel": 67,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Armas de asta / Lanzas",
+      "family": "Melee Weapons",
+      "subtype": "Polearms / Spears",
       "tier": "4 sockets",
       "width": 1,
       "height": 1,
@@ -11023,14 +11023,14 @@ window.D2_RUNEWORDS = {
         {
           "code": "pole",
           "name": "Polearm",
-          "family": "Armas melee",
-          "subtype": "Armas de asta"
+          "family": "Melee Weapons",
+          "subtype": "Polearms"
         },
         {
           "code": "spea",
           "name": "Spear",
-          "family": "Armas melee",
-          "subtype": "Lanzas"
+          "family": "Melee Weapons",
+          "subtype": "Spears"
         }
       ],
       "patch": "Previously Ladder Only",
@@ -11039,7 +11039,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Cham + Sur + Io + Lo",
+          "text": "Runes: Cham + Sur + Io + Lo",
           "variable": false
         },
         {
@@ -11047,7 +11047,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Previously Ladder Only",
+          "text": "Availability: Previously Ladder Only",
           "variable": false
         },
         {
@@ -11120,7 +11120,7 @@ window.D2_RUNEWORDS = {
       "level": 69,
       "requiredLevel": 69,
       "rarity": null,
-      "family": "Armas a distancia",
+      "family": "Ranged Weapons",
       "subtype": "Weapon",
       "tier": "6 sockets",
       "width": 1,
@@ -11169,7 +11169,7 @@ window.D2_RUNEWORDS = {
         {
           "code": "weap",
           "name": "Weapon",
-          "family": "Armas a distancia",
+          "family": "Ranged Weapons",
           "subtype": "Weapon"
         }
       ],
@@ -11179,7 +11179,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Vex + Hel + El + Eld + Zod + Eth",
+          "text": "Runes: Vex + Hel + El + Eld + Zod + Eth",
           "variable": false
         },
         {
@@ -11187,7 +11187,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: Patch 1.10",
+          "text": "Availability: Patch 1.10",
           "variable": false
         },
         {
@@ -11260,8 +11260,8 @@ window.D2_RUNEWORDS = {
       "level": 69,
       "requiredLevel": 69,
       "rarity": null,
-      "family": "Armas melee",
-      "subtype": "Bastones",
+      "family": "Melee Weapons",
+      "subtype": "Staves",
       "tier": "6 sockets",
       "width": 1,
       "height": 1,
@@ -11309,8 +11309,8 @@ window.D2_RUNEWORDS = {
         {
           "code": "staf",
           "name": "Staff",
-          "family": "Armas melee",
-          "subtype": "Bastones"
+          "family": "Melee Weapons",
+          "subtype": "Staves"
         }
       ],
       "patch": "D2R Ladder 1",
@@ -11319,7 +11319,7 @@ window.D2_RUNEWORDS = {
       },
       "properties": [
         {
-          "text": "Runas: Zod + Ist + Lem + Lum + Io + Nef",
+          "text": "Runes: Zod + Ist + Lem + Lum + Io + Nef",
           "variable": false
         },
         {
@@ -11327,7 +11327,7 @@ window.D2_RUNEWORDS = {
           "variable": false
         },
         {
-          "text": "Disponibilidad: D2R Ladder 1",
+          "text": "Availability: D2R Ladder 1",
           "variable": false
         },
         {

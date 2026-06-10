@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T23:51:39.096Z",
+  "generatedAt": "2026-06-10T01:27:09.526Z",
   "source": "@blizzhackers/d2data 3.2.92777",
   "section": "Sets",
   "count": 140,
@@ -13,9 +13,9 @@
       "level": 29,
       "requiredLevel": 36,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Pelts de druida",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Druid Pelts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invdr3.png",
@@ -166,7 +166,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "aldur's stony gaze aldur's watchtower hunter's guise dr8 pelts de druida +90 defense regenerate mana 17% +5 to light radius +25% faster hit recovery cold resist +40-50% socketed (2) +15 to energy +15 to energy +15 to energy"
+      "search": "aldur's stony gaze aldur's watchtower hunter's guise dr8 druid pelts +90 defense regenerate mana 17% +5 to light radius +25% faster hit recovery cold resist +40-50% socketed (2) +15 to energy +15 to energy +15 to energy"
     },
     {
       "id": 68,
@@ -177,9 +177,9 @@
       "level": 29,
       "requiredLevel": 42,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invmstu.png",
@@ -338,7 +338,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "aldur's gauntlet aldur's watchtower jagged star 9mt mazas y martillos adds 40-62-40-62 damage adds 50-75-50-75 lightning damage 10% life stolen per hit +30% increased attack speed +200% damage to demons 5% mana stolen per hit socketed (2-5) +15 to strength +15 to strength +15 to strength"
+      "search": "aldur's gauntlet aldur's watchtower jagged star 9mt maces & hammers adds 40-62-40-62 damage adds 50-75-50-75 lightning damage 10% life stolen per hit +30% increased attack speed +200% damage to demons 5% mana stolen per hit socketed (2-5) +15 to strength +15 to strength +15 to strength"
     },
     {
       "id": 69,
@@ -349,9 +349,9 @@
       "level": 29,
       "requiredLevel": 45,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Boots",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invtbt.png",
@@ -510,7 +510,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "aldur's advance aldur's watchtower battle boots xtb botas indestructible heal stamina plus 32% +50 to life 10% damage taken goes to mana +40% faster run/walk +180 maximum stamina fire resist +40-50% +15 to dexterity +15 to dexterity +15 to dexterity"
+      "search": "aldur's advance aldur's watchtower battle boots xtb boots indestructible heal stamina plus 32% +50 to life 10% damage taken goes to mana +40% faster run/walk +180 maximum stamina fire resist +40-50% +15 to dexterity +15 to dexterity +15 to dexterity"
     },
     {
       "id": 67,
@@ -521,8 +521,8 @@
       "level": 29,
       "requiredLevel": 76,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -682,7 +682,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "aldur's deception aldur's watchtower shadow plate uul armaduras corporales +300 defense +1 to [class skill tab] skills (16) +20 to strength +15 to dexterity lightning resist +40-50% requirements --50% +1 to [class skill tab] skills (17) +15 to vitality +15 to vitality +15 to vitality"
+      "search": "aldur's deception aldur's watchtower shadow plate uul body armor +300 defense +1 to [class skill tab] skills (16) +20 to strength +15 to dexterity lightning resist +40-50% requirements --50% +1 to [class skill tab] skills (17) +15 to vitality +15 to vitality +15 to vitality"
     },
     {
       "id": 52,
@@ -693,9 +693,9 @@
       "level": 17,
       "requiredLevel": 12,
       "rarity": 3,
-      "family": "Joyeria",
-      "subtype": "Anillos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Rings",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invrin.png",
@@ -782,7 +782,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "angelic halo angelical raiment ring rin anillos replenish life +6 +20 to life +# to attack rating (based on character level) (24) 50% better chance of getting magic items"
+      "search": "angelic halo angelical raiment ring rin rings replenish life +6 +20 to life +# to attack rating (based on character level) (24) 50% better chance of getting magic items"
     },
     {
       "id": 51,
@@ -793,8 +793,8 @@
       "level": 17,
       "requiredLevel": 12,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -882,7 +882,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "angelic mantle angelical raiment ring mail rng armaduras corporales damage reduced by 3 +40% enhanced defense +150 defense fire resist +50%"
+      "search": "angelic mantle angelical raiment ring mail rng body armor damage reduced by 3 +40% enhanced defense +150 defense fire resist +50%"
     },
     {
       "id": 50,
@@ -893,8 +893,8 @@
       "level": 17,
       "requiredLevel": 12,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -982,7 +982,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "angelic sickle angelical raiment sabre sbr espadas +75 to attack rating +250% damage to undead +75% enhanced damage +30% increased attack speed"
+      "search": "angelic sickle angelical raiment sabre sbr swords +75 to attack rating +250% damage to undead +75% enhanced damage +30% increased attack speed"
     },
     {
       "id": 53,
@@ -993,9 +993,9 @@
       "level": 17,
       "requiredLevel": 12,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -1082,7 +1082,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "angelic wings angelical raiment amulet amu amuletos +3 to light radius 20% damage taken goes to mana +75 to life +1 to all skills"
+      "search": "angelic wings angelical raiment amulet amu amulets +3 to light radius 20% damage taken goes to mana +75 to life +1 to all skills"
     },
     {
       "id": 59,
@@ -1093,8 +1093,8 @@
       "level": 20,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -1182,7 +1182,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "arcanna's deathwand arcanna's tricks war staff wst bastones +1 to sorceress skill levels 25% deadly strike +50 to mana regenerate mana 5%"
+      "search": "arcanna's deathwand arcanna's tricks war staff wst staves +1 to sorceress skill levels 25% deadly strike +50 to mana regenerate mana 5%"
     },
     {
       "id": 61,
@@ -1193,8 +1193,8 @@
       "level": 20,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1282,7 +1282,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "arcanna's flesh arcanna's tricks light plate ltp armaduras corporales +2 to light radius damage reduced by 3 +100 defense +10 to energy"
+      "search": "arcanna's flesh arcanna's tricks light plate ltp body armor +2 to light radius damage reduced by 3 +100 defense +10 to energy"
     },
     {
       "id": 60,
@@ -1293,8 +1293,8 @@
       "level": 20,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -1382,7 +1382,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "arcanna's head arcanna's tricks skull cap skp cascos replenish life +4 attacker takes damage of 2 +# defense (based on character level) (24) lightning resist +15%"
+      "search": "arcanna's head arcanna's tricks skull cap skp helms replenish life +4 attacker takes damage of 2 +# defense (based on character level) (24) lightning resist +15%"
     },
     {
       "id": 58,
@@ -1393,9 +1393,9 @@
       "level": 20,
       "requiredLevel": 15,
       "rarity": 1,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -1482,7 +1482,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "arcanna's sign arcanna's tricks amulet amu amuletos +15 to mana regenerate mana 20% 50% better chance of getting magic items fire resist +20%"
+      "search": "arcanna's sign arcanna's tricks amulet amu amulets +15 to mana regenerate mana 20% 50% better chance of getting magic items fire resist +20%"
     },
     {
       "id": 56,
@@ -1493,8 +1493,8 @@
       "level": 3,
       "requiredLevel": 2,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -1574,7 +1574,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "arctic binding arctic gear light belt vbl cintos cold resist +40% +30 defense 40% better chance of getting magic items cold resist +10%"
+      "search": "arctic binding arctic gear light belt vbl belts cold resist +40% +30 defense 40% better chance of getting magic items cold resist +10%"
     },
     {
       "id": 55,
@@ -1585,8 +1585,8 @@
       "level": 3,
       "requiredLevel": 2,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1666,7 +1666,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "arctic furs arctic gear quilted armor qui armaduras corporales +275-325% enhanced defense all resistances +10 +# defense (based on character level) (24) cold resist +15%"
+      "search": "arctic furs arctic gear quilted armor qui body armor +275-325% enhanced defense all resistances +10 +# defense (based on character level) (24) cold resist +15%"
     },
     {
       "id": 54,
@@ -1677,8 +1677,8 @@
       "level": 3,
       "requiredLevel": 2,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -1758,7 +1758,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "arctic horn arctic gear short war bow swb arcos 20% bonus to attack rating +50% enhanced damage +# to attack rating (based on character level) (16) adds 20-30-20-30 cold damage (75)"
+      "search": "arctic horn arctic gear short war bow swb bows 20% bonus to attack rating +50% enhanced damage +# to attack rating (based on character level) (16) adds 20-30-20-30 cold damage (75)"
     },
     {
       "id": 57,
@@ -1769,8 +1769,8 @@
       "level": 3,
       "requiredLevel": 2,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -1850,7 +1850,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "arctic mitts arctic gear light gauntlets tgl guantes +20 to life +10% increased attack speed +50 to attack rating +10 to dexterity"
+      "search": "arctic mitts arctic gear light gauntlets tgl gloves +20 to life +10% increased attack speed +50 to attack rating +10 to dexterity"
     },
     {
       "id": 134,
@@ -1861,8 +1861,8 @@
       "level": 7,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -1942,7 +1942,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "bane's authority bane's garments light belt vbl cintos +10% faster cast rate +20 to life +15 to energy"
+      "search": "bane's authority bane's garments light belt vbl belts +10% faster cast rate +20 to life +15 to energy"
     },
     {
       "id": 132,
@@ -1953,8 +1953,8 @@
       "level": 7,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Dagas",
+      "family": "Weapons",
+      "subtype": "Daggers",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -2042,7 +2042,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "bane's oathmaker bane's garments kriss kri dagas +20% faster run/walk +# to maximum damage (based on character level) (8) +3 to mana after each kill 30% deadly strike"
+      "search": "bane's oathmaker bane's garments kriss kri daggers +20% faster run/walk +# to maximum damage (based on character level) (8) +3 to mana after each kill 30% deadly strike"
     },
     {
       "id": 133,
@@ -2053,8 +2053,8 @@
       "level": 7,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2142,7 +2142,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "bane's wraithskin bane's garments hard leather armor hla armaduras corporales +50 defense magic resist +30% +25% faster hit recovery +# to attack rating (based on character level) (16)"
+      "search": "bane's wraithskin bane's garments hard leather armor hla body armor +50 defense magic resist +30% +25% faster hit recovery +# to attack rating (based on character level) (16)"
     },
     {
       "id": 46,
@@ -2153,8 +2153,8 @@
       "level": 5,
       "requiredLevel": 3,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2242,7 +2242,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "berserker's hatchet berserker's garb double axe 2ax hachas 30% bonus to attack rating 5% mana stolen per hit +50% enhanced damage"
+      "search": "berserker's hatchet berserker's garb double axe 2ax axes 30% bonus to attack rating 5% mana stolen per hit +50% enhanced damage"
     },
     {
       "id": 45,
@@ -2253,8 +2253,8 @@
       "level": 5,
       "requiredLevel": 3,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2342,7 +2342,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "berserker's hauberk berserker's garb splint mail spl armaduras corporales magic damage reduced by 2 +1 to barbarian skill levels +# defense (based on character level) (24)"
+      "search": "berserker's hauberk berserker's garb splint mail spl body armor magic damage reduced by 2 +1 to barbarian skill levels +# defense (based on character level) (24)"
     },
     {
       "id": 44,
@@ -2353,8 +2353,8 @@
       "level": 5,
       "requiredLevel": 3,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -2442,7 +2442,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "berserker's headgear berserker's garb helm hlm cascos +15 defense fire resist +25% +# to attack rating (based on character level) (16)"
+      "search": "berserker's headgear berserker's garb helm hlm helms +15 defense fire resist +25% +# to attack rating (based on character level) (16)"
     },
     {
       "id": 116,
@@ -2453,8 +2453,8 @@
       "level": 50,
       "requiredLevel": 54,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -2581,7 +2581,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "bul-kathos' tribal guardian bul-kathos' children mythical sword 7wd espadas fire resist +50% adds 255-255 poison damage over 255 seconds (50) +20% increased attack speed +20 to strength +200% enhanced damage "
+      "search": "bul-kathos' tribal guardian bul-kathos' children mythical sword 7wd swords fire resist +50% adds 255-255 poison damage over 255 seconds (50) +20% increased attack speed +20 to strength +200% enhanced damage "
     },
     {
       "id": 115,
@@ -2592,8 +2592,8 @@
       "level": 50,
       "requiredLevel": 61,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -2712,7 +2712,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "bul-kathos' sacred charge bul-kathos' children colossus blade 7gd espadas 35% chance of crushing blow all resistances +20 +20% increased attack speed +200% enhanced damage "
+      "search": "bul-kathos' sacred charge bul-kathos' children colossus blade 7gd swords 35% chance of crushing blow all resistances +20 +20% increased attack speed +200% enhanced damage "
     },
     {
       "id": 26,
@@ -2723,8 +2723,8 @@
       "level": 15,
       "requiredLevel": 11,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -2820,7 +2820,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cathan's mesh cathan's traps chain mail chn armaduras corporales +15 defense requirements --50% attacker takes damage of 5 fire resist +30%"
+      "search": "cathan's mesh cathan's traps chain mail chn body armor +15 defense requirements --50% attacker takes damage of 5 fire resist +30%"
     },
     {
       "id": 25,
@@ -2831,8 +2831,8 @@
       "level": 15,
       "requiredLevel": 11,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Normal",
       "width": 1,
       "height": 4,
@@ -2928,7 +2928,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cathan's rule cathan's traps battle staff bst bastones +1 to fire skills +10 to maximum fire damage +50 to mana all resistances +10"
+      "search": "cathan's rule cathan's traps battle staff bst staves +1 to fire skills +10 to maximum fire damage +50 to mana all resistances +10"
     },
     {
       "id": 29,
@@ -2939,9 +2939,9 @@
       "level": 15,
       "requiredLevel": 11,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Anillos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Rings",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invrin.png",
@@ -3028,7 +3028,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cathan's seal cathan's traps ring rin anillos 6% life stolen per hit damage reduced by 2 +10 to strength"
+      "search": "cathan's seal cathan's traps ring rin rings 6% life stolen per hit damage reduced by 2 +10 to strength"
     },
     {
       "id": 28,
@@ -3039,9 +3039,9 @@
       "level": 15,
       "requiredLevel": 11,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -3136,7 +3136,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cathan's sigil cathan's traps amulet amu amuletos +10% faster hit recovery attacker takes lightning damage of 5 +50 to attack rating 25% better chance of getting magic items"
+      "search": "cathan's sigil cathan's traps amulet amu amulets +10% faster hit recovery attacker takes lightning damage of 5 +50 to attack rating 25% better chance of getting magic items"
     },
     {
       "id": 27,
@@ -3147,8 +3147,8 @@
       "level": 15,
       "requiredLevel": 11,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3236,7 +3236,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cathan's visage cathan's traps mask msk cascos +20 to mana cold resist +25% +# defense (based on character level) (16)"
+      "search": "cathan's visage cathan's traps mask msk helms +20 to mana cold resist +25% +# defense (based on character level) (16)"
     },
     {
       "id": 2,
@@ -3247,8 +3247,8 @@
       "level": 13,
       "requiredLevel": 9,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -3336,7 +3336,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "civerb's cudgel civerb's vestments grand scepter gsc cetros +75 to attack rating +17-23 to maximum damage +# to maximum damage (based on character level) (8)"
+      "search": "civerb's cudgel civerb's vestments grand scepter gsc scepters +75 to attack rating +17-23 to maximum damage +# to maximum damage (based on character level) (8)"
     },
     {
       "id": 1,
@@ -3347,9 +3347,9 @@
       "level": 13,
       "requiredLevel": 9,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -3444,7 +3444,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "civerb's icon civerb's vestments amulet amu amuletos regenerate mana 40% replenish life +4 cold resist +25% +25 defense"
+      "search": "civerb's icon civerb's vestments amulet amu amulets regenerate mana 40% replenish life +4 cold resist +25% +25 defense"
     },
     {
       "id": 0,
@@ -3455,8 +3455,8 @@
       "level": 13,
       "requiredLevel": 9,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3552,7 +3552,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "civerb's ward civerb's vestments large shield lrg escudos +15 defense 15% increased chance of blocking +21-22 to mana poison resist +25-26%"
+      "search": "civerb's ward civerb's vestments large shield lrg shields +15 defense 15% increased chance of blocking +21-22 to mana poison resist +25-26%"
     },
     {
       "id": 7,
@@ -3563,8 +3563,8 @@
       "level": 6,
       "requiredLevel": 4,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3644,7 +3644,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cleglaw's claw cleglaw's brace small shield sml escudos +17 defense poison length reduced by 75% all resistances +15"
+      "search": "cleglaw's claw cleglaw's brace small shield sml shields +17 defense poison length reduced by 75% all resistances +15"
     },
     {
       "id": 8,
@@ -3655,8 +3655,8 @@
       "level": 6,
       "requiredLevel": 4,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3736,7 +3736,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cleglaw's pincers cleglaw's brace chain gloves mgl guantes knockback slows target by 25% +# to attack rating (based on character level) (20)"
+      "search": "cleglaw's pincers cleglaw's brace chain gloves mgl gloves knockback slows target by 25% +# to attack rating (based on character level) (20)"
     },
     {
       "id": 6,
@@ -3747,8 +3747,8 @@
       "level": 6,
       "requiredLevel": 4,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -3828,7 +3828,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "cleglaw's tooth cleglaw's brace long sword lsd espadas 30% bonus to attack rating 50% deadly strike +# to maximum damage (based on character level) (10)"
+      "search": "cleglaw's tooth cleglaw's brace long sword lsd swords 30% bonus to attack rating 50% deadly strike +# to maximum damage (based on character level) (10)"
     },
     {
       "id": 119,
@@ -3839,8 +3839,8 @@
       "level": 20,
       "requiredLevel": 13,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -3967,7 +3967,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "cow king's hoofs cow king's leathers heavy boots vbt botas +25-35 defense +30% faster run/walk 25% better chance of getting magic items +20 to dexterity adds 25-35-25-35 fire damage "
+      "search": "cow king's hoofs cow king's leathers heavy boots vbt boots +25-35 defense +30% faster run/walk 25% better chance of getting magic items +20 to dexterity adds 25-35-25-35 fire damage "
     },
     {
       "id": 118,
@@ -3978,8 +3978,8 @@
       "level": 20,
       "requiredLevel": 18,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -4098,7 +4098,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "cow king's hide cow king's leathers studded leather stu armaduras corporales all resistances +18 +60% enhanced defense +30 to life 18-5% chance to cast level 18-5 [skill] when struck (53) "
+      "search": "cow king's hide cow king's leathers studded leather stu body armor all resistances +18 +60% enhanced defense +30 to life 18-5% chance to cast level 18-5 [skill] when struck (53) "
     },
     {
       "id": 117,
@@ -4109,9 +4109,9 @@
       "level": 20,
       "requiredLevel": 25,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invcap.png",
@@ -4229,7 +4229,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "cow king's horns cow king's leathers war hat xap cascos +75 defense half freeze duration 35% damage taken goes to mana attacker takes damage of 10 "
+      "search": "cow king's horns cow king's leathers war hat xap helms +75 defense half freeze duration 35% damage taken goes to mana attacker takes damage of 10 "
     },
     {
       "id": 48,
@@ -4240,8 +4240,8 @@
       "level": 8,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -4313,7 +4313,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "death's guard death's disguise sash lbl cintos +20 defense cannot be frozen all resistances +15"
+      "search": "death's guard death's disguise sash lbl belts +20 defense cannot be frozen all resistances +15"
     },
     {
       "id": 47,
@@ -4324,8 +4324,8 @@
       "level": 8,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -4397,7 +4397,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "death's hand death's disguise leather gloves lgl guantes poison resist +50% poison length reduced by 75% +30% increased attack speed"
+      "search": "death's hand death's disguise leather gloves lgl gloves poison resist +50% poison length reduced by 75% +30% increased attack speed"
     },
     {
       "id": 49,
@@ -4408,8 +4408,8 @@
       "level": 8,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 1,
       "height": 3,
@@ -4481,7 +4481,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "death's touch death's disguise war sword wsd espadas +25% enhanced damage 4% life stolen per hit adds 25-75-25-75 cold damage"
+      "search": "death's touch death's disguise war sword wsd swords +25% enhanced damage 4% life stolen per hit adds 25-75-25-75 cold damage"
     },
     {
       "id": 82,
@@ -4492,9 +4492,9 @@
       "level": 44,
       "requiredLevel": 45,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invxaru.png",
@@ -4604,7 +4604,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "griswold's heart griswold's legacy ornate plate xar armaduras corporales +500 defense +2 to [class skill tab] skills (11) socketed (3) +20 to strength requirements --40% "
+      "search": "griswold's heart griswold's legacy ornate plate xar body armor +500 defense +2 to [class skill tab] skills (11) socketed (3) +20 to strength requirements --40% "
     },
     {
       "id": 83,
@@ -4615,8 +4615,8 @@
       "level": 44,
       "requiredLevel": 53,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -4752,7 +4752,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "griswolds's redemption griswold's legacy caduceus 7ws cetros +200-240% enhanced damage +40% increased attack speed +200% damage to undead requirements --20% socketed (3-4) +2 to [class skill tab] skills (9) adds 10-20-10-20 damage adds 10-20-10-20 damage"
+      "search": "griswolds's redemption griswold's legacy caduceus 7ws scepters +200-240% enhanced damage +40% increased attack speed +200% damage to undead requirements --20% socketed (3-4) +2 to [class skill tab] skills (9) adds 10-20-10-20 damage adds 10-20-10-20 damage"
     },
     {
       "id": 84,
@@ -4763,8 +4763,8 @@
       "level": 44,
       "requiredLevel": 68,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos de paladin",
+      "family": "Armor",
+      "subtype": "Paladin Shields",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -4875,7 +4875,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "griswold's honor griswold's legacy vortex shield paf escudos de paladin +108 defense socketed (#) (3) +65% faster block rate 20% increased chance of blocking all resistances +45 "
+      "search": "griswold's honor griswold's legacy vortex shield paf paladin shields +108 defense socketed (#) (3) +65% faster block rate 20% increased chance of blocking all resistances +45 "
     },
     {
       "id": 81,
@@ -4886,8 +4886,8 @@
       "level": 44,
       "requiredLevel": 69,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -5015,7 +5015,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "griswold's valor griswold's legacy corona urn cascos +50-75% enhanced defense absorbs cold damage (based on character level) socketed (2) requirements --40% 20-30% better chance of getting magic items all resistances +5 +2 to [class skill tab] skills (10)"
+      "search": "griswold's valor griswold's legacy corona urn helms +50-75% enhanced defense absorbs cold damage (based on character level) socketed (2) requirements --40% 20-30% better chance of getting magic items all resistances +5 +2 to [class skill tab] skills (10)"
     },
     {
       "id": 102,
@@ -5026,9 +5026,9 @@
       "level": 55,
       "requiredLevel": 44,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invxrss.png",
@@ -5130,7 +5130,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "haemosu's adament heaven's brethren cuirass xrs armaduras corporales +500 defense +35 defense vs. missile +75 to life +40 defense vs. melee requirements --20% "
+      "search": "haemosu's adament heaven's brethren cuirass xrs body armor +500 defense +35 defense vs. missile +75 to life +40 defense vs. melee requirements --20% "
     },
     {
       "id": 100,
@@ -5141,8 +5141,8 @@
       "level": 55,
       "requiredLevel": 68,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -5237,7 +5237,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "dangoon's teaching heaven's brethren reinforced mace 7ma mazas y martillos +# to maximum damage (based on character level) (12) +40% increased attack speed 10-3% chance to cast level 10-3 [skill] on striking (44) adds 20-30-20-30 fire damage "
+      "search": "dangoon's teaching heaven's brethren reinforced mace 7ma maces & hammers +# to maximum damage (based on character level) (12) +40% increased attack speed 10-3% chance to cast level 10-3 [skill] on striking (44) adds 20-30-20-30 fire damage "
     },
     {
       "id": 103,
@@ -5248,8 +5248,8 @@
       "level": 55,
       "requiredLevel": 69,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -5360,7 +5360,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "ondal's almighty heaven's brethren spired helm uhm cascos +50 defense requirements --40% 10-3% chance to cast level 10-3 [skill] on striking (72) +10 to strength +15 to dexterity +24% faster hit recovery "
+      "search": "ondal's almighty heaven's brethren spired helm uhm helms +50 defense requirements --40% 10-3% chance to cast level 10-3 [skill] on striking (72) +10 to strength +15 to dexterity +24% faster hit recovery "
     },
     {
       "id": 101,
@@ -5371,8 +5371,8 @@
       "level": 55,
       "requiredLevel": 81,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -5491,7 +5491,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "heaven's taebaek heaven's brethren ward uts escudos +50 defense +100 to mana lightning resist +30% attacker takes damage of 30 indestructible 25% increased chance of blocking +30% faster block rate "
+      "search": "heaven's taebaek heaven's brethren ward uts shields +50 defense +100 to mana lightning resist +30% attacker takes damage of 30 indestructible 25% increased chance of blocking +30% faster block rate "
     },
     {
       "id": 137,
@@ -5502,9 +5502,9 @@
       "level": 40,
       "requiredLevel": 48,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Gloves",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invlgl.png",
@@ -5639,7 +5639,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "horazon's hold horazon's splendor demonhide gloves xlg guantes 10% chance of crushing blow +95-150 to attack rating +10-15 to dexterity adds 140-270-140-270 fire damage +30-40 to life +30% increased attack speed 7% mana stolen per hit 7% life stolen per hit"
+      "search": "horazon's hold horazon's splendor demonhide gloves xlg gloves 10% chance of crushing blow +95-150 to attack rating +10-15 to dexterity adds 140-270-140-270 fire damage +30-40 to life +30% increased attack speed 7% mana stolen per hit 7% life stolen per hit"
     },
     {
       "id": 136,
@@ -5650,9 +5650,9 @@
       "level": 40,
       "requiredLevel": 55,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invspl.png",
@@ -5795,7 +5795,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "horazon's dominion horazon's splendor russet armor xpl armaduras corporales +2 to [class skill tab] skills (21) +75-100% enhanced defense +75-100 to mana cold resist +15-25% fire resist +15-25% lightning resist +15-25% poison resist +25% +15 to vitality damage reduced by 15%"
+      "search": "horazon's dominion horazon's splendor russet armor xpl body armor +2 to [class skill tab] skills (21) +75-100% enhanced defense +75-100 to mana cold resist +15-25% fire resist +15-25% lightning resist +15-25% poison resist +25% +15 to vitality damage reduced by 15%"
     },
     {
       "id": 139,
@@ -5806,8 +5806,8 @@
       "level": 40,
       "requiredLevel": 57,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Grimorios",
+      "family": "Armor",
+      "subtype": "Grimoires",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -5943,7 +5943,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "horazon's secrets horazon's splendor occult codex wad grimorios +2 to [class skill tab] skills (22) +30% faster hit recovery 20% increased chance of blocking +20-30 to vitality +30-50 to life poison length reduced by 75% -25% to enemy fire resistance +15 to energy"
+      "search": "horazon's secrets horazon's splendor occult codex wad grimoires +2 to [class skill tab] skills (22) +30% faster hit recovery 20% increased chance of blocking +20-30 to vitality +30-50 to life poison length reduced by 75% -25% to enemy fire resistance +15 to energy"
     },
     {
       "id": 135,
@@ -5954,8 +5954,8 @@
       "level": 40,
       "requiredLevel": 62,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -6075,7 +6075,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "horazon's countenance horazon's splendor demonhead usk cascos #% bonus to attack rating (based on character level) (2) +1 to warlock skill levels +10-20 to strength magic damage reduced by 7-10 increase maximum life 5% +15 to strength"
+      "search": "horazon's countenance horazon's splendor demonhead usk helms #% bonus to attack rating (based on character level) (2) +1 to warlock skill levels +10-20 to strength magic damage reduced by 7-10 increase maximum life 5% +15 to strength"
     },
     {
       "id": 138,
@@ -6086,8 +6086,8 @@
       "level": 40,
       "requiredLevel": 67,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -6215,7 +6215,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "horazon's legacy horazon's splendor mirrored boots utb botas +30% faster run/walk +10-15 to strength +10-15 to dexterity magic resist +20-30% cannot be frozen requirements --30% +10% faster run/walk"
+      "search": "horazon's legacy horazon's splendor mirrored boots utb boots +30% faster run/walk +10-15 to strength +10-15 to dexterity magic resist +20-30% cannot be frozen requirements --30% +10% faster run/walk"
     },
     {
       "id": 4,
@@ -6226,8 +6226,8 @@
       "level": 4,
       "requiredLevel": 3,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -6299,7 +6299,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "hsarus' iron fist hsarus' defense buckler buc escudos damage reduced by 2 +10 to strength +# defense (based on character level) (20)"
+      "search": "hsarus' iron fist hsarus' defense buckler buc shields damage reduced by 2 +10 to strength +# defense (based on character level) (20)"
     },
     {
       "id": 3,
@@ -6310,8 +6310,8 @@
       "level": 4,
       "requiredLevel": 3,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -6383,7 +6383,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "hsarus' iron heel hsarus' defense chain boots mbt botas fire resist +25% +20% faster run/walk +# to attack rating (based on character level) (20)"
+      "search": "hsarus' iron heel hsarus' defense chain boots mbt boots fire resist +25% +20% faster run/walk +# to attack rating (based on character level) (20)"
     },
     {
       "id": 5,
@@ -6394,8 +6394,8 @@
       "level": 4,
       "requiredLevel": 3,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -6467,7 +6467,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "hsarus' iron stay hsarus' defense belt mbl cintos cold resist +20% +20 to life +# defense (based on character level) (20)"
+      "search": "hsarus' iron stay hsarus' defense belt mbl belts cold resist +20% +20 to life +# defense (based on character level) (20)"
     },
     {
       "id": 111,
@@ -6478,9 +6478,9 @@
       "level": 28,
       "requiredLevel": 28,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Armas de asta",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Polearms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 4,
       "image": "assets/items/invvou.png",
@@ -6582,7 +6582,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "hwanin's justice hwanin's majesty bill 9vo armas de asta +330 to attack rating indestructible 10-3% chance to cast level 10-3 [skill] on striking (45) +40% increased attack speed +200% enhanced damage adds 5-25-5-25 lightning damage "
+      "search": "hwanin's justice hwanin's majesty bill 9vo polearms +330 to attack rating indestructible 10-3% chance to cast level 10-3 [skill] on striking (45) +40% increased attack speed +200% enhanced damage adds 5-25-5-25 lightning damage "
     },
     {
       "id": 109,
@@ -6593,9 +6593,9 @@
       "level": 28,
       "requiredLevel": 30,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invscl.png",
@@ -6681,7 +6681,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "hwanin's refuge hwanin's majesty tigulated mail xcl armaduras corporales +200 defense poison resist +27% +100 to life 10-3% chance to cast level 10-3 [skill] when struck (42) "
+      "search": "hwanin's refuge hwanin's majesty tigulated mail xcl body armor +200 defense poison resist +27% +100 to life 10-3% chance to cast level 10-3 [skill] when struck (42) "
     },
     {
       "id": 110,
@@ -6692,8 +6692,8 @@
       "level": 28,
       "requiredLevel": 35,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -6780,7 +6780,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "hwanin's seal hwanin's majesty belt mbl cintos adds 3-33-3-33 lightning damage prevent monster heal +# defense (based on character level) (12) 12% damage taken goes to mana "
+      "search": "hwanin's seal hwanin's majesty belt mbl belts adds 3-33-3-33 lightning damage prevent monster heal +# defense (based on character level) (12) 12% damage taken goes to mana "
     },
     {
       "id": 108,
@@ -6791,9 +6791,9 @@
       "level": 28,
       "requiredLevel": 45,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invxrnu.png",
@@ -6879,7 +6879,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "hwanin's splendor hwanin's majesty grand crown xrn cascos replenish life +20 magic damage reduced by 10 cold resist +37% +100% enhanced defense "
+      "search": "hwanin's splendor hwanin's majesty grand crown xrn helms replenish life +20 magic damage reduced by 10 cold resist +37% +100% enhanced defense "
     },
     {
       "id": 72,
@@ -6890,9 +6890,9 @@
       "level": 37,
       "requiredLevel": 29,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Belts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 1,
       "image": "assets/items/invhbl.png",
@@ -7027,7 +7027,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "immortal king's detail immortal king war belt zhb cintos +36 defense fire resist +28% lightning resist +31% +25 to strength +105 defense +25% faster hit recovery +100% enhanced defense damage reduced by 20% +2 to [class skill tab] skills (13)"
+      "search": "immortal king's detail immortal king war belt zhb belts +36 defense fire resist +28% lightning resist +31% +25 to strength +105 defense +25% faster hit recovery +100% enhanced defense damage reduced by 20% +2 to [class skill tab] skills (13)"
     },
     {
       "id": 73,
@@ -7038,9 +7038,9 @@
       "level": 37,
       "requiredLevel": 30,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Gloves",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invhgl.png",
@@ -7175,7 +7175,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "immortal king's forge immortal king war gauntlets xhg guantes +65 defense +20 to strength +20 to dexterity 12-4% chance to cast level 12-4 [skill] when struck (38) +25% increased attack speed +120 defense 10% life stolen per hit 10% mana stolen per hit freezes target +2"
+      "search": "immortal king's forge immortal king war gauntlets xhg gloves +65 defense +20 to strength +20 to dexterity 12-4% chance to cast level 12-4 [skill] when struck (38) +25% increased attack speed +120 defense 10% life stolen per hit 10% mana stolen per hit freezes target +2"
     },
     {
       "id": 74,
@@ -7186,9 +7186,9 @@
       "level": 37,
       "requiredLevel": 31,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Boots",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invhbt.png",
@@ -7315,7 +7315,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "immortal king's pillar immortal king war boots xhb botas +75 defense +40% faster run/walk +110 to attack rating +44 to life 25% better chance of getting magic items +2 to [class skill tab] skills (12) +160 defense half freeze duration"
+      "search": "immortal king's pillar immortal king war boots xhb boots +75 defense +40% faster run/walk +110 to attack rating +44 to life 25% better chance of getting magic items +2 to [class skill tab] skills (12) +160 defense half freeze duration"
     },
     {
       "id": 70,
@@ -7326,8 +7326,8 @@
       "level": 37,
       "requiredLevel": 47,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos de barbaro",
+      "family": "Armor",
+      "subtype": "Barbarian Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -7438,7 +7438,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "immortal king's will immortal king avenger guard ba5 cascos de barbaro +125 defense 37% extra gold from monsters +2 to [class skill tab] skills (14) +4 to light radius 25-40% better chance of getting magic items socketed (2) "
+      "search": "immortal king's will immortal king avenger guard ba5 barbarian helms +125 defense 37% extra gold from monsters +2 to [class skill tab] skills (14) +4 to light radius 25-40% better chance of getting magic items socketed (2) "
     },
     {
       "id": 71,
@@ -7449,8 +7449,8 @@
       "level": 37,
       "requiredLevel": 76,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -7586,7 +7586,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "immortal king's soul cage immortal king sacred armor uar armaduras corporales +400 defense 5% chance to cast level 5 [skill] when struck (52) +2 to [class skill tab] skills (12) poison resist +50% +25% faster hit recovery cold resist +40% fire resist +40% lightning resist +40% +50% enhanced defense"
+      "search": "immortal king's soul cage immortal king sacred armor uar body armor +400 defense 5% chance to cast level 5 [skill] when struck (52) +2 to [class skill tab] skills (12) poison resist +50% +25% faster hit recovery cold resist +40% fire resist +40% lightning resist +40% +50% enhanced defense"
     },
     {
       "id": 75,
@@ -7597,8 +7597,8 @@
       "level": 37,
       "requiredLevel": 76,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Mazas y martillos",
+      "family": "Weapons",
+      "subtype": "Maces & Hammers",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -7758,7 +7758,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "immortal king's stone crusher immortal king ogre maul 7m7 mazas y martillos indestructible +40% increased attack speed +200% damage to demons +200% damage to undead 35-40% chance of crushing blow +200% enhanced damage socketed (2) adds 211-397-211-397 fire damage adds 7-477-7-477 lightning damage adds 127-364-127-364 cold damage (150) adds 349-349 poison damage over 349 seconds (150) adds 250-361-250-361 magic damage"
+      "search": "immortal king's stone crusher immortal king ogre maul 7m7 maces & hammers indestructible +40% increased attack speed +200% damage to demons +200% damage to undead 35-40% chance of crushing blow +200% enhanced damage socketed (2) adds 211-397-211-397 fire damage adds 7-477-7-477 lightning damage adds 127-364-127-364 cold damage (150) adds 349-349 poison damage over 349 seconds (150) adds 250-361-250-361 magic damage"
     },
     {
       "id": 41,
@@ -7769,8 +7769,8 @@
       "level": 7,
       "requiredLevel": 5,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -7866,7 +7866,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "infernal cranium infernal tools cap cap cascos all resistances +10 20% damage taken goes to mana +# defense (based on character level) (16)"
+      "search": "infernal cranium infernal tools cap cap helms all resistances +10 20% damage taken goes to mana +# defense (based on character level) (16)"
     },
     {
       "id": 43,
@@ -7877,8 +7877,8 @@
       "level": 7,
       "requiredLevel": 5,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -7982,7 +7982,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "infernal sign infernal tools heavy belt tbl cintos +25 defense +20 to life poison resist +25% half freeze duration"
+      "search": "infernal sign infernal tools heavy belt tbl belts +25 defense +20 to life poison resist +25% half freeze duration"
     },
     {
       "id": 42,
@@ -7993,8 +7993,8 @@
       "level": 7,
       "requiredLevel": 5,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -8090,7 +8090,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "infernal torch infernal tools grim wand gwn varitas +8 to minimum damage +1 to necromancer skill levels +# to attack rating (based on character level) (20)"
+      "search": "infernal torch infernal tools grim wand gwn wands +8 to minimum damage +1 to necromancer skill levels +# to attack rating (based on character level) (20)"
     },
     {
       "id": 11,
@@ -8101,8 +8101,8 @@
       "level": 21,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -8198,7 +8198,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "iratha's coil iratha's finery crown crn cascos fire resist +30% lightning resist +30% +# defense (based on character level) (16)"
+      "search": "iratha's coil iratha's finery crown crn helms fire resist +30% lightning resist +30% +# defense (based on character level) (16)"
     },
     {
       "id": 9,
@@ -8209,9 +8209,9 @@
       "level": 21,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -8306,7 +8306,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "iratha's collar iratha's finery amulet amu amuletos poison resist +30% poison length reduced by 75% all resistances +15"
+      "search": "iratha's collar iratha's finery amulet amu amulets poison resist +30% poison length reduced by 75% all resistances +15"
     },
     {
       "id": 12,
@@ -8317,8 +8317,8 @@
       "level": 21,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -8414,7 +8414,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "iratha's cord iratha's finery heavy belt tbl cintos +25 defense +5 to minimum damage +10 to dexterity"
+      "search": "iratha's cord iratha's finery heavy belt tbl belts +25 defense +5 to minimum damage +10 to dexterity"
     },
     {
       "id": 10,
@@ -8425,8 +8425,8 @@
       "level": 21,
       "requiredLevel": 15,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -8522,7 +8522,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "iratha's cuff iratha's finery light gauntlets tgl guantes cold resist +30% half freeze duration +20% increased attack speed"
+      "search": "iratha's cuff iratha's finery light gauntlets tgl gloves cold resist +30% half freeze duration +20% increased attack speed"
     },
     {
       "id": 15,
@@ -8533,8 +8533,8 @@
       "level": 11,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -8622,7 +8622,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "isenhart's case isenhart's armory breast plate brs armaduras corporales +40 defense magic damage reduced by 2 +# defense (based on character level) (16)"
+      "search": "isenhart's case isenhart's armory breast plate brs body armor +40 defense magic damage reduced by 2 +# defense (based on character level) (16)"
     },
     {
       "id": 16,
@@ -8633,8 +8633,8 @@
       "level": 11,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -8722,7 +8722,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "isenhart's horns isenhart's armory full helm fhl cascos +6 to dexterity damage reduced by 2 all resistances +8"
+      "search": "isenhart's horns isenhart's armory full helm fhl helms +6 to dexterity damage reduced by 2 all resistances +8"
     },
     {
       "id": 13,
@@ -8733,8 +8733,8 @@
       "level": 11,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -8822,7 +8822,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "isenhart's lightbrand isenhart's armory broad sword bsd espadas +10 to minimum damage +20% increased attack speed +# to attack rating (based on character level) (10)"
+      "search": "isenhart's lightbrand isenhart's armory broad sword bsd swords +10 to minimum damage +20% increased attack speed +# to attack rating (based on character level) (10)"
     },
     {
       "id": 14,
@@ -8833,8 +8833,8 @@
       "level": 11,
       "requiredLevel": 8,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -8922,7 +8922,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "isenhart's parry isenhart's armory gothic shield gts escudos +40 defense attacker takes lightning damage of 4 all resistances +8"
+      "search": "isenhart's parry isenhart's armory gothic shield gts shields +40 defense attacker takes lightning damage of 4 all resistances +8"
     },
     {
       "id": 92,
@@ -8933,9 +8933,9 @@
       "level": 21,
       "requiredLevel": 32,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Gloves",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invtgl.png",
@@ -9070,7 +9070,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "m'avina's icy clutch m'avina's battle hymn battle gauntlets xtg guantes +45-50 defense adds 6-18-6-18 cold damage (150) half freeze duration 56% extra gold from monsters +10 to strength +15 to dexterity adds 131-252-131-252 cold damage (100) +20% to cold skill damage"
+      "search": "m'avina's icy clutch m'avina's battle hymn battle gauntlets xtg gloves +45-50 defense adds 6-18-6-18 cold damage (150) half freeze duration 56% extra gold from monsters +10 to strength +15 to dexterity adds 131-252-131-252 cold damage (100) +20% to cold skill damage"
     },
     {
       "id": 93,
@@ -9081,9 +9081,9 @@
       "level": 21,
       "requiredLevel": 45,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Belts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 1,
       "image": "assets/items/invvbl.png",
@@ -9194,7 +9194,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "m'avina's tenet m'avina's battle hymn sharkskin belt zvb cintos +50 defense +20% faster run/walk 5% mana stolen per hit +5 to light radius all resistances +25"
+      "search": "m'avina's tenet m'avina's battle hymn sharkskin belt zvb belts +50 defense +20% faster run/walk 5% mana stolen per hit +5 to light radius all resistances +25"
     },
     {
       "id": 90,
@@ -9205,8 +9205,8 @@
       "level": 21,
       "requiredLevel": 59,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Diademas y circlets",
+      "family": "Armor",
+      "subtype": "Circlets",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -9334,7 +9334,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "m'avina's true sight m'avina's battle hymn diadem ci3 diademas y circlets +150 defense replenish life +10 +30% increased attack speed +25 to mana +1 to all skills 50% bonus to attack rating all resistances +25"
+      "search": "m'avina's true sight m'avina's battle hymn diadem ci3 circlets +150 defense replenish life +10 +30% increased attack speed +25 to mana +1 to all skills 50% bonus to attack rating all resistances +25"
     },
     {
       "id": 94,
@@ -9345,8 +9345,8 @@
       "level": 21,
       "requiredLevel": 70,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Armas de amazona",
+      "family": "Weapons",
+      "subtype": "Amazon Weapons",
       "tier": "Elite",
       "width": 2,
       "height": 4,
@@ -9474,7 +9474,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "m'avina's caster m'avina's battle hymn grand matron bow amc armas de amazona +188% enhanced damage +40% increased attack speed fires magic arrows +50 to attack rating adds 114-377-114-377 magic damage 10-15% chance to cast level 10-15 [skill] on striking (nova) +2 to [class skill tab] skills (0)"
+      "search": "m'avina's caster m'avina's battle hymn grand matron bow amc amazon weapons +188% enhanced damage +40% increased attack speed fires magic arrows +50 to attack rating adds 114-377-114-377 magic damage 10-15% chance to cast level 10-15 [skill] on striking (nova) +2 to [class skill tab] skills (0)"
     },
     {
       "id": 91,
@@ -9485,8 +9485,8 @@
       "level": 21,
       "requiredLevel": 70,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -9614,7 +9614,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "m'avina's embrace m'avina's battle hymn kraken shell uld armaduras corporales 10-3% chance to cast level 10-3 [skill] when struck (55) requirements --30% magic damage reduced by 5-12 +2 to [class skill tab] skills (1) +# defense (based on character level) (32) +350 defense +30% faster hit recovery"
+      "search": "m'avina's embrace m'avina's battle hymn kraken shell uld body armor 10-3% chance to cast level 10-3 [skill] when struck (55) requirements --30% magic damage reduced by 5-12 +2 to [class skill tab] skills (1) +# defense (based on character level) (32) +350 defense +30% faster hit recovery"
     },
     {
       "id": 124,
@@ -9625,8 +9625,8 @@
       "level": 20,
       "requiredLevel": 20,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -9713,7 +9713,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "mcauley's riprap mcauley's folly heavy boots vbt botas +40% faster run/walk +100 to attack rating +5 to strength +10 to dexterity "
+      "search": "mcauley's riprap mcauley's folly heavy boots vbt boots +40% faster run/walk +100 to attack rating +5 to strength +10 to dexterity "
     },
     {
       "id": 123,
@@ -9724,8 +9724,8 @@
       "level": 20,
       "requiredLevel": 25,
       "rarity": 3,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -9804,7 +9804,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "mcauley's paragon mcauley's folly cap cap cascos 35% better chance of getting magic items attacker takes damage of 8 +# defense (based on character level) (8) "
+      "search": "mcauley's paragon mcauley's folly cap cap helms 35% better chance of getting magic items attacker takes damage of 8 +# defense (based on character level) (8) "
     },
     {
       "id": 126,
@@ -9815,8 +9815,8 @@
       "level": 20,
       "requiredLevel": 25,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Varitas",
+      "family": "Weapons",
+      "subtype": "Wands",
       "tier": "Normal",
       "width": 1,
       "height": 2,
@@ -9911,7 +9911,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "mcauley's superstition mcauley's folly bone wand bwn varitas +75% enhanced damage (2) +25 to mana 8% mana stolen per hit +20% faster cast rate adds 25-75-25-75 cold damage (50) "
+      "search": "mcauley's superstition mcauley's folly bone wand bwn wands +75% enhanced damage (2) +25 to mana 8% mana stolen per hit +20% faster cast rate adds 25-75-25-75 cold damage (50) "
     },
     {
       "id": 125,
@@ -9922,8 +9922,8 @@
       "level": 20,
       "requiredLevel": 28,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -10010,7 +10010,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "mcauley's taboo mcauley's folly heavy gloves vgl guantes +20-25 defense +20% increased attack speed +40 to life adds 30-36-30-36 poison damage over 30-36 seconds (75) "
+      "search": "mcauley's taboo mcauley's folly heavy gloves vgl gloves +20-25 defense +20% increased attack speed +40 to life adds 30-36-30-36 poison damage over 30-36 seconds (75) "
     },
     {
       "id": 23,
@@ -10021,8 +10021,8 @@
       "level": 23,
       "requiredLevel": 17,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -10102,7 +10102,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "milabrega's diadem milabrega's regalia crown crn cascos +15 to life +15 to mana cold resist +40%"
+      "search": "milabrega's diadem milabrega's regalia crown crn helms +15 to life +15 to mana cold resist +40%"
     },
     {
       "id": 21,
@@ -10113,8 +10113,8 @@
       "level": 23,
       "requiredLevel": 17,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -10202,7 +10202,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "milabrega's orb milabrega's regalia kite shield kit escudos 20% better chance of getting magic items +25 defense +50 to life +50% enhanced defense"
+      "search": "milabrega's orb milabrega's regalia kite shield kit shields 20% better chance of getting magic items +25 defense +50 to life +50% enhanced defense"
     },
     {
       "id": 24,
@@ -10213,8 +10213,8 @@
       "level": 23,
       "requiredLevel": 17,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -10294,7 +10294,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "milabrega's robe milabrega's regalia ancient armor aar armaduras corporales attacker takes damage of 3 damage reduced by 2 +100% enhanced defense"
+      "search": "milabrega's robe milabrega's regalia ancient armor aar body armor attacker takes damage of 3 damage reduced by 2 +100% enhanced defense"
     },
     {
       "id": 22,
@@ -10305,8 +10305,8 @@
       "level": 23,
       "requiredLevel": 17,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Cetros",
+      "family": "Weapons",
+      "subtype": "Scepters",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -10385,7 +10385,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "milabrega's rod milabrega's regalia war scepter wsp cetros +1 to paladin skill levels +50% enhanced damage +2 to light radius "
+      "search": "milabrega's rod milabrega's regalia war scepter wsp scepters +1 to paladin skill levels +50% enhanced damage +2 to light radius "
     },
     {
       "id": 122,
@@ -10396,8 +10396,8 @@
       "level": 43,
       "requiredLevel": 28,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Diademas y circlets",
+      "family": "Armor",
+      "subtype": "Circlets",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -10524,7 +10524,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "naj's circlet naj's ancient set circlet ci0 diademas y circlets +75 defense adds 25-35-25-35 fire damage +5 to light radius +15 to strength 12-5% chance to cast level 12-5 [skill] when struck (53) "
+      "search": "naj's circlet naj's ancient set circlet ci0 circlets +75 defense adds 25-35-25-35 fire damage +5 to light radius +15 to strength 12-5% chance to cast level 12-5 [skill] when struck (53) "
     },
     {
       "id": 121,
@@ -10535,8 +10535,8 @@
       "level": 43,
       "requiredLevel": 71,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -10671,7 +10671,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "naj's light plate naj's ancient set hellforge plate ult armaduras corporales requirements --60% +65 to life all resistances +25 45% damage taken goes to mana +1 to all skills +300 defense "
+      "search": "naj's light plate naj's ancient set hellforge plate ult body armor requirements --60% +65 to life all resistances +25 45% damage taken goes to mana +1 to all skills +300 defense "
     },
     {
       "id": 120,
@@ -10682,8 +10682,8 @@
       "level": 43,
       "requiredLevel": 78,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Bastones",
+      "family": "Weapons",
+      "subtype": "Staves",
       "tier": "Elite",
       "width": 1,
       "height": 4,
@@ -10826,7 +10826,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "naj's puzzler naj's ancient set elder staff 6cs bastones +35 to energy +150% enhanced damage level 69-11 [skill] (69-11/69-11 charges) (54) +30% faster cast rate adds 6-45-6-45 lightning damage +70 to mana +1 to all skills "
+      "search": "naj's puzzler naj's ancient set elder staff 6cs staves +35 to energy +150% enhanced damage level 69-11 [skill] (69-11/69-11 charges) (54) +30% faster cast rate adds 6-45-6-45 lightning damage +70 to mana +1 to all skills "
     },
     {
       "id": 65,
@@ -10837,9 +10837,9 @@
       "level": 22,
       "requiredLevel": 25,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Boots",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invmbt.png",
@@ -10965,7 +10965,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "natalya's soul natalya's odium mesh boots xmb botas +75-125 defense +40% faster run/walk heal stamina plus #% (based on character level) (2) durability: 50 of 50 cold resist +15-25% lightning resist +15-25% "
+      "search": "natalya's soul natalya's odium mesh boots xmb boots +75-125 defense +40% faster run/walk heal stamina plus #% (based on character level) (2) durability: 50 of 50 cold resist +15-25% lightning resist +15-25% "
     },
     {
       "id": 62,
@@ -10976,9 +10976,9 @@
       "level": 22,
       "requiredLevel": 59,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invbhmu.png",
@@ -11096,7 +11096,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "natalya's totem natalya's odium grim helm xh9 cascos +135-175 defense +20-30 to dexterity +10-20 to strength all resistances +10-20 magic damage reduced by 3 "
+      "search": "natalya's totem natalya's odium grim helm xh9 helms +135-175 defense +20-30 to dexterity +10-20 to strength all resistances +10-20 magic damage reduced by 3 "
     },
     {
       "id": 64,
@@ -11107,8 +11107,8 @@
       "level": 22,
       "requiredLevel": 73,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -11235,7 +11235,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "natalya's shadow natalya's odium loricated mail ucl armaduras corporales +150-225 defense +# to life (based on character level) (8) +2 to [class skill tab] skills (19) poison length reduced by 75% poison resist +25% socketed (1-3) "
+      "search": "natalya's shadow natalya's odium loricated mail ucl body armor +150-225 defense +# to life (based on character level) (8) +2 to [class skill tab] skills (19) poison length reduced by 75% poison resist +25% socketed (1-3) "
     },
     {
       "id": 63,
@@ -11246,8 +11246,8 @@
       "level": 22,
       "requiredLevel": 79,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Garras de asesina",
+      "family": "Weapons",
+      "subtype": "Assassin Claws",
       "tier": "Elite",
       "width": 1,
       "height": 3,
@@ -11382,7 +11382,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "natalya's mark natalya's odium scissors suwayyah 7qr garras de asesina +40% increased attack speed +200% enhanced damage ignore target's defense adds 50-50 cold damage (100) adds 12-17-12-17 fire damage +200% damage to undead +200% damage to demons "
+      "search": "natalya's mark natalya's odium scissors suwayyah 7qr assassin claws +40% increased attack speed +200% enhanced damage ignore target's defense adds 50-50 cold damage (100) adds 12-17-12-17 fire damage +200% damage to undead +200% damage to demons "
     },
     {
       "id": 107,
@@ -11393,9 +11393,9 @@
       "level": 41,
       "requiredLevel": 29,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Shields",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invxmlu.png",
@@ -11505,7 +11505,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "wihtstan's guard orphan's call round shield xml escudos +175% enhanced defense +40% faster block rate 55% increased chance of blocking half freeze duration +5 to light radius "
+      "search": "wihtstan's guard orphan's call round shield xml shields +175% enhanced defense +40% faster block rate 55% increased chance of blocking half freeze duration +5 to light radius "
     },
     {
       "id": 104,
@@ -11516,9 +11516,9 @@
       "level": 41,
       "requiredLevel": 34,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invghm.png",
@@ -11628,7 +11628,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "guillaume's face orphan's call winged helm xhm cascos +120% enhanced defense +30% faster hit recovery 35% chance of crushing blow 15% deadly strike +15 to strength "
+      "search": "guillaume's face orphan's call winged helm xhm helms +120% enhanced defense +30% faster hit recovery 35% chance of crushing blow 15% deadly strike +15 to strength "
     },
     {
       "id": 106,
@@ -11639,9 +11639,9 @@
       "level": 41,
       "requiredLevel": 37,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Gloves",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invvgl.png",
@@ -11751,7 +11751,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "magnus' skin orphan's call sharkskin gloves xvg guantes +50% enhanced defense fire resist +15% +20% increased attack speed +3 to light radius +100 to attack rating "
+      "search": "magnus' skin orphan's call sharkskin gloves xvg gloves +50% enhanced defense fire resist +15% +20% increased attack speed +3 to light radius +100 to attack rating "
     },
     {
       "id": 105,
@@ -11762,9 +11762,9 @@
       "level": 41,
       "requiredLevel": 42,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Belts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 1,
       "image": "assets/items/invtbl.png",
@@ -11866,7 +11866,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "wilhelm's pride orphan's call battle belt ztb cintos +75% enhanced defense 5% mana stolen per hit cold resist +10% 5% life stolen per hit "
+      "search": "wilhelm's pride orphan's call battle belt ztb belts +75% enhanced defense 5% mana stolen per hit cold resist +10% 5% life stolen per hit "
     },
     {
       "id": 114,
@@ -11877,9 +11877,9 @@
       "level": 34,
       "requiredLevel": 43,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invfhlu.png",
@@ -11973,7 +11973,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "sazabi's mental sheath sazabi's grand tribute basinet xhl cascos +100 defense +1 to all skills fire resist +15-20% lightning resist +15-20% "
+      "search": "sazabi's mental sheath sazabi's grand tribute basinet xhl helms +100 defense +1 to all skills fire resist +15-20% lightning resist +15-20% "
     },
     {
       "id": 113,
@@ -11984,8 +11984,8 @@
       "level": 34,
       "requiredLevel": 67,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12088,7 +12088,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "sazabi's ghost liberator sazabi's grand tribute balrog skin upl armaduras corporales +400 defense +30% faster hit recovery +25 to strength +300 to attack rating against demons +50-75 to life "
+      "search": "sazabi's ghost liberator sazabi's grand tribute balrog skin upl body armor +400 defense +30% faster hit recovery +25 to strength +300 to attack rating against demons +50-75 to life "
     },
     {
       "id": 112,
@@ -12099,8 +12099,8 @@
       "level": 34,
       "requiredLevel": 73,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Espadas",
+      "family": "Weapons",
+      "subtype": "Swords",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -12219,7 +12219,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "sazabi's cobalt redeemer sazabi's grand tribute cryptic sword 7ls espadas +150% enhanced damage adds 25-35-25-35 cold damage (50) +40% increased attack speed +318% damage to demons indestructible +15 to dexterity +5 to strength "
+      "search": "sazabi's cobalt redeemer sazabi's grand tribute cryptic sword 7ls swords +150% enhanced damage adds 25-35-25-35 cold damage (50) +40% increased attack speed +318% damage to demons indestructible +15 to dexterity +5 to strength "
     },
     {
       "id": 35,
@@ -12230,8 +12230,8 @@
       "level": 9,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -12319,7 +12319,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "sigon's gage sigon's complete steel gauntlets hgl guantes +10 to strength +20 to attack rating +30% increased attack speed"
+      "search": "sigon's gage sigon's complete steel gauntlets hgl gloves +10 to strength +20 to attack rating +30% increased attack speed"
     },
     {
       "id": 40,
@@ -12330,8 +12330,8 @@
       "level": 9,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Escudos",
+      "family": "Armor",
+      "subtype": "Shields",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -12410,7 +12410,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "sigon's guard sigon's complete steel tower shield tow escudos +1 to all skills 20% increased chance of blocking "
+      "search": "sigon's guard sigon's complete steel tower shield tow shields +1 to all skills 20% increased chance of blocking "
     },
     {
       "id": 38,
@@ -12421,8 +12421,8 @@
       "level": 9,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -12518,7 +12518,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "sigon's sabot sigon's complete steel greaves hbt botas +20% faster run/walk cold resist +40% +50 to attack rating 50% better chance of getting magic items"
+      "search": "sigon's sabot sigon's complete steel greaves hbt boots +20% faster run/walk cold resist +40% +50 to attack rating 50% better chance of getting magic items"
     },
     {
       "id": 37,
@@ -12529,8 +12529,8 @@
       "level": 9,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -12618,7 +12618,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "sigon's shelter sigon's complete steel gothic plate gth armaduras corporales +25% enhanced defense lightning resist +30% attacker takes damage of 20"
+      "search": "sigon's shelter sigon's complete steel gothic plate gth body armor +25% enhanced defense lightning resist +30% attacker takes damage of 20"
     },
     {
       "id": 36,
@@ -12629,8 +12629,8 @@
       "level": 9,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -12718,7 +12718,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "sigon's visor sigon's complete steel great helm ghm cascos +30 to mana +25 defense +# to attack rating (based on character level) (16)"
+      "search": "sigon's visor sigon's complete steel great helm ghm helms +30 to mana +25 defense +# to attack rating (based on character level) (16)"
     },
     {
       "id": 39,
@@ -12729,8 +12729,8 @@
       "level": 9,
       "requiredLevel": 6,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -12818,7 +12818,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "sigon's wrap sigon's complete steel plated belt hbl cintos fire resist +20% +20 to life +# defense (based on character level) (16)"
+      "search": "sigon's wrap sigon's complete steel plated belt hbl belts fire resist +20% +20 to life +# defense (based on character level) (16)"
     },
     {
       "id": 76,
@@ -12829,9 +12829,9 @@
       "level": 26,
       "requiredLevel": 53,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Belts",
+      "tier": "Exceptional",
       "width": 2,
       "height": 1,
       "image": "assets/items/invmbl.png",
@@ -12958,7 +12958,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "tal rasha's fire-spun cloth tal rasha's wrappings mesh belt zmb cintos requirements --20% +30 to mana +20 to dexterity 37% damage taken goes to mana 10-15% better chance of getting magic items +60 defense +10% faster cast rate"
+      "search": "tal rasha's fire-spun cloth tal rasha's wrappings mesh belt zmb belts requirements --20% +30 to mana +20 to dexterity 37% damage taken goes to mana 10-15% better chance of getting magic items +60 defense +10% faster cast rate"
     },
     {
       "id": 78,
@@ -12969,9 +12969,9 @@
       "level": 26,
       "requiredLevel": 65,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Orbes de hechicera",
-      "tier": "Excepcional",
+      "family": "Weapons",
+      "subtype": "Sorceress Orbs",
+      "tier": "Exceptional",
       "width": 1,
       "height": 3,
       "image": "assets/items/invob5.png",
@@ -13130,7 +13130,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "tal rasha's lidless eye tal rasha's wrappings swirling crystal oba orbes de hechicera +57 to life +77 to mana +10 to energy +20% faster cast rate +1-2 to [skill] ([class] only) (fire mastery) +1-2 to [skill] ([class] only) (lightning mastery) +1-2 to [skill] ([class] only) (cold mastery) +1 to sorceress skill levels -15% to enemy fire resistance -15% to enemy lightning resistance +15% to cold skill damage"
+      "search": "tal rasha's lidless eye tal rasha's wrappings swirling crystal oba sorceress orbs +57 to life +77 to mana +10 to energy +20% faster cast rate +1-2 to [skill] ([class] only) (fire mastery) +1-2 to [skill] ([class] only) (lightning mastery) +1-2 to [skill] ([class] only) (cold mastery) +1 to sorceress skill levels -15% to enemy fire resistance -15% to enemy lightning resistance +15% to cold skill damage"
     },
     {
       "id": 80,
@@ -13141,9 +13141,9 @@
       "level": 26,
       "requiredLevel": 66,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Helms",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invmsk.png",
@@ -13261,7 +13261,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tal rasha's horadric crest tal rasha's wrappings death mask xsk cascos +30 to mana +60 to life +45 defense all resistances +15 10% life stolen per hit 10% mana stolen per hit "
+      "search": "tal rasha's horadric crest tal rasha's wrappings death mask xsk helms +30 to mana +60 to life +45 defense all resistances +15 10% life stolen per hit 10% mana stolen per hit "
     },
     {
       "id": 77,
@@ -13272,9 +13272,9 @@
       "level": 26,
       "requiredLevel": 67,
       "rarity": 1,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -13393,7 +13393,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "tal rasha's adjudication tal rasha's wrappings amulet amu amuletos lightning resist +33% +2 to sorceress skill levels +50 to life adds 3-32-3-32 lightning damage +42 to mana +10% faster cast rate"
+      "search": "tal rasha's adjudication tal rasha's wrappings amulet amu amulets lightning resist +33% +2 to sorceress skill levels +50 to life adds 3-32-3-32 lightning damage +42 to mana +10% faster cast rate"
     },
     {
       "id": 79,
@@ -13404,8 +13404,8 @@
       "level": 26,
       "requiredLevel": 71,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -13541,7 +13541,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tal rasha's howling wind tal rasha's wrappings lacquered plate uth armaduras corporales requirements --60% magic damage reduced by 15 88% better chance of getting magic items cold resist +40% fire resist +40% lightning resist +40% +400 defense +10% faster cast rate"
+      "search": "tal rasha's howling wind tal rasha's wrappings lacquered plate uth body armor requirements --60% magic damage reduced by 15 88% better chance of getting magic items cold resist +40% fire resist +40% lightning resist +40% +400 defense +10% faster cast rate"
     },
     {
       "id": 30,
@@ -13552,8 +13552,8 @@
       "level": 27,
       "requiredLevel": 20,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Hachas",
+      "family": "Weapons",
+      "subtype": "Axes",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -13641,7 +13641,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tancred's crowbill tancred's battlegear military pick mpi hachas +75 to attack rating +80% enhanced damage +20 to mana +20% increased attack speed"
+      "search": "tancred's crowbill tancred's battlegear military pick mpi axes +75 to attack rating +80% enhanced damage +20 to mana +20% increased attack speed"
     },
     {
       "id": 32,
@@ -13652,8 +13652,8 @@
       "level": 27,
       "requiredLevel": 20,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -13741,7 +13741,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tancred's hobnails tancred's battlegear boots lbt botas heal stamina plus 25% +10 to dexterity +30% faster run/walk +10 to strength"
+      "search": "tancred's hobnails tancred's battlegear boots lbt boots heal stamina plus 25% +10 to dexterity +30% faster run/walk +10 to strength"
     },
     {
       "id": 34,
@@ -13752,8 +13752,8 @@
       "level": 27,
       "requiredLevel": 20,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -13833,7 +13833,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tancred's skull tancred's battlegear bone helm bhm cascos +10% enhanced damage +40 to attack rating all resistances +10"
+      "search": "tancred's skull tancred's battlegear bone helm bhm helms +10% enhanced damage +40 to attack rating all resistances +10"
     },
     {
       "id": 31,
@@ -13844,8 +13844,8 @@
       "level": 27,
       "requiredLevel": 20,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -13925,7 +13925,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tancred's spine tancred's battlegear full plate mail ful armaduras corporales +40 to life +15 to strength +# defense (based on character level) (16)"
+      "search": "tancred's spine tancred's battlegear full plate mail ful body armor +40 to life +15 to strength +# defense (based on character level) (16)"
     },
     {
       "id": 33,
@@ -13936,9 +13936,9 @@
       "level": 27,
       "requiredLevel": 20,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -14025,7 +14025,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "tancred's weird tancred's battlegear amulet amu amuletos damage reduced by 2 magic damage reduced by 1 78% better chance of getting magic items +60 to attack rating"
+      "search": "tancred's weird tancred's battlegear amulet amu amulets damage reduced by 2 magic damage reduced by 1 78% better chance of getting magic items +60 to attack rating"
     },
     {
       "id": 97,
@@ -14036,9 +14036,9 @@
       "level": 39,
       "requiredLevel": 29,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Boots",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invlbt.png",
@@ -14116,7 +14116,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "rite of passage the disciple demonhide boots xlb botas +25 defense +30% faster run/walk half freeze duration +15-25 maximum stamina "
+      "search": "rite of passage the disciple demonhide boots xlb boots +25 defense +30% faster run/walk half freeze duration +15-25 maximum stamina "
     },
     {
       "id": 95,
@@ -14127,9 +14127,9 @@
       "level": 39,
       "requiredLevel": 30,
       "rarity": 1,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -14207,7 +14207,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "telling of beads the disciple amulet amu amuletos poison resist +35-50% +1 to all skills cold resist +18% attacker takes damage of 8-10 "
+      "search": "telling of beads the disciple amulet amu amulets poison resist +35-50% +1 to all skills cold resist +18% attacker takes damage of 8-10 "
     },
     {
       "id": 98,
@@ -14218,8 +14218,8 @@
       "level": 39,
       "requiredLevel": 43,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Elite",
       "width": 2,
       "height": 3,
@@ -14298,7 +14298,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "spiritual custodian the disciple dusk shroud uui armaduras corporales +305-415 defense fire resist +24% 25-3% chance to cast level 25-3 [skill] when struck (48) adds 125-175-125-175 poison damage over 125-175 seconds (50) "
+      "search": "spiritual custodian the disciple dusk shroud uui body armor +305-415 defense fire resist +24% 25-3% chance to cast level 25-3 [skill] when struck (48) adds 125-175-125-175 poison damage over 125-175 seconds (50) "
     },
     {
       "id": 96,
@@ -14309,8 +14309,8 @@
       "level": 39,
       "requiredLevel": 63,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -14397,7 +14397,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "laying of hands the disciple bramble mitts ulg guantes +25 defense +20% increased attack speed fire resist +50% +350% damage to demons 10-3% chance to cast level 10-3 [skill] on striking (101) "
+      "search": "laying of hands the disciple bramble mitts ulg gloves +25 defense +20% increased attack speed fire resist +50% +350% damage to demons 10-3% chance to cast level 10-3 [skill] on striking (101) "
     },
     {
       "id": 99,
@@ -14408,8 +14408,8 @@
       "level": 39,
       "requiredLevel": 65,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Elite",
       "width": 2,
       "height": 1,
@@ -14488,7 +14488,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "credendum the disciple mithril coil umc cintos +50 defense +10 to strength +10 to dexterity all resistances +15 "
+      "search": "credendum the disciple mithril coil umc belts +50 defense +10 to strength +10 to dexterity all resistances +15 "
     },
     {
       "id": 88,
@@ -14499,9 +14499,9 @@
       "level": 32,
       "requiredLevel": 45,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Gloves",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invmgl.png",
@@ -14628,7 +14628,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "trang-oul's claws trang-oul's avatar heavy bracers xmg guantes +30 defense +20% faster cast rate cold resist +30% +2 to [class skill tab] skills (6) +25% to poison skill damage"
+      "search": "trang-oul's claws trang-oul's avatar heavy bracers xmg gloves +30 defense +20% faster cast rate cold resist +30% +2 to [class skill tab] skills (6) +25% to poison skill damage"
     },
     {
       "id": 89,
@@ -14639,8 +14639,8 @@
       "level": 32,
       "requiredLevel": 47,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Elite",
       "width": 2,
       "height": 1,
@@ -14792,7 +14792,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "trang-oul's girth trang-oul's avatar troll belt utc cintos +75-100 defense +30 maximum stamina replenish life +5 +66 to life cannot be frozen requirements --40% +25-50 to mana cold resist +40%"
+      "search": "trang-oul's girth trang-oul's avatar troll belt utc belts +75-100 defense +30 maximum stamina replenish life +5 +66 to life cannot be frozen requirements --40% +25-50 to mana cold resist +40%"
     },
     {
       "id": 86,
@@ -14803,9 +14803,9 @@
       "level": 32,
       "requiredLevel": 49,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Body Armor",
+      "tier": "Exceptional",
       "width": 2,
       "height": 3,
       "image": "assets/items/invful.png",
@@ -14956,7 +14956,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "trang-oul's scales trang-oul's avatar chaos armor xul armaduras corporales requirements --40% +100 defense vs. missile poison resist +40% +2 to [class skill tab] skills (8) +40% faster run/walk +150% enhanced defense lightning resist +50% damage reduced by 25%"
+      "search": "trang-oul's scales trang-oul's avatar chaos armor xul body armor requirements --40% +100 defense vs. missile poison resist +40% +2 to [class skill tab] skills (8) +40% faster run/walk +150% enhanced defense lightning resist +50% damage reduced by 25%"
     },
     {
       "id": 87,
@@ -14967,9 +14967,9 @@
       "level": 32,
       "requiredLevel": 54,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cabezas de necromante",
-      "tier": "Excepcional",
+      "family": "Armor",
+      "subtype": "Necromancer Heads",
+      "tier": "Exceptional",
       "width": 2,
       "height": 2,
       "image": "assets/items/invne4.png",
@@ -15128,7 +15128,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "trang-oul's wing trang-oul's avatar cantor trophy ne9 cabezas de necromante +125 defense +25 to strength +15 to dexterity fire resist +38-45% 30% increased chance of blocking poison resist +40% +2 to [class skill tab] skills (7) -25% to enemy poison resistance replenish life +15"
+      "search": "trang-oul's wing trang-oul's avatar cantor trophy ne9 necromancer heads +125 defense +25 to strength +15 to dexterity fire resist +38-45% 30% increased chance of blocking poison resist +40% +2 to [class skill tab] skills (7) -25% to enemy poison resistance replenish life +15"
     },
     {
       "id": 85,
@@ -15139,8 +15139,8 @@
       "level": 32,
       "requiredLevel": 65,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Elite",
       "width": 2,
       "height": 2,
@@ -15267,7 +15267,7 @@
         }
       ],
       "hasVariableStats": true,
-      "search": "trang-oul's guise trang-oul's avatar bone visage uh9 cascos +80-100 defense +25% faster hit recovery attacker takes damage of 20 +150 to mana replenish life +5 "
+      "search": "trang-oul's guise trang-oul's avatar bone visage uh9 helms +80-100 defense +25% faster hit recovery attacker takes damage of 20 +150 to mana replenish life +5 "
     },
     {
       "id": 19,
@@ -15278,8 +15278,8 @@
       "level": 19,
       "requiredLevel": 14,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -15367,7 +15367,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "vidala's ambush vidala's rig leather armor lea armaduras corporales +50 defense +11 to dexterity fire resist +24% +# defense (based on character level) (20)"
+      "search": "vidala's ambush vidala's rig leather armor lea body armor +50 defense +11 to dexterity fire resist +24% +# defense (based on character level) (20)"
     },
     {
       "id": 17,
@@ -15378,8 +15378,8 @@
       "level": 19,
       "requiredLevel": 14,
       "rarity": 7,
-      "family": "Armas",
-      "subtype": "Arcos",
+      "family": "Weapons",
+      "subtype": "Bows",
       "tier": "Normal",
       "width": 2,
       "height": 4,
@@ -15459,7 +15459,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "vidala's barb vidala's rig long battle bow lbb arcos +1 to minimum lightning damage +20 to maximum lightning damage +# to attack rating (based on character level) (16)"
+      "search": "vidala's barb vidala's rig long battle bow lbb bows +1 to minimum lightning damage +20 to maximum lightning damage +# to attack rating (based on character level) (16)"
     },
     {
       "id": 18,
@@ -15470,8 +15470,8 @@
       "level": 19,
       "requiredLevel": 14,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -15551,7 +15551,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "vidala's fetlock vidala's rig light plated boots tbt botas +150 maximum stamina +30% faster run/walk all resistances +8"
+      "search": "vidala's fetlock vidala's rig light plated boots tbt boots +150 maximum stamina +30% faster run/walk all resistances +8"
     },
     {
       "id": 20,
@@ -15562,9 +15562,9 @@
       "level": 19,
       "requiredLevel": 14,
       "rarity": 7,
-      "family": "Joyeria",
-      "subtype": "Amuletos",
-      "tier": "Especial",
+      "family": "Jewelry",
+      "subtype": "Amulets",
+      "tier": "Special",
       "width": 1,
       "height": 1,
       "image": "assets/items/invamu.png",
@@ -15643,7 +15643,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "vidala's snare vidala's rig amulet amu amuletos +15 to life cold resist +20% 50% better chance of getting magic items"
+      "search": "vidala's snare vidala's rig amulet amu amulets +15 to life cold resist +20% 50% better chance of getting magic items"
     },
     {
       "id": 131,
@@ -15654,8 +15654,8 @@
       "level": 100,
       "requiredLevel": 1,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cintos",
+      "family": "Armor",
+      "subtype": "Belts",
       "tier": "Normal",
       "width": 2,
       "height": 1,
@@ -15743,7 +15743,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "warlord's authority warlord's glory plated belt hbl cintos lightning resist +20% +25 to life +# to attack rating (based on character level) (16)"
+      "search": "warlord's authority warlord's glory plated belt hbl belts lightning resist +20% +25 to life +# to attack rating (based on character level) (16)"
     },
     {
       "id": 127,
@@ -15754,8 +15754,8 @@
       "level": 100,
       "requiredLevel": 1,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Guantes",
+      "family": "Armor",
+      "subtype": "Gloves",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -15843,7 +15843,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "warlord's conquest warlord's glory gauntlets hgl guantes +15 to strength +45 to attack rating +20% increased attack speed"
+      "search": "warlord's conquest warlord's glory gauntlets hgl gloves +15 to strength +45 to attack rating +20% increased attack speed"
     },
     {
       "id": 130,
@@ -15854,8 +15854,8 @@
       "level": 100,
       "requiredLevel": 1,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Botas",
+      "family": "Armor",
+      "subtype": "Boots",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -15943,7 +15943,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "warlord's crushers warlord's glory greaves hbt botas +20% faster run/walk fire resist +20% 75% better chance of getting magic items"
+      "search": "warlord's crushers warlord's glory greaves hbt boots +20% faster run/walk fire resist +20% 75% better chance of getting magic items"
     },
     {
       "id": 128,
@@ -15954,8 +15954,8 @@
       "level": 100,
       "requiredLevel": 1,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Cascos",
+      "family": "Armor",
+      "subtype": "Helms",
       "tier": "Normal",
       "width": 2,
       "height": 2,
@@ -16051,7 +16051,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "warlord's lust warlord's glory great helm ghm cascos +30 to life +15 defense +# to attack rating (25) +# defense (based on character level) (16)"
+      "search": "warlord's lust warlord's glory great helm ghm helms +30 to life +15 defense +# to attack rating (25) +# defense (based on character level) (16)"
     },
     {
       "id": 129,
@@ -16062,8 +16062,8 @@
       "level": 100,
       "requiredLevel": 1,
       "rarity": 7,
-      "family": "Armaduras",
-      "subtype": "Armaduras corporales",
+      "family": "Armor",
+      "subtype": "Body Armor",
       "tier": "Normal",
       "width": 2,
       "height": 3,
@@ -16151,7 +16151,7 @@
         }
       ],
       "hasVariableStats": false,
-      "search": "warlord's mantle warlord's glory full plate mail ful armaduras corporales +25% enhanced defense cold resist +30% +20 to mana"
+      "search": "warlord's mantle warlord's glory full plate mail ful body armor +25% enhanced defense cold resist +30% +20 to mana"
     }
   ]
 }
