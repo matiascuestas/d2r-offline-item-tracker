@@ -35,6 +35,24 @@ const datasets = {
     lead: "Jewels found on your characters and stashes, grouped by name and exact stats.",
     payload: { items: [], source: "Local saves" },
   },
+  magicrare: {
+    label: "Magic & Rare",
+    ownedLabel: "magic & rare items",
+    lead: "Magic (blue), rare (yellow) and crafted gear found on your characters and stashes, grouped by name and exact stats. Rings and amulets have their own tabs.",
+    payload: { items: [], source: "Local saves" },
+  },
+  ring: {
+    label: "Rings",
+    ownedLabel: "rings",
+    lead: "Rings found on your characters and stashes — magic, rare, crafted, set and unique — grouped by name and exact stats.",
+    payload: { items: [], source: "Local saves" },
+  },
+  amulet: {
+    label: "Amulets",
+    ownedLabel: "amulets",
+    lead: "Amulets found on your characters and stashes — magic, rare, crafted, set and unique — grouped by name and exact stats.",
+    payload: { items: [], source: "Local saves" },
+  },
 };
 
 const els = {
@@ -54,9 +72,12 @@ const els = {
   charmType: document.querySelector("#charm-type-filter"),
   jewelTypeLabel: document.querySelector("#jewel-type-label"),
   jewelType: document.querySelector("#jewel-type-filter"),
+  magicTypeLabel: document.querySelector("#magic-type-label"),
+  magicType: document.querySelector("#magic-type-filter"),
   sort: document.querySelector("#sort-filter"),
   sortDirection: document.querySelector("#sort-direction"),
   variable: document.querySelector("#variable-filter"),
+  resetFilters: document.querySelector("#reset-filters"),
   refreshOwned: document.querySelector("#refresh-owned"),
   ownedStatus: document.querySelector("#owned-status"),
   ownedDetail: document.querySelector("#owned-detail"),
@@ -78,6 +99,7 @@ const state = {
   ownedFilter: "all",
   charmType: "all",
   jewelType: "all",
+  magicType: "all",
   sort: "requiredLevel",
   sortDirection: "asc",
   variableOnly: false,
@@ -120,7 +142,7 @@ function baseItems() {
 }
 
 function baseItemFor(item) {
-  if (!item || state.section === "base" || state.section === "charm" || state.section === "jewel") return null;
+  if (!item || ["base", "charm", "jewel", "magicrare", "ring", "amulet"].includes(state.section)) return null;
   return baseItems().find((base) => base.code === item.code || base.name === item.baseName) || null;
 }
 
@@ -135,6 +157,9 @@ function currentPayload() {
 function currentItems() {
   if (state.section === "charm") return ownedPayload?.charms || [];
   if (state.section === "jewel") return ownedPayload?.jewels || [];
+  if (state.section === "magicrare") return ownedPayload?.magicrare || [];
+  if (state.section === "ring") return ownedPayload?.rings || [];
+  if (state.section === "amulet") return ownedPayload?.amulets || [];
   return currentPayload().items || [];
 }
 
@@ -145,6 +170,9 @@ function currentOwnedItems() {
   if (state.section === "runeword") return ownedPayload.runewords || [];
   if (state.section === "charm") return ownedPayload.charms || [];
   if (state.section === "jewel") return ownedPayload.jewels || [];
+  if (state.section === "magicrare") return ownedPayload.magicrare || [];
+  if (state.section === "ring") return ownedPayload.rings || [];
+  if (state.section === "amulet") return ownedPayload.amulets || [];
   return ownedPayload.uniques || ownedPayload.items || [];
 }
 
@@ -155,6 +183,9 @@ function currentOwnedTotal() {
   if (state.section === "runeword") return ownedPayload.totalRunewords || 0;
   if (state.section === "charm") return ownedPayload.totalCharms || 0;
   if (state.section === "jewel") return ownedPayload.totalJewels || 0;
+  if (state.section === "magicrare") return ownedPayload.totalMagicRare || 0;
+  if (state.section === "ring") return ownedPayload.totalRings || 0;
+  if (state.section === "amulet") return ownedPayload.totalAmulets || 0;
   return ownedPayload.totalUniques || 0;
 }
 
@@ -246,6 +277,16 @@ function externalImageCandidates(name) {
     `https://diablo2.io/styles/zulu/theme/images/items/${slug}_icon.png`,
     `https://diablo2.io/styles/zulu/theme/images/items/${slug}_graphic.png`,
   ];
+}
+
+const genericImageByCode = {
+  rin: "https://diablo2.io/styles/zulu/theme/images/items/ring1_graphic.png",
+  amu: "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+};
+
+function genericImageCandidates(item) {
+  const url = genericImageByCode[item.code];
+  return url ? [url] : [];
 }
 
 const runeImageNames = {
@@ -395,6 +436,7 @@ function renderCard(item) {
     ...localImageCandidates(baseItem?.invfile),
     ...baseOverrides,
     ...(baseItem ? externalImageCandidates(baseItem.name) : []),
+    ...genericImageCandidates(item),
   ];
   let imageIndex = 0;
   img.src = imageCandidates[imageIndex];
@@ -425,9 +467,14 @@ function renderCard(item) {
   }
   title.textContent = displayName;
 
+  const titleColorClass = { Magic: "title--magic", Rare: "title--rare", Crafted: "title--crafted", Unique: "title--unique", Set: "title--set" };
+  if (titleColorClass[item.tier]) title.classList.add(titleColorClass[item.tier]);
+
+  const tierBadgeClass = { Magic: "badge--magic", Rare: "badge--rare", Crafted: "badge--crafted", Unique: "badge--unique", Set: "badge--set" };
   [item.setName, item.family, item.subtype, item.tier, `qlvl ${item.level ?? "?"}`, `req ${item.requiredLevel ?? "-"}`].filter(Boolean).forEach((text) => {
     const badge = document.createElement("span");
     badge.className = "badge";
+    if (text === item.tier && tierBadgeClass[item.tier]) badge.classList.add(tierBadgeClass[item.tier]);
     badge.textContent = text;
     badges.append(badge);
   });
@@ -637,6 +684,7 @@ function filteredItems() {
       if (state.jewelType === "unique" && item.tier !== "Unique") return false;
       if (state.jewelType === "jewel" && item.code !== "jew") return false;
     }
+    if (["magicrare", "ring", "amulet", "jewel"].includes(state.section) && state.magicType !== "all" && item.tier !== state.magicType) return false;
     if (state.family !== "all" && item.family !== state.family) return false;
     if (state.subtype !== "all" && item.subtype !== state.subtype) return false;
     if (state.tier !== "all" && item.tier !== state.tier) return false;
@@ -693,6 +741,23 @@ function render() {
   els.grid.append(fragment);
 }
 
+function resetFilters() {
+  state.search = "";
+  state.family = "all";
+  state.subtype = "all";
+  state.tier = "all";
+  state.property = "all";
+  state.ownedFilter = "all";
+  state.charmType = "all";
+  state.jewelType = "all";
+  state.magicType = "all";
+  state.variableOnly = false;
+  els.search.value = "";
+  els.variable.checked = false;
+  updateControls();
+  render();
+}
+
 function bindEvents() {
   els.tabs.forEach((tab) => {
     tab.addEventListener("click", () => {
@@ -703,6 +768,7 @@ function bindEvents() {
       state.property = "all";
       state.charmType = "all";
       state.jewelType = "all";
+      state.magicType = "all";
       if (state.section === "charm") state.ownedFilter = "all";
       els.ownedDetail.hidden = true;
       els.tabs.forEach((button) => button.classList.toggle("section-tab--active", button === tab));
@@ -749,6 +815,10 @@ function bindEvents() {
     state.jewelType = event.target.value;
     render();
   });
+  els.magicType.addEventListener("change", (event) => {
+    state.magicType = event.target.value;
+    render();
+  });
   els.sort.addEventListener("change", (event) => {
     state.sort = event.target.value;
     render();
@@ -761,6 +831,7 @@ function bindEvents() {
     state.variableOnly = event.target.checked;
     render();
   });
+  els.resetFilters.addEventListener("click", resetFilters);
   els.refreshOwned.addEventListener("click", refreshOwned);
   els.ownedClose.addEventListener("click", () => {
     els.ownedDetail.hidden = true;
@@ -783,6 +854,9 @@ function updateControls() {
   if (state.section === "charm" && !ownedPayload) {
     els.ownedStatus.textContent = "Use Refresh saves to load your charms.";
   }
+  if (["jewel", "magicrare", "ring", "amulet"].includes(state.section) && !ownedPayload) {
+    els.ownedStatus.textContent = "Use Refresh saves to load your items.";
+  }
   els.family.value = "all";
   els.subtype.value = "all";
   els.tier.value = "all";
@@ -792,6 +866,8 @@ function updateControls() {
   els.charmTypeLabel.hidden = state.section !== "charm";
   els.jewelType.value = state.jewelType;
   els.jewelTypeLabel.hidden = state.section !== "jewel";
+  els.magicType.value = state.magicType;
+  els.magicTypeLabel.hidden = !["magicrare", "ring", "amulet", "jewel"].includes(state.section);
   els.sort.value = state.sort;
   els.sortDirection.value = state.sortDirection;
   fillSelect(els.family, "All", uniqueValues("family"));

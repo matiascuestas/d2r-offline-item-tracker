@@ -23,8 +23,10 @@ const variableStatsBySet = buildVariableStatsByRows(setRows, "index", "prop", "m
 const variableStatsByRuneword = buildVariableStatsByRows(runewordRows, "*Rune Name", "T1Code", "T1Min", "T1Max");
 const baseNameByCode = new Map(baseRows.map((item) => [item.code, item.name]));
 const baseFamilyByCode = new Map(baseRows.map((item) => [item.code, item.family]));
+const baseSubtypeByCode = new Map(baseRows.map((item) => [item.code, item.subtype]));
 const charmCodes = new Set(["cm1", "cm2", "cm3"]);
 const jewelCodes = new Set(["jew", "jewl", "cjwl"]);
+const magicRareTiers = new Map([[4, "Magic"], [6, "Rare"], [8, "Crafted"]]);
 
 const types = {
   ".html": "text/html; charset=utf-8",
@@ -303,7 +305,7 @@ function collectCharm(map, item, character, source, customLocation) {
     source,
     location: customLocation || locationFor(item, source),
     baseName,
-    quality: item.unique_name ? "Unique" : "Magic",
+    quality: item.unique_name ? "Unique" : (magicRareTiers.get(item.quality) || "Magic"),
     ethereal: false,
     sockets: 0,
     defense: null,
@@ -352,7 +354,7 @@ function collectJewel(map, item, character, source, customLocation) {
       requiredLevel: item.required_level || 0,
       family: "Jewels",
       subtype: baseName,
-      tier: item.unique_name ? "Unique" : "Magic",
+      tier: item.unique_name ? "Unique" : (magicRareTiers.get(item.quality) || "Magic"),
       width: itemRows[item.type]?.invwidth || 1,
       height: itemRows[item.type]?.invheight || 1,
       image: `assets/items/${invfile}.png`,
@@ -376,13 +378,123 @@ function collectJewel(map, item, character, source, customLocation) {
     source,
     location: customLocation || locationFor(item, source),
     baseName,
-    quality: item.unique_name ? "Unique" : "Magic",
+    quality: item.unique_name ? "Unique" : (magicRareTiers.get(item.quality) || "Magic"),
     ethereal: false,
     sockets: 0,
     defense: null,
     variableAttributes: attributes,
     socketedItems: [],
   });
+}
+
+function isMagicRareItem(item) {
+  if (!item) return false;
+  if (!magicRareTiers.has(item.quality)) return false;
+  if (charmCodes.has(item.type) || jewelCodes.has(item.type)) return false;
+  if (item.is_ear) return false;
+  if (item.unique_name || item.set_name || item.runeword_name || item.given_runeword) return false;
+  return true;
+}
+
+function ringAmuletKind(item) {
+  if (!item || item.is_ear || item.runeword_name || item.given_runeword) return null;
+  const categories = item.categories || [];
+  if (categories.includes("Ring")) return "ring";
+  if (categories.includes("Amulet")) return "amulet";
+  const kind = itemRows[item.type]?.type;
+  if (kind === "ring") return "ring";
+  if (kind === "amul") return "amulet";
+  return null;
+}
+
+function qualityTier(item) {
+  if (item.unique_name) return "Unique";
+  if (item.set_name) return "Set";
+  return magicRareTiers.get(item.quality) || null;
+}
+
+function magicRareFamily(item) {
+  if (baseFamilyByCode.has(item.type)) return baseFamilyByCode.get(item.type);
+  const categories = item.categories || [];
+  if (categories.includes("Any Armor")) return "Armor";
+  if (categories.includes("Weapon")) return "Weapons";
+  if (categories.includes("Ring") || categories.includes("Amulet")) return "Jewelry";
+  const kind = itemRows[item.type]?.type;
+  if (kind === "ring" || kind === "amul") return "Jewelry";
+  return "Other";
+}
+
+function qualityGroupKey(item, tier, attributes) {
+  const statKey = attributes.map((attribute) => attribute.text).sort((a, b) => a.localeCompare(b)).join("|");
+  return `${readableItemName(item)}|${item.type}|${tier}|${statKey}`;
+}
+
+function addQualityEntry(map, item, character, source, customLocation, tier, family, subtype, groupByName) {
+  const attributes = itemAttributesFor(item);
+  const key = groupByName ? `${readableItemName(item)}|${item.type}|${tier}` : qualityGroupKey(item, tier, attributes);
+  const displayName = readableItemName(item);
+  const baseName = item.type_name || itemRows[item.type]?.name || item.type;
+
+  if (!map.has(key)) {
+    const invfile = itemRows[item.type]?.invfile || item.type;
+    map.set(key, {
+      name: key,
+      displayName,
+      count: 0,
+      locations: [],
+      baseName,
+      code: item.type,
+      level: item.level || null,
+      requiredLevel: item.required_level || 0,
+      family,
+      subtype,
+      tier,
+      width: itemRows[item.type]?.invwidth || 1,
+      height: itemRows[item.type]?.invheight || 1,
+      image: `assets/items/${invfile}.png`,
+      invfile,
+      baseStats: {},
+      properties: attributes.map((attribute) => ({ text: attribute.text, variable: false })),
+      setBonuses: [],
+      fullSetBonuses: [],
+      hasVariableStats: false,
+      search: `${displayName} ${baseName} ${family} ${subtype} ${tier} ${attributes.map((attribute) => attribute.text).join(" ")}`.toLowerCase(),
+    });
+  }
+
+  const entry = map.get(key);
+  entry.count += 1;
+  entry.locations.push({
+    character: character.name,
+    class: character.class,
+    level: character.level,
+    file: character.file,
+    source,
+    location: customLocation || locationFor(item, source),
+    baseName,
+    quality: tier,
+    ethereal: Boolean(item.ethereal),
+    sockets: item.total_nr_of_sockets || 0,
+    defense: item.defense_rating || null,
+    variableAttributes: attributes,
+    socketedItems: socketedItemsFor(item),
+  });
+}
+
+function collectMagicRare(owned, item, character, source, customLocation) {
+  const kind = ringAmuletKind(item);
+  if (kind) {
+    const tier = qualityTier(item);
+    if (!tier) return;
+    const groupByName = tier === "Unique" || tier === "Set" || tier === "Magic";
+    if (kind === "ring") addQualityEntry(owned.rings, item, character, source, customLocation, tier, "Rings", "Ring", groupByName);
+    else addQualityEntry(owned.amulets, item, character, source, customLocation, tier, "Amulets", "Amulet", groupByName);
+    return;
+  }
+  if (!isMagicRareItem(item)) return;
+  const baseName = item.type_name || itemRows[item.type]?.name || item.type;
+  const subtype = baseSubtypeByCode.get(item.type) || (item.categories || [])[0] || baseName;
+  addQualityEntry(owned.magicrare, item, character, source, customLocation, magicRareTiers.get(item.quality), magicRareFamily(item), subtype);
 }
 
 function collectOwned(map, item, character, source, customLocation, kind) {
@@ -422,6 +534,7 @@ function collectItem(owned, item, character, source, customLocation) {
   collectOwned(owned.runewords, item, character, source, customLocation, "runeword");
   collectCharm(owned.charms, item, character, source, customLocation);
   collectJewel(owned.jewels, item, character, source, customLocation);
+  collectMagicRare(owned, item, character, source, customLocation);
   if (isPlainBase(item)) collectOwned(owned.bases, item, character, source, customLocation, "base");
 }
 
@@ -436,6 +549,9 @@ async function readOwnedUniques() {
     runewords: new Map(),
     charms: new Map(),
     jewels: new Map(),
+    magicrare: new Map(),
+    rings: new Map(),
+    amulets: new Map(),
   };
   const errors = [];
 
@@ -491,18 +607,27 @@ async function readOwnedUniques() {
     runewordKinds: owned.runewords.size,
     charmKinds: owned.charms.size,
     jewelKinds: owned.jewels.size,
+    magicRareKinds: owned.magicrare.size,
+    ringKinds: owned.rings.size,
+    amuletKinds: owned.amulets.size,
     totalUniques: [...owned.uniques.values()].reduce((sum, item) => sum + item.count, 0),
     totalSets: [...owned.sets.values()].reduce((sum, item) => sum + item.count, 0),
     totalBases: [...owned.bases.values()].reduce((sum, item) => sum + item.count, 0),
     totalRunewords: [...owned.runewords.values()].reduce((sum, item) => sum + item.count, 0),
     totalCharms: [...owned.charms.values()].reduce((sum, item) => sum + item.count, 0),
     totalJewels: [...owned.jewels.values()].reduce((sum, item) => sum + item.count, 0),
+    totalMagicRare: [...owned.magicrare.values()].reduce((sum, item) => sum + item.count, 0),
+    totalRings: [...owned.rings.values()].reduce((sum, item) => sum + item.count, 0),
+    totalAmulets: [...owned.amulets.values()].reduce((sum, item) => sum + item.count, 0),
     uniques: [...owned.uniques.values()].sort((a, b) => a.name.localeCompare(b.name)),
     sets: [...owned.sets.values()].sort((a, b) => a.name.localeCompare(b.name)),
     bases: [...owned.bases.values()].sort((a, b) => a.name.localeCompare(b.name)),
     runewords: [...owned.runewords.values()].sort((a, b) => a.name.localeCompare(b.name)),
     charms: [...owned.charms.values()].sort((a, b) => a.subtype.localeCompare(b.subtype) || a.displayName.localeCompare(b.displayName)),
     jewels: [...owned.jewels.values()].sort((a, b) => a.subtype.localeCompare(b.subtype) || a.displayName.localeCompare(b.displayName)),
+    magicrare: [...owned.magicrare.values()].sort((a, b) => a.family.localeCompare(b.family) || a.subtype.localeCompare(b.subtype) || a.displayName.localeCompare(b.displayName)),
+    rings: [...owned.rings.values()].sort((a, b) => a.tier.localeCompare(b.tier) || a.displayName.localeCompare(b.displayName)),
+    amulets: [...owned.amulets.values()].sort((a, b) => a.tier.localeCompare(b.tier) || a.displayName.localeCompare(b.displayName)),
     items: [...owned.uniques.values()].sort((a, b) => a.name.localeCompare(b.name)),
     errors,
   };

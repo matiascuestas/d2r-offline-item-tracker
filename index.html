@@ -27,7 +27,9 @@
         <button class="section-tab" type="button" data-section="runeword">Runewords</button>
         <button class="section-tab" type="button" data-section="charm">Charms</button>
         <button class="section-tab" type="button" data-section="jewel">Jewels</button>
-        <button class="section-tab" type="button" disabled>Magic & Rare</button>
+        <button class="section-tab" type="button" data-section="magicrare">Magic & Rare</button>
+        <button class="section-tab" type="button" data-section="ring">Rings</button>
+        <button class="section-tab" type="button" data-section="amulet">Amulets</button>
       </nav>
 
       <section class="toolbar" aria-label="Item filters">
@@ -88,6 +90,18 @@
             </select>
           </label>
 
+          <label id="magic-type-label" hidden>
+            <span>Quality</span>
+            <select id="magic-type-filter">
+              <option value="all">All</option>
+              <option value="Magic">Magic (blue)</option>
+              <option value="Rare">Rare (yellow)</option>
+              <option value="Crafted">Crafted</option>
+              <option value="Set">Set (green)</option>
+              <option value="Unique">Unique (gold)</option>
+            </select>
+          </label>
+
           <label>
             <span>Sort</span>
             <select id="sort-filter">
@@ -110,6 +124,8 @@
             <input id="variable-filter" type="checkbox" />
             <span>Variable rolls only</span>
           </label>
+
+          <button id="reset-filters" class="reset-button" type="button">Reset filters</button>
 
           <button id="refresh-owned" class="refresh-button" type="button">Refresh saves</button>
         </div>

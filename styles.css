@@ -182,6 +182,10 @@ main {
   letter-spacing: 0.08em;
 }
 
+.toolbar label[hidden] {
+  display: none;
+}
+
 .toolbar input,
 .toolbar select {
   width: 100%;
@@ -227,6 +231,22 @@ main {
 .refresh-button:disabled {
   opacity: 0.65;
   cursor: wait;
+}
+
+.reset-button {
+  align-self: end;
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+  color: var(--text);
+  padding: 0.82rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.reset-button:hover {
+  border-color: var(--gold);
+  color: var(--gold-2);
 }
 
 .summary {
@@ -356,6 +376,26 @@ main {
   font: 700 1.3rem/1.12 Georgia, Times New Roman, serif;
 }
 
+.item-card h2.title--magic {
+  color: var(--blue);
+}
+
+.item-card h2.title--rare {
+  color: #f0e082;
+}
+
+.item-card h2.title--set {
+  color: var(--green);
+}
+
+.item-card h2.title--crafted {
+  color: #e6aa6e;
+}
+
+.item-card h2.title--unique {
+  color: var(--gold-2);
+}
+
 .badges {
   display: flex;
   flex-wrap: wrap;
@@ -380,6 +420,36 @@ main {
   border-color: rgba(240, 207, 118, 0.65);
   color: var(--gold-2);
   background: rgba(199, 163, 85, 0.12);
+}
+
+.badge--magic {
+  border-color: rgba(120, 150, 255, 0.55);
+  color: #8ea2ff;
+  background: rgba(120, 150, 255, 0.1);
+}
+
+.badge--rare {
+  border-color: rgba(240, 224, 130, 0.6);
+  color: #f0e082;
+  background: rgba(240, 224, 130, 0.1);
+}
+
+.badge--crafted {
+  border-color: rgba(230, 170, 110, 0.6);
+  color: #e6aa6e;
+  background: rgba(230, 170, 110, 0.1);
+}
+
+.badge--unique {
+  border-color: rgba(199, 179, 119, 0.6);
+  color: #c7b377;
+  background: rgba(199, 179, 119, 0.1);
+}
+
+.badge--set {
+  border-color: rgba(0, 200, 0, 0.45);
+  color: #4fd14f;
+  background: rgba(0, 200, 0, 0.1);
 }
 
 .item-card--owned {
@@ -641,7 +711,8 @@ main {
 
   .search,
   .check,
-  .refresh-button {
+  .refresh-button,
+  .reset-button {
     grid-column: 1 / -1;
   }
 }
